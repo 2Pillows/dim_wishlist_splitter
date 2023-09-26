@@ -1,5 +1,8 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, and 2bithacker for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+@title:Season 22 Playlist weapons
+@description:Season of the Witch Playlist weapons wfrom CXrucile, Vanguard, Gambit, Iron Banner and Trials of Osiris
 
 title:Pandapaxxy's Season 22 Vendor Breakdown
 description:https://www.reddit.com/r/sharditkeepit/comments/16b037h/season_22_vendor_breakdown/
@@ -1070,6 +1073,12 @@ dimwishlist:item=120706239&perks=1482024992,3523296417,11612903
 
 @title:Season 22 weapons
 @description:Season of the Witch weapons with the Head Rush origin trait
+
+title:Legoleflash Season 22 Weapon Reviews. Pulled from his youtube channel and discord server.
+description:Legoleflash's season 22 weapon rolls for pvp and pve
+
+title:Legoleflash Season 20 + Lightfall Weapon Reviews. Pulled from his youtube channel and discord server.
+description:Legoleflash's season 20 weapon rolls for pvp and pve
 
 title:u/pandapaxxy's Season 21, Season Of Deep
 description:Originally found here https://www.reddit.com/r/sharditkeepit/comments/145hckm/season_21_weapon_breakdown/
