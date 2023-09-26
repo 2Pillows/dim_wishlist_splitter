@@ -1,7 +1,7 @@
 name: update_wishlists
 on: push
 jobs:
-  update-repo:
+  update_wishlists:
     runs-on: ubuntu-latest
 
     steps:
