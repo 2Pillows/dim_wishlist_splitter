@@ -37,7 +37,7 @@ const fs = require("fs");
 
     // Save the result keys to a text file
     fs.writeFileSync(
-      "./wishlist_splitter/data/origin_traits/origin_traits.txt",
+      "origin_traits.txt",
       JSON.stringify(resultKeys, null, 2),
       "utf-8"
     );
