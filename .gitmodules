@@ -1,0 +1,6 @@
+[submodule "src/wishlist_splitter/data/dim-wish-list-sources"]
+	path = src/wishlist_splitter/data/dim-wish-list-sources
+	url = https://github.com/48klocs/dim-wish-list-sources
+[submodule "wishlist_splitter/data/dim-wish-list-sources"]
+	path = wishlist_splitter/data/dim-wish-list-sources
+	url = https://github.com/48klocs/dim-wish-list-sources

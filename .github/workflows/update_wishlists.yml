@@ -1,0 +1,45 @@
+name: update_wishlists
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main, including submodule
+        uses: actions/checkout@v2
+        with:
+          submodules: "recursive"
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git config --global user.name "${{ secrets.NAME }}"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18
+
+      - name: Install Node.js Dependencies
+        run: |
+          cd wishlist_splitter/data/origin_traits
+          npm install
+          cd ../../..
+
+      - name: Run JavaScript Script
+        run: |
+          cd wishlist_splitter/data/origin_traits
+          node generate_origin_traits.js
+          cd ../../..
+
+      - name: Run Python script
+        run: |
+          python3 wishlist_splitter/main.py
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Update alongside dim-wish-list-sources by 48klocs" || echo "No changes to commit"
+          git push origin main

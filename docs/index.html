@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wishlist URLs</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Dim Wishlist Splitter URLs</h1>
+      <p>Click any Wishlist URL to copy to clipboard</p>
+      <p>Paste into DIM Wish List to import</p>
+      <p>
+        Go to the
+        <a
+          href="https://github.com/2Pillows/dim-wish-list-splitter/tree/main/wishlists"
+          target="_blank"
+          >Github</a
+        >
+        if you want to manually copy
+      </p>
+    </header>
+
+    <nav>
+      <section class="menu-item">
+        <div class="section-header">
+          <span>Input Type</span>
+        </div>
+        <div id="input-checkboxes">
+          <!-- Checkboxes will be added here dynamically -->
+        </div>
+      </section>
+
+      <section class="menu-item">
+        <div class="section-header">
+          <span>Gamemode</span>
+        </div>
+        <div id="gamemode-checkboxes">
+          <!-- Checkboxes will be added here dynamically -->
+        </div>
+      </section>
+
+      <section class="menu-item">
+        <div class="section-header">
+          <span>Author</span>
+        </div>
+        <div id="author-checkboxes">
+          <!-- Checkboxes will be added here dynamically -->
+        </div>
+      </section>
+
+      <section class="menu-item">
+        <div class="section-header">
+          <span>Misc</span>
+        </div>
+        <div id="misc-checkboxes">
+          <!-- Checkboxes will be added here dynamically -->
+        </div>
+      </section>
+    </nav>
+
+    <section>
+      <h2>Wishlist URLs</h2>
+      <ul id="urls-list">
+        <!-- URLs will be added here dynamically -->
+      </ul>
+    </section>
+
+    <script src="script.js"></script>
+
+    <!-- Custom alert HTML structure -->
+    <div class="custom-alert">
+      <div class="custom-alert-content">
+        <span class="close-btn" onclick="closeCustomAlert()">&times;</span>
+        <p id="alert-message"></p>
+        <button onclick="closeCustomAlert()">OK</button>
+      </div>
+    </div>
+  </body>
+</html>

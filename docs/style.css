@@ -1,0 +1,120 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header Section */
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1rem;
+    margin: 5px 0;
+}
+
+/* Navigation Section */
+nav {
+    padding: 0px;
+    margin-top: 5px;
+    text-align: center;
+    
+}
+
+.menu-item {
+    display: inline-block; 
+    margin-left: 50px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.section-header {
+    font-size: 1rem;
+    font-weight: bold; 
+    margin-bottom: 5px;
+    
+}
+
+/* Checkbox Styles */
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+/* Wishlist URLs Section */
+section {
+    padding: 0px;
+    margin-top: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-37%);
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+li::before {
+    content: " - ";
+}
+
+
+/* Custom Alert Section */
+.custom-alert {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-alert-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+/* Style for the text content when hovering */
+li span:hover {
+    background-color: #d1e1ff; /* Change to your desired highlight color */
+    cursor: pointer;
+}
