@@ -14,22 +14,22 @@ def get_wishlist_config(
     #   Destination Path - Location and Name for Wishlist
     wishlist_configs = [
         # No Filters
-        {PATH_KEY: "wishlists/all.txt"},
+        {PATH_KEY: "./wishlists/all.txt"},
         # -------------------------------------------
         # gamemode filters
-        {INC_TAG_KEY: ["pve"], PATH_KEY: "wishlists/pve.txt"},
-        {INC_TAG_KEY: ["pvp"], PATH_KEY: "wishlists/pvp.txt"},
+        {INC_TAG_KEY: ["pve"], PATH_KEY: "./wishlists/pve.txt"},
+        {INC_TAG_KEY: ["pvp"], PATH_KEY: "./wishlists/pvp.txt"},
         # -------------------------------------------
         # input filters
-        {INC_TAG_KEY: ["mkb"], PATH_KEY: "wishlists/mkb.txt"},
-        {INC_TAG_KEY: ["controller"], PATH_KEY: "wishlists/ctr.txt"},
+        {INC_TAG_KEY: ["mkb"], PATH_KEY: "./wishlists/mkb.txt"},
+        {INC_TAG_KEY: ["controller"], PATH_KEY: "./wishlists/ctr.txt"},
         # -------------------------------------------
         # input filters | 3rd and 4th columns
-        {INC_TAG_KEY: ["mkb"], PERK_KEY: True, PATH_KEY: "wishlists/mkb_perks.txt"},
+        {INC_TAG_KEY: ["mkb"], PERK_KEY: True, PATH_KEY: "./wishlists/mkb_perks.txt"},
         {
             INC_TAG_KEY: ["controller"],
             PERK_KEY: True,
-            PATH_KEY: "wishlists/ctr_perks.txt",
+            PATH_KEY: "./wishlists/ctr_perks.txt",
         },
         # -------------------------------------------
         # input filters | 3rd and 4th columns | at least 2 dupes
@@ -37,81 +37,81 @@ def get_wishlist_config(
             INC_TAG_KEY: ["mkb"],
             PERK_KEY: True,
             DUPE_PERKS_KEY: True,
-            PATH_KEY: "wishlists/mkb_perks_dupes.txt",
+            PATH_KEY: "./wishlists/mkb_perks_dupes.txt",
         },
         {
             INC_TAG_KEY: ["controller"],
             PERK_KEY: True,
             DUPE_PERKS_KEY: True,
-            PATH_KEY: "wishlists/ctr_perks_dupes.txt",
+            PATH_KEY: "./wishlists/ctr_perks_dupes.txt",
         },
         # -------------------------------------------
         # input_gamdemode filters
-        {INC_TAG_KEY: ["mkb", "pve"], PATH_KEY: "wishlists/mkb_pve.txt"},
-        {INC_TAG_KEY: ["mkb", "pvp"], PATH_KEY: "wishlists/mkb_pvp.txt"},
-        {INC_TAG_KEY: ["controller", "pve"], PATH_KEY: "wishlists/ctr_pve.txt"},
-        {INC_TAG_KEY: ["controller", "pvp"], PATH_KEY: "wishlists/ctr_pvp.txt"},
+        {INC_TAG_KEY: ["mkb", "pve"], PATH_KEY: "./wishlists/mkb_pve.txt"},
+        {INC_TAG_KEY: ["mkb", "pvp"], PATH_KEY: "./wishlists/mkb_pvp.txt"},
+        {INC_TAG_KEY: ["controller", "pve"], PATH_KEY: "./wishlists/ctr_pve.txt"},
+        {INC_TAG_KEY: ["controller", "pvp"], PATH_KEY: "./wishlists/ctr_pvp.txt"},
         # -------------------------------------------
         # pandapaxxy filters
-        {AUTHOR_KEY: ["pandapaxxy"], PATH_KEY: "wishlists/panda.txt"},
+        {AUTHOR_KEY: ["pandapaxxy"], PATH_KEY: "./wishlists/panda.txt"},
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["mkb"],
-            PATH_KEY: "wishlists/mkb_panda.txt",
+            PATH_KEY: "./wishlists/mkb_panda.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["mkb", "pve"],
-            PATH_KEY: "wishlists/mkb_panda_pve.txt",
+            PATH_KEY: "./wishlists/mkb_panda_pve.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["mkb", "pvp"],
-            PATH_KEY: "wishlists/mkb_panda_pvp.txt",
+            PATH_KEY: "./wishlists/mkb_panda_pvp.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["controller"],
-            PATH_KEY: "wishlists/ctr_panda.txt",
+            PATH_KEY: "./wishlists/ctr_panda.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["controller", "pve"],
-            PATH_KEY: "wishlists/ctr_panda_pve.txt",
+            PATH_KEY: "./wishlists/ctr_panda_pve.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["controller", "pvp"],
-            PATH_KEY: "wishlists/ctr_panda_pvp.txt",
+            PATH_KEY: "./wishlists/ctr_panda_pvp.txt",
         },
         {
             AUTHOR_KEY: ["pandapaxxy"],
             INC_TAG_KEY: ["mkb"],
             PERK_KEY: True,
-            PATH_KEY: "wishlists/mkb_panda_perks.txt",
+            PATH_KEY: "./wishlists/mkb_panda_perks.txt",
         },
         # -------------------------------------------
         # god filters
-        {INC_TAG_KEY: ["mkb", "god"], PATH_KEY: "wishlists/mkb_god.txt"},
+        {INC_TAG_KEY: ["mkb", "god"], PATH_KEY: "./wishlists/mkb_god.txt"},
         # -------------------------------------------
         # exclude backup rolls - input filters
         {
             INC_TAG_KEY: ["mkb"],
             EXC_TAG_KEY: ["backup"],
-            PATH_KEY: "wishlists/mkb_!backup.txt",
+            PATH_KEY: "./wishlists/mkb_!backup.txt",
         },
         {
             INC_TAG_KEY: ["mkb"],
             EXC_TAG_KEY: ["backup"],
             PERK_KEY: True,
-            PATH_KEY: "wishlists/mkb_!backup_perks.txt",
+            PATH_KEY: "./wishlists/mkb_!backup_perks.txt",
         },
         {
             INC_TAG_KEY: ["mkb"],
             EXC_TAG_KEY: ["backup"],
             PERK_KEY: True,
             DUPE_PERKS_KEY: True,
-            PATH_KEY: "wishlists/mkb_!backup_perks_dupes.txt",
+            PATH_KEY: "./wishlists/mkb_!backup_perks_dupes.txt",
         },
     ]
 

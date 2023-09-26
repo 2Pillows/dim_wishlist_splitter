@@ -1,0 +1,437 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, and 2bithacker for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+title:Pandapaxxy's Season 22 Vendor Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/16b037h/season_22_vendor_breakdown/
+
+title:pandapaxxy's Season 22 World Drop Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/16b03ta/season_22_world_drop_breakdown/
+
+title:pandapaxxy Season 22 Seasonal Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/16b04lz/season_22_seasonal_breakdown/
+
+title:Pandapaxxy's Season 22 Crota's End Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/16b01e2/season_22_crotas_end_breakdown/
+
+@title:Season 22 weapons
+@description:Season of the Witch weapons with the Head Rush origin trait
+
+title:u/pandapaxxy's Season 21, Season Of Deep
+description:Originally found here https://www.reddit.com/r/sharditkeepit/comments/145hckm/season_21_weapon_breakdown/
+
+@title:Season 21 Ghost of the Deep Dungeon weapons
+@description:Ghost of the Deep Dungeon weapons with the Restoration Ritual origin trait
+
+@title:Season 21 Taken and reprised Reckoning weapons
+@description:Season of the Deep weapons with Unsated Hunger or Disaster Plan origin trait
+
+@title:Season 21 Last Wish weapons
+@description:The Giggity episode, presenting reprised Last Wish raid weapons with the Explosive Pact origin trait
+
+@title:Season 21 Solstice weapons
+@description:Season of the Deep new and reprised Solstice weapons with the Dream Work origin trait
+
+@title:Season 21 Nightfall and Trials of Osiris weapons
+@description:Season of the Deep new and reprised Vanguard and Crucible end-game weapons
+
+// originally found at https://gist.github.com/heckinn/a0becf75fae81cfa5f845468191d3ed8
+title:Speedrunner's Shopping List
+description:https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit#gid=0
+
+title:RNGeez S20 Guardian Games Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/135o1ti/guardian_games_rngeez_weapon_breakdown/
+
+@title:Season 20 Guardian Games weapons
+@description:Lightfall Guardian Games weapons with Classy Contender origin trait
+
+@title:Season 20 Guardian Games weapons
+@description:Lightfall Guardian Games weapons with Classy Contender origin trait
+
+title:u/pandapaxxy's Season 20, Lightfall And Season Of Defiance
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/12kyvei/lightfall_seasonal_breakdown/
+
+@title:Root of Nightmares weapons
+@description:Raid weapons with the Harmonic Resonance origin trait
+
+title:TheAlpacalypse's Raid Rolls
+
+@title:Season of Defiance Devrim Kay VIII and Foundry weapons
+@description:Season 20 new and reprised weapons with the Field Tested or Foundry origin trait
+
+@title:Season of Defiance weapons
+@description:Season 20 weapons wit the Noble Deeds origin trait
+
+title:Datto's Defiance Weapon Rolls
+description:Rolls from https://www.youtube.com/watch?v=nEVp6Fz0lTk
+
+@title:Season 20 Neomuna weapons
+@description:Lightfall weapons with the Nanotech Tracer Rockets origin trait
+
+@title:Season 19 Foundry weapons
+@description:New world drop weapons from weapon foundries
+
+title:Datto's early thoughts on lightfall weapons.
+description:Original video at https://www.youtube.com/watch?v=JlV7QZ5P0Mk
+
+title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
+
+title:u/pandapaxxy's Season 19, World Drops Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
+
+title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
+
+title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
+
+title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
+
+title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
+
+title:u/pandapaxxy's Season 19, Faction Weapons M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
+
+title:u/pandapaxxy's Season 19, Faction Weapons Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
+
+title:u/pandapaxxy's Season 19, Dawning M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+@title:Season 19 Dawning weapons
+@description:New Seraph weapons with the Ambush origin perk and new and reprised IKELOS weapons with the Rasputin's Arsenal origin perk
+
+title:Season 19 Dawning weapons
+description:New and reprised Dawning weapons with the Dawning Surprise origin perk
+
+title:WarlockMaggie's Season 19, Dawning Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:SirStallion's Season 19, Dawning Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+@title:Season 18 Festival of the Lost weapons
+@description:Reprised weapons dropping from Festival of the Lost with Scouting Party Origin Trait
+
+title:YeezyGT's S18
+
+@title:Season 18 (Season of Plunder) Festival of the Lost reprised, and 30th Anniversary primary and power weapons with @ImpetusAlways
+@description:Festival of the Lost reprised weapons with the Search Party Origin trait, and primary and power weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
+
+title: WarlockMaggie's Festival of the Lost 2022 picks
+description: Rolls for updated and new weapons in Festival of the Lost 2022 (Season 18)
+
+title:Season 15 (Season of the Lost) 30th Anniversary speacial weapons with @Saint_Kabr
+description:Speacial weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
+
+@title:Season 19 Deep Stone Crypt raid weapons
+@description:Reprised DSC Raid weapons with the Bray Inheritance origin perk
+
+title:King's Fall Raid PvP weapon picks with illPhysics
+description:Reprised King's Fall weapons with Runneth Over origin trait
+
+title:Season 18 Nightfall weapons
+description:Newly reprised weapons dropping from Season of Plunder Nightfalls
+
+title:Season 18 Playlist weapson with @Critbuff
+description:Season of Plunder New Vanguard, Gambit and Crucible playlist weapons
+
+@title:Season of Plunder PvP weapon picks with Gleaux
+@description:Season 18 weapons with Right Hook origin perk
+
+@title:Season 18 Playlist and Foundry weapons
+@description:New Vanguard, Gambit and Crucible playlist, and Hakke, Suros, Omolon and Veist weapons
+
+title:u/pandapaxxy's Season of the Plunder Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/x8jqis/season_of_the_plunder_breakdown/
+
+title: WarlockMaggie's Something New perk list
+
+title:Season of Plunder PvP weapon picks with Gleaux
+description:Season 18 weapons with Right Hook origin perk
+
+title:Kings Fall weapons
+description:Reprised King's Fall raid weapons with Runneth Over origin perk
+
+@title:Season of Plunder weapons
+@description:Season 18 weapons with Right Hook origin trait
+
+title:Dares of Eternity weapons
+description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity
+
+@title:Dares of Eternity redux weapons
+@description:Reissued Season 18 (Season of Punder) new weapon perk rolls
+
+title:Chevy's S17 Super Pog PVE List
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
+
+title:Chevy's S18 Super Pog PVE List
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622
+
+title:u/pandapaxxy's Duality Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's Seasonal Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5euj8/seasonal_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's Vendor Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5etqg/vendor_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's World Drops / Season Pass, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5ev69/world_drops_season_pass_season_of_the_haunted/
+
+@title:Opulent weapons
+@description:Reprised weapons with To Excess origin perk from Leviathan Opulent Key chests and Duality Dungeon
+
+title:Prophecy weapons
+description:Reprised Trials of the Nine weapons dropping from the Prophecy dungeon
+
+title:Season 17 Solstice of Heroes weapons
+description:New and reprised weapons dropping from Season 17 (Haunted) Solstice event
+
+title:Selected Dreaming City weapons
+description:Selected weapons from Dreaming City destinations and activities as at Destiny Update 4.1.5
+
+title:S-Tier Hand Cannons and rolls recommended by @illPhysics
+description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
+
+title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
+description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
+
+title:Glaive roll recommendations with @legoleflash
+description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
+
+@title:Playlist weapons
+@description:Season 17 returning and new playlist (Vanguard, Nightfall, Crucible, Iron Banner, Trials of Osiris, and Gambit) weapons
+
+title:Duality Dungeon weapons
+description:New Duality weapons with the Bitterspite origin perk
+
+title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
+description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
+
+title:Season 17 Foundry weapons
+description:Season of the Haunted Foundries New weapons
+
+@title:Haunted weapons
+@description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
+
+title:u/pandapaxxy's Guardian Games 2022 breakdown
+
+title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's PsiOps and World Drop Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhbos/psiops_and_world_drop_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Faction Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhb2m/faction_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Exotic Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfha13/exotic_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Enclave and Wellspring Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhcoq/enclave_and_wellspring_weapons_season_of_the_risen/
+
+title:Vow of the Disciple Raid weapons
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
+
+@title:Triumph Weapon
+@description:From completing the Chief Investigator Triumph and then world drops
+
+@title:The Wellspring - Witch Queen DLC six-man activity - weapons
+
+@title:Throne World Weapons
+@description:Dropping from Savathun's Throne World engrams
+
+title:Nightfall weapons part 2 and Hakke foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt
+
+title:Nightfall weapons part 3 and Omolon foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
+
+title:Suros foundry weapons
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep13-suros-foundry-weapons.txt
+
+title:Guardian Games 2022 and Trials of Osiris weapon
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep14-guardian-games-2022-and-trials-of-osiris-weapons.txt
+
+title:YeezyGT's S16
+
+@title:Vow of the Disciple Raid weapons
+@description:Raid weapons from Witch Queen, Season 16 (Risen)
+
+title:Nightfall weapons part 1
+description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
+
+@title:Veist Foundry weapons
+
+title:YeezyGT's WQ
+
+title:@AyyItsChevy's S16 Super Pog PvE Loot List
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
+title:Season 15 Vanguard Nightfall weapons
+notes:Reprised D1 weapons dropping from Nightfall completions
+
+title:Reprised Dawning weapons
+description:Season 15 (Season of the Lost) Dawning weapons
+
+title:u/pandapaxxy's 30th Anniversary M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
+
+title:u/pandapaxxy's 30th Anniversary Controller Breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
+
+title:YeezyGT's S16
+
+title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
+description:Xûr activity, reputation and cache chest legendary weapons
+
+title:Season 15 (Season of the Lost) World drop weapon rolls
+description:World pool legendary weapon rolls
+
+title:Season 13 (Season of the Chosen) World drop weapon rolls
+description:World pool legendary weapon rolls
+
+title:Season 15 (Season of the Lost) Activity weapon rolls
+description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
+
+title:Season 14 (Season of the Chosen) Vault of Glass rolls
+description:Reprised weapons from Vault of Glass Raid
+
+@title:Season 15 Reissued Trials of the Nine weapons
+@notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
+
+title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
+description:Weapons roundup as at S15 Festival of the Lost
+
+title:YeezyGT's S15 wishlist picks.
+
+title:Destiny Massive Breakdown-inspired weapon rolls
+description:Not affiliated with the DMB podcast, but based on their discussions
+
+title:Season 12 Beyond Light Europan weapons from Podcast 186
+description:Weapons from Variks and Europan activities
+
+title:Season 12 (Season of the Hunt) Wrathborne Hunt and Season Pass weapon rolls from Podcast 187
+description:Weapons dropped from Season 12 Pass, Crow and Wrathborne Hunts
+
+title:Season 12 (Beyond Light) Raid weapon rolls from Podcast 188
+description:Weapons from the Deep Stone Crypt Raid
+
+title:Season 12 (Season of the Hunt) Dawning event weapon rolls from Podcast 189
+description:Weapons from the S12 Christmas/New Year Dawning event
+
+title:Season 12 (Season of the Chosen) Activity weapon rolls from  Podcast 190
+description:Weapons from S13 Gambit, Vanguard and Crucible activities
+
+title:Season 14 (Season of the Chosen) Hawkmoon breakdown from Podcast 194
+description:Harbinger quest exotic hand cannon random rolls
+
+title:Season 13 (Season of the Chosen) Dead Man's Tale from Podast 198
+description:Presage quest exotic scout rifle random rolls
+
+title:Season 13 (Season of the Chosen) Battleground weapon rolls from Podcast 201
+description:Weapons from Battleground events, War Table and S13 Umbral Engrams
+
+title:Season 13 (Season of the Chosen) Gambit weapons from Podcast 203
+description:Season 13 end of game Game drops
+
+title:Season 13 (Season of the Chosen) Nightfall weapons from Podcast 205
+description:Reprised Vanguard and Nightfall weapons
+
+title:Season 14 (Season of the Splicer) Iron Banner weapons from Podcast 212
+description:Season 14 Iron Banner weapons
+
+title:Season 14 (Season of the Splicer) Override and Splicer Servitor weapons from Podcast 213
+description:Season 14 activity weapons
+
+title:Season 14 (Season of the Splicer) Crucible weapons from Podcast 215
+description:Shayura's Wrath and Survivors Epitaph
+
+title:Season 14 (Season of the Splicer) Reprised Dreaming City (non-Shatterered Throne) weapons from Podcast 219
+description:New perks on Tigerspite, Twilight Oath and Abide the Return
+
+title:Season 14 (Season of the Splicer) Solstice of Heroes weapon from Podcast 220
+description:Compass Rose rolls
+
+title:Season 14 (Season of the Splicer) Nightfall weapons from Podcast 222
+description:Reprised weapons as Nightfall weekly drops
+
+title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
+description:Season activity weapon rolls
+
+title:Season 15 (Season of the Lost) Reprised and new Trials weapons from Podcast 229
+description:Reprised Trials of Osiris weapons and Reed's Regret rolls
+
+title:Pandapaxxy's S15 roundup
+description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/
+
+title:@AyyItsChevy's S15 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1431303773817823234?s=20 . Cheers to @Deanosim for the conversion.
+
+title:Blueberries.gg's collected / tiered S15 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
+title:@AyyItsChevy's S14 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1394340842278686722?s=20
+
+title:Blueberries.gg's collected / tiered S14 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
+title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
+
+title:@AyyItsChevy's S13 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1359565294709190658?s=20
+
+title:An addendum of pandapaxxy's Dead Man's Tale rolls.
+description:Originally found in https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U
+
+title:@AyyItsChevy's Super Pog PvE Loot List
+
+title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
+
+title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
+
+title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
+
+title:u/Mercules904's Massive Breakdown of the Legacy and Dredgen Focused Umbral Engram Weapons
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hfpop8/massive_breakdown_of_the_legacy_and_dredgen/
+
+title:u/Mercules904's Sundial weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
+
+title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
+
+title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
+
+title:u/Mercules904's Vex Invasion drop picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/djo6bn/massive_breakdown_of_the_vex_offensive_weapons/
+
+title:u/Mercules904's Season of the Undying season pass weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/docorx/massive_breakdown_of_the_season_of_the_undying/
+
+title:u/Mercules904's Altars of Sorrow weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
+
+title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
+
+title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
+
+title:u/Mercules904's Garden of Salvation raid weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
+
