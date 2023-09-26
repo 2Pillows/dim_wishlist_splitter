@@ -1,7 +1,5 @@
 name: update_wishlists
-on:
-  schedule:
-    - cron: "0 0 * * *"
+on: push
 jobs:
   update-repo:
     runs-on: ubuntu-latest
@@ -27,6 +25,9 @@ jobs:
           cd wishlist_splitter/data/origin_traits
           npm install
           cd ../../..
+
+      - name: Update Git Submodules
+        run: git submodule update --init --recursive
 
       - name: Run JavaScript Script
         run: |
