@@ -25,7 +25,7 @@ def main():
     # Dictionary to store constants that reference keys or values
     helper = {
         # Path of voltron file
-        "VOLTRON_PATH": "./src/wishlist_splitter/data/dim-wish-list-sources/voltron.txt",
+        "VOLTRON_PATH": "./wishlist_splitter/data/dim-wish-list-sources/voltron.txt",
         ############################
         # Keys for wishlist config #
         ############################
