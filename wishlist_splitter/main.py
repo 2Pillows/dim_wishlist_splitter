@@ -62,7 +62,9 @@ def main():
     )
 
     # Collect origin trait hashes
-    ORIGIN_TRAITS = get_origin_traits()
+    # Path to origin trait file
+    origin_traits_path = "./wishlist_splitter/data/origin_traits/origin_traits.txt"
+    ORIGIN_TRAITS = get_origin_traits(origin_traits_path)
 
     # Collect all, include, and exlcude tags from config
     ALL_TAGS, INC_TAGS, EXC_TAGS = extract_tags(
