@@ -8,7 +8,7 @@ Collects origin traits from Destiny Data Explorer (https://data.destinysets.com/
 
 Options for copying wishlist URLs for DIM:
 
-   - Visit Github Pages: https://2pillows.github.io/dim_wishlist_splitter/.
+   - Visit GitHub Pages: https://2pillows.github.io/dim_wishlist_splitter/.
    
    - Copy from repository: https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists.
 
