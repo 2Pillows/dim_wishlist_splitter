@@ -2,6 +2,8 @@
 
 Breaks down DIM's wishlist Voltron based on type of rolls such as PvE, PvP, PvE + Controller, etc.
 
+Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
+
 Options for copying wishlists:
 
    - Visit pages: https://2pillows.github.io/dim_wishlist_splitter/
