@@ -115,6 +115,6 @@ li::before {
 
 /* Style for the text content when hovering */
 li span:hover {
-    background-color: #d1e1ff; /* Change to your desired highlight color */
+    background-color: #d1e1ff;
     cursor: pointer;
 }
