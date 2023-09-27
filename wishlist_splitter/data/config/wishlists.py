@@ -4,27 +4,20 @@
 def get_wishlist_config(
     PATH_KEY, AUTHOR_KEY, INC_TAG_KEY, EXC_TAG_KEY, PERK_KEY, DUPE_PERKS_KEY
 ):
-    # Array of Wishlists
-    # Each Wishlist is a Dictionary with
-    #   Flag - True / False for Filter Options
-    #   Include / Exclude Filter - Using AND logic: PVE, PVP, MKB, Controller, Backup Roll, God, etc.
-    #   Logic - ["A", "B"] = A and B, ["A B"] = A or B
-    #   Perk Columns - "" or "1, 2, 3, 4" for All or "3, 4" for 3rd and 4th, etc.
-    #   Grouping Options - Combines Recommendations per Weapon ex. 0 for all combines or 2 for at least 2 recommendations
-    #   Destination Path - Location and Name for Wishlist
+    # Array of Wishlists Configs
     wishlist_configs = [
         # No Filters
         {PATH_KEY: "./wishlists/all.txt"},
         # -------------------------------------------
-        # gamemode filters
+        # Gamemdoe filters
         {INC_TAG_KEY: ["pve"], PATH_KEY: "./wishlists/pve.txt"},
         {INC_TAG_KEY: ["pvp"], PATH_KEY: "./wishlists/pvp.txt"},
         # -------------------------------------------
-        # input filters
+        # Input filters
         {INC_TAG_KEY: ["mkb"], PATH_KEY: "./wishlists/mkb.txt"},
         {INC_TAG_KEY: ["controller"], PATH_KEY: "./wishlists/ctr.txt"},
         # -------------------------------------------
-        # input filters | 3rd and 4th columns
+        # Perks
         {INC_TAG_KEY: ["mkb"], PERK_KEY: True, PATH_KEY: "./wishlists/mkb_perks.txt"},
         {
             INC_TAG_KEY: ["controller"],
@@ -32,7 +25,7 @@ def get_wishlist_config(
             PATH_KEY: "./wishlists/ctr_perks.txt",
         },
         # -------------------------------------------
-        # input filters | 3rd and 4th columns | at least 2 dupes
+        # Perks and Dupes
         {
             INC_TAG_KEY: ["mkb"],
             PERK_KEY: True,
@@ -46,13 +39,13 @@ def get_wishlist_config(
             PATH_KEY: "./wishlists/ctr_perks_dupes.txt",
         },
         # -------------------------------------------
-        # input_gamdemode filters
+        # Input and Gamemode filters
         {INC_TAG_KEY: ["mkb", "pve"], PATH_KEY: "./wishlists/mkb_pve.txt"},
         {INC_TAG_KEY: ["mkb", "pvp"], PATH_KEY: "./wishlists/mkb_pvp.txt"},
         {INC_TAG_KEY: ["controller", "pve"], PATH_KEY: "./wishlists/ctr_pve.txt"},
         {INC_TAG_KEY: ["controller", "pvp"], PATH_KEY: "./wishlists/ctr_pvp.txt"},
         # -------------------------------------------
-        # pandapaxxy filters
+        # Pandapaxxy filters
         {AUTHOR_KEY: ["pandapaxxy"], PATH_KEY: "./wishlists/panda.txt"},
         {
             AUTHOR_KEY: ["pandapaxxy"],
@@ -91,10 +84,10 @@ def get_wishlist_config(
             PATH_KEY: "./wishlists/mkb_panda_perks.txt",
         },
         # -------------------------------------------
-        # god filters
+        # God filters
         {INC_TAG_KEY: ["mkb", "god"], PATH_KEY: "./wishlists/mkb_god.txt"},
         # -------------------------------------------
-        # exclude backup rolls - input filters
+        # Exclude backup rolls filters
         {
             INC_TAG_KEY: ["mkb"],
             EXC_TAG_KEY: ["backup"],
