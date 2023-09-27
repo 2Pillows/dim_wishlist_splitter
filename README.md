@@ -4,7 +4,7 @@ Breaks down DIM's default wishlist, Voltron, based on type of rolls such as PvE,
 
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
 
-Options for copying wishlists:
+Options for copying wishlist URLs for DIM wishlists:
 
    - Visit Github Pages: https://2pillows.github.io/dim_wishlist_splitter/
    
