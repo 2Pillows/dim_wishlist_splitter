@@ -8,7 +8,7 @@ jobs:
 
     steps:
       - name: Checkout main, including submodule
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           submodules: "recursive"
 
@@ -18,7 +18,7 @@ jobs:
           git config --global user.name "${{ secrets.NAME }}"
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: 18
 
