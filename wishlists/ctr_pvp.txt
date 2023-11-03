@@ -1,6 +1,66 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+@title:Season 22 Festival of the Lost weapons
+@description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
+
+title: RNGeez Festival of the Lost Breakdown, Season 22
+description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
+
+// Horror Story
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3828510309,365154968
+
+// Horror Story
+//notes:SirStallion_ (PvP / M+KB / Controller): "As a primarily controller player, I believe 450s are some of the easiest guns to control. Stability is not as necessary, but preference is a thing and you should absolutely commit to whichever stat you feel is best. But the trait combo remains the same for my ideal. I will never just be using one gun, chances are if I get special ammo I'm going to be trying to use that special ammo and discord benefits me when I inevitably succeed. OR.. more likely.. When I use my 450/450 combo and bust out a Harmony suros sidearm, this gun will support a flip flop swip swap playstyle that I enjoy very very much." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3978468247,365154968
+
+// Horror Story
+//notes:Clegmir (PvP / Controller): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=177568179&perks=1840239774,3142289711,1359896290,3324494224
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / Controller): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+// Jurassic Green
+//notes:SirStallion_ (PvP / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,2450788523,3324494224
+
+// Jurassic Green
+//notes:Clegmir (PvP / M+KB / Controller): "On the PvP side, with the changes to Rangefinder and damage falloff, Killing Wind and Keep Away will be your stars, I think. The former is a “next kill” perk while the latter is to help you secure that first kill. There are a lot of viable rolls for this gun, so if you get one, try it out! I’ll be looking for Killing Wind/Encore and Keep Away/Headseeker, personally." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,2450788523,1195158366
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+// Mechabre
+//notes:SirStallion_ (PvP / M+KB / Controller): "It's a PvP sniper rifle in Destiny. Of COURSE you want snapshot/opening shot. You want to hit the headshots as quickly and cleanly as you can, this is the combo that will do that for you, it is tried and true. However, if you're a sniper that likes to find tricky lanes and make people say "Wha.. from THERE?" and maybe you don't mind a little extra ADS time, I'd give Keep Away a shot." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,3619207468,47981717
+
+// Mechabre
+//notes:Clegmir (PvP / M+KB / Controller): "For PvP, if you didn’t score the Snapshot/Opening Shot last go-around, you do have another chance at getting one! You also have the options of getting one with Keep Away and Discord as options. Ammo being refunded on takedowns is a very nice reward to deal with the potential lack of special ammo drops." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+// Acosmic GSp
+//notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+// Acosmic GSp
+//notes:SirStallion_ (PvP / M+KB / Controller): "What do you want from a heavy GL in PvP? You wanna kill people fast and you wanna get back to slaying with your regularly scheduled arsenal. What is a core part of that arsenal? Abilities. Picture this.. You pick up heavy, you snag a cute little triple kill on B thanks to Proxy rounds and then you sprint to C so you can grenade the ding dongs you just slaughtered right as they spawn." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3592538738
+
+// Acosmic GSp
+//notes:Clegmir (PvP / M+KB / Controller): "Thankfully for PvP you do have access to Proximity Grenades. Explosive Light is handy given the ease at which you can generate orbs in the current sandbox, and the same holds true for elemental pickups with Collective Action." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+@title:Crota's End weapons
+@description:Reprised weapons from the Crota's End Raid, with the Cursed Thrall origin trait
+
+@title:Season 22 Foundry Athenaeum Ritual Table and World drop weapons, and reprised craftable exotics
+@description:Season of the Witch Cassoid and Nadir Foundry weapons, Dead Man's Tale and Dead Messenger
+
 @title:Season 22 Playlist weapons
 @description:Season of the Witch Playlist weapons wfrom CXrucile, Vanguard, Gambit, Iron Banner and Trials of Osiris
 

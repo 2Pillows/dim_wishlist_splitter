@@ -1,6 +1,18 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+@title:Season 22 Festival of the Lost weapons
+@description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
+
+title: RNGeez Festival of the Lost Breakdown, Season 22
+description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
+
+@title:Crota's End weapons
+@description:Reprised weapons from the Crota's End Raid, with the Cursed Thrall origin trait
+
+@title:Season 22 Foundry Athenaeum Ritual Table and World drop weapons, and reprised craftable exotics
+@description:Season of the Witch Cassoid and Nadir Foundry weapons, Dead Man's Tale and Dead Messenger
+
 @title:Season 22 Playlist weapons
 @description:Season of the Witch Playlist weapons wfrom CXrucile, Vanguard, Gambit, Iron Banner and Trials of Osiris
 

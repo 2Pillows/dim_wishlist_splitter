@@ -1,6 +1,50 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+@title:Season 22 Festival of the Lost weapons
+@description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
+
+title: RNGeez Festival of the Lost Breakdown, Season 22
+description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
+
+// Horror Story
+//notes:pandapaxxy (PvE / M+KB / Controller): "So Horror Story is stasis now. Kinda cool, but not the biggest draw. The combo I'm looking for is Enlightened Action and Target Lock. The two of them together give you bonus handling, reload, and damage. As long as you're connecting shots you'll get the benefits of both!" Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=839105230,106909392,3828510309,365154968
+
+// Horror Story
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3828510309,365154968
+
+// Jurassic Green
+//notes:pandapaxxy (PvE / M+KB / Controller): "It can roll Incandescent and Subsistence, but I think it shines with Golden Tricorn. You can make use of Heal Clip if you want a bit more healing but on solar hunter? This is going to be the bomb dot com." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / M+KB): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080
+
+// Mechabre
+//notes:pandapaxxy (PvE / M+KB / Controller): "In order to, in my humble opinion, get the most out of it in PvE, you'll want a base of 4 in your magazine. This way with Clown Cartridge there's a very high chance you'll be with 5 going into engagements. With Vorpal Weapon you won't need to hit crits in order to do good damage and you can take this solo without any drop in damage. Reload MW helps speed up those reloads getting you back to 4 or higher." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=839105230,1087426260,2284787283,1546637391
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+// Acosmic GSp
+//notes:pandapaxxy (PvE / M+KB / Controller): "Similar to how Geodetic HSM is the best sword for void mains, Acosmic GSp will be the best grenade launcher for void mains. Loose Change is a laughable perk on its own, but coupled with Destabilizing Rounds you won't need to rely as heavily on your abilities to get a whopping +50 reload speed. You'll be able to clear rooms with ease and be able to bridge your loadout into higher DPS weapons." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,1119449540,2048641572
+
+// Acosmic GSp
+//notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+@title:Crota's End weapons
+@description:Reprised weapons from the Crota's End Raid, with the Cursed Thrall origin trait
+
+@title:Season 22 Foundry Athenaeum Ritual Table and World drop weapons, and reprised craftable exotics
+@description:Season of the Witch Cassoid and Nadir Foundry weapons, Dead Man's Tale and Dead Messenger
+
 @title:Season 22 Playlist weapons
 @description:Season of the Witch Playlist weapons wfrom CXrucile, Vanguard, Gambit, Iron Banner and Trials of Osiris
 
