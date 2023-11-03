@@ -28,7 +28,7 @@ jobs:
           cd ../../..
 
       - name: Update Git Submodules
-        run: git submodule update --init --recursive
+        run: git submodule update --remote
 
       - name: Run JavaScript Script
         run: |
