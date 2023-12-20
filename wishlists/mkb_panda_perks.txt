@@ -1,6 +1,12 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+@title:Season 23 Warlord's Ruin weapons
+@description:New weapons dropping from the Warlord's Ruin dungeon, with the Sundering origin trait
+
+title:RNGeez 2023 Dawning Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/18gqn8y/rngeez_2023_dawning_breakdown/
+
 @title:Season 22 Festival of the Lost weapons
 @description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
 
