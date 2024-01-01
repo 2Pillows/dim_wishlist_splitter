@@ -1,6 +1,21 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:Pandapaxxy S23 Dreaming City Weapons
+description:https://www.reddit.com/r/sharditkeepit/comments/18urqqa/season_23_dreaming_city_weapons/
+
+title:Pandapaxxy S23 Seasonal Weapons
+description:https://www.reddit.com/r/sharditkeepit/comments/18urnyr/season_23_seasonal_weapons/
+
+title:Pandapaxxy S23 World Drops
+description:https://www.reddit.com/r/sharditkeepit/comments/18uront/season_23_world_drops/
+
+title:Pandapaxxy's S23 Vendor Weapons
+description:https://www.reddit.com/r/sharditkeepit/comments/18urpst/season_23_vendor_weapons/
+
+title:Pandapaxxy S23 Warlord's Ruin
+description:https://www.reddit.com/r/sharditkeepit/comments/18urr7m/season_23_warlords_ruin/
+
 @title:Season 23 Dawning weapons
 @description:New weapons and reprised, with the Dawning Surprise origin trait
 
