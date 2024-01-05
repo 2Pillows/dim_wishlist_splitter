@@ -1,6 +1,9 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+@title:Season 23 Dreaming City weapons
+@description:Reprised weapons, with the Advanced Reflexes origin trait
+
 title:Pandapaxxy S23 Dreaming City Weapons
 description:https://www.reddit.com/r/sharditkeepit/comments/18urqqa/season_23_dreaming_city_weapons/
 
