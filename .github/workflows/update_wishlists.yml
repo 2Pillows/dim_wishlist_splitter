@@ -1,8 +1,8 @@
 name: update_wishlists
 on:
-  push
-  # schedule:
-  #   - cron: "0 0 * * *"
+  # push
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   update_wishlists:
     runs-on: ubuntu-latest
