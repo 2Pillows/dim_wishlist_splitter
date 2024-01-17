@@ -3,6 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    color: #eee;
+    background: #121212;
+}
+
+a {
+    color: #809fff;
 }
 
 .container {
