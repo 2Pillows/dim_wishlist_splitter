@@ -104,7 +104,8 @@ li::before {
 }
 
 .custom-alert-content {
-    background-color: #fff;
+    color: #eee;
+    background: #121212;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -121,6 +122,6 @@ li::before {
 
 /* Style for the text content when hovering */
 li span:hover {
-    background-color: #d1e1ff;
+    background-color: #1b4491;
     cursor: pointer;
 }
