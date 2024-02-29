@@ -34,7 +34,8 @@ header {
     border-style: solid;
     float: left;
     margin-right: 20px;
-    flex-grow: 1;
+    /* flex-grow: 1; */
+    max-width: 25%;
 }
 
 .filter-options {
@@ -42,7 +43,6 @@ header {
     padding: 20px;
     margin-top: -30px;
     padding-bottom: 20px;
-    flex-grow: 1;
 }
 
 /* Wishlist Selection */
@@ -50,6 +50,7 @@ header {
     border-style: solid;
     padding: 10px;
     float: inline-start;
+    flex-grow: 1;
 }
 
 .wishlist-text {
@@ -69,7 +70,16 @@ a {
 }
 
 /* Filter Button */
-
+.filter-button {
+    align-items: center;
+    border-radius: 24px;
+    border-style: none;
+    cursor: pointer;
+    padding: 2px 15px;
+    margin: 2px;
+    margin-top: -100px;
+}
+  
 
 /* Handle button states */
 .default-btn {
@@ -84,13 +94,4 @@ a {
     background-color: rgb(250, 124, 124);
 }
 
-.filter-button {
-  align-items: center;
-  border-radius: 24px;
-  border-style: none;
-  cursor: pointer;
-  padding: 2px 15px;
-  margin: 2px;
-  margin-top: -100px;
-}
 
