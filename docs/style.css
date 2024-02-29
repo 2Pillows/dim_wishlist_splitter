@@ -1,127 +1,96 @@
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
     color: #eee;
     background: #121212;
+    margin: 0px auto; 
+    max-width: 80%;
+}
+
+/* Header Section */
+header {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+
+    border-style: solid;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.github-link {
+    padding-right: 10px;
+    width: 50px;
+}
+
+/* Main Container */
+#main-container {
+    display: flex; 
+    justify-content: center;
+    align-items: start;
+}
+
+/* Filtering Options */
+#filter-container {
+    border-style: solid;
+    float: left;
+    margin-right: 20px;
+    flex-grow: 1;
+}
+
+.filter-options {
+    /* border-style: solid; */
+    padding: 20px;
+    margin-top: -30px;
+    padding-bottom: 20px;
+    flex-grow: 1;
+}
+
+/* Wishlist Selection */
+#wishlist-container {
+    border-style: solid;
+    padding: 10px;
+    float: inline-start;
+}
+
+.wishlist-text {
+    padding: 10px;
+}
+
+.wishlist-title {
+    font-weight: bold;
+}
+
+.wishlist-link {
+    font-weight: normal;
 }
 
 a {
     color: #809fff;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-/* Header Section */
-header {
-    text-align: center;
-    padding: 20px 0;
-}
-
-h1 {
-    font-size: 2rem;
-    margin: 0;
-}
-
-p {
-    font-size: 1rem;
-    margin: 5px 0;
-}
-
-/* Navigation Section */
-nav {
-    padding: 0px;
-    margin-top: 5px;
-    text-align: center;
-    
-}
-
-.menu-item {
-    display: inline-block; 
-    margin-left: 50px;
-    vertical-align: top;
-    text-align: left;
-}
-
-.section-header {
-    font-size: 1rem;
-    font-weight: bold; 
-    margin-bottom: 5px;
-    
-}
-
-/* Checkbox Styles */
-input[type="checkbox"] {
-    margin-right: 5px;
-}
-
-/* Wishlist URLs Section */
-section {
-    padding: 0px;
-    margin-top: 0px;
-}
-
-h2 {
-    text-align: center;
-    font-size: 1.5rem;
-    margin-bottom: 0px;
-}
-
-ul {
-    list-style: none;
-    padding: 0;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-37%);
-}
-
-li {
-    margin-bottom: 5px;
-}
-
-li::before {
-    content: " - ";
-}
+/* Filter Button */
 
 
-/* Custom Alert Section */
-.custom-alert {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 1000;
-    justify-content: center;
-    align-items: center;
+/* Handle button states */
+.default-btn {
+    background-color: white;
 }
 
-.custom-alert-content {
-    color: #eee;
-    background: #121212;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    text-align: center;
-    position: relative;
+.include-btn {
+    background-color: rgb(127, 252, 127);
 }
 
-.close-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    cursor: pointer;
+.exclude-btn {
+    background-color: rgb(250, 124, 124);
 }
 
-/* Style for the text content when hovering */
-li span:hover {
-    background-color: #1b4491;
-    cursor: pointer;
+.filter-button {
+  align-items: center;
+  border-radius: 24px;
+  border-style: none;
+  cursor: pointer;
+  padding: 2px 15px;
+  margin: 2px;
+  margin-top: -100px;
 }
+

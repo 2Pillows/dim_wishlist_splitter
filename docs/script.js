@@ -1,158 +1,229 @@
 // script.js
 
 // Holds selected checkboxes
-const selectedFilters = {
+var selectedFilters = {
   include: [],
   exclude: [],
 };
 
-// Fetch JSON data and add checkboxes to sections
-fetch("data/config.json")
-  .then((response) => response.json())
-  .then((data) => {
-    // Create checkboxes
-    function createCheckbox(checkboxData, sectionName) {
-      const container = document.createElement("div");
+const baseLink =
+  "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/";
 
-      // Unique ID for associated label clicking
-      const checkboxId = `${sectionName}-checkbox-${checkboxData.tag}`;
+const wishlists = [
+  {
+    label: "All Rolls",
+    tags: "mkb_ctr_pve_pvp",
+    link: "all.txt",
+  },
+  {
+    label: "PvE",
+    tags: "pve_mkb_ctr",
+    link: "pve.txt",
+  },
+  {
+    label: "PvP",
+    tags: "pvp_mkb_ctr",
+    link: "pvp.txt",
+  },
+  {
+    label: "MKB",
+    tags: "mkb_pve_pvp",
+    link: "mkb.txt",
+  },
+  {
+    label: "CTR",
+    tags: "ctr_pvp_pve",
+    link: "ctr.txt",
+  },
+  {
+    label: "MKB_Perks",
+    tags: "mkb_perks_pve_pvp",
+    link: "mkb_perks.txt",
+  },
+  {
+    label: "CTR_Perks",
+    tags: "ctr_perks_pve_pvp",
+    link: "ctr_perks.txt",
+  },
+  {
+    label: "MKB_Perks_Dupes",
+    tags: "mkb_perks_dupes_pve_pvp",
+    link: "mkb_perks_dupes.txt",
+  },
+  {
+    label: "CTR_Perks_Dupes",
+    tags: "ctr_perks_dupes_pve_pvp",
+    link: "ctr_perks_dupes.txt",
+  },
+  {
+    label: "MKB_PvE",
+    tags: "mkb_pve",
+    link: "mkb_pve.txt",
+  },
+  {
+    label: "MKB_PvP",
+    tags: "mkb_pvp",
+    link: "mkb_pvp.txt",
+  },
+  {
+    label: "CTR_PvE",
+    tags: "ctr_pve",
+    link: "ctr_pve.txt",
+  },
+  {
+    label: "CTR_PvP",
+    tags: "ctr_pvp",
+    link: "ctr_pvp.txt",
+  },
+  {
+    label: "Panda",
+    tags: "panda_mkb_ctr_pve_pvp",
+    link: "panda.txt",
+  },
+  {
+    label: "Panda_MKB",
+    tags: "mkb_panda_pve_pvp",
+    link: "mkb_panda.txt",
+  },
+  {
+    label: "Panda_MKB_PvE",
+    tags: "mkb_panda_pve",
+    link: "mkb_panda_pve.txt",
+  },
+  {
+    label: "Panda_MKB_PvP",
+    tags: "mkb_panda_pvp",
+    link: "mkb_panda_pvp.txt",
+  },
+  {
+    label: "Panda_CTR",
+    tags: "ctr_panda_pve_pvp",
+    link: "ctr_panda.txt",
+  },
+  {
+    label: "Panda_CTR_PvE",
+    tags: "ctr_panda_pve",
+    link: "ctr_panda_pve.txt",
+  },
+  {
+    label: "Panda_CTR_PvP",
+    tags: "ctr_panda_pvp",
+    link: "ctr_panda_pvp.txt",
+  },
+  {
+    label: "Panda_MKB_Perks",
+    tags: "mkb_panda_perks_pve_pvp",
+    link: "mkb_panda_perks.txt",
+  },
+  {
+    label: "MKB_God",
+    tags: "mkb_god_pve_pvp",
+    link: "mkb_god.txt",
+  },
+  {
+    label: "MKB_!Backups",
+    tags: "mkb_!backup_pve_pvp",
+    link: "mkb_!backup.txt",
+  },
+  {
+    label: "MKB_!Backups_Perks",
+    tags: "mkb_!backup_perks_pve_pvp",
+    link: "mkb_!backup_perks.txt",
+  },
+  {
+    label: "MKB_!Backups_Perks_Dupes",
+    tags: "mkb_!backup_perks_dupes_pve_pvp",
+    link: "mkb_!backup_perks_dupes.txt",
+  },
+];
 
-      // Create checkbox
-      const checkbox = document.createElement("input");
-      checkbox.type = "checkbox";
-      checkbox.id = checkboxId;
-      checkbox.name = `${sectionName}-checkbox-${checkboxData.tag}`;
-      checkbox.value = checkboxData.tag;
+// Setup onClick for buttons
+function setupButtons() {
+  const filterButtons = document.querySelectorAll(".filter-button");
 
-      // Create label
-      const label = document.createElement("label");
-      label.htmlFor = checkboxId;
-      label.textContent = checkboxData.label;
+  // Set onclick to change state of button and update wishlists
+  filterButtons.forEach((button) => {
+    button.addEventListener("click", function () {
+      // tag for btn
+      let btn_option = button.id.split("-btn")[0];
 
-      // Add listener for clicking checkbox
-      checkbox.addEventListener("change", function () {
-        updateCheckboxState(this);
-      });
-
-      container.appendChild(checkbox);
-      container.appendChild(label);
-      return container;
-    }
-
-    // Listener for updating checkbox state
-    function updateCheckboxState(checkbox) {
-      // Unselected checkbox
-      if (checkbox.readOnly) {
-        checkbox.checked = checkbox.readOnly = false;
-
+      // add to include
+      if (button.classList.contains("default-btn")) {
+        button.classList.remove("default-btn");
+        button.classList.add("include-btn");
+        selectedFilters.include.push(btn_option);
+      }
+      // add to exclude, remove from include
+      else if (button.classList.contains("include-btn")) {
+        button.classList.remove("include-btn");
+        button.classList.add("exclude-btn");
+        selectedFilters.exclude.push(btn_option);
         selectedFilters.include = selectedFilters.include.filter(
-          (item) => item !== checkbox.value
+          (i) => i !== btn_option
         );
+      }
+      // remove from exclude
+      else if (button.classList.contains("exclude-btn")) {
+        button.classList.remove("exclude-btn");
+        button.classList.add("default-btn");
         selectedFilters.exclude = selectedFilters.exclude.filter(
-          (item) => item !== checkbox.value
-        );
-      }
-      // Exclude checkbox
-      else if (!checkbox.checked) {
-        checkbox.readOnly = checkbox.indeterminate = true;
-
-        selectedFilters.include = selectedFilters.include.filter(
-          (item) => item !== checkbox.value
-        );
-        selectedFilters.exclude.push(checkbox.value);
-      }
-      // Include checkbox
-      else if (checkbox.checked) {
-        checkbox.readOnly = checkbox.indeterminate = false;
-
-        selectedFilters.include.push(checkbox.value);
-        selectedFilters.exclude = selectedFilters.exclude.filter(
-          (item) => item !== checkbox.value
+          (i) => i !== btn_option
         );
       }
 
-      // Update URLs after a checkbox has been clicked
-      updateWishlistUrls();
-    }
+      // update wishlists
+      updateWishlists();
+    });
+  });
+}
 
-    // Sections for type of checkboxes
-    const sections = ["input", "gamemode", "author", "misc"];
-    // Add checkboxes to each section
-    sections.forEach((sectionName) => {
-      const section = document.getElementById(`${sectionName}-checkboxes`);
-      if (data[sectionName] && data[sectionName].checkboxes) {
-        data[sectionName].checkboxes.forEach((checkboxData) => {
-          const checkboxContainer = createCheckbox(checkboxData, sectionName);
-          section.appendChild(checkboxContainer);
-        });
+// Add wishlists to wishlist-selection
+function updateWishlists() {
+  const wishlistContainer = document.getElementById("wishlist-container");
+  wishlistContainer.innerHTML = "";
+  wishlists.forEach((wishlist) => {
+    // Exclude is false if wishlist doesn't have filter
+    let include = true;
+    selectedFilters.include.forEach((includeTag) => {
+      if (!wishlist.tags.includes(includeTag)) {
+        include = false;
+        return;
       }
     });
 
-    // Update URLs after a checkbox has been clicked
-    function updateWishlistUrls() {
-      // Clear URLs
-      const urlsList = document.getElementById("urls-list");
-      while (urlsList.firstChild) {
-        urlsList.removeChild(urlsList.firstChild);
+    // Exclude is true if wishlist has exclude
+    let exclude = false;
+    selectedFilters.exclude.forEach((excludeTag) => {
+      if (wishlist.tags.includes(excludeTag)) {
+        exclude = true;
+        return;
       }
+    });
 
-      // Display wishlists that fufill checkboxes
-      data.wishlists.urls.forEach((url) => {
-        // Check if URL tags meet exclude and include conditions from checkboxes
-        excludeFound = false;
-        includeFound = true;
-        for (let i = 0; i < selectedFilters.exclude.length; i++) {
-          if (url.tag.includes(selectedFilters.exclude[i])) {
-            excludeFound = true;
-          }
-        }
-        for (let i = 0; i < selectedFilters.include.length; i++) {
-          if (!url.tag.includes(selectedFilters.include[i])) {
-            includeFound = false;
-          }
-        }
+    if (include && !exclude) {
+      let wishlistDiv = document.createElement("div");
+      wishlistDiv.classList.add("wishlist-text");
 
-        // Add URL if meets conditions
-        if (includeFound && !excludeFound) {
-          const listItem = document.createElement("li");
-          const textSpan = document.createElement("span");
-          textSpan.textContent = url.label;
+      let wishlistTitle = document.createElement("span");
+      wishlistTitle.classList.add("wishlist-title");
+      wishlistTitle.textContent = wishlist.label + ": ";
 
-          // Add click listener
-          textSpan.addEventListener("click", function () {
-            // Copy URL to clipboard
-            const textarea = document.createElement("textarea");
-            textarea.value = url.link;
-            document.body.appendChild(textarea);
-            textarea.select();
-            document.execCommand("copy");
-            document.body.removeChild(textarea);
+      let wishlistLink = document.createElement("a");
+      wishlistLink.classList.add("wishlist-link");
+      wishlistLink.href = baseLink + wishlist.link;
+      wishlistLink.textContent = baseLink + wishlist.link;
 
-            // Alert user that URL is copied
-            openCustomAlert("URL copied to clipboard: " + textarea.value);
-          });
+      wishlistDiv.appendChild(wishlistTitle);
+      wishlistDiv.appendChild(wishlistLink);
 
-          listItem.appendChild(textSpan);
-          urlsList.appendChild(listItem);
-        }
-      });
+      wishlistContainer.appendChild(wishlistDiv);
     }
-
-    // Initial call to get wishlists
-    updateWishlistUrls();
-  })
-  .catch((error) => console.error("Error fetching JSON:", error));
-
-// Custom alert
-function openCustomAlert(message) {
-  const alertMessage = document.getElementById("alert-message");
-  alertMessage.textContent = message;
-  const customAlert = document.querySelector(".custom-alert");
-  customAlert.style.display = "flex";
+  });
 }
 
-// Close custom alert
-function closeCustomAlert() {
-  const customAlert = document.querySelector(".custom-alert");
-  customAlert.style.display = "none";
+function setupPage() {
+  setupButtons();
+  updateWishlists();
 }
+
+setupPage();
