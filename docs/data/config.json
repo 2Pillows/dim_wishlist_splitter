@@ -1,11 +1,8 @@
 {
-  "author": {
-    "checkboxes": [{ "label": "Pandapaxxy", "tag": "panda" }]
-  },
   "input": {
     "checkboxes": [
       { "label": "Mouse and Keyboard", "tag": "mkb" },
-      { "label": "Controller", "tag": "ctr" }
+      { "label": "Controller", "tag": "controller" }
     ]
   },
   "gamemode": {
@@ -14,143 +11,147 @@
       { "label": "PvP", "tag": "pvp" }
     ]
   },
-
-  "misc": {
+  "author": {
+    "checkboxes": [{ "label": "Pandapaxxy", "tag": "panda" }]
+  },
+  "roll type": {
     "checkboxes": [
       { "label": "God Rolls", "tag": "god" },
-      { "label": "No Backup Rolls", "tag": "backup" },
-      { "label": "3rd and 4th Column Perks", "tag": "perks" },
-      { "label": "In 2+ Recommendations", "tag": "dupes" }
+      { "label": "No Backup Rolls", "tag": "backup" }
     ]
   },
+  "perks": {
+    "checkboxes": [{ "label": "3rd and 4th Column Perks", "tag": "perks" }]
+  },
+  "frequency": {
+    "checkboxes": [{ "label": "In 2+ Recommendations", "tag": "dupes" }]
+  },
 
-  "wishlists": {
-    "urls": [
-      {
-        "label": "All Rolls",
-        "tag": "mkb_ctr_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/all.txt"
-      },
-      {
-        "label": "PvE",
-        "tag": "pve_mkb_ctr",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/pve.txt"
-      },
-      {
-        "label": "PvP",
-        "tag": "pvp_mkb_ctr",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/pvp.txt"
-      },
-      {
-        "label": "MKB",
-        "tag": "mkb_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb.txt"
-      },
-      {
-        "label": "CTR",
-        "tag": "ctr_pvp_pve",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr.txt"
-      },
-      {
-        "label": "MKB_Perks",
-        "tag": "mkb_perks_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_perks.txt"
-      },
-      {
-        "label": "CTR_Perks",
-        "tag": "ctr_perks_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_perks.txt"
-      },
-      {
-        "label": "MKB_Perks_Dupes",
-        "tag": "mkb_perks_dupes_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_perks_dupes.txt"
-      },
-      {
-        "label": "CTR_Perks_Dupes",
-        "tag": "ctr_perks_dupes_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_perks_dupes.txt"
-      },
-      {
-        "label": "MKB_PvE",
-        "tag": "mkb_pve",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_pve.txt"
-      },
-      {
-        "label": "MKB_PvP",
-        "tag": "mkb_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_pvp.txt"
-      },
-      {
-        "label": "CTR_PvE",
-        "tag": "ctr_pve",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_pve.txt"
-      },
-      {
-        "label": "CTR_PvP",
-        "tag": "ctr_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_pvp.txt"
-      },
-      {
-        "label": "Panda",
-        "tag": "panda_mkb_ctr_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/panda.txt"
-      },
-      {
-        "label": "Panda_MKB",
-        "tag": "mkb_panda_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda.txt"
-      },
-      {
-        "label": "Panda_MKB_PvE",
-        "tag": "mkb_panda_pve",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_pve.txt"
-      },
-      {
-        "label": "Panda_MKB_PvP",
-        "tag": "mkb_panda_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_pvp.txt"
-      },
-      {
-        "label": "Panda_CTR",
-        "tag": "ctr_panda_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda.txt"
-      },
-      {
-        "label": "Panda_CTR_PvE",
-        "tag": "ctr_panda_pve",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda_pve.txt"
-      },
-      {
-        "label": "Panda_CTR_PvP",
-        "tag": "ctr_panda_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda_pvp.txt"
-      },
-      {
-        "label": "Panda_MKB_Perks",
-        "tag": "mkb_panda_perks_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_perks.txt"
-      },
-      {
-        "label": "MKB_God",
-        "tag": "mkb_god_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_god.txt"
-      },
-      {
-        "label": "MKB_!Backups",
-        "tag": "mkb_!backup_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup.txt"
-      },
-      {
-        "label": "MKB_!Backups_Perks",
-        "tag": "mkb_!backup_perks_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup_perks.txt"
-      },
-      {
-        "label": "MKB_!Backups_Perks_Dupes",
-        "tag": "mkb_!backup_perks_dupes_pve_pvp",
-        "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup_perks_dupes.txt"
-      }
-    ]
-  }
+  "wishlists": [
+    {
+      "label": "All Rolls",
+      "tag": "mkb_ctr_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/all.txt"
+    },
+    {
+      "label": "PvE",
+      "tag": "pve_mkb_ctr",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/pve.txt"
+    },
+    {
+      "label": "PvP",
+      "tag": "pvp_mkb_ctr",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/pvp.txt"
+    },
+    {
+      "label": "MKB",
+      "tag": "mkb_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb.txt"
+    },
+    {
+      "label": "CTR",
+      "tag": "ctr_pvp_pve",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr.txt"
+    },
+    {
+      "label": "MKB_Perks",
+      "tag": "mkb_perks_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_perks.txt"
+    },
+    {
+      "label": "CTR_Perks",
+      "tag": "ctr_perks_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_perks.txt"
+    },
+    {
+      "label": "MKB_Perks_Dupes",
+      "tag": "mkb_perks_dupes_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_perks_dupes.txt"
+    },
+    {
+      "label": "CTR_Perks_Dupes",
+      "tag": "ctr_perks_dupes_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_perks_dupes.txt"
+    },
+    {
+      "label": "MKB_PvE",
+      "tag": "mkb_pve",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_pve.txt"
+    },
+    {
+      "label": "MKB_PvP",
+      "tag": "mkb_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_pvp.txt"
+    },
+    {
+      "label": "CTR_PvE",
+      "tag": "ctr_pve",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_pve.txt"
+    },
+    {
+      "label": "CTR_PvP",
+      "tag": "ctr_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_pvp.txt"
+    },
+    {
+      "label": "Panda",
+      "tag": "panda_mkb_ctr_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/panda.txt"
+    },
+    {
+      "label": "Panda_MKB",
+      "tag": "mkb_panda_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda.txt"
+    },
+    {
+      "label": "Panda_MKB_PvE",
+      "tag": "mkb_panda_pve",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_pve.txt"
+    },
+    {
+      "label": "Panda_MKB_PvP",
+      "tag": "mkb_panda_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_pvp.txt"
+    },
+    {
+      "label": "Panda_CTR",
+      "tag": "ctr_panda_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda.txt"
+    },
+    {
+      "label": "Panda_CTR_PvE",
+      "tag": "ctr_panda_pve",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda_pve.txt"
+    },
+    {
+      "label": "Panda_CTR_PvP",
+      "tag": "ctr_panda_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/ctr_panda_pvp.txt"
+    },
+    {
+      "label": "Panda_MKB_Perks",
+      "tag": "mkb_panda_perks_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_panda_perks.txt"
+    },
+    {
+      "label": "MKB_God",
+      "tag": "mkb_god_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_god.txt"
+    },
+    {
+      "label": "MKB_!Backups",
+      "tag": "mkb_!backup_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup.txt"
+    },
+    {
+      "label": "MKB_!Backups_Perks",
+      "tag": "mkb_!backup_perks_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup_perks.txt"
+    },
+    {
+      "label": "MKB_!Backups_Perks_Dupes",
+      "tag": "mkb_!backup_perks_dupes_pve_pvp",
+      "link": "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/mkb_!backup_perks_dupes.txt"
+    }
+  ]
 }
