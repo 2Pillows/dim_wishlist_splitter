@@ -7,18 +7,18 @@
 ###########################################################
 
 # Import config file
-from data.config.wishlists import get_wishlist_config
+from data.wishlist_configs import get_wishlist_config
 
 # Import helper function to grab origin trait hashes
-from scripts.get_origin_traits import get_origin_traits
+from helper_scripts.get_origin_traits import get_origin_traits
 
 # Import helper functions for getting voltron data
-from scripts.extract_voltron_data import (
+from helper_scripts.extract_voltron_data import (
     extract_authors,
     extract_tags,
     extract_voltron_data,
 )
-from scripts.write_to_wishlists import write_to_wishlists
+from helper_scripts.write_to_wishlists import write_to_wishlists
 
 
 def main():
@@ -30,6 +30,7 @@ def main():
         # Keys for wishlist config #
         ############################
         "PATH_KEY": "path",
+        "WISHLIST_DIR": "./wishlists/",
         "CREDIT_KEY": "credits",
         "CREDIT_TAG": "credits",
         "AUTHOR_KEY": "author",
@@ -54,6 +55,7 @@ def main():
     # Pass helper keys to get wishlist configs with matching keys
     WISHLIST_CONFIGS = get_wishlist_config(
         helper["PATH_KEY"],
+        helper["WISHLIST_DIR"],
         helper["AUTHOR_KEY"],
         helper["INC_TAG_KEY"],
         helper["EXC_TAG_KEY"],
