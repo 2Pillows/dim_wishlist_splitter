@@ -1,7 +1,54 @@
+/* Light mode */
+:root {
+    --body-background-color: #ffffff;
+    --text-color: #15141a; 
+    --section-background-color: #f9f9fa; 
+    --accent-color: #0060df; 
+    --button-text-color: #15141a;
+    --button-default-color: #e0e0e6;
+    --button-include-color: rgb(127, 252, 127);
+    --button-exclude-color: rgb(250, 124, 124);
+
+    --github-mark: url('icons/github-mark.png');
+}
+
+ 
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --body-background-color: #2b2a33;
+        --text-color: #ffffff; 
+        --section-background-color: #3a3944; 
+        --accent-color: #80c8f6; 
+        --button-text-color: #15141a;
+        --button-default-color: #e0e0e6;
+        --button-include-color: rgb(127, 252, 127);
+        --button-exclude-color: rgb(250, 124, 124);
+
+        --github-mark: url('icons/github-mark-white.png');
+    }
+}
+
+
+ 
+ /* Dark mode */
+ /* @media (prefers-color-scheme: dark) {
+    :root {
+        --body-background-color: #121212;
+        --text-color: #ffffff; 
+        --section-background-color: #1e1e1e; 
+        --accent-color: #3498db; 
+        --button-default-color: white;
+        --button-include-color: rgb(127, 252, 127);
+        --button-exclude-color: rgb(250, 124, 124);
+    }
+ } */
+
+
 /* Global Styles */
 body {
-    color: #eee;
-    background: #121212;
+    color: var(--text-color);
+    background: var(--body-background-color);
     margin: 0px auto; 
     max-width: 80%;
 }
@@ -14,12 +61,18 @@ header {
 
     border-style: solid;
     padding-left: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    background-color: var(--section-background-color);
 }
 
 .github-link {
     padding-right: 10px;
     width: 50px;
+}
+
+#github-logo {
+    content: var(--github-mark);
 }
 
 /* Main Container */
@@ -35,7 +88,11 @@ header {
     float: left;
     margin-right: 20px;
     /* flex-grow: 1; */
-    max-width: 25%;
+    max-width: 290px;
+    min-width: 290px;
+    /* max-width: 25%;
+    min-width: 225px; */
+    background-color: var(--section-background-color);
 }
 
 .filter-options {
@@ -51,6 +108,7 @@ header {
     padding: 10px;
     float: inline-start;
     flex-grow: 1;
+    background-color: var(--section-background-color);
 }
 
 .wishlist-text {
@@ -66,11 +124,12 @@ header {
 }
 
 a {
-    color: #809fff;
+    color: var(--accent-color);
 }
 
 /* Filter Button */
 .filter-button {
+    color: var(--button-text-color);
     align-items: center;
     border-radius: 24px;
     border-style: none;
@@ -83,15 +142,15 @@ a {
 
 /* Handle button states */
 .default-btn {
-    background-color: white;
+    background-color: var(--button-default-color);
 }
 
 .include-btn {
-    background-color: rgb(127, 252, 127);
+    background-color: var(--button-include-color);
 }
 
 .exclude-btn {
-    background-color: rgb(250, 124, 124);
+    background-color: var(--button-exclude-color);
 }
 
 
