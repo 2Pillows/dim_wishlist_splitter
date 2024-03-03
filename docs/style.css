@@ -1,13 +1,21 @@
 /* Light mode */
 :root {
-    --body-background-color: #ffffff;
-    --text-color: #15141a; 
-    --section-background-color: #f9f9fa; 
-    --accent-color: #0060df; 
-    --button-text-color: #15141a;
-    --button-default-color: #e0e0e6;
-    --button-include-color: rgb(127, 252, 127);
-    --button-exclude-color: rgb(250, 124, 124);
+    /* Slate 50 */
+    --body-background-color: #f8fafc;
+    /* Slate 950 */
+    --text-color: #020617; 
+    /* Zinc 200 */
+    --section-background-color: #e4e4e7; 
+    /* Blue 600 */
+    --accent-color: #2563eb; 
+    /* Stone 950 */
+    --button-text-color: #0c0a09;
+    /* Slate 50 */
+    --button-default-color: #f8fafc;
+    /* Green 400 */
+    --button-include-color: #4ade80;
+    /* Red 400 */
+    --button-exclude-color: #f87171;
 
     --github-mark: url('icons/github-mark.png');
 }
@@ -16,33 +24,26 @@
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
     :root {
-        --body-background-color: #2b2a33;
-        --text-color: #ffffff; 
-        --section-background-color: #3a3944; 
-        --accent-color: #80c8f6; 
-        --button-text-color: #15141a;
-        --button-default-color: #e0e0e6;
-        --button-include-color: rgb(127, 252, 127);
-        --button-exclude-color: rgb(250, 124, 124);
+        /* Slate 950 */
+        --body-background-color: #020617;
+        /* Slate 50 */
+        --text-color: #f8fafc; 
+        /* Zinc 800 */
+        --section-background-color: #27272a; 
+        /* Blue 400 */
+        --accent-color: #60a5fa; 
+        /* Stone 950 */
+        --button-text-color: #0c0a09;
+        /* Slate 50 */
+        --button-default-color: #f8fafc;
+        /* Green 400 */
+        --button-include-color: #4ade80;
+        /* Red 400 */
+        --button-exclude-color: #f87171;
 
         --github-mark: url('icons/github-mark-white.png');
     }
 }
-
-
- 
- /* Dark mode */
- /* @media (prefers-color-scheme: dark) {
-    :root {
-        --body-background-color: #121212;
-        --text-color: #ffffff; 
-        --section-background-color: #1e1e1e; 
-        --accent-color: #3498db; 
-        --button-default-color: white;
-        --button-include-color: rgb(127, 252, 127);
-        --button-exclude-color: rgb(250, 124, 124);
-    }
- } */
 
 
 /* Global Styles */
