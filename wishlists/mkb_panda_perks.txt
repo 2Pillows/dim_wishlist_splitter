@@ -1,6 +1,34 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:RNGeez Guardian Games Breakdown (2024)
+description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
+
+// Taraxippos
+//notes:pandapaxxy (PvE / M+KB / Controller): "We [probably] have a scout in our vault we use for PvE. Do we need another? Well technically no. Taraxippos doesn’t do anything another scout couldn’t do equally or better. If you somehow don’t have one, then yeah. Grind yourself one out this Guardian Games. It’s easy to get and you’ll probably have more than you know what to do with." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=1354429876,555281244
+
+// Taraxippos
+//notes:pandapaxxy (PvP / M+KB): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Handling.|tags:pvp,mkb
+dimwishlist:item=3007479950&perks=3828510309,1015611457
+
+// The Title
+//notes:pandapaxxy (PvE / M+KB / Controller): "Void mains rejoice. I don’t think anyone is surprised to see this pick. Smallbore plus ricochet rounds boosts your stability and range enough to not worry about engagement ranges and compete with auto rifles. The extra overshield and add clearing capabilities will also allow you to allocate different fragments into your builds." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=776531651,2048641572
+
+// The Title
+//notes:pandapaxxy (PvP / M+KB / Controller): "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there’s also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it’s less than stellar." Recommended MW: Range (M+KB) / Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1359896290,4082225868
+
+// Hullabaloo
+//notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=968510818,3751912585
+
+// Hullabaloo
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=657927352&perks=951095735,1683379515
+dimwishlist:item=657927352&perks=951095735,3871884143
+
 @title:Season 23 World Drop weapons
 @description:Season of the Wish world weapon drops
 

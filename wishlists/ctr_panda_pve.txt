@@ -1,6 +1,21 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:RNGeez Guardian Games Breakdown (2024)
+description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
+
+// Taraxippos
+//notes:pandapaxxy (PvE / M+KB / Controller): "We [probably] have a scout in our vault we use for PvE. Do we need another? Well technically no. Taraxippos doesn’t do anything another scout couldn’t do equally or better. If you somehow don’t have one, then yeah. Grind yourself one out this Guardian Games. It’s easy to get and you’ll probably have more than you know what to do with." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,106909392,1354429876,555281244
+
+// The Title
+//notes:pandapaxxy (PvE / M+KB / Controller): "Void mains rejoice. I don’t think anyone is surprised to see this pick. Smallbore plus ricochet rounds boosts your stability and range enough to not worry about engagement ranges and compete with auto rifles. The extra overshield and add clearing capabilities will also allow you to allocate different fragments into your builds." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,2048641572
+
+// Hullabaloo
+//notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
+
 @title:Season 23 World Drop weapons
 @description:Season of the Wish world weapon drops
 
