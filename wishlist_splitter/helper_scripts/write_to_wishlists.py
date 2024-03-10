@@ -123,6 +123,7 @@ def process_perks(voltron_data, helper, DESIRED_PERK_COUNT):
         base_perks = convert_hash_to_string(base_hashes, roll_id)
         filtereded_perks = convert_hash_to_string(filtered_hashes, roll_id)
         base_filtered_hashes = convert_hash_to_string(base_filtered_hashes, roll_id)
+
         roll[helper["BASE_PERK_KEY"]] = base_perks
         roll[helper["FILTERED_PERK_KEY"]] = filtereded_perks
         roll[helper["BASE_FILTERED_PERK_KEY"]] = base_filtered_hashes
