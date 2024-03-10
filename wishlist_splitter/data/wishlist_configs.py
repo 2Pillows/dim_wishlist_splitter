@@ -1,132 +1,143 @@
 # wishlist_configs.py
 
+# Import for type hints and intellisense
+from typing import TYPE_CHECKING, List
 
-def get_wishlist_config(
-    PATH_KEY,
-    WISHLIST_DIR,
-    AUTHOR_KEY,
-    INC_TAG_KEY,
-    EXC_TAG_KEY,
-    PERK_KEY,
-    DUPE_PERKS_KEY,
-):
+if TYPE_CHECKING:
+    from main import Keys
+
+
+def get_wishlist_config(keys: "Keys"):
+    FILE_NAME = keys.PATH_KEY
+    WISHLIST_DIR = keys.WISHLIST_DIR
+    AUTHOR_NAME = keys.AUTHOR_KEY
+    INCLUDE_TAGS = keys.INC_TAG_KEY
+    EXCLUDE_TAGS = keys.EXC_TAG_KEY
+    LIMIT_PERKS = keys.PERK_KEY
+    REQUIRE_DUPLICATES = keys.DUPE_PERKS_KEY
+
     # Array of Wishlists Configs
     wishlist_configs = [
+        # -------------------------------------------
         # No Filters
-        {PATH_KEY: "all.txt"},
+        {FILE_NAME: "all.txt"},
         # -------------------------------------------
         # Gamemdoe filters
-        {INC_TAG_KEY: ["pve"], PATH_KEY: "pve.txt"},
-        {INC_TAG_KEY: ["pvp"], PATH_KEY: "pvp.txt"},
+        {INCLUDE_TAGS: ["pve"], FILE_NAME: "pve.txt"},
+        {INCLUDE_TAGS: ["pvp"], FILE_NAME: "pvp.txt"},
         # -------------------------------------------
         # Input filters
-        {INC_TAG_KEY: ["mkb"], PATH_KEY: "mkb.txt"},
-        {INC_TAG_KEY: ["controller"], PATH_KEY: "ctr.txt"},
+        {INCLUDE_TAGS: ["mkb"], FILE_NAME: "mkb.txt"},
+        {INCLUDE_TAGS: ["controller"], FILE_NAME: "ctr.txt"},
         # -------------------------------------------
         # Perks
-        {INC_TAG_KEY: ["mkb"], PERK_KEY: True, PATH_KEY: "mkb_perks.txt"},
+        {INCLUDE_TAGS: ["mkb"], LIMIT_PERKS: True, FILE_NAME: "mkb_perks.txt"},
         {
-            INC_TAG_KEY: ["controller"],
-            PERK_KEY: True,
-            PATH_KEY: "ctr_perks.txt",
+            INCLUDE_TAGS: ["controller"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "ctr_perks.txt",
         },
         # -------------------------------------------
         # Perks and Dupes
         {
-            INC_TAG_KEY: ["mkb"],
-            PERK_KEY: True,
-            DUPE_PERKS_KEY: True,
-            PATH_KEY: "mkb_perks_dupes.txt",
+            INCLUDE_TAGS: ["mkb"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "mkb_perks_dupes.txt",
         },
         {
-            INC_TAG_KEY: ["controller"],
-            PERK_KEY: True,
-            DUPE_PERKS_KEY: True,
-            PATH_KEY: "ctr_perks_dupes.txt",
+            INCLUDE_TAGS: ["controller"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_perks_dupes.txt",
         },
         # -------------------------------------------
         # Input and Gamemode filters
-        {INC_TAG_KEY: ["mkb", "pve"], PATH_KEY: "mkb_pve.txt"},
-        {INC_TAG_KEY: ["mkb", "pvp"], PATH_KEY: "mkb_pvp.txt"},
-        {INC_TAG_KEY: ["controller", "pve"], PATH_KEY: "ctr_pve.txt"},
-        {INC_TAG_KEY: ["controller", "pvp"], PATH_KEY: "ctr_pvp.txt"},
+        {INCLUDE_TAGS: ["mkb", "pve"], FILE_NAME: "mkb_pve.txt"},
+        {INCLUDE_TAGS: ["mkb", "pvp"], FILE_NAME: "mkb_pvp.txt"},
+        {INCLUDE_TAGS: ["controller", "pve"], FILE_NAME: "ctr_pve.txt"},
+        {INCLUDE_TAGS: ["controller", "pvp"], FILE_NAME: "ctr_pvp.txt"},
         # -------------------------------------------
         # Pandapaxxy filters
-        {AUTHOR_KEY: ["pandapaxxy"], PATH_KEY: "panda.txt"},
+        {AUTHOR_NAME: ["pandapaxxy"], FILE_NAME: "panda.txt"},
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["mkb"],
-            PATH_KEY: "mkb_panda.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["mkb"],
+            FILE_NAME: "mkb_panda.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["mkb", "pve"],
-            PATH_KEY: "mkb_panda_pve.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["mkb", "pve"],
+            FILE_NAME: "mkb_panda_pve.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["mkb", "pvp"],
-            PATH_KEY: "mkb_panda_pvp.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["mkb", "pvp"],
+            FILE_NAME: "mkb_panda_pvp.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["controller"],
-            PATH_KEY: "ctr_panda.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["controller"],
+            FILE_NAME: "ctr_panda.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["controller", "pve"],
-            PATH_KEY: "ctr_panda_pve.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["controller", "pve"],
+            FILE_NAME: "ctr_panda_pve.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["controller", "pvp"],
-            PATH_KEY: "ctr_panda_pvp.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["controller", "pvp"],
+            FILE_NAME: "ctr_panda_pvp.txt",
         },
         {
-            AUTHOR_KEY: ["pandapaxxy"],
-            INC_TAG_KEY: ["mkb"],
-            PERK_KEY: True,
-            PATH_KEY: "mkb_panda_perks.txt",
+            AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["mkb"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_panda_perks.txt",
         },
         # -------------------------------------------
         # God filters
-        {INC_TAG_KEY: ["mkb", "god"], PATH_KEY: "mkb_god.txt"},
+        {INCLUDE_TAGS: ["mkb", "god"], FILE_NAME: "mkb_god.txt"},
         # -------------------------------------------
         # Exclude backup rolls filters
         {
-            INC_TAG_KEY: ["mkb"],
-            EXC_TAG_KEY: ["backup"],
-            PATH_KEY: "mkb_!backup.txt",
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            FILE_NAME: "mkb_!backup.txt",
         },
         {
-            INC_TAG_KEY: ["mkb"],
-            EXC_TAG_KEY: ["backup"],
-            PERK_KEY: True,
-            PATH_KEY: "mkb_!backup_perks.txt",
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_!backup_perks.txt",
         },
         {
-            INC_TAG_KEY: ["mkb"],
-            EXC_TAG_KEY: ["backup"],
-            PERK_KEY: True,
-            DUPE_PERKS_KEY: True,
-            PATH_KEY: "mkb_!backup_perks_dupes.txt",
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "mkb_!backup_perks_dupes.txt",
         },
     ]
 
     # Iterate through the list of dictionaries
     for wishlist in wishlist_configs:
-        wishlist[PATH_KEY] = WISHLIST_DIR + wishlist[PATH_KEY]
-        if INC_TAG_KEY in wishlist and wishlist[INC_TAG_KEY] is not None:
-            transform_tags(wishlist[INC_TAG_KEY])
+        # Add directory to file path
+        wishlist[FILE_NAME] = WISHLIST_DIR + wishlist[FILE_NAME]
 
-        if EXC_TAG_KEY in wishlist and wishlist[EXC_TAG_KEY] is not None:
-            transform_tags(wishlist[EXC_TAG_KEY])
+        # Extend include and exclude tags
+        if INCLUDE_TAGS in wishlist and wishlist[INCLUDE_TAGS] is not None:
+            transform_tags(wishlist[INCLUDE_TAGS])
+
+        if EXCLUDE_TAGS in wishlist and wishlist[EXCLUDE_TAGS] is not None:
+            transform_tags(wishlist[EXCLUDE_TAGS])
 
     return wishlist_configs
 
 
-def transform_tags(tag_list):
+# Extend tags to catch all rolls
+def transform_tags(tag_list: List[str]):
     # Handle tag transformations
     tag_transformations = {
         "god": {"pve-god", "god-pve", "must have pve", "first-choice roll"},
