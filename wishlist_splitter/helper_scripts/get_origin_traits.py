@@ -4,7 +4,7 @@ import json
 #####################################
 # Takes data from origin_traits.txt #
 #####################################
-def get_origin_traits(file_path):
+def get_origin_traits(file_path: str):
     # Empty array to hold origin trait hashes
     origin_traits = []
 
