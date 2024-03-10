@@ -5,7 +5,7 @@ import copy
 import re
 
 # Import for type hints and intellisense
-from typing import TYPE_CHECKING, List, Dict, IO
+from typing import TYPE_CHECKING, List, Dict
 
 if TYPE_CHECKING:
     from main import Keys
