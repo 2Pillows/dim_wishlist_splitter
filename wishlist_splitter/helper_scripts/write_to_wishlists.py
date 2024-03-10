@@ -34,6 +34,7 @@ def process_data(voltron_data, helper):
     add_default_tags(voltron_data, helper)
 
     # Set extra perk values for each roll
+    # Assumes that if one extra perk is found in a hash set, all hashes have extra perk
     process_extra_perks(voltron_data, helper, MAX_BASE_PERKS)
 
     # Set base and filtered perks for each roll
@@ -56,23 +57,23 @@ def add_default_tags(voltron_data, helper):
 
 # Set extra perk values for each roll
 def process_extra_perks(voltron_data, helper, MAX_BASE_PERKS):
-    # Check if any extra perk is in roll
+    # Check if any roll has an extra perk
     for roll in voltron_data:
         perk_hashes, perk_ids = get_perk_list(roll, helper)
 
+        # Assume there are no extra perks in roll
+        roll[helper["EXTRA_PERK_KEY"]] = False
+
+        # Edge case of no hashes
         if not perk_hashes:
-            roll[helper["EXTRA_PERK_KEY"]] = False
             continue
 
         # Check if any perk is in extra_perks in voltron
         # or origin_traits from https://data.destinysets.com
-        if any(
-            any(hash_val in helper["ORIGIN_TRAITS"] for hash_val in hash_list)
-            for hash_list in perk_hashes
-        ):
-            roll[helper["EXTRA_PERK_KEY"]] = True
-        else:
-            roll[helper["EXTRA_PERK_KEY"]] = False
+        for hash_list in perk_hashes:
+            # for each line of hashes check if last hash is an origin trait
+            if hash_list[-1] in helper["ORIGIN_TRAITS"]:
+                roll[helper["EXTRA_PERK_KEY"]] = True
 
 
 # Transform perks in roll from a string to an array of hashes and the string before hashes
@@ -98,8 +99,11 @@ def get_perk_list(roll, helper):
 def process_perks(voltron_data, helper, DESIRED_PERK_COUNT):
     for roll in voltron_data:
         perk_hashes, roll_id = get_perk_list(roll, helper)
+        # Hashes with no modifications
         base_hashes = perk_hashes.copy()
+        # Hashes with only 3rd, 4th, and extra perks
         filtered_hashes = perk_hashes.copy()
+        # Hashes with only 3rd, and 4th perks
         base_filtered_hashes = perk_hashes.copy()
 
         for index in range(len(perk_hashes)):
