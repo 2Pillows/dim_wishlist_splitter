@@ -63,15 +63,16 @@ def process_extra_perks(voltron_data, helper, MAX_BASE_PERKS):
         if not perk_hashes:
             roll[helper["EXTRA_PERK_KEY"]] = False
             continue
-        for hash_list in perk_hashes:
-            # Check if any perk is in extra_perks in voltron
-            # or origin_traits from https://data.destinysets.com
-            if any(hash in helper["ORIGIN_TRAITS"] for hash in hash_list):
-                roll[helper["EXTRA_PERK_KEY"]] = True
-                continue
+
+        # Check if any perk is in extra_perks in voltron
+        # or origin_traits from https://data.destinysets.com
+        if any(
+            any(hash_val in helper["ORIGIN_TRAITS"] for hash_val in hash_list)
+            for hash_list in perk_hashes
+        ):
+            roll[helper["EXTRA_PERK_KEY"]] = True
         else:
             roll[helper["EXTRA_PERK_KEY"]] = False
-            continue
 
 
 # Transform perks in roll from a string to an array of hashes and the string before hashes
@@ -105,8 +106,8 @@ def process_perks(voltron_data, helper, DESIRED_PERK_COUNT):
             extra_perk = ""
             if roll.get(helper["EXTRA_PERK_KEY"]):
                 extra_perk = base_hashes[index].pop()
-                filtered_hashes[index].pop()
-                base_filtered_hashes[index].pop()
+                # filtered_hashes[index].pop()
+                # base_filtered_hashes[index].pop()
             if len(perk_hashes[index]) > DESIRED_PERK_COUNT:
                 filtered_hashes[index] = filtered_hashes[index][-DESIRED_PERK_COUNT:]
                 base_filtered_hashes[index] = filtered_hashes[index][
