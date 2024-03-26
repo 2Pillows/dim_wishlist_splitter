@@ -1700,6 +1700,9 @@ dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
 dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,1683379515
 dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,3871884143
 
+@title:Reprised and new Guardian Games 2024 weapons
+@description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
+
 @title:Season 23 World Drop weapons
 @description:Season of the Wish world weapon drops
 

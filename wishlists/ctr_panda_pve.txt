@@ -1081,6 +1081,9 @@ dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,2048641572
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
 dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
 
+@title:Reprised and new Guardian Games 2024 weapons
+@description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
+
 @title:Season 23 World Drop weapons
 @description:Season of the Wish world weapon drops
 

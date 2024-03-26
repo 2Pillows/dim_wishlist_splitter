@@ -10,6 +10,9 @@ description:https://www.reddit.com/r/sharditkeepit/comments/1biv6ta/march_update
 title:RNGeez Guardian Games Breakdown (2024)
 description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
 
+@title:Reprised and new Guardian Games 2024 weapons
+@description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
+
 @title:Season 23 World Drop weapons
 @description:Season of the Wish world weapon drops
 
