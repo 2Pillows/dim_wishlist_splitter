@@ -1,6 +1,9 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:Pandapaxxy S23 Into the Light Weapon Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/1c5qp1y/into_the_light_breakdown/
+
 title:Pandapaxxy S23 March Update Weapon Breakdown
 description:https://www.reddit.com/r/sharditkeepit/comments/1biv6ta/march_update_weapon_breakdown/
 
