@@ -99,6 +99,7 @@ def get_wishlist_config(keys: "Keys"):
         # -------------------------------------------
         # God filters
         {INCLUDE_TAGS: ["mkb", "god"], FILE_NAME: "mkb_god.txt"},
+        {INCLUDE_TAGS: ["controller", "god"], FILE_NAME: "ctr_god.txt"},
         # -------------------------------------------
         # Exclude backup rolls filters
         {
@@ -118,6 +119,24 @@ def get_wishlist_config(keys: "Keys"):
             LIMIT_PERKS: True,
             REQUIRE_DUPLICATES: True,
             FILE_NAME: "mkb_!backup_perks_dupes.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            FILE_NAME: "ctr_!backup.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "ctr_!backup_perks.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_!backup_perks_dupes.txt",
         },
     ]
 
@@ -140,7 +159,7 @@ def get_wishlist_config(keys: "Keys"):
 def transform_tags(tag_list: List[str]):
     # Handle tag transformations
     tag_transformations = {
-        "god": {"pve-god", "god-pve", "must have pve", "first-choice roll"},
+        # "god": {"god"},
         "backup": {"backup roll", "backup choice roll"},
     }
     for tag, transformed_tags in tag_transformations.items():
