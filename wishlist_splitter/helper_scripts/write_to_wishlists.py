@@ -173,6 +173,8 @@ def write_data_to_config(
 
     # Can clean b4 and use mode="a"
     with open(config_path, mode="w", encoding="utf-8") as config_file:
+        config_file.write("title:" + config_path.replace("./wishlists/", "") + " - ")
+
         batch = []
 
         for roll in voltron_data:

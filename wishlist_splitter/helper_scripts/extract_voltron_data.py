@@ -110,6 +110,10 @@ def process_rolls(
     if dim_item_id in line_lower:
         current_roll[keys.PERK_KEY].append(line)
     else:
+        # Remove title in heading, replaced with file name
+        if "title:This is a compiled collection" in line:
+            line = line.replace("title:", "")
+
         current_roll[keys.DESCRIPTION_KEY].append(line)
 
         # Collect tags for roll
