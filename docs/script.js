@@ -135,6 +135,26 @@ const wishlists = [
     tags: "mkb_!backup_perks_dupes_pve_pvp",
     link: "mkb_!backup_perks_dupes.txt",
   },
+  {
+    label: "CTR_God",
+    tags: "ctr_god_pve_pvp",
+    link: "ctr_god.txt",
+  },
+  {
+    label: "CTR_!Backups",
+    tags: "ctr_!backup_pve_pvp",
+    link: "ctr_!backup.txt",
+  },
+  {
+    label: "CTR_!Backups_Perks",
+    tags: "ctr_!backup_perks_pve_pvp",
+    link: "ctr_!backup_perks.txt",
+  },
+  {
+    label: "CTR_!Backups_Perks_Dupes",
+    tags: "ctr_!backup_perks_dupes_pve_pvp",
+    link: "ctr_!backup_perks_dupes.txt",
+  },
 ];
 
 // Setup onClick for buttons
