@@ -149,24 +149,32 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     brackets_pattern = r"\[([^[\]]+(\[([^[\]]+)\][^[\]]*)*)\]"
     brackets_matches = re.findall(brackets_pattern, line_lower)
 
+    # Convert matches to strings
+    parentheses_matches = [match[0] for match in parentheses_matches]
+    brackets_matches = [match[0] for match in brackets_matches]
+
+    # Combine both matches
+    grouped_text = "".join(parentheses_matches + brackets_matches)
+
     # All text after tags:
     tags_start = line_lower.find("tags:")
     tags_text = ""
     if tags_start != -1:
-        tags_text = line_lower[tags_start + len("tags:") :].strip()
+        tags_text = line_lower[tags_start:].replace("tags:", "").strip()
 
-    # Combine all viable sections of line
-    combined_text = ""
+    # Combine all valuable sections of line
+    valuable_text = tags_text if len(tags_text) > 0 else grouped_text
     # Extract matched groups from parentheses_matches and brackets_matches
-    matched_groups = [group[0] for group in parentheses_matches] + [
-        group[0] for group in brackets_matches
-    ]
-    # Append the text from matched_groups and tags_text to combined_text
-    combined_text += " ".join(matched_groups + [tags_text])
+    # matched_groups = grouped_text
+    # # Append the text from matched_groups and tags_text to valuable_text
+    # valuable_text += " ".join(matched_groups + [tags_text])
+
+    if len(valuable_text) <= 0:
+        return
 
     # Collect tags if any present
     for tag in keys.ALL_TAGS:
-        if tag in combined_text:
+        if tag in valuable_text:
             if tag in keys.INC_TAGS and tag not in current_roll[keys.INC_TAG_KEY]:
                 current_roll[keys.INC_TAG_KEY].append(tag)
             elif tag in keys.EXC_TAGS and tag not in current_roll[keys.EXC_TAG_KEY]:
