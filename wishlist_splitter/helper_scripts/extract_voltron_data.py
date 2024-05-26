@@ -142,18 +142,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     line_lower = line_lower.replace("m+kb", "mkb")
 
     # All text between '(...)'
-    # parentheses_pattern = r"\([^()]*\)"
-    # parentheses_matches = re.findall(parentheses_pattern, line_lower)
     parenthesis_content = find_outer_content(line_lower, "(", ")")
 
     # All text between '[...]'
-    # brackets_pattern = r"\[([^[\]]+(\[([^[\]]+)\][^[\]]*)*)\]"
-    # brackets_matches = re.findall(brackets_pattern, line_lower)
     bracket_content = find_outer_content(line_lower, "[", "]")
-
-    # Convert matches to strings
-    # parentheses_matches = [match[0] for match in parentheses_matches]
-    # brackets_matches = [match[0] for match in brackets_matches]
 
     # Combine both matches
     grouped_text = " ".join(parenthesis_content + bracket_content)
