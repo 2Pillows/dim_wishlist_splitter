@@ -25,6 +25,7 @@ from helper_scripts.write_to_wishlists import write_to_wishlists
 class Keys:
     # Path of voltron file
     VOLTRON_PATH = "./wishlist_splitter/data/dim-wish-list-sources/voltron.txt"
+    # VOLTRON_PATH = "./wishlist_splitter/data/test.txt"
     # Path to origin trait file
     ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/origin_traits/origin_traits.txt"
     ############################

@@ -142,19 +142,21 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     line_lower = line_lower.replace("m+kb", "mkb")
 
     # All text between '(...)'
-    parentheses_pattern = r"\(([^()]+(\(([^()]+)\)[^()]*)*)\)"
-    parentheses_matches = re.findall(parentheses_pattern, line_lower)
+    # parentheses_pattern = r"\([^()]*\)"
+    # parentheses_matches = re.findall(parentheses_pattern, line_lower)
+    parenthesis_content = find_outer_content(line_lower, "(", ")")
 
     # All text between '[...]'
-    brackets_pattern = r"\[([^[\]]+(\[([^[\]]+)\][^[\]]*)*)\]"
-    brackets_matches = re.findall(brackets_pattern, line_lower)
+    # brackets_pattern = r"\[([^[\]]+(\[([^[\]]+)\][^[\]]*)*)\]"
+    # brackets_matches = re.findall(brackets_pattern, line_lower)
+    bracket_content = find_outer_content(line_lower, "[", "]")
 
     # Convert matches to strings
-    parentheses_matches = [match[0] for match in parentheses_matches]
-    brackets_matches = [match[0] for match in brackets_matches]
+    # parentheses_matches = [match[0] for match in parentheses_matches]
+    # brackets_matches = [match[0] for match in brackets_matches]
 
     # Combine both matches
-    grouped_text = "".join(parentheses_matches + brackets_matches)
+    grouped_text = " ".join(parenthesis_content + bracket_content)
 
     # All text after tags:
     tags_start = line_lower.find("tags:")
@@ -162,13 +164,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     if tags_start != -1:
         tags_text = line_lower[tags_start:].replace("tags:", "").strip()
 
-    # Combine all valuable sections of line
+    # Valuable text is either tags or grouped text if no tags
     valuable_text = tags_text if len(tags_text) > 0 else grouped_text
-    # Extract matched groups from parentheses_matches and brackets_matches
-    # matched_groups = grouped_text
-    # # Append the text from matched_groups and tags_text to valuable_text
-    # valuable_text += " ".join(matched_groups + [tags_text])
 
+    # Return if no valuable text
     if len(valuable_text) <= 0:
         return
 
@@ -179,3 +178,28 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
                 current_roll[keys.INC_TAG_KEY].append(tag)
             elif tag in keys.EXC_TAGS and tag not in current_roll[keys.EXC_TAG_KEY]:
                 current_roll[keys.EXC_TAG_KEY].append(tag)
+
+
+# Find outer content of a line given the open and closing delimiters
+def find_outer_content(line: str, open_delim: str, close_delim: str):
+    stack = []
+    content = []
+    content_start = -1
+
+    for i, char in enumerate(line):
+        if char == open_delim:
+            # If open delim and no stack present, new content
+            if not stack:
+                content_start = i
+            # Open delim but inside content
+            stack.append(char)
+        elif char == close_delim:
+            # Close delim and last delim was open, then pop to close
+            if stack and stack[-1] == open_delim:
+                stack.pop()
+                # If pop removed last stack open and starting index present outer content found, add to content
+                if not stack and content_start != -1:
+                    content.append(line[content_start + 1 : i])
+                    content_start = -1
+
+    return content
