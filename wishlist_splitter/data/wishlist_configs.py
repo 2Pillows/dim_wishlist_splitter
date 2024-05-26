@@ -102,6 +102,7 @@ def get_wishlist_config(keys: "Keys"):
         {INCLUDE_TAGS: ["controller", "god"], FILE_NAME: "ctr_god.txt"},
         # -------------------------------------------
         # Exclude backup rolls filters
+        # --- MKB
         {
             INCLUDE_TAGS: ["mkb"],
             EXCLUDE_TAGS: ["backup"],
@@ -120,6 +121,20 @@ def get_wishlist_config(keys: "Keys"):
             REQUIRE_DUPLICATES: True,
             FILE_NAME: "mkb_!backup_perks_dupes.txt",
         },
+        {
+            INCLUDE_TAGS: ["mkb", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_pve_!backup_perks.txt",
+        },
+        {
+            INCLUDE_TAGS: ["mkb", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "mkb_pve_!backup_perks_dupes.txt",
+        },
+        # --- Controller
         {
             INCLUDE_TAGS: ["controller"],
             EXCLUDE_TAGS: ["backup"],

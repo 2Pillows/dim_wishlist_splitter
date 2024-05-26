@@ -136,6 +136,16 @@ const wishlists = [
     link: "mkb_!backup_perks_dupes.txt",
   },
   {
+    label: "MKB_PvE_!Backups_Perks",
+    tags: "mkb_pve_!backup_perks_pve_pvp",
+    link: "mkb_pve_!backup_perks.txt",
+  },
+  {
+    label: "MKB_PvE_!Backups_Perks_Dupes",
+    tags: "mkb_pve_!backup_perks_dupes_pve_pvp",
+    link: "mkb_pve_!backup_perks_dupes.txt",
+  },
+  {
     label: "CTR_God",
     tags: "ctr_god_pve_pvp",
     link: "ctr_god.txt",
