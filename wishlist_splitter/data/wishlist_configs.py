@@ -153,6 +153,18 @@ def get_wishlist_config(keys: "Keys"):
             REQUIRE_DUPLICATES: True,
             FILE_NAME: "ctr_!backup_perks_dupes.txt",
         },
+        {
+            INCLUDE_TAGS: ["controller", "pvp"],
+            EXCLUDE_TAGS: ["backup"],
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_pvp_!backup_dupes.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_pve_!backup_dupes.txt",
+        },
     ]
 
     # Iterate through the list of dictionaries
