@@ -166,12 +166,12 @@ const wishlists = [
     link: "ctr_!backup_perks_dupes.txt",
   },
   {
-    label: "CTR_PVP_!Backups_Dupes",
+    label: "CTR_PvP_!Backups_Dupes",
     tags: "ctr_pvp_!backup_dupes",
     link: "ctr_pvp_!backup_dupes.txt",
   },
   {
-    label: "CTR_PVE_!Backups_Dupes",
+    label: "CTR_PvE_!Backups_Dupes",
     tags: "ctr_pve_!backup_dupes",
     link: "ctr_pve_!backup_dupes.txt",
   },
