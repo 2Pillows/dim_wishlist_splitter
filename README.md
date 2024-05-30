@@ -10,7 +10,7 @@ Collects origin traits from Destiny Data Explorer (https://data.destinysets.com/
 
 Create an issue using the Wishlist Request template. Edit the template to configure your desired wishlist. 
 
-All available filter options are on the template. If a filter option is not on the template, create an issue describing the filter you'd like to add.
+All available filter options are on the template. If a filter option is not on the template, create an issue using the Filter Request template.
 
 #### Adding a Wishlist to DIM
 
