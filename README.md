@@ -6,11 +6,9 @@ Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.
 
 Collects origin traits from Destiny Data Explorer (https://data.destinysets.com/).
 
-#### Requesting a Wishlist
+#### Filter Descriptions
 
-Create an issue using the Wishlist Request template. Edit the template to configure your desired wishlist. 
-
-All available filter options are on the template. If a filter option is not on the template, create an issue using the Filter Request template.
+For more details about filters and how they work: https://github.com/2Pillows/dim_wishlist_splitter/blob/main/wishlists/README.md
 
 #### Adding a Wishlist to DIM
 
@@ -21,3 +19,9 @@ DIM needs the URL for the raw version of a wishlist file. There are two ways to 
    - Copy from the repository: https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists.
 
         After finding the desired wishlist, click "View raw" to get the raw URL.
+
+#### Requesting a Wishlist
+
+Create an issue using the Wishlist Request template. Edit the template to configure your desired wishlist. 
+
+All available filter options are on the template. If a filter option is not on the template, create an issue using the Filter Request template.
