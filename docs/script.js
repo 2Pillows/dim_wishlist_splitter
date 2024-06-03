@@ -71,7 +71,7 @@ const wishlists = [
     link: "mkb_!backup_perks_dupes.txt",
   },
 
-  // Mouse and Keyboard PvE
+  // Mouse and Keyboard, PvE
   {
     label: "MKB_PvE",
     tags: "mkb_pve",
@@ -93,7 +93,7 @@ const wishlists = [
     link: "mkb_pve_!backup_perks_dupes.txt",
   },
 
-  // Mouse and Keyboard PvP
+  // Mouse and Keyboard, PvP
   {
     label: "MKB_PvP",
     tags: "mkb_pvp",
@@ -139,7 +139,7 @@ const wishlists = [
     link: "ctr_!backup_perks_dupes.txt",
   },
 
-  // Controller PvE
+  // Controller, PvE
   {
     label: "CTR_PvE",
     tags: "ctr_pve",
@@ -151,7 +151,7 @@ const wishlists = [
     link: "ctr_pve_!backup_dupes.txt",
   },
 
-  // Controller PvP
+  // Controller, PvP
   {
     label: "CTR_PvP",
     tags: "ctr_pvp",
