@@ -22,28 +22,67 @@ def get_wishlist_config(keys: "Keys"):
         # No Filters
         {FILE_NAME: "all.txt"},
         # -------------------------------------------
-        # Gamemdoe filters
+        # Any Input
         {INCLUDE_TAGS: ["pve"], FILE_NAME: "pve.txt"},
         {INCLUDE_TAGS: ["pvp"], FILE_NAME: "pvp.txt"},
         # -------------------------------------------
-        # Input filters
+        # Mouse and Keyboard
         {INCLUDE_TAGS: ["mkb"], FILE_NAME: "mkb.txt"},
-        {INCLUDE_TAGS: ["controller"], FILE_NAME: "ctr.txt"},
-        # -------------------------------------------
-        # Perks
         {INCLUDE_TAGS: ["mkb"], LIMIT_PERKS: True, FILE_NAME: "mkb_perks.txt"},
-        {
-            INCLUDE_TAGS: ["controller"],
-            LIMIT_PERKS: True,
-            FILE_NAME: "ctr_perks.txt",
-        },
-        # -------------------------------------------
-        # Perks and Dupes
         {
             INCLUDE_TAGS: ["mkb"],
             LIMIT_PERKS: True,
             REQUIRE_DUPLICATES: True,
             FILE_NAME: "mkb_perks_dupes.txt",
+        },
+        {INCLUDE_TAGS: ["mkb", "god"], FILE_NAME: "mkb_god.txt"},
+        {
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            FILE_NAME: "mkb_!backup.txt",
+        },
+        {
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_!backup_perks.txt",
+        },
+        {
+            INCLUDE_TAGS: ["mkb"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "mkb_!backup_perks_dupes.txt",
+        },
+        # Mouse and Keyboard, PvE
+        {INCLUDE_TAGS: ["mkb", "pve"], FILE_NAME: "mkb_pve.txt"},
+        {
+            INCLUDE_TAGS: ["mkb", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            FILE_NAME: "mkb_pve_!backup.txt",
+        },
+        {
+            INCLUDE_TAGS: ["mkb", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_pve_!backup_perks.txt",
+        },
+        {
+            INCLUDE_TAGS: ["mkb", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "mkb_pve_!backup_perks_dupes.txt",
+        },
+        # Mouse and Keyboard, PvP
+        {INCLUDE_TAGS: ["mkb", "pvp"], FILE_NAME: "mkb_pvp.txt"},
+        # -------------------------------------------
+        # Controller
+        {INCLUDE_TAGS: ["controller"], FILE_NAME: "ctr.txt"},
+        {
+            INCLUDE_TAGS: ["controller"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "ctr_perks.txt",
         },
         {
             INCLUDE_TAGS: ["controller"],
@@ -51,12 +90,41 @@ def get_wishlist_config(keys: "Keys"):
             REQUIRE_DUPLICATES: True,
             FILE_NAME: "ctr_perks_dupes.txt",
         },
-        # -------------------------------------------
-        # Input and Gamemode filters
-        {INCLUDE_TAGS: ["mkb", "pve"], FILE_NAME: "mkb_pve.txt"},
-        {INCLUDE_TAGS: ["mkb", "pvp"], FILE_NAME: "mkb_pvp.txt"},
+        {INCLUDE_TAGS: ["controller", "god"], FILE_NAME: "ctr_god.txt"},
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            FILE_NAME: "ctr_!backup.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "ctr_!backup_perks.txt",
+        },
+        {
+            INCLUDE_TAGS: ["controller"],
+            EXCLUDE_TAGS: ["backup"],
+            LIMIT_PERKS: True,
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_!backup_perks_dupes.txt",
+        },
+        # Controller, PvE
         {INCLUDE_TAGS: ["controller", "pve"], FILE_NAME: "ctr_pve.txt"},
+        {
+            INCLUDE_TAGS: ["controller", "pve"],
+            EXCLUDE_TAGS: ["backup"],
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_pve_!backup_dupes.txt",
+        },
+        # Controller, PvP
         {INCLUDE_TAGS: ["controller", "pvp"], FILE_NAME: "ctr_pvp.txt"},
+        {
+            INCLUDE_TAGS: ["controller", "pvp"],
+            EXCLUDE_TAGS: ["backup"],
+            REQUIRE_DUPLICATES: True,
+            FILE_NAME: "ctr_pvp_!backup_dupes.txt",
+        },
         # -------------------------------------------
         # Pandapaxxy filters
         {AUTHOR_NAME: ["pandapaxxy"], FILE_NAME: "panda.txt"},
@@ -77,6 +145,12 @@ def get_wishlist_config(keys: "Keys"):
         },
         {
             AUTHOR_NAME: ["pandapaxxy"],
+            INCLUDE_TAGS: ["mkb"],
+            LIMIT_PERKS: True,
+            FILE_NAME: "mkb_panda_perks.txt",
+        },
+        {
+            AUTHOR_NAME: ["pandapaxxy"],
             INCLUDE_TAGS: ["controller"],
             FILE_NAME: "ctr_panda.txt",
         },
@@ -89,81 +163,6 @@ def get_wishlist_config(keys: "Keys"):
             AUTHOR_NAME: ["pandapaxxy"],
             INCLUDE_TAGS: ["controller", "pvp"],
             FILE_NAME: "ctr_panda_pvp.txt",
-        },
-        {
-            AUTHOR_NAME: ["pandapaxxy"],
-            INCLUDE_TAGS: ["mkb"],
-            LIMIT_PERKS: True,
-            FILE_NAME: "mkb_panda_perks.txt",
-        },
-        # -------------------------------------------
-        # God filters
-        {INCLUDE_TAGS: ["mkb", "god"], FILE_NAME: "mkb_god.txt"},
-        {INCLUDE_TAGS: ["controller", "god"], FILE_NAME: "ctr_god.txt"},
-        # -------------------------------------------
-        # Exclude backup rolls filters
-        # --- MKB
-        {
-            INCLUDE_TAGS: ["mkb"],
-            EXCLUDE_TAGS: ["backup"],
-            FILE_NAME: "mkb_!backup.txt",
-        },
-        {
-            INCLUDE_TAGS: ["mkb"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            FILE_NAME: "mkb_!backup_perks.txt",
-        },
-        {
-            INCLUDE_TAGS: ["mkb"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            REQUIRE_DUPLICATES: True,
-            FILE_NAME: "mkb_!backup_perks_dupes.txt",
-        },
-        {
-            INCLUDE_TAGS: ["mkb", "pve"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            FILE_NAME: "mkb_pve_!backup_perks.txt",
-        },
-        {
-            INCLUDE_TAGS: ["mkb", "pve"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            REQUIRE_DUPLICATES: True,
-            FILE_NAME: "mkb_pve_!backup_perks_dupes.txt",
-        },
-        # --- Controller
-        {
-            INCLUDE_TAGS: ["controller"],
-            EXCLUDE_TAGS: ["backup"],
-            FILE_NAME: "ctr_!backup.txt",
-        },
-        {
-            INCLUDE_TAGS: ["controller"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            FILE_NAME: "ctr_!backup_perks.txt",
-        },
-        {
-            INCLUDE_TAGS: ["controller"],
-            EXCLUDE_TAGS: ["backup"],
-            LIMIT_PERKS: True,
-            REQUIRE_DUPLICATES: True,
-            FILE_NAME: "ctr_!backup_perks_dupes.txt",
-        },
-        {
-            INCLUDE_TAGS: ["controller", "pvp"],
-            EXCLUDE_TAGS: ["backup"],
-            REQUIRE_DUPLICATES: True,
-            FILE_NAME: "ctr_pvp_!backup_dupes.txt",
-        },
-        {
-            INCLUDE_TAGS: ["controller", "pve"],
-            EXCLUDE_TAGS: ["backup"],
-            REQUIRE_DUPLICATES: True,
-            FILE_NAME: "ctr_pve_!backup_dupes.txt",
         },
     ]
 

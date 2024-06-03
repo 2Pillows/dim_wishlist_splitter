@@ -10,110 +10,45 @@ const baseLink =
   "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/";
 
 const wishlists = [
+  // ----------------------------------------
+  // All
   {
     label: "All Rolls",
     tags: "mkb_ctr_pve_pvp",
     link: "all.txt",
   },
+
+  // ----------------------------------------
+  // Any Input
   {
     label: "PvE",
     tags: "pve_mkb_ctr",
     link: "pve.txt",
   },
+
   {
     label: "PvP",
     tags: "pvp_mkb_ctr",
     link: "pvp.txt",
   },
+
+  // ----------------------------------------
+  // Mouse and Keyboard
   {
     label: "MKB",
     tags: "mkb_pve_pvp",
     link: "mkb.txt",
   },
-  {
-    label: "CTR",
-    tags: "ctr_pvp_pve",
-    link: "ctr.txt",
-  },
+
   {
     label: "MKB_Perks",
     tags: "mkb_perks_pve_pvp",
     link: "mkb_perks.txt",
   },
   {
-    label: "CTR_Perks",
-    tags: "ctr_perks_pve_pvp",
-    link: "ctr_perks.txt",
-  },
-  {
     label: "MKB_Perks_Dupes",
     tags: "mkb_perks_dupes_pve_pvp",
     link: "mkb_perks_dupes.txt",
-  },
-  {
-    label: "CTR_Perks_Dupes",
-    tags: "ctr_perks_dupes_pve_pvp",
-    link: "ctr_perks_dupes.txt",
-  },
-  {
-    label: "MKB_PvE",
-    tags: "mkb_pve",
-    link: "mkb_pve.txt",
-  },
-  {
-    label: "MKB_PvP",
-    tags: "mkb_pvp",
-    link: "mkb_pvp.txt",
-  },
-  {
-    label: "CTR_PvE",
-    tags: "ctr_pve",
-    link: "ctr_pve.txt",
-  },
-  {
-    label: "CTR_PvP",
-    tags: "ctr_pvp",
-    link: "ctr_pvp.txt",
-  },
-  {
-    label: "Panda",
-    tags: "panda_mkb_ctr_pve_pvp",
-    link: "panda.txt",
-  },
-  {
-    label: "Panda_MKB",
-    tags: "mkb_panda_pve_pvp",
-    link: "mkb_panda.txt",
-  },
-  {
-    label: "Panda_MKB_PvE",
-    tags: "mkb_panda_pve",
-    link: "mkb_panda_pve.txt",
-  },
-  {
-    label: "Panda_MKB_PvP",
-    tags: "mkb_panda_pvp",
-    link: "mkb_panda_pvp.txt",
-  },
-  {
-    label: "Panda_CTR",
-    tags: "ctr_panda_pve_pvp",
-    link: "ctr_panda.txt",
-  },
-  {
-    label: "Panda_CTR_PvE",
-    tags: "ctr_panda_pve",
-    link: "ctr_panda_pve.txt",
-  },
-  {
-    label: "Panda_CTR_PvP",
-    tags: "ctr_panda_pvp",
-    link: "ctr_panda_pvp.txt",
-  },
-  {
-    label: "Panda_MKB_Perks",
-    tags: "mkb_panda_perks_pve_pvp",
-    link: "mkb_panda_perks.txt",
   },
   {
     label: "MKB_God",
@@ -135,15 +70,53 @@ const wishlists = [
     tags: "mkb_!backup_perks_dupes_pve_pvp",
     link: "mkb_!backup_perks_dupes.txt",
   },
+
+  // Mouse and Keyboard PvE
+  {
+    label: "MKB_PvE",
+    tags: "mkb_pve",
+    link: "mkb_pve.txt",
+  },
+  {
+    label: "MKB_PvE_!Backups",
+    tags: "mkb_pve_!backup",
+    link: "mkb_pve_!backup.txt",
+  },
   {
     label: "MKB_PvE_!Backups_Perks",
-    tags: "mkb_pve_!backup_perk",
+    tags: "mkb_pve_!backup_perks",
     link: "mkb_pve_!backup_perks.txt",
   },
   {
     label: "MKB_PvE_!Backups_Perks_Dupes",
     tags: "mkb_pve_!backup_perks_dupe",
     link: "mkb_pve_!backup_perks_dupes.txt",
+  },
+
+  // Mouse and Keyboard PvP
+  {
+    label: "MKB_PvP",
+    tags: "mkb_pvp",
+    link: "mkb_pvp.txt",
+  },
+
+  // ----------------------------------------
+  // Controller
+  {
+    label: "CTR",
+    tags: "ctr_pvp_pve",
+    link: "ctr.txt",
+  },
+
+  {
+    label: "CTR_Perks",
+    tags: "ctr_perks_pve_pvp",
+    link: "ctr_perks.txt",
+  },
+  {
+    label: "CTR_Perks_Dupes",
+    tags: "ctr_perks_dupes_pve_pvp",
+    link: "ctr_perks_dupes.txt",
   },
   {
     label: "CTR_God",
@@ -165,15 +138,72 @@ const wishlists = [
     tags: "ctr_!backup_perks_dupes_pve_pvp",
     link: "ctr_!backup_perks_dupes.txt",
   },
+
+  // Controller PvE
   {
-    label: "CTR_PvP_!Backups_Dupes",
-    tags: "ctr_pvp_!backup_dupes",
-    link: "ctr_pvp_!backup_dupes.txt",
+    label: "CTR_PvE",
+    tags: "ctr_pve",
+    link: "ctr_pve.txt",
   },
   {
     label: "CTR_PvE_!Backups_Dupes",
     tags: "ctr_pve_!backup_dupes",
     link: "ctr_pve_!backup_dupes.txt",
+  },
+
+  // Controller PvP
+  {
+    label: "CTR_PvP",
+    tags: "ctr_pvp",
+    link: "ctr_pvp.txt",
+  },
+  {
+    label: "CTR_PvP_!Backups_Dupes",
+    tags: "ctr_pvp_!backup_dupes",
+    link: "ctr_pvp_!backup_dupes.txt",
+  },
+
+  // ----------------------------------------
+  // Author
+  {
+    label: "Panda",
+    tags: "panda_mkb_ctr_pve_pvp",
+    link: "panda.txt",
+  },
+  {
+    label: "Panda_MKB",
+    tags: "mkb_panda_pve_pvp",
+    link: "mkb_panda.txt",
+  },
+  {
+    label: "Panda_MKB_PvE",
+    tags: "mkb_panda_pve",
+    link: "mkb_panda_pve.txt",
+  },
+  {
+    label: "Panda_MKB_PvP",
+    tags: "mkb_panda_pvp",
+    link: "mkb_panda_pvp.txt",
+  },
+  {
+    label: "Panda_MKB_Perks",
+    tags: "mkb_panda_perks_pve_pvp",
+    link: "mkb_panda_perks.txt",
+  },
+  {
+    label: "Panda_CTR",
+    tags: "ctr_panda_pve_pvp",
+    link: "ctr_panda.txt",
+  },
+  {
+    label: "Panda_CTR_PvE",
+    tags: "ctr_panda_pve",
+    link: "ctr_panda_pve.txt",
+  },
+  {
+    label: "Panda_CTR_PvP",
+    tags: "ctr_panda_pvp",
+    link: "ctr_panda_pvp.txt",
   },
 ];
 
