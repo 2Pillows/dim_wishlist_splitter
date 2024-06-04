@@ -40,11 +40,16 @@ jobs:
           node generate_origin_traits.js
           cd ../../..
 
-      - name: Run Python script
+      - name: Commit Origin Trait Changes
+        run: |
+          git add .
+          git commit -m "update origin traits"
+
+      - name: Run Python Script
         run: |
           python3 wishlist_splitter/main.py
 
-      - name: Commit and push changes
+      - name: Commit Wishlist Changes and Push
         run: |
           git add .
           git commit -m "Update alongside dim-wish-list-sources by 48klocs" || echo "No changes to commit"
