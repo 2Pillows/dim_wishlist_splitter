@@ -26,14 +26,12 @@ const fs = require("fs");
       { visible: true }
     );
 
-    // Promise for timeout of 10 minutes. Stops script when done
+    // Promise for timeout of 5 minutes. Stops script when done
     const timeoutPromise = new Promise((resolve, reject) => {
       setTimeout(() => {
         reject(new Error("Timeout occurred while waiting for selector"));
-      }, 10000);
+      }, 300000);
     });
-    // 10000
-    // 600000
 
     // Wait for the selector or timeout
     await Promise.race([waitForSelectorPromise, timeoutPromise]);
@@ -53,9 +51,9 @@ const fs = require("fs");
       JSON.stringify(resultKeys, null, 2),
       "utf-8"
     );
-    await browser.close();
   } catch (error) {
     console.error(error);
+  } finally {
     await browser.close();
   }
 })();
