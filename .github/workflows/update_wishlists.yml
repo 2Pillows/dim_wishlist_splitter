@@ -34,19 +34,19 @@ jobs:
       - name: Update Git Submodules
         run: git submodule update --remote
 
-      - name: Run JavaScript Script
+      - name: Update Origin Traits
         run: |
           cd wishlist_splitter/data/origin_traits
           node generate_origin_traits.js
           cd ../../..
 
-      - name: Commit Origin Trait Changes
+      - name: Commit Origin Trait Changes and Push
         run: |
           git add .
           git commit -m "update origin traits" || echo "No changes to commit"
           git push
 
-      - name: Run Python Script
+      - name: Update Wishlists
         run: |
           python3 wishlist_splitter/main.py
 
