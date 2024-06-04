@@ -20,11 +20,23 @@ const fs = require("fs");
   try {
     await page.goto(destinySetsUrl);
 
-    // Wait for Destiny data to load
-    await page.waitForSelector(
+    // Promise to wait for Destiny data to load
+    const waitForSelectorPromise = page.waitForSelector(
       "#root > div > div.styles_body__1L-Jq > div > div > a:nth-child(1)",
       { visible: true }
     );
+
+    // Promise for timeout of 10 minutes. Stops script when done
+    const timeoutPromise = new Promise((resolve, reject) => {
+      setTimeout(() => {
+        reject(new Error("Timeout occurred while waiting for selector"));
+      }, 10000);
+    });
+    // 10000
+    // 600000
+
+    // Wait for the selector or timeout
+    await Promise.race([waitForSelectorPromise, timeoutPromise]);
 
     // Execute the console command on the page
     const jsHandle = await page.evaluateHandle(consoleCommand);
