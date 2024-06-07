@@ -8,7 +8,7 @@ const fs = require("fs");
   const page = await browser.newPage();
 
   const destinySetsUrl = "https://data.destinysets.com";
-  const originTraits = `
+  const originTraitsCommand = `
   try {
     const result = $InventoryItem.filter(v => v.itemCategoryHashes.includes(WeaponModsOriginTraits));
     result;
@@ -19,9 +19,18 @@ const fs = require("fs");
 
   // catalyst? whispered breathing 3732232161
 
-  const frameMods = `
+  const frameModsCommand = `
   try {
     const result = $InventoryItem.filter(v => v.plug && (v.plug.plugCategoryIdentifier === "frames" || v.plug.plugCategoryIdentifier === "catalysts"))
+    result;
+  } catch (error) {
+    console.error(error);
+  }
+  `;
+
+  const allItemsCommand = `
+  try {
+    const result = $InventoryItem
     result;
   } catch (error) {
     console.error(error);
@@ -51,9 +60,9 @@ const fs = require("fs");
     await Promise.race([waitForSelectorPromise, timeoutPromise]);
 
     // Get origin traits
-    const originTraitsHandle = await page.evaluateHandle(originTraits);
-    const originTraitsValue = await originTraitsHandle.jsonValue();
-    const originTraitKeys = Object.keys(originTraitsValue);
+    const originTraitsHandle = await page.evaluateHandle(originTraitsCommand);
+    const originTraitsJSON = await originTraitsHandle.jsonValue();
+    const originTraitKeys = Object.keys(originTraitsJSON);
 
     // Write origin traits
     fs.writeFileSync(
@@ -63,37 +72,40 @@ const fs = require("fs");
     );
 
     // Get weapon mods, 3rd and 4th column
-    const frameModsHandle = await page.evaluateHandle(frameMods);
-    const frameModsValue = await frameModsHandle.jsonValue();
-    const frameModsKeys = Object.keys(frameModsValue);
+    const frameModsHandle = await page.evaluateHandle(frameModsCommand);
+    const frameModsJSON = await frameModsHandle.jsonValue();
 
-    const frameModNames = Object.values(frameModsValue).map(
+    const frameModNames = Object.values(frameModsJSON).map(
       (item) => item.displayProperties.name
     );
 
-    const filteredItemsCommand = `
-    try {
-      const filteredItems = $InventoryItem.filter(item => {
-        return item.displayProperties.name !== "" && ${JSON.stringify(
-          frameModNames
-        )}.includes(item.displayProperties.name);
-      });
-      filteredItems;
-    } catch (error) {
-      console.error(error);
+    const allItemsHandle = await page.evaluateHandle(allItemsCommand);
+    const allItemsJSON = await allItemsHandle.jsonValue();
+
+    let allFrameModHashes = [];
+
+    for (const key in allItemsJSON) {
+      const item = allItemsJSON[key];
+      if (frameModNames.includes(item.displayProperties.name)) {
+        allFrameModHashes.push(item.hash.toString());
+
+        // Some perks don't get their own entry, are listed as perkHash
+        if (item.perks && item.perks.length > 0) {
+          item.perks.forEach((perk) => {
+            if (perk.perkHash) {
+              allFrameModHashes.push(perk.perkHash.toString());
+            }
+          });
+        }
+      }
     }
-  `;
 
-    const allFrameModsHandle = await page.evaluateHandle(filteredItemsCommand);
-    const allFrameModsValue = await allFrameModsHandle.jsonValue();
-    const allFrameModsKeys = Object.keys(allFrameModsValue);
-
-    console.log(allFrameModsKeys);
+    // console.log(allFrameModHashes);
 
     // Write frame mods
     fs.writeFileSync(
       "./wishlist_splitter/data/weapon_mods/frame_mods.txt",
-      JSON.stringify(frameModsKeys, null, 2),
+      JSON.stringify(allFrameModHashes, null, 2),
       "utf-8"
     );
   } catch (error) {
