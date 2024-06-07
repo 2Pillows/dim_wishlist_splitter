@@ -17,14 +17,19 @@ const fs = require("fs");
   }
   `;
 
+  // catalyst? whispered breathing 3732232161
+
   const frameMods = `
   try {
-    const result = $InventoryItem.filter(v => v.itemCategoryHashes.includes(WeaponModsFrame));
+    const result = $InventoryItem.filter(v => v.plug && (v.plug.plugCategoryIdentifier === "frames" || v.plug.plugCategoryIdentifier === "catalysts"))
     result;
   } catch (error) {
     console.error(error);
   }
   `;
+
+  // not all traits are tagged as frames
+  // get frameMods list and then get all hashes with matching icon
 
   try {
     await page.goto(destinySetsUrl);
@@ -62,6 +67,29 @@ const fs = require("fs");
     const frameModsValue = await frameModsHandle.jsonValue();
     const frameModsKeys = Object.keys(frameModsValue);
 
+    const frameModNames = Object.values(frameModsValue).map(
+      (item) => item.displayProperties.name
+    );
+
+    const filteredItemsCommand = `
+    try {
+      const filteredItems = $InventoryItem.filter(item => {
+        return item.displayProperties.name !== "" && ${JSON.stringify(
+          frameModNames
+        )}.includes(item.displayProperties.name);
+      });
+      filteredItems;
+    } catch (error) {
+      console.error(error);
+    }
+  `;
+
+    const allFrameModsHandle = await page.evaluateHandle(filteredItemsCommand);
+    const allFrameModsValue = await allFrameModsHandle.jsonValue();
+    const allFrameModsKeys = Object.keys(allFrameModsValue);
+
+    console.log(allFrameModsKeys);
+
     // Write frame mods
     fs.writeFileSync(
       "./wishlist_splitter/data/weapon_mods/frame_mods.txt",
@@ -75,3 +103,7 @@ const fs = require("fs");
     process.exit();
   }
 })();
+
+// using the weaponmod listing is wrong
+
+// use plug, plugCategoryHash or plugCategoryIdentifier frames

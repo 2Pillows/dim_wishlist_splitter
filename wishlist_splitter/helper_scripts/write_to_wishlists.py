@@ -9,39 +9,24 @@ if TYPE_CHECKING:
     from main import Keys
 
 
-######################################
-# Write voltron_data to config files #
-######################################
+########################################
+# Write voltron_data to wishlist files #
+########################################
 def write_to_wishlists(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    # Process extra, base, and filtered perks
-    process_data(voltron_data, keys)
-
-    # Collect perks into Counters
-    base_counter, filtered_counter = count_perks(voltron_data, keys)
-
-    # Write each data to each wishlist
-    for config in keys.WISHLIST_CONFIGS:
-        write_data_to_config(voltron_data, config, keys, base_counter, filtered_counter)
-
-
-###########################################
-# Process extra, base, and filtered perks #
-###########################################
-def process_data(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    # Maximum number of possible base perks
-    MAX_BASE_PERKS = 4
-    # Number of perks that should be included from right to left
-    DESIRED_PERK_COUNT = 2
-
     # Adds mouse and pve tag if no input or gamemode tag present
     add_default_tags(voltron_data, keys)
 
-    # Set extra perk values for each roll
-    # Assumes that if one extra perk is found in a hash set, all hashes have extra perk
-    process_extra_perks(voltron_data, keys, MAX_BASE_PERKS)
+    # Get core and trimmed perks
+    # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
+    # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
+    process_perks(voltron_data, keys)
 
-    # Set base and filtered perks for each roll
-    process_perks(voltron_data, keys, DESIRED_PERK_COUNT)
+    # Collect perks into Counters
+    core_counter, filtered_counter = count_perks(voltron_data, keys)
+
+    # Write each data to each wishlist
+    for config in keys.WISHLIST_CONFIGS:
+        write_data_to_config(voltron_data, config, keys, core_counter, filtered_counter)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -58,27 +43,41 @@ def add_default_tags(voltron_data: List[Dict[str, object]], keys: "Keys"):
             roll[keys.INC_TAG_KEY].append(default_mode)
 
 
-# Set extra perk values for each roll
-def process_extra_perks(
-    voltron_data: List[Dict[str, object]], keys: "Keys", MAX_BASE_PERKS: int
-):
-    # Check if any roll has an extra perk
+# Create and store core and trimmed perk strings
+def process_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
     for roll in voltron_data:
-        perk_hashes, perk_ids = get_perk_list(roll, keys)
+        perk_hashes, roll_id = get_perk_list(roll, keys)
+        # 1st, 2nd, 3rd, 4th column
+        core_hashes = []
+        # Hashes without 1st and 2nd
+        trimmed_hashes = []
+        # Hashes with only 3rd and 4th column
+        core_trimmed_hashes = []
 
-        # Assume there are no extra perks in roll
-        roll[keys.EXTRA_PERK_KEY] = False
+        for hash_set in perk_hashes:
+            core_hash_set = []
+            trimmed_hash_set = []
+            core_trimmed_hash_set = []
 
-        # Edge case of no hashes
-        if not perk_hashes:
-            continue
+            for hash in hash_set:
+                if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
+                    if hash not in keys.ORIGIN_TRAITS:
+                        core_trimmed_hash_set.append(hash)
 
-        # Check if any perk is in extra_perks in voltron
-        # or origin_traits from https://data.destinysets.com
-        for hash_list in perk_hashes:
-            # for each line of hashes check if last hash is an origin trait
-            if hash_list[-1] in keys.ORIGIN_TRAITS:
-                roll[keys.EXTRA_PERK_KEY] = True
+                    trimmed_hash_set.append(hash)
+
+                if hash not in keys.ORIGIN_TRAITS:
+                    core_hash_set.append(hash)
+
+            core_hashes.append(core_hash_set)
+            trimmed_hashes.append(trimmed_hash_set)
+            core_trimmed_hashes.append(core_trimmed_hash_set)
+
+        roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
+        roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(trimmed_hashes, roll_id)
+        roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
+            core_trimmed_hashes, roll_id
+        )
 
 
 # Transform perks in roll from a string to an array of hashes and the string before hashes
@@ -100,42 +99,6 @@ def get_perk_list(roll: Dict[str, object], keys: "Keys"):
     return perk_hashes, roll_id
 
 
-# Create and store base and filtered perk strings
-def process_perks(
-    voltron_data: List[Dict[str, object]], keys: "Keys", DESIRED_PERK_COUNT: int
-):
-    for roll in voltron_data:
-        perk_hashes, roll_id = get_perk_list(roll, keys)
-        # Hashes with no modifications
-        base_hashes = perk_hashes.copy()
-        # Hashes with only 3rd, 4th, and extra perks
-        filtered_hashes = perk_hashes.copy()
-        # Hashes with only 3rd, and 4th perks
-        base_filtered_hashes = perk_hashes.copy()
-
-        for index in range(len(perk_hashes)):
-            extra_perk = ""
-            if roll.get(keys.EXTRA_PERK_KEY):
-                extra_perk = base_hashes[index].pop()
-                # filtered_hashes[index].pop()
-                # base_filtered_hashes[index].pop()
-            if len(perk_hashes[index]) > DESIRED_PERK_COUNT:
-                filtered_hashes[index] = filtered_hashes[index][-DESIRED_PERK_COUNT:]
-                base_filtered_hashes[index] = filtered_hashes[index][
-                    -DESIRED_PERK_COUNT:
-                ]
-            if extra_perk:
-                filtered_hashes[index].append(extra_perk)
-
-        base_perks = convert_hash_to_string(base_hashes, roll_id)
-        filtereded_perks = convert_hash_to_string(filtered_hashes, roll_id)
-        base_filtered_hashes = convert_hash_to_string(base_filtered_hashes, roll_id)
-
-        roll[keys.BASE_PERK_KEY] = base_perks
-        roll[keys.FILTERED_PERK_KEY] = filtereded_perks
-        roll[keys.BASE_FILTERED_PERK_KEY] = base_filtered_hashes
-
-
 def convert_hash_to_string(hashes: List[str], roll_id: str):
     roll_perks = []
     for hash_list in hashes:
@@ -148,31 +111,31 @@ def convert_hash_to_string(hashes: List[str], roll_id: str):
 # Creates Counter to track number of mentions for each set of perk hashes #
 ###########################################################################
 def count_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    base_counter = Counter()
+    core_counter = Counter()
     filtered_counter = Counter()
 
     for roll in voltron_data:
-        base_counter.update(set(roll[keys.BASE_PERK_KEY]))
-        filtered_counter.update(set(roll[keys.FILTERED_PERK_KEY]))
+        core_counter.update(set(roll.get(keys.CORE_PERKS_KEY, [])))
+        filtered_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
 
-    return base_counter, filtered_counter
+    return core_counter, filtered_counter
 
 
-################################
-# Writes data to each wishlist #
-################################
+####################################
+# Writes data to given config file #
+####################################
 def write_data_to_config(
     voltron_data: List[Dict[str, object]],
     config: List[Dict[str, object]],
     keys: "Keys",
-    base_counter: Counter,
+    core_counter: Counter,
     filtered_counter: Counter,
 ):
     batch_size = 100
     config_path = config.get(keys.PATH_KEY)
 
-    # Can clean b4 and use mode="a"
     with open(config_path, mode="w", encoding="utf-8") as config_file:
+        # Write file name to start of file
         config_file.write("title:" + config_path.replace("./wishlists/", "") + " - ")
 
         batch = []
@@ -186,10 +149,9 @@ def write_data_to_config(
             elif check_tags(roll, config, keys):
                 # Find correct perks for config
                 config_roll = find_config_roll(
-                    roll, config, keys, base_counter, filtered_counter
+                    roll, config, keys, core_counter, filtered_counter
                 )
                 batch.append(config_roll)
-                # print("a")
 
             if len(batch) >= batch_size:
                 write_batch_to_config(config_file, batch, keys)
@@ -203,34 +165,34 @@ def find_config_roll(
     roll: Dict[str, object],
     config: Dict[str, object],
     keys: "Keys",
-    base_counter: Counter,
+    core_counter: Counter,
     filtered_counter: Counter,
 ):
     config_roll = roll.copy()
     config_perks = roll.get(keys.PERK_KEY).copy()
-    # Base perks is perks without extra perks
+    # Core perks is perks without extra perks
     # Filtered perks is only 3rd and 4th column perks and extras
-    # Base filtered is 3rd and 4th column perks without extra perks
+    # Core filtered is 3rd and 4th column perks without extra perks
     if config.get(keys.PERK_KEY):
         if config.get(keys.DUPE_PERKS_KEY):
             # Config wants 3rd and 4th column perks in at least 2 rolls
             config_perks = get_dupe_perks(
-                roll.get(keys.BASE_FILTERED_PERK_KEY),
-                roll.get(keys.FILTERED_PERK_KEY),
+                roll.get(keys.CORE_TRIMMED_PERKS_KEY),
+                roll.get(keys.TRIMMED_PERKS_KEY),
                 keys,
                 filtered_counter,
             )
         else:
             # Config wants 3rd and 4th column perks
-            config_perks = roll.get(keys.FILTERED_PERK_KEY).copy()
+            config_perks = roll.get(keys.TRIMMED_PERKS_KEY).copy()
 
     elif config.get(keys.DUPE_PERKS_KEY):
         # Config wants rolls in at least 2 rolls
         config_perks = get_dupe_perks(
-            roll.get(keys.BASE_PERK_KEY),
+            roll.get(keys.CORE_PERKS_KEY),
             roll.get(keys.PERK_KEY),
             keys,
-            base_counter,
+            core_counter,
         )
 
     config_roll[keys.PERK_KEY] = config_perks
@@ -238,20 +200,20 @@ def find_config_roll(
 
 
 def get_dupe_perks(
-    base_perks: List[str], all_perks: List[str], keys: "Keys", counter: Counter
+    core_perks: List[str], all_perks: List[str], keys: "Keys", counter: Counter
 ):
     MIN_COUNT = 2
 
-    # Use base_perks to only get perks with proper count
+    # Use core_perks to only get perks with proper count
     # Add and return all_perk values to keep extra perks if included in roll
     dupe = []
 
-    for index in range(len(base_perks)):
-        base = base_perks[index]
+    for index in range(len(core_perks)):
+        core = core_perks[index]
         all = all_perks[index]
 
-        c = counter[base]
-        if counter[base] >= MIN_COUNT:
+        c = counter[core]
+        if counter[core] >= MIN_COUNT:
             dupe.append(all)
 
     return dupe

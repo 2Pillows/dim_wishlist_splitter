@@ -10,7 +10,7 @@
 from data.wishlist_configs import get_wishlist_config, export_wishlist_names
 
 # Import helper function to grab origin trait hashes
-from helper_scripts.get_origin_traits import get_origin_traits
+from wishlist_splitter.helper_scripts.get_weapon_mods import get_weapon_mods
 
 # Import helper functions for getting voltron data
 from helper_scripts.extract_voltron_data import (
@@ -28,7 +28,8 @@ class Keys:
     #########
     VOLTRON_PATH = "./wishlist_splitter/data/dim-wish-list-sources/voltron.txt"
     # VOLTRON_PATH = "./wishlist_splitter/data/test.txt"
-    ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/origin_traits/origin_traits.txt"
+    ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/weapon_mods/origin_traits.txt"
+    FRAME_MODS_PATH = "./wishlist_splitter/data/weapon_mods/frame_mods.txt"
     # Path to all wishlist paths for website
     WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"
     ############################
@@ -47,20 +48,20 @@ class Keys:
     ######################################
     # Keys for storing data from voltron #
     ######################################
-    # Key for storing if a voltron roll includes extra perks
-    EXTRA_PERK_KEY = "extra_perks"
     # Key for storing list of base perks (only 1st, 2nd, 3rd, and 4th columns)
-    BASE_PERK_KEY = "base_perks"
-    # Key for storing filtered perks (3rd and 4th columns with any extra perks)
-    FILTERED_PERK_KEY = "filtered_perks"
+    CORE_PERKS_KEY = "core_perks"
+    # Key for storing trimmed perks (3rd and 4th columns with any extra perks)
+    TRIMMED_PERKS_KEY = "trimmed_perks"
     # Key for storing base perks that have been filtered (only 3rd and 4th column)
-    BASE_FILTERED_PERK_KEY = "base_filtered_perks"
+    CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
 
     # Keys to be added
     # Dictionary storing wishlist information
     WISHLIST_CONFIGS = None
     # List of origin trait hashes
     ORIGIN_TRAITS = None
+    # List of frame mod hashes, 3rd and 4th column
+    FRAME_MODS = None
     # List of tag values for all, include, and exclude
     ALL_TAGS = None
     INC_TAGS = None
@@ -79,8 +80,12 @@ def main():
     export_wishlist_names(keys)
 
     # Collect origin trait hashes
-    ORIGIN_TRAITS = get_origin_traits(keys.ORIGIN_TRAITS_PATH)
+    ORIGIN_TRAITS = get_weapon_mods(keys.ORIGIN_TRAITS_PATH)
     keys.ORIGIN_TRAITS = ORIGIN_TRAITS
+
+    # Collect frame mod hashes
+    FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
+    keys.FRAME_MODS = FRAME_MODS
 
     # Collect all, include, and exlcude tags from config
     ALL_TAGS, INC_TAGS, EXC_TAGS = extract_tags(
