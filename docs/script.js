@@ -1,8 +1,8 @@
 // script.js
 
-async function main() {
-  // Get wishlists paths
-  const wishlist_paths_path = "/docs/data/wishlist_names.txt";
+async function wishlistsMain() {
+  // Text file with json dump array of wishlist paths
+  const wishlistPathsPath = "/docs/data/wishlist_names.txt";
 
   // Holds selected checkboxes
   var selectedFilters = {
@@ -10,46 +10,52 @@ async function main() {
     exclude: [],
   };
 
+  // Base url for raw wishlist files, requires /wishlists/file_name.txt
   const baseLink =
     "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main";
 
-  const wishlist_paths = await (async () => {
+  // Get array of wishlist paths
+  const wishlistPaths = await (async () => {
     try {
-      const response = await fetch(wishlist_paths_path);
+      const response = await fetch(wishlistPathsPath);
 
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
-
-      return await response.json();
+      return response.json();
     } catch (error) {
       console.error("Wishlist Paths Fetch Error:", error);
       return null;
     }
   })();
 
+  // Convert wishlist paths to label name, tags, and raw url
   const wishlists = await Promise.all(
-    wishlist_paths.map(async (wishlist_path) => {
-      file_name = wishlist_path.replace("./wishlists/", "").replace(".txt", "");
+    wishlistPaths.map(async (wishlistPaths) => {
+      fileName = wishlistPaths.replace("./wishlists/", "").replace(".txt", "");
 
-      // Convert file path to case sensitive name
-      let label = file_name;
+      // Create labels for lists based off file name
+      let label = fileName;
 
+      // Remove _
       label = label.replace(/_/g, " ");
 
-      label = label.replace("all", "All Rolls");
-      label = label.replace("mkb", "MKB");
-      label = label.replace("ctr", "CTR");
-      label = label.replace("pve", "PvE");
-      label = label.replace("pvp", "PvP");
-      label = label.replace("pandapaxxy", "PandaPaxxy");
-      label = label.replace("god", "God");
-      label = label.replace("!backups", "!Backups");
-      label = label.replace("perks", "Perks");
-      label = label.replace("dupes", "Dupes");
+      // Make labels prettier
+      const labelReplacements = {
+        all: "All Rolls",
+        mkb: "MKB",
+        ctr: "CTR",
+        pve: "PvE",
+        pvp: "PvP",
+        pandapaxxy: "PandaPaxxy",
+        god: "God",
+        "!backups": "!Backups",
+        perks: "Perks",
+        dupes: "Dupes",
+      };
+      for (const [key, value] of Object.entries(labelReplacements)) {
+        label = label.replace(key, value);
+      }
 
-      // Get tags based on name
-      let tags = file_name;
+      // Create tags for lists based off file name
+      let tags = fileName;
 
       // Add PvE or PvP if neither is found
       if (!tags.includes("pve") && !tags.includes("pvp")) {
@@ -61,9 +67,10 @@ async function main() {
         tags += "_mkb_ctr";
       }
 
-      // Use file path and replace starting directory with baseLink
-      let link = wishlist_path.replace(".", baseLink);
+      // Add baselink to path for website URL
+      let link = wishlistPaths.replace(".", baseLink);
 
+      // Return dict with label, tags, link
       return {
         label: label,
         tags: tags,
@@ -141,6 +148,7 @@ async function main() {
         }
       });
 
+      // Add button if it should be included and not excluded
       if (include && !exclude) {
         let wishlistDiv = document.createElement("div");
         wishlistDiv.classList.add("wishlist-text");
@@ -162,34 +170,37 @@ async function main() {
     });
   }
 
+  // Add listeners for buttons
   setupButtons();
+  // Fist loop for wishlists
   updateWishlists();
 }
 
-// Function to set the favicon based on the color scheme
-function setFavicon() {
-  // Get the favicon link element
-  const faviconLink = document.getElementById("favicon");
+function faviconMain() {
+  // Favicon element
+  const faviconElement = document.getElementById("favicon");
 
-  // Check if the current mode is dark or light
-  const isDarkMode =
-    window.matchMedia &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches;
+  // Function to set the favicon based on the color scheme
+  function setFavicon() {
+    // Check if the current mode is dark or light
+    const isDarkMode = window.matchMedia(
+      "(prefers-color-scheme: dark)"
+    ).matches;
 
-  // Set the href of the favicon based on the mode
-  if (isDarkMode) {
-    // Dark mode
-    faviconLink.href = "icons/github-mark-white.png";
-  } else {
-    // Light mode
-    faviconLink.href = "icons/github-mark.png";
+    // If darkMode use white, otherwise dark
+    faviconElement.href = isDarkMode
+      ? "icons/github-mark-white.png"
+      : "icons/github-mark.png";
   }
+
+  // Listener for scheme changes
+  window
+    .matchMedia("(prefers-color-scheme: dark)")
+    .addEventListener("change", setFavicon);
 }
-setFavicon();
 
-// Listen for changes in the color scheme (light/dark mode)
-window
-  .matchMedia("(prefers-color-scheme: dark)")
-  .addEventListener("change", setFavicon);
+// Main function for wishlists
+wishlistsMain();
 
-main();
+// Main function for favicon based on color scheme
+faviconMain();

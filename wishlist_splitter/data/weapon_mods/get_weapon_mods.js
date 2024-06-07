@@ -3,18 +3,27 @@ const fs = require("fs");
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: false,
   });
   const page = await browser.newPage();
 
   const destinySetsUrl = "https://data.destinysets.com";
-  const consoleCommand = `
-    try {
-      const result = $InventoryItem.filter(v => v.itemCategoryHashes.includes(WeaponModsOriginTraits));
-      result;
-    } catch (error) {
-      console.error(error);
-    }
+  const originTraits = `
+  try {
+    const result = $InventoryItem.filter(v => v.itemCategoryHashes.includes(WeaponModsOriginTraits));
+    result;
+  } catch (error) {
+    console.error(error);
+  }
+  `;
+
+  const frameMods = `
+  try {
+    const result = $InventoryItem.filter(v => v.itemCategoryHashes.includes(WeaponModsFrame));
+    result;
+  } catch (error) {
+    console.error(error);
+  }
   `;
 
   try {
@@ -37,7 +46,7 @@ const fs = require("fs");
     await Promise.race([waitForSelectorPromise, timeoutPromise]);
 
     // Execute the console command on the page
-    const jsHandle = await page.evaluateHandle(consoleCommand);
+    const jsHandle = await page.evaluateHandle(originTraits);
 
     // You can now work with the jsHandle as needed
     const resultValue = await jsHandle.jsonValue();
@@ -47,14 +56,14 @@ const fs = require("fs");
 
     // Save the result keys to a text file
     fs.writeFileSync(
-      "./wishlist_splitter/data/origin_traits/origin_traits.txt",
+      "origin_traits.txt",
       JSON.stringify(resultKeys, null, 2),
       "utf-8"
     );
   } catch (error) {
     console.error(error);
-  } finally {
-    await browser.close();
-    process.exit();
   }
+  // finally {
+  //   await browser.close();
+  // }
 })();
