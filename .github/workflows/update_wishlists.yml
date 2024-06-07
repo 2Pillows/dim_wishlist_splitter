@@ -40,18 +40,18 @@ jobs:
           node generate_origin_traits.js
           cd ../../..
 
-      - name: Commit Origin Trait Changes and Push
+      - name: Commit and Push Origin Trait Changes
         run: |
           git add .
-          git commit -m "update origin traits" || echo "No changes to commit"
+          git commit -m "Update Origin Traits" || echo "No changes to commit"
           git push
 
       - name: Update Wishlists
         run: |
           python3 wishlist_splitter/main.py
 
-      - name: Commit Wishlist Changes and Push
+      - name: Commit and Push Wishlist Changes
         run: |
           git add .
-          git commit -m "Update alongside dim-wish-list-sources by 48klocs" || echo "No changes to commit"
+          git commit -m "Update Wishlists" || echo "No changes to commit"
           git push
