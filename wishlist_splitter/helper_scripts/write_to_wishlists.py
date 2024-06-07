@@ -136,7 +136,7 @@ def write_data_to_config(
 
     with open(config_path, mode="w", encoding="utf-8") as config_file:
         # Write file name to start of file
-        config_file.write("title:" + config_path.replace("./wishlists/", "") + " - ")
+        config_file.write("title:" + get_file_name(config_path) + " - ")
 
         batch = []
 
@@ -159,6 +159,32 @@ def write_data_to_config(
 
         if batch:
             write_batch_to_config(config_file, batch, keys)
+
+
+def get_file_name(config_path: str):
+    # Get core of file path
+    label = config_path.replace("./wishlists/", "").replace(".txt", "")
+
+    # Remove underscores
+    label = label.replace("_", " ")
+
+    # Make labels prettier
+    label_replacements = {
+        "all": "All Rolls",
+        "mkb": "MKB",
+        "ctr": "CTR",
+        "pve": "PvE",
+        "pvp": "PvP",
+        "pandapaxxy": "PandaPaxxy",
+        "god": "God",
+        "!backups": "!Backups",
+        "perks": "Perks",
+        "dupes": "Dupes",
+    }
+    for key, value in label_replacements.items():
+        label = label.replace(key, value)
+
+    return label
 
 
 def find_config_roll(

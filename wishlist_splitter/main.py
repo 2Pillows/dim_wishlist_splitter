@@ -48,11 +48,12 @@ class Keys:
     ######################################
     # Keys for storing data from voltron #
     ######################################
+    # Core perks are used for accurate counts of perks
     # Key for storing list of base perks (only 1st, 2nd, 3rd, and 4th columns)
     CORE_PERKS_KEY = "core_perks"
     # Key for storing trimmed perks (3rd and 4th columns with any extra perks)
     TRIMMED_PERKS_KEY = "trimmed_perks"
-    # Key for storing base perks that have been filtered (only 3rd and 4th column)
+    # Key for storing core perks that have been filtered (only 3rd and 4th column)
     CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
 
     # Keys to be added
