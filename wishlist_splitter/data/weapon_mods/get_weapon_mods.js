@@ -3,7 +3,7 @@ const fs = require("fs");
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: "new",
   });
   const page = await browser.newPage();
 
@@ -45,25 +45,33 @@ const fs = require("fs");
     // Wait for the selector or timeout
     await Promise.race([waitForSelectorPromise, timeoutPromise]);
 
-    // Execute the console command on the page
-    const jsHandle = await page.evaluateHandle(originTraits);
+    // Get origin traits
+    const originTraitsHandle = await page.evaluateHandle(originTraits);
+    const originTraitsValue = await originTraitsHandle.jsonValue();
+    const originTraitKeys = Object.keys(originTraitsValue);
 
-    // You can now work with the jsHandle as needed
-    const resultValue = await jsHandle.jsonValue();
-
-    // Extract just the keys from the result object
-    const resultKeys = Object.keys(resultValue);
-
-    // Save the result keys to a text file
+    // Write origin traits
     fs.writeFileSync(
-      "origin_traits.txt",
-      JSON.stringify(resultKeys, null, 2),
+      "./wishlist_splitter/data/weapon_mods/origin_traits.txt",
+      JSON.stringify(originTraitKeys, null, 2),
+      "utf-8"
+    );
+
+    // Get weapon mods, 3rd and 4th column
+    const frameModsHandle = await page.evaluateHandle(frameMods);
+    const frameModsValue = await frameModsHandle.jsonValue();
+    const frameModsKeys = Object.keys(frameModsValue);
+
+    // Write frame mods
+    fs.writeFileSync(
+      "./wishlist_splitter/data/weapon_mods/frame_mods.txt",
+      JSON.stringify(frameModsKeys, null, 2),
       "utf-8"
     );
   } catch (error) {
     console.error(error);
+  } finally {
+    await browser.close();
+    process.exit();
   }
-  // finally {
-  //   await browser.close();
-  // }
 })();
