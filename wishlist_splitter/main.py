@@ -7,7 +7,7 @@
 ###########################################################
 
 # Import config file
-from data.wishlist_configs import get_wishlist_config
+from data.wishlist_configs import get_wishlist_config, export_wishlist_names
 
 # Import helper function to grab origin trait hashes
 from helper_scripts.get_origin_traits import get_origin_traits
@@ -23,11 +23,14 @@ from helper_scripts.write_to_wishlists import write_to_wishlists
 
 # Class to store constants that reference keys or values
 class Keys:
-    # Path of voltron file
+    #########
+    # Paths #
+    #########
     VOLTRON_PATH = "./wishlist_splitter/data/dim-wish-list-sources/voltron.txt"
     # VOLTRON_PATH = "./wishlist_splitter/data/test.txt"
-    # Path to origin trait file
     ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/origin_traits/origin_traits.txt"
+    # Path to all wishlist paths for website
+    WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"
     ############################
     # Keys for wishlist config #
     ############################
@@ -71,6 +74,9 @@ def main():
     # Pass helper keys to get wishlist configs with matching keys
     WISHLIST_CONFIGS = get_wishlist_config(keys)
     keys.WISHLIST_CONFIGS = WISHLIST_CONFIGS
+
+    # Export wishlists to a txt file for the website
+    export_wishlist_names(keys)
 
     # Collect origin trait hashes
     ORIGIN_TRAITS = get_origin_traits(keys.ORIGIN_TRAITS_PATH)
