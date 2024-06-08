@@ -1,6 +1,7 @@
 # wishlist_configs.py
 
 # Import for type hints and intellisense
+import json
 from typing import TYPE_CHECKING, List
 
 if TYPE_CHECKING:
@@ -192,3 +193,15 @@ def transform_tags(tag_list: List[str]):
         if tag in tag_list:
             tag_list.remove(tag)
             tag_list.extend(transformed_tags)
+
+
+# Write the file names to separate txt file for website
+def export_wishlist_names(keys: "Keys"):
+    # Create array with the file names
+    wishlist_paths = []
+    for config in keys.WISHLIST_CONFIGS:
+        wishlist_paths.append(config[keys.PATH_KEY])
+
+    # Write names to file
+    with open(keys.WISHLIST_NAMES_PATH, "w") as file:
+        json.dump(wishlist_paths, file)

@@ -27,31 +27,29 @@ jobs:
 
       - name: Install Node.js Dependencies
         run: |
-          cd wishlist_splitter/data/origin_traits
+          cd wishlist_splitter/data/weapon_mods
           npm install
           cd ../../..
 
       - name: Update Git Submodules
         run: git submodule update --remote
 
-      - name: Update Origin Traits
+      - name: Update Weapon Mods
         run: |
-          cd wishlist_splitter/data/origin_traits
-          node generate_origin_traits.js
-          cd ../../..
+          node wishlist_splitter/data/weapon_mods/get_weapon_mods.js
 
-      - name: Commit Origin Trait Changes and Push
+      - name: Commit and Push Origin Trait Changes
         run: |
           git add .
-          git commit -m "update origin traits" || echo "No changes to commit"
+          git commit -m "Update weapon mods alongside Destiny Data Explorer" || echo "No changes to commit"
           git push
 
       - name: Update Wishlists
         run: |
           python3 wishlist_splitter/main.py
 
-      - name: Commit Wishlist Changes and Push
+      - name: Commit and Push Wishlist Changes
         run: |
           git add .
-          git commit -m "Update alongside dim-wish-list-sources by 48klocs" || echo "No changes to commit"
+          git commit -m "Update wishlists alongside dim-wish-list-sources" || echo "No changes to commit"
           git push
