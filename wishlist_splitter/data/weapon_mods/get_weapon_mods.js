@@ -77,8 +77,10 @@ const fs = require("fs");
     const frameModsJSON = await frameModsHandle.jsonValue();
 
     // Get names for all frame mods
-    const frameModNames = Object.values(frameModsJSON).map(
-      (item) => item.displayProperties.name
+    const frameModNames = new Set(
+      Object.values(frameModsJSON)
+        .map((item) => item.displayProperties.name)
+        .filter((name) => name !== "")
     );
 
     // Get all items
@@ -90,7 +92,7 @@ const fs = require("fs");
     let allFrameModHashes = [];
     for (const key in allItemsJSON) {
       const item = allItemsJSON[key];
-      if (frameModNames.includes(item.displayProperties.name)) {
+      if (frameModNames.has(item.displayProperties.name)) {
         allFrameModHashes.push(item.hash.toString());
 
         // Some perks don't get their own entry, are listed as perkHash
