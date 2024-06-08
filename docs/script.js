@@ -46,7 +46,7 @@ async function wishlistsMain() {
         pvp: "PvP",
         panda: "PandaPaxxy",
         god: "God",
-        "!backups": "!Backups",
+        "!backup": "!Backups",
         perks: "Perks",
         dupes: "Dupes",
       };
