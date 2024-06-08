@@ -98,9 +98,6 @@ def get_perk_list(roll: Dict[str, object], keys: "Keys"):
             perks_end = perks_substring.find(END_IND)
             if perks_end != -1:
                 perks_substring = perks_substring[:perks_end]
-                print("a")
-            else:
-                pass
 
             perk_hashes.append(perks_substring.split(","))
             roll_id = perk_str[:PERK_START]
