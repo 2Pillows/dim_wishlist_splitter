@@ -168,22 +168,6 @@ def get_file_name(config_path: str):
     # Remove underscores
     label = label.replace("_", " ")
 
-    # Make labels prettier
-    # label_replacements = {
-    #     "all": "All Rolls",
-    #     "mkb": "MKB",
-    #     "ctr": "CTR",
-    #     "pve": "PvE",
-    #     "pvp": "PvP",
-    #     "pandapaxxy": "PandaPaxxy",
-    #     "god": "God",
-    #     "!backups": "!Backups",
-    #     "perks": "Perks",
-    #     "dupes": "Dupes",
-    # }
-    # for key, value in label_replacements.items():
-    #     label = label.replace(key, value)
-
     return label
 
 
