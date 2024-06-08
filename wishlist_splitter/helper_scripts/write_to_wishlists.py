@@ -177,7 +177,7 @@ def get_file_name(config_path: str):
         "pvp": "PvP",
         "panda": "PandaPaxxy",
         "god": "God",
-        "!backups": "!Backups",
+        "!backup": "!Backups",
         "perks": "Perks",
         "dupes": "Dupes",
     }
