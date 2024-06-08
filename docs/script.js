@@ -38,24 +38,24 @@ async function wishlistsMain() {
       label = label.replace(/_/g, " ");
 
       // Make labels prettier
-      const labelReplacements = {
-        all: "All Rolls",
-        mkb: "MKB",
-        ctr: "CTR",
-        pve: "PvE",
-        pvp: "PvP",
-        pandapaxxy: "PandaPaxxy",
-        god: "God",
-        "!backups": "!Backups",
-        perks: "Perks",
-        dupes: "Dupes",
-      };
-      for (const [key, value] of Object.entries(labelReplacements)) {
-        label = label.replace(key, value);
-      }
+      // const labelReplacements = {
+      //   all: "All Rolls",
+      //   mkb: "MKB",
+      //   ctr: "CTR",
+      //   pve: "PvE",
+      //   pvp: "PvP",
+      //   pandapaxxy: "PandaPaxxy",
+      //   god: "God",
+      //   "!backups": "!Backups",
+      //   perks: "Perks",
+      //   dupes: "Dupes",
+      // };
+      // for (const [key, value] of Object.entries(labelReplacements)) {
+      //   label = label.replace(key, value);
+      // }
 
       // Create tags for lists based off file name
-      let tags = fileName;
+      let tags = fileName.toLowerCase();
 
       // Add PvE or PvP if neither is found
       if (!tags.includes("pve") && !tags.includes("pvp")) {
