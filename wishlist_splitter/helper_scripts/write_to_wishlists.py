@@ -123,6 +123,7 @@ def count_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
     core_counter = Counter()
     filtered_counter = Counter()
 
+    # Update counter for each rolls hashes. Only one set of hashes per roll will count
     for roll in voltron_data:
         core_counter.update(set(roll.get(keys.CORE_PERKS_KEY, [])))
         filtered_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
