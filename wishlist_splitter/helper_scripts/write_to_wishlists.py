@@ -22,11 +22,11 @@ def write_to_wishlists(voltron_data: List[Dict[str, object]], keys: "Keys"):
     process_perks(voltron_data, keys)
 
     # Collect perks into Counters
-    core_counter, filtered_counter = count_perks(voltron_data, keys)
+    core_counter, trimmed_counter = count_perks(voltron_data, keys)
 
     # Write each data to each wishlist
     for config in keys.WISHLIST_CONFIGS:
-        write_data_to_config(voltron_data, config, keys, core_counter, filtered_counter)
+        write_data_to_config(voltron_data, config, keys, core_counter, trimmed_counter)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -121,14 +121,14 @@ def convert_hash_to_string(hashes: List[str], roll_id: str):
 ###########################################################################
 def count_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
     core_counter = Counter()
-    filtered_counter = Counter()
+    trimmed_counter = Counter()
 
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
     for roll in voltron_data:
         core_counter.update(set(roll.get(keys.CORE_PERKS_KEY, [])))
-        filtered_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
+        trimmed_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
 
-    return core_counter, filtered_counter
+    return core_counter, trimmed_counter
 
 
 ####################################
@@ -139,7 +139,7 @@ def write_data_to_config(
     config: List[Dict[str, object]],
     keys: "Keys",
     core_counter: Counter,
-    filtered_counter: Counter,
+    trimmed_counter: Counter,
 ):
     batch_size = 100
     config_path = config.get(keys.PATH_KEY)
@@ -159,7 +159,7 @@ def write_data_to_config(
             elif check_tags(roll, config, keys):
                 # Find correct perks for config
                 config_roll = find_config_roll(
-                    roll, config, keys, core_counter, filtered_counter
+                    roll, config, keys, core_counter, trimmed_counter
                 )
                 batch.append(config_roll)
 
@@ -186,7 +186,7 @@ def find_config_roll(
     config: Dict[str, object],
     keys: "Keys",
     core_counter: Counter,
-    filtered_counter: Counter,
+    trimmed_counter: Counter,
 ):
     config_roll = roll.copy()
     config_perks = roll.get(keys.PERK_KEY).copy()
@@ -200,7 +200,7 @@ def find_config_roll(
                 roll.get(keys.CORE_TRIMMED_PERKS_KEY),
                 roll.get(keys.TRIMMED_PERKS_KEY),
                 keys,
-                filtered_counter,
+                trimmed_counter,
             )
         else:
             # Config wants 3rd and 4th column perks
@@ -219,6 +219,8 @@ def find_config_roll(
     return config_roll
 
 
+# Doesn't work well if only one roll is given for a weapon
+# Counter for the occurances of each weapon?
 def get_dupe_perks(
     core_perks: List[str], all_perks: List[str], keys: "Keys", counter: Counter
 ):
