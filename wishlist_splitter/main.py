@@ -10,7 +10,7 @@
 from data.wishlist_configs import get_wishlist_config, export_wishlist_names
 
 # Import helper function to grab origin trait hashes
-from wishlist_splitter.helper_scripts.get_weapon_mods import get_weapon_mods
+from helper_scripts.get_weapon_mods import get_weapon_mods
 
 # Import helper functions for getting voltron data
 from helper_scripts.extract_voltron_data import (
