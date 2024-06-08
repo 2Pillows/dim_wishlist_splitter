@@ -236,8 +236,8 @@ def find_config_roll(
     return config_roll
 
 
-# Doesn't work well if only one roll is given for a weapon
-# Counter for the occurances of each weapon?
+# Returns perks that are present MIN_COUNT
+# If the weapon for the roll isn't present MIN_COUNT, its also included
 def get_dupe_perks(
     core_perks: List[str],
     full_perks: List[str],
