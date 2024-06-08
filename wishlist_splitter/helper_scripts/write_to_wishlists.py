@@ -62,13 +62,16 @@ def process_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
             for hash in hash_set:
                 if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
                     if hash not in keys.ORIGIN_TRAITS:
-                        core_trimmed_hash_set.append(hash)
+                        core_trimmed_hash_set.append(
+                            hash
+                        )  # Frame mod without origin trait
 
-                    trimmed_hash_set.append(hash)
+                    trimmed_hash_set.append(hash)  # Frame mod and origins traits
 
                 if hash not in keys.ORIGIN_TRAITS:
-                    core_hash_set.append(hash)
+                    core_hash_set.append(hash)  # No origin traits
 
+            # Add hash set to list of hashes
             core_hashes.append(core_hash_set)
             trimmed_hashes.append(trimmed_hash_set)
             core_trimmed_hashes.append(core_trimmed_hash_set)
@@ -82,7 +85,9 @@ def process_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
 
 # Transform perks in roll from a string to an array of hashes and the string before hashes
 def get_perk_list(roll: Dict[str, object], keys: "Keys"):
+    # Start of hashes
     PERK_IND = "&perks="
+    # Indicator of a new line, fixes lines that have notes after hashes
     END_IND = "#"
     perk_hashes = []
     roll_id = ""
@@ -93,12 +98,16 @@ def get_perk_list(roll: Dict[str, object], keys: "Keys"):
             perks_end = perks_substring.find(END_IND)
             if perks_end != -1:
                 perks_substring = perks_substring[:perks_end]
+                print("a")
+            else:
+                pass
 
             perk_hashes.append(perks_substring.split(","))
             roll_id = perk_str[:PERK_START]
     return perk_hashes, roll_id
 
 
+# Convert roll id and array of hashes to a line
 def convert_hash_to_string(hashes: List[str], roll_id: str):
     roll_perks = []
     for hash_list in hashes:
