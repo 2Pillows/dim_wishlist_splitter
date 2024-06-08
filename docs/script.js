@@ -2,7 +2,7 @@
 
 async function wishlistsMain() {
   // Text file with json dump array of wishlist paths
-  const wishlistPathsPath = "/docs/data/wishlist_names.txt";
+  const wishlistPathsPath = "data/wishlist_names.txt";
 
   // Holds selected checkboxes
   var selectedFilters = {
