@@ -18,4 +18,4 @@ Each roll is read from the Voltron file and given tags based on the words found 
 
 **Perks** - Removes the 1st and 2nd column perks from all weapons on the list. Only 3rd, 4th, and origin traits will be included.
 
-**Dupes** - Removes any roll that doesn't appear at least 2 times. Requires multiple authors to publish roll recommendations since based on total number of appearances.
+**Dupes** - Removes any roll that doesn't appear at least 2 times. There must be at least 2 weapon recommendations for rolls to be considered, rolls for a weapon that only appears 1 time won't be removed.
