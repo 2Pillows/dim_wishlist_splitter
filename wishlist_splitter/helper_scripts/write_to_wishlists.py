@@ -22,11 +22,13 @@ def write_to_wishlists(voltron_data: List[Dict[str, object]], keys: "Keys"):
     process_perks(voltron_data, keys)
 
     # Collect perks into Counters
-    core_counter, trimmed_counter = count_perks(voltron_data, keys)
+    core_counter, trimmed_counter, weapon_counter = count_perks(voltron_data, keys)
 
     # Write each data to each wishlist
     for config in keys.WISHLIST_CONFIGS:
-        write_data_to_config(voltron_data, config, keys, core_counter, trimmed_counter)
+        write_data_to_config(
+            voltron_data, config, keys, core_counter, trimmed_counter, weapon_counter
+        )
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -119,13 +121,27 @@ def convert_hash_to_string(hashes: List[str], roll_id: str):
 def count_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
     core_counter = Counter()
     trimmed_counter = Counter()
+    weapon_counter = Counter()
 
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
     for roll in voltron_data:
+        roll_perks = roll.get(keys.PERK_KEY, [])
+
+        # If roll has no perks, continue
+        if len(roll_perks) < 1:
+            continue
+
         core_counter.update(set(roll.get(keys.CORE_PERKS_KEY, [])))
         trimmed_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
 
-    return core_counter, trimmed_counter
+        weapon_counter.update([get_weapon_hash(roll_perks[0])])
+
+    return core_counter, trimmed_counter, weapon_counter
+
+
+# Takes a perk line string and returns the weapon hash
+def get_weapon_hash(perk_line: str):
+    return perk_line.split("item=")[1].split("&perks=")[0]
 
 
 ####################################
@@ -137,6 +153,7 @@ def write_data_to_config(
     keys: "Keys",
     core_counter: Counter,
     trimmed_counter: Counter,
+    weapon_counter: Counter,
 ):
     batch_size = 100
     config_path = config.get(keys.PATH_KEY)
@@ -156,7 +173,7 @@ def write_data_to_config(
             elif check_tags(roll, config, keys):
                 # Find correct perks for config
                 config_roll = find_config_roll(
-                    roll, config, keys, core_counter, trimmed_counter
+                    roll, config, keys, core_counter, trimmed_counter, weapon_counter
                 )
                 batch.append(config_roll)
 
@@ -184,6 +201,7 @@ def find_config_roll(
     keys: "Keys",
     core_counter: Counter,
     trimmed_counter: Counter,
+    weapon_counter: Counter,
 ):
     config_roll = roll.copy()
     config_perks = roll.get(keys.PERK_KEY).copy()
@@ -198,6 +216,7 @@ def find_config_roll(
                 roll.get(keys.TRIMMED_PERKS_KEY),
                 keys,
                 trimmed_counter,
+                weapon_counter,
             )
         else:
             # Config wants 3rd and 4th column perks
@@ -210,6 +229,7 @@ def find_config_roll(
             roll.get(keys.PERK_KEY),
             keys,
             core_counter,
+            weapon_counter,
         )
 
     config_roll[keys.PERK_KEY] = config_perks
@@ -219,23 +239,36 @@ def find_config_roll(
 # Doesn't work well if only one roll is given for a weapon
 # Counter for the occurances of each weapon?
 def get_dupe_perks(
-    core_perks: List[str], all_perks: List[str], keys: "Keys", counter: Counter
+    core_perks: List[str],
+    full_perks: List[str],
+    keys: "Keys",
+    perk_counter: Counter,
+    weapon_counter: Counter,
 ):
+    # Return empty array if no perks given
+    if len(full_perks) < 1:
+        return []
+
     MIN_COUNT = 2
 
-    # Use core_perks to only get perks with proper count
-    # Add and return all_perk values to keep extra perks if included in roll
-    dupe = []
+    valid_perks = []
 
+    weapon_hash = get_weapon_hash(full_perks[0])
+
+    # Adds valid perk lines to valid_perks
     for index in range(len(core_perks)):
-        core = core_perks[index]
-        all = all_perks[index]
+        core_line = core_perks[index]
+        full_line = full_perks[index]
 
-        c = counter[core]
-        if counter[core] >= MIN_COUNT:
-            dupe.append(all)
+        # Perk is valid if present at least MIN_COUNT
+        # OR weapon isn't present MIN_COUNT
+        if (
+            perk_counter[core_line] >= MIN_COUNT
+            or weapon_counter[weapon_hash] < MIN_COUNT
+        ):
+            valid_perks.append(full_line)
 
-    return dupe
+    return valid_perks
 
 
 def check_tags(roll: Dict[str, object], config: Dict[str, object], keys: "Keys"):
