@@ -41,16 +41,16 @@ def process_voltron(keys: "Keys"):
             write_roll_to_wishlist(weapon_roll, wishlist, keys)
 
     # Write batches
-    # for wishlist in keys.WISHLIST_CONFIGS:
-    #     write_batch_to_wishlist(wishlist, keys)
+    for wishlist in keys.WISHLIST_CONFIGS:
+        write_batch_to_wishlist(wishlist, keys)
 
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [
-            executor.submit(write_batch_to_wishlist, wishlist, keys)
-            for wishlist in keys.WISHLIST_CONFIGS
-        ]
-        # Wait for all futures to complete
-        concurrent.futures.wait(futures)
+    # with concurrent.futures.ThreadPoolExecutor() as executor:
+    #     futures = [
+    #         executor.submit(write_batch_to_wishlist, wishlist, keys)
+    #         for wishlist in keys.WISHLIST_CONFIGS
+    #     ]
+    #     # Wait for all futures to complete
+    #     concurrent.futures.wait(futures)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
