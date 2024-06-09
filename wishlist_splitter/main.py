@@ -17,8 +17,7 @@ from helper_scripts.get_weapon_mods import get_weapon_mods
 
 # Import helper functions for getting voltron data
 from helper_scripts.extract_voltron_data import (
-    extract_authors,
-    extract_tags,
+    extract_author_and_tags,
     extract_voltron_data,
 )
 from helper_scripts.write_to_wishlists import write_to_wishlists
@@ -103,17 +102,8 @@ def main():
     # Collect frame mod hashes
     keys.FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
 
-    # Collect all, include, and exlcude tags from config
-    keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = extract_tags(
-        keys.WISHLIST_CONFIGS,
-        keys.INC_TAG_KEY,
-        keys.EXC_TAG_KEY,
-    )
-
-    # Collect all author names in config
-    keys.AUTHOR_NAMES = extract_authors(
-        keys.WISHLIST_CONFIGS,
-        keys.AUTHOR_KEY,
+    keys.AUTHOR_NAMES, keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = (
+        extract_author_and_tags(keys)
     )
 
     # Collect data from voltron

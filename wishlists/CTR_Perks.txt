@@ -15205,6 +15205,8 @@ dimwishlist:item=2721157927&perks=2396489472,2450788523
 title:Vow of the Disciple Raid weapons
 description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
 
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep8-witch-queen-dlc-weapons.txt
+
 @title:Triumph Weapon
 @description:From completing the Chief Investigator Triumph and then world drops
 
@@ -15242,6 +15244,8 @@ title:@AyyItsChevy's S16 Super Pog PvE Loot List
 description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
 title:Season 15 Vanguard Nightfall weapons
 notes:Reprised D1 weapons dropping from Nightfall completions
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
 
 title:Reprised Dawning weapons
 description:Season 15 (Season of the Lost) Dawning weapons
@@ -15451,6 +15455,8 @@ dimwishlist:item=2139640995&perks=3523296417,354401740
 
 title:YeezyGT's S16
 
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
+
 title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
 description:Xûr activity, reputation and cache chest legendary weapons
 
@@ -15460,19 +15466,29 @@ description:World pool legendary weapon rolls
 title:Season 13 (Season of the Chosen) World drop weapon rolls
 description:World pool legendary weapon rolls
 
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
+
 title:Season 15 (Season of the Lost) Activity weapon rolls
 description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
 
 title:Season 14 (Season of the Chosen) Vault of Glass rolls
 description:Reprised weapons from Vault of Glass Raid
 
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
+
 @title:Season 15 Reissued Trials of the Nine weapons
 @notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
 
 title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
 description:Weapons roundup as at S15 Festival of the Lost
 
 title:YeezyGT's S15 wishlist picks.
+
+description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
 
 title:Destiny Massive Breakdown-inspired weapon rolls
 description:Not affiliated with the DMB podcast, but based on their discussions
@@ -25097,6 +25113,9 @@ dimwishlist:item=3164743584&perks=1546637391,2866798147
 dimwishlist:item=3164743584&perks=1546637391,3436462433
 dimwishlist:item=3164743584&perks=2213355989,2866798147
 dimwishlist:item=3164743584&perks=2213355989,3436462433
+
+//title:Sharditkeepit Community Vault of Glass favorites
+//description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nq1usy/communitysourced_season_of_the_splicer_breakdown/
 
 // Vision of Confluence
 //notes:Sharditkeepit PVE recommended roll - High-Caliber Rounds (Controller)

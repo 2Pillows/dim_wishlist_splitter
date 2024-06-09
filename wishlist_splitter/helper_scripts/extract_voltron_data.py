@@ -3,42 +3,33 @@
 import copy
 
 # Import for type hints and intellisense
+import re
 from typing import TYPE_CHECKING, List, Dict
 
 if TYPE_CHECKING:
     from main import Keys
 
 
-##########################################
-# Collect auithors from wishlist configs #
-##########################################
-def extract_authors(WISHLIST_CONFIGS: List[Dict[str, object]], AUTHOR_KEY: str):
+##################################################
+# Collect authors and tags from wishlist configs #
+##################################################
+def extract_author_and_tags(keys: "Keys"):
     author_names = set()
-    for config in WISHLIST_CONFIGS:
-        author_names.update(config.get(AUTHOR_KEY, []))
-    return author_names
-
-
-######################################
-# Collect tags from wishlist configs #
-######################################
-def extract_tags(
-    WISHLIST_CONFIGS: List[Dict[str, object]], INC_TAG_KEY: str, EXC_TAG_KEY: str
-):
     all_tags = set()
     inc_tags = set()
     exc_tags = set()
 
-    # Iterate through each config and collect INC_TAG_KEY and EXC_TAG_KEY values
-    for config in WISHLIST_CONFIGS:
-        inc_tags.update(config.get(INC_TAG_KEY, []))
-        exc_tags.update(config.get(EXC_TAG_KEY, []))
+    # Iterate through each config and collect author names, INC_TAG_KEY, and EXC_TAG_KEY values
+    for config in keys.WISHLIST_CONFIGS:
+        author_names.update(config.get(keys.AUTHOR_KEY, []))
+        inc_tags.update(config.get(keys.INC_TAG_KEY, []))
+        exc_tags.update(config.get(keys.EXC_TAG_KEY, []))
 
     # Update ALL_TAGS with tags collected from config
     all_tags.update(inc_tags)
     all_tags.update(exc_tags)
 
-    return all_tags, inc_tags, exc_tags
+    return author_names, all_tags, inc_tags, exc_tags
 
 
 ###############################################################
@@ -85,11 +76,6 @@ def extract_voltron_data(keys: "Keys"):
     return voltron_data
 
 
-# ===========================================
-# keys functions for extract_voltron_data =
-# ===========================================
-
-
 # Clear contents of current_roll
 def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
     current_roll[keys.CREDIT_KEY] = []
@@ -132,8 +118,12 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Also takes string from 'tags:' to end of line
 
     # Tags that indicate line contains credits
-    credit_tags = ["title:", "description:"]
-    if any(tag in line_lower for tag in credit_tags) and "//" not in line_lower:
+    line_type = re.sub(
+        r"[^a-zA-Z]",
+        "",
+        line_lower[: line_lower.find(":")] if ":" in line_lower else "",
+    )
+    if "title" == line_type or "description" == line_type:
         current_roll[keys.CREDIT_KEY].append(keys.CREDIT_TAG)
 
     # Fix MKB formatting
