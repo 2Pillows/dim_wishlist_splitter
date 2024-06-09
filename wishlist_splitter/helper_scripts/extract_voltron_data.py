@@ -47,8 +47,15 @@ def extract_voltron_data(keys: "Keys"):
     current_roll = {}
     initialize_roll(current_roll, keys)
 
+    # Remove title in heading, replaced with file name
+    first_line = True
+
     with open(file_path, mode="r", encoding="utf-8") as file:
         for line in file:
+            if first_line:
+                line = line.replace("title:", "")
+                first_line = False
+
             line = line.strip()
             line_lower = line.lower()
 
@@ -84,14 +91,11 @@ def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
 def process_rolls(
     current_roll: Dict[str, object], line: str, line_lower: str, keys: "Keys"
 ):
-    dim_item_id = "dimwishlist:item="
-    if dim_item_id in line_lower:
+    # Perk line
+    if "dimwishlist:item=" in line_lower:
         current_roll[keys.PERK_KEY].append(line + "\n")
+    # Description line
     else:
-        # Remove title in heading, replaced with file name
-        if "title:This is a compiled collection" in line:
-            line = line.replace("title:", "")
-
         current_roll[keys.DESCRIPTION_KEY].append(line + "\n")
 
         # Collect tags for roll
