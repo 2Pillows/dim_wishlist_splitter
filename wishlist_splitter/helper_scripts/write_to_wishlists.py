@@ -136,11 +136,13 @@ def process_perks(weapon_roll, keys: "Keys"):
         unique_core_trimmed_hashes.add(tuple(sorted(core_trimmed_hash_set)))
 
     # Convert sets back to lists of lists and sort them numerically
-    core_hashes = [sorted(list(hash_set)) for hash_set in unique_core_hashes]
-    trimmed_hashes = [sorted(list(hash_set)) for hash_set in unique_trimmed_hashes]
-    core_trimmed_hashes = [
-        sorted(list(hash_set)) for hash_set in unique_core_trimmed_hashes
-    ]
+    core_hashes = sorted([sorted(list(hash_set)) for hash_set in unique_core_hashes])
+    trimmed_hashes = sorted(
+        [sorted(list(hash_set)) for hash_set in unique_trimmed_hashes]
+    )
+    core_trimmed_hashes = sorted(
+        [sorted(list(hash_set)) for hash_set in unique_core_trimmed_hashes]
+    )
 
     weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
