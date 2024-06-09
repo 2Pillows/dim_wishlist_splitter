@@ -49,6 +49,9 @@ class Keys:
     DESCRIPTION_KEY = "description"
     PERK_KEY = "perks"
     DUPE_PERKS_KEY = "dupe"
+    FILE_KEY = "file"
+    BATCH_KEY = "batch"
+    BATCH_SIZE = 10
 
     ######################################
     # Keys for storing data from voltron #
