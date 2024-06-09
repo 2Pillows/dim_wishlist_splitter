@@ -117,31 +117,29 @@ def process_perks(weapon_roll, keys: "Keys"):
 
     # Iterate through each hash set in perk_hashes
     for hash_set in perk_hashes:
-        core_hash_set = []
-        trimmed_hash_set = []
-        core_trimmed_hash_set = []
+        core_hash_set = set()
+        trimmed_hash_set = set()
+        core_trimmed_hash_set = set()
 
         for hash_value in hash_set:
             if hash_value in keys.FRAME_MODS or hash_value in keys.ORIGIN_TRAITS:
                 if hash_value not in keys.ORIGIN_TRAITS:
-                    core_trimmed_hash_set.append(hash_value)
-                trimmed_hash_set.append(hash_value)
+                    core_trimmed_hash_set.add(hash_value)
+                trimmed_hash_set.add(hash_value)
 
             if hash_value not in keys.ORIGIN_TRAITS:
-                core_hash_set.append(hash_value)
+                core_hash_set.add(hash_value)
 
-        # Convert lists to tuples to make them hashable and add to sets
+        # Add hash set to sets
         unique_core_hashes.add(tuple(sorted(core_hash_set)))
         unique_trimmed_hashes.add(tuple(sorted(trimmed_hash_set)))
         unique_core_trimmed_hashes.add(tuple(sorted(core_trimmed_hash_set)))
 
-    # Convert sets back to lists of lists and sort them numerically
-    core_hashes = sorted([sorted(list(hash_set)) for hash_set in unique_core_hashes])
-    trimmed_hashes = sorted(
-        [sorted(list(hash_set)) for hash_set in unique_trimmed_hashes]
-    )
+    # Convert sets to sorted lists of lists
+    core_hashes = sorted([list(hash_set) for hash_set in unique_core_hashes])
+    trimmed_hashes = sorted([list(hash_set) for hash_set in unique_trimmed_hashes])
     core_trimmed_hashes = sorted(
-        [sorted(list(hash_set)) for hash_set in unique_core_trimmed_hashes]
+        [list(hash_set) for hash_set in unique_core_trimmed_hashes]
     )
 
     weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
