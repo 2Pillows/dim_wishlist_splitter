@@ -1,10 +1,10 @@
 # extract_voltron_data.py
 
 import copy
+import re
 
 # Import for type hints and intellisense
-import re
-from typing import TYPE_CHECKING, List, Dict
+from typing import TYPE_CHECKING, Dict
 
 if TYPE_CHECKING:
     from main import Keys
