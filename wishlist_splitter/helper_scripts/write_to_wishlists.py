@@ -68,25 +68,36 @@ def add_default_tags(weapon_roll, keys):
 def process_perks(weapon_roll, keys: "Keys"):
     # Transform perks in roll from a string to an array of hashes and the string before hashes
     def get_perk_list(roll: Dict[str, object], keys: "Keys"):
-        # Start of hashes
-        PERK_IND = "&perks="
-        # Indicator of current line
-        END_IND = "\n"
+
+        roll_perks = roll[keys.PERK_KEY]
+
         perk_hashes = []
         roll_id = ""
-        for perk_str in roll[(keys.PERK_KEY)]:
-            PERK_START = perk_str.find(PERK_IND) + len(PERK_IND)
-            PERKS_END = perk_str.find(END_IND)
+
+        if not roll_perks:
+            return perk_hashes, roll_id
+
+        # Constants
+        PERK_IND = "&perks="
+        END_IND = "\n"
+
+        for perk_str in roll_perks:
+            PERK_START = perk_str.find(PERK_IND)
             if PERK_START != -1:
+                PERK_START += len(PERK_IND)
+                PERKS_END = perk_str.find(END_IND, PERK_START)
                 perks_substring = perk_str[PERK_START:PERKS_END]
 
-                # Edge case for lines with perks#perk_desription
+                # Handle edge case for perks with descriptions
                 extended_found = perks_substring.find("#")
                 if extended_found != -1:
                     perks_substring = perks_substring[:extended_found]
 
                 perk_hashes.append(perks_substring.split(","))
-                roll_id = perk_str[:PERK_START]
+
+                if not roll_id:
+                    roll_id = perk_str[:PERK_START]
+
         return perk_hashes, roll_id
 
     # Convert roll id and array of hashes to a line
