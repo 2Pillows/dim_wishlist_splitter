@@ -12,77 +12,80 @@ if TYPE_CHECKING:
 ########################################
 # Write voltron_data to wishlist files #
 ########################################
-def write_to_wishlists(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    # Adds mouse and pve tag if no input or gamemode tag present
-    add_default_tags(voltron_data, keys)
-
-    # Get core and trimmed perks
-    # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
-    # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
-    process_perks(voltron_data, keys)
-
-    # Collect perks into Counters
-    core_counter, trimmed_counter, weapon_counter = count_perks(voltron_data, keys)
+def write_to_wishlists(keys: "Keys"):
+    # Loop through voltron, process each roll
+    process_voltron(keys)
 
     # Write each data to each wishlist
     for config in keys.WISHLIST_CONFIGS:
-        write_data_to_config(
-            voltron_data, config, keys, core_counter, trimmed_counter, weapon_counter
-        )
+        write_data_to_config(config, keys)
+
+
+# Add tags, process perks, and count perks for each roll in Voltron
+def process_voltron(keys: "Keys"):
+    for voltron_roll in keys.VOLTRON_DATA:
+        # Adds mouse and pve tag if no input or gamemode tag present
+        add_default_tags(voltron_roll, keys)
+
+        # Get core and trimmed perks
+        # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
+        # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
+        process_perks(voltron_roll, keys)
+
+        # Collect perks into Counters
+        count_perks(voltron_roll, keys)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
-def add_default_tags(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    for roll in voltron_data:
-        default_input = "mkb"
-        default_mode = "pve"
-        input_options = ["mkb", "controller"]
-        mode_options = ["pve", "pvp"]
+def add_default_tags(voltron_roll, keys):
+    default_input = "mkb"
+    default_mode = "pve"
+    input_options = ["mkb", "controller"]
+    mode_options = ["pve", "pvp"]
 
-        if not any(tag in roll[keys.INC_TAG_KEY] for tag in input_options):
-            roll[keys.INC_TAG_KEY].append(default_input)
-        if not any(tag in roll[keys.INC_TAG_KEY] for tag in mode_options):
-            roll[keys.INC_TAG_KEY].append(default_mode)
+    if not any(tag in voltron_roll[keys.INC_TAG_KEY] for tag in input_options):
+        voltron_roll[keys.INC_TAG_KEY].append(default_input)
+    if not any(tag in voltron_roll[keys.INC_TAG_KEY] for tag in mode_options):
+        voltron_roll[keys.INC_TAG_KEY].append(default_mode)
 
 
 # Create and store core and trimmed perk strings
-def process_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    for roll in voltron_data:
-        perk_hashes, roll_id = get_perk_list(roll, keys)
-        # 1st, 2nd, 3rd, 4th column
-        core_hashes = []
-        # Hashes without 1st and 2nd
-        trimmed_hashes = []
-        # Hashes with only 3rd and 4th column
-        core_trimmed_hashes = []
+def process_perks(voltron_roll, keys: "Keys"):
+    perk_hashes, roll_id = get_perk_list(voltron_roll, keys)
+    # 1st, 2nd, 3rd, 4th column
+    core_hashes = []
+    # Hashes without 1st and 2nd
+    trimmed_hashes = []
+    # Hashes with only 3rd and 4th column
+    core_trimmed_hashes = []
 
-        for hash_set in perk_hashes:
-            core_hash_set = []
-            trimmed_hash_set = []
-            core_trimmed_hash_set = []
+    for hash_set in perk_hashes:
+        core_hash_set = []
+        trimmed_hash_set = []
+        core_trimmed_hash_set = []
 
-            for hash in hash_set:
-                if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
-                    if hash not in keys.ORIGIN_TRAITS:
-                        core_trimmed_hash_set.append(
-                            hash
-                        )  # Frame mod without origin trait
-
-                    trimmed_hash_set.append(hash)  # Frame mod and origins traits
-
+        for hash in hash_set:
+            if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
                 if hash not in keys.ORIGIN_TRAITS:
-                    core_hash_set.append(hash)  # No origin traits
+                    core_trimmed_hash_set.append(hash)  # Frame mod without origin trait
 
-            # Add hash set to list of hashes
-            core_hashes.append(core_hash_set)
-            trimmed_hashes.append(trimmed_hash_set)
-            core_trimmed_hashes.append(core_trimmed_hash_set)
+                trimmed_hash_set.append(hash)  # Frame mod and origins traits
 
-        roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
-        roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(trimmed_hashes, roll_id)
-        roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
-            core_trimmed_hashes, roll_id
-        )
+            if hash not in keys.ORIGIN_TRAITS:
+                core_hash_set.append(hash)  # No origin traits
+
+        # Add hash set to list of hashes
+        core_hashes.append(core_hash_set)
+        trimmed_hashes.append(trimmed_hash_set)
+        core_trimmed_hashes.append(core_trimmed_hash_set)
+
+    voltron_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
+    voltron_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
+        trimmed_hashes, roll_id
+    )
+    voltron_roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
+        core_trimmed_hashes, roll_id
+    )
 
 
 # Transform perks in roll from a string to an array of hashes and the string before hashes
@@ -118,25 +121,17 @@ def convert_hash_to_string(hashes: List[str], roll_id: str):
 ###########################################################################
 # Creates Counter to track number of mentions for each set of perk hashes #
 ###########################################################################
-def count_perks(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    core_counter = Counter()
-    trimmed_counter = Counter()
-    weapon_counter = Counter()
-
+def count_perks(voltron_roll, keys: "Keys"):
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
-    for roll in voltron_data:
-        roll_perks = roll.get(keys.PERK_KEY, [])
+    roll_perks = voltron_roll.get(keys.PERK_KEY, [])
 
-        # If roll has no perks, continue
-        if len(roll_perks) < 1:
-            continue
+    # If roll has no perks, continue
+    if len(roll_perks) < 1:
+        return
 
-        core_counter.update(set(roll.get(keys.CORE_PERKS_KEY, [])))
-        trimmed_counter.update(set(roll.get(keys.TRIMMED_PERKS_KEY, [])))
-
-        weapon_counter.update([get_weapon_hash(roll_perks[0])])
-
-    return core_counter, trimmed_counter, weapon_counter
+    keys.CORE_COUNTER.update(set(voltron_roll.get(keys.CORE_PERKS_KEY, [])))
+    keys.TRIMMED_COUNTER.update(set(voltron_roll.get(keys.TRIMMED_PERKS_KEY, [])))
+    keys.WEAPON_COUNTER.update([get_weapon_hash(roll_perks[0])])
 
 
 # Takes a perk line string and returns the weapon hash
@@ -148,12 +143,8 @@ def get_weapon_hash(perk_line: str):
 # Writes data to given config file #
 ####################################
 def write_data_to_config(
-    voltron_data: List[Dict[str, object]],
     config: List[Dict[str, object]],
     keys: "Keys",
-    core_counter: Counter,
-    trimmed_counter: Counter,
-    weapon_counter: Counter,
 ):
     batch_size = 100
     config_path = config.get(keys.PATH_KEY)
@@ -164,7 +155,7 @@ def write_data_to_config(
 
         batch = []
 
-        for roll in voltron_data:
+        for roll in keys.VOLTRON_DATA:
             # Always write roll if it is a credit roll
             if contains_credits(roll, keys):
                 batch.append(roll)
@@ -172,9 +163,7 @@ def write_data_to_config(
             # Check if roll tags match config tags
             elif check_tags(roll, config, keys):
                 # Find correct perks for config
-                config_roll = find_config_roll(
-                    roll, config, keys, core_counter, trimmed_counter, weapon_counter
-                )
+                config_roll = find_config_roll(roll, config, keys)
                 batch.append(config_roll)
 
             if len(batch) >= batch_size:
@@ -199,9 +188,6 @@ def find_config_roll(
     roll: Dict[str, object],
     config: Dict[str, object],
     keys: "Keys",
-    core_counter: Counter,
-    trimmed_counter: Counter,
-    weapon_counter: Counter,
 ):
     config_roll = roll.copy()
     config_perks = roll.get(keys.PERK_KEY).copy()
@@ -215,8 +201,8 @@ def find_config_roll(
                 roll.get(keys.CORE_TRIMMED_PERKS_KEY),
                 roll.get(keys.TRIMMED_PERKS_KEY),
                 keys,
-                trimmed_counter,
-                weapon_counter,
+                keys.TRIMMED_COUNTER,
+                keys.WEAPON_COUNTER,
             )
         else:
             # Config wants 3rd and 4th column perks
@@ -228,8 +214,8 @@ def find_config_roll(
             roll.get(keys.CORE_PERKS_KEY),
             roll.get(keys.PERK_KEY),
             keys,
-            core_counter,
-            weapon_counter,
+            keys.CORE_COUNTER,
+            keys.WEAPON_COUNTER,
         )
 
     config_roll[keys.PERK_KEY] = config_perks
@@ -249,8 +235,6 @@ def get_dupe_perks(
     if len(full_perks) < 1:
         return []
 
-    MIN_COUNT = 2
-
     valid_perks = []
 
     weapon_hash = get_weapon_hash(full_perks[0])
@@ -263,8 +247,8 @@ def get_dupe_perks(
         # Perk is valid if present at least MIN_COUNT
         # OR weapon isn't present MIN_COUNT
         if (
-            perk_counter[core_line] >= MIN_COUNT
-            or weapon_counter[weapon_hash] < MIN_COUNT
+            perk_counter[core_line] >= keys.MIN_ROLL_COUNT
+            or weapon_counter[weapon_hash] < keys.MIN_ROLL_COUNT
         ):
             valid_perks.append(full_line)
 
