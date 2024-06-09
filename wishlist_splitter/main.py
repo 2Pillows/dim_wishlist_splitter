@@ -1,5 +1,8 @@
 # main.py
+from collections import Counter
+import time
 
+start_time = time.time()
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
 # Collects wishlist config and voltron data              #
@@ -32,6 +35,7 @@ class Keys:
     FRAME_MODS_PATH = "./wishlist_splitter/data/weapon_mods/frame_mods.txt"
     # Path to all wishlist paths for website
     WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"
+
     ############################
     # Keys for wishlist config #
     ############################
@@ -45,6 +49,7 @@ class Keys:
     DESCRIPTION_KEY = "description"
     PERK_KEY = "perks"
     DUPE_PERKS_KEY = "dupe"
+
     ######################################
     # Keys for storing data from voltron #
     ######################################
@@ -56,7 +61,12 @@ class Keys:
     # Key for storing core perks that have been filtered (only 3rd and 4th column)
     CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
 
+    # Minimum number of rolls to for dupe rolls
+    MIN_ROLL_COUNT = 2
+
     # Keys to be added
+    # Voltron text
+    VOLTRON_DATA = None
     # Dictionary storing wishlist information
     WISHLIST_CONFIGS = None
     # List of origin trait hashes
@@ -70,47 +80,50 @@ class Keys:
     # List of author names
     AUTHOR_NAMES = None
 
+    # Counters
+    CORE_COUNTER = Counter()
+    TRIMMED_COUNTER = Counter()
+    WEAPON_COUNTER = Counter()
+
 
 def main():
     keys = Keys()
     # Pass helper keys to get wishlist configs with matching keys
-    WISHLIST_CONFIGS = get_wishlist_config(keys)
-    keys.WISHLIST_CONFIGS = WISHLIST_CONFIGS
+    keys.WISHLIST_CONFIGS = get_wishlist_config(keys)
 
     # Export wishlists to a txt file for the website
     export_wishlist_names(keys)
 
     # Collect origin trait hashes
-    ORIGIN_TRAITS = get_weapon_mods(keys.ORIGIN_TRAITS_PATH)
-    keys.ORIGIN_TRAITS = ORIGIN_TRAITS
+    keys.ORIGIN_TRAITS = get_weapon_mods(keys.ORIGIN_TRAITS_PATH)
 
     # Collect frame mod hashes
-    FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
-    keys.FRAME_MODS = FRAME_MODS
+    keys.FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
 
     # Collect all, include, and exlcude tags from config
-    ALL_TAGS, INC_TAGS, EXC_TAGS = extract_tags(
+    keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = extract_tags(
         keys.WISHLIST_CONFIGS,
         keys.INC_TAG_KEY,
         keys.EXC_TAG_KEY,
     )
-    keys.ALL_TAGS = ALL_TAGS
-    keys.INC_TAGS = INC_TAGS
-    keys.EXC_TAGS = EXC_TAGS
 
     # Collect all author names in config
-    AUTHOR_NAMES = extract_authors(
+    keys.AUTHOR_NAMES = extract_authors(
         keys.WISHLIST_CONFIGS,
         keys.AUTHOR_KEY,
     )
-    keys.AUTHOR_NAMES = AUTHOR_NAMES
 
     # Collect data from voltron
-    voltron_data = extract_voltron_data(keys)
+    keys.VOLTRON_DATA = extract_voltron_data(keys)
 
     # Write voltron data to config files
-    write_to_wishlists(voltron_data, keys)
+    write_to_wishlists(keys)
 
 
 if __name__ == "__main__":
     main()
+
+    end_time = time.time()
+
+    runtime = end_time - start_time
+    print(f"Runtime: {runtime} seconds")
