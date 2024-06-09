@@ -1,10 +1,10 @@
 # loop wishlist, then voltron
 import concurrent.futures
 
-from collections import Counter, OrderedDict
+from collections import Counter
 
 # Import for type hints and intellisense
-from typing import TYPE_CHECKING, List, Dict, IO, Set
+from typing import TYPE_CHECKING, List, Dict, Set
 
 if TYPE_CHECKING:
     from main import Keys
@@ -74,19 +74,12 @@ def process_perks(weapon_roll, keys: "Keys"):
         perk_hashes = []
         roll_id = ""
 
-        # Return if no perks given
-        if not roll_perks:
-            return perk_hashes, roll_id
-
-        # Indicators for start and end of perks
-        PERK_IND = "&perks="
-        END_IND = "\n"
-
         for perk_str in roll_perks:
+            PERK_IND = "&perks="
             PERK_START = perk_str.find(PERK_IND)
             if PERK_START != -1:
                 PERK_START += len(PERK_IND)
-                PERKS_END = perk_str.find(END_IND, PERK_START)
+                PERKS_END = perk_str.find("\n", PERK_START)
                 perks_substring = perk_str[PERK_START:PERKS_END]
 
                 # Handle edge case for perks#perk_descriptions
@@ -152,14 +145,14 @@ def process_perks(weapon_roll, keys: "Keys"):
 # Creates Counter to track number of mentions for each set of perk hashes
 def count_perks(weapon_roll, keys: "Keys"):
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
-    roll_perks = weapon_roll.get(keys.PERK_KEY, [])
+    roll_perks = weapon_roll[keys.PERK_KEY]
 
     # If roll has no perks, continue
     if len(roll_perks) < 1:
         return
 
-    keys.CORE_COUNTER.update(set(weapon_roll.get(keys.CORE_PERKS_KEY, [])))
-    keys.TRIMMED_COUNTER.update(set(weapon_roll.get(keys.TRIMMED_PERKS_KEY, [])))
+    keys.CORE_COUNTER.update(set(weapon_roll[keys.CORE_PERKS_KEY]))
+    keys.TRIMMED_COUNTER.update(set(weapon_roll[keys.TRIMMED_PERKS_KEY]))
     keys.WEAPON_COUNTER.update([get_weapon_hash(roll_perks[0])])
 
 
@@ -175,15 +168,18 @@ def write_to_wishlist(
     wishlist,
     keys: "Keys",
 ):
-    file_path = wishlist.get(keys.PATH_KEY)
-    file_name = (
-        file_path.replace("./wishlists/", "").replace(".txt", "").replace("_", " ")
-    )
-
-    with open(file_path, mode="w", encoding="utf-8") as wishlist_file:
+    with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
         # Write file name to start of file
-        wishlist_file.write("title:" + file_name + " - ")
+        wishlist_file.write(
+            "title:"
+            + wishlist[keys.PATH_KEY]
+            .replace("./wishlists/", "")
+            .replace(".txt", "")
+            .replace("_", " ")
+            + " - "
+        )
 
+        # Batch to hold keys.BATCH_SIZE number of rolls, will write when full or last loop
         batch = []
 
         for weapon_roll in keys.VOLTRON_DATA:
@@ -203,6 +199,7 @@ def write_to_wishlist(
                 write_batch_to_wishlist(wishlist_file, batch, keys)
                 batch = []
 
+        # Empty batch if any leftover
         if batch:
             write_batch_to_wishlist(wishlist_file, batch, keys)
 
@@ -212,8 +209,9 @@ def find_wishlist_roll(
     wishlist: Dict[str, object],
     keys: "Keys",
 ):
+    # Copy weapon roll and perks to avoid changing the source
     wishlist_roll = weapon_roll.copy()
-    wishlist_perks = weapon_roll.get(keys.PERK_KEY).copy()
+    wishlist_perks = weapon_roll[keys.PERK_KEY].copy()
     # Core perks is perks without extra perks
     # Filtered perks is only 3rd and 4th column perks and extras
     # Core filtered is 3rd and 4th column perks without extra perks
@@ -221,24 +219,22 @@ def find_wishlist_roll(
         if wishlist.get(keys.DUPE_PERKS_KEY):
             # wishlist wants 3rd and 4th column perks in at least 2 rolls
             wishlist_perks = get_dupe_perks(
-                weapon_roll.get(keys.CORE_TRIMMED_PERKS_KEY),
-                weapon_roll.get(keys.TRIMMED_PERKS_KEY),
+                weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
+                weapon_roll[keys.TRIMMED_PERKS_KEY],
                 keys,
                 keys.TRIMMED_COUNTER,
-                keys.WEAPON_COUNTER,
             )
         else:
             # wishlist wants 3rd and 4th column perks
-            wishlist_perks = weapon_roll.get(keys.TRIMMED_PERKS_KEY).copy()
+            wishlist_perks = weapon_roll[keys.TRIMMED_PERKS_KEY].copy()
 
     elif wishlist.get(keys.DUPE_PERKS_KEY):
         # wishlist wants rolls in at least 2 rolls
         wishlist_perks = get_dupe_perks(
-            weapon_roll.get(keys.CORE_PERKS_KEY),
-            weapon_roll.get(keys.PERK_KEY),
+            weapon_roll[keys.CORE_PERKS_KEY],
+            weapon_roll[keys.PERK_KEY],
             keys,
             keys.CORE_COUNTER,
-            keys.WEAPON_COUNTER,
         )
 
     wishlist_roll[keys.PERK_KEY] = wishlist_perks
@@ -252,15 +248,14 @@ def get_dupe_perks(
     full_perks: List[str],
     keys: "Keys",
     perk_counter: Counter,
-    weapon_counter: Counter,
 ):
     # Return empty array if no perks given
     if len(full_perks) < 1:
         return []
 
-    valid_perks = []
-
     weapon_hash = get_weapon_hash(full_perks[0])
+
+    valid_perks = []
 
     # Adds valid perk lines to valid_perks
     for index in range(len(core_perks)):
@@ -271,7 +266,7 @@ def get_dupe_perks(
         # OR weapon isn't present MIN_COUNT
         if (
             perk_counter[core_line] >= keys.MIN_ROLL_COUNT
-            or weapon_counter[weapon_hash] < keys.MIN_ROLL_COUNT
+            or keys.WEAPON_COUNTER[weapon_hash] < keys.MIN_ROLL_COUNT
         ):
             valid_perks.append(full_line)
 
@@ -290,10 +285,9 @@ def check_tags(
 
 def contains_credits(weapon_roll: Dict[str, object], keys: "Keys"):
     # If wishlist doesn't have an include tag or if roll has a credit tag and no perks, it passes
-    if len(weapon_roll.get(keys.CREDIT_TAG, [])) > 0 and not weapon_roll.get(
+    return len(weapon_roll.get(keys.CREDIT_TAG, [])) > 0 and not weapon_roll.get(
         keys.PERK_KEY
-    ):
-        return True
+    )
 
 
 def contains_author_names(
@@ -303,10 +297,10 @@ def contains_author_names(
     if keys.AUTHOR_KEY not in wishlist:
         return True
 
-    # If roll has author and any author is in roll return true
-    return keys.AUTHOR_KEY in weapon_roll and any(
-        author in weapon_roll[keys.AUTHOR_KEY] for author in wishlist[keys.AUTHOR_KEY]
-    )
+    # Author for wishlist and weapon need to share an author
+    return keys.AUTHOR_KEY in weapon_roll and set(
+        weapon_roll[keys.AUTHOR_KEY]
+    ).intersection(set(wishlist.get(keys.AUTHOR_KEY)))
 
 
 def contains_inc_tags(
@@ -317,9 +311,9 @@ def contains_inc_tags(
         return False
 
     # Return if all include tags in wishlist are in roll include tags
-    return all(
-        tag in weapon_roll[keys.INC_TAG_KEY]
-        for tag in wishlist.get(keys.INC_TAG_KEY, [])
+    # the tags needed for the wishlist need to be subset of tags for roll
+    return set(wishlist.get(keys.INC_TAG_KEY, [])).issubset(
+        set(weapon_roll.get(keys.INC_TAG_KEY, []))
     )
 
 
@@ -335,28 +329,9 @@ def contains_exc_tags(
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
-    return any(
-        tag in weapon_roll.get(keys.EXC_TAG_KEY, [])
-        for tag in wishlist[keys.EXC_TAG_KEY]
+    return set(weapon_roll.get(keys.EXC_TAG_KEY, [])).intersection(
+        set(wishlist.get(keys.EXC_TAG_KEY, []))
     )
-
-
-# def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
-#     for current_roll in batch:
-#         write_to_file(wishlist_file, current_roll[keys.DESCRIPTION_KEY])
-#         write_to_file(wishlist_file, current_roll[keys.PERK_KEY])
-#         wishlist_file.write("\n")
-
-
-# def write_roll_to_wishlist(wishlist_file, weapon_roll, keys: "Keys"):
-#     write_to_file(wishlist_file, weapon_roll[keys.DESCRIPTION_KEY])
-#     write_to_file(wishlist_file, weapon_roll[keys.PERK_KEY])
-#     wishlist_file.write("\n")
-
-
-# def write_to_file(wishlist_file: IO[str], lines: List[str]):
-#     for line in lines:
-#         wishlist_file.write(f"{line}\n")
 
 
 def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
