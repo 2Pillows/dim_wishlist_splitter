@@ -16,7 +16,14 @@ def write_to_wishlists(keys: "Keys"):
     # Loop through voltron, process each roll
     process_voltron(keys)
 
-    # Write each data to each wishlist
+    # For each config in wishlists, write valid voltron data to file
+    # potential methods
+
+    # Open all wishlist files
+    # Loop through Voltron, check line against filters for each list
+    # For each wishlist, have a batch that collets lines
+    # When batch reaches limit, write to repsective file
+
     for config in keys.WISHLIST_CONFIGS:
         write_data_to_config(config, keys)
 
@@ -51,6 +58,34 @@ def add_default_tags(voltron_roll, keys):
 
 # Create and store core and trimmed perk strings
 def process_perks(voltron_roll, keys: "Keys"):
+    # Transform perks in roll from a string to an array of hashes and the string before hashes
+    def get_perk_list(roll: Dict[str, object], keys: "Keys"):
+        # Start of hashes
+        PERK_IND = "&perks="
+        # Indicator of a new line, fixes lines that have notes after hashes
+        END_IND = "#"
+        perk_hashes = []
+        roll_id = ""
+        for perk_str in roll[(keys.PERK_KEY)]:
+            PERK_START = perk_str.find(PERK_IND) + len(PERK_IND)
+            if PERK_START != -1:
+                perks_substring = perk_str[PERK_START:]
+                perks_end = perks_substring.find(END_IND)
+                if perks_end != -1:
+                    perks_substring = perks_substring[:perks_end]
+
+                perk_hashes.append(perks_substring.split(","))
+                roll_id = perk_str[:PERK_START]
+        return perk_hashes, roll_id
+
+    # Convert roll id and array of hashes to a line
+    def convert_hash_to_string(hashes: List[str], roll_id: str):
+        roll_perks = []
+        for hash_list in hashes:
+            perk_str = roll_id + ",".join(str(hash) for hash in hash_list)
+            roll_perks.append(perk_str)
+        return roll_perks
+
     perk_hashes, roll_id = get_perk_list(voltron_roll, keys)
     # 1st, 2nd, 3rd, 4th column
     core_hashes = []
@@ -88,39 +123,7 @@ def process_perks(voltron_roll, keys: "Keys"):
     )
 
 
-# Transform perks in roll from a string to an array of hashes and the string before hashes
-def get_perk_list(roll: Dict[str, object], keys: "Keys"):
-    # Start of hashes
-    PERK_IND = "&perks="
-    # Indicator of a new line, fixes lines that have notes after hashes
-    END_IND = "#"
-    perk_hashes = []
-    roll_id = ""
-    for perk_str in roll[(keys.PERK_KEY)]:
-        PERK_START = perk_str.find(PERK_IND) + len(PERK_IND)
-        if PERK_START != -1:
-            perks_substring = perk_str[PERK_START:]
-            perks_end = perks_substring.find(END_IND)
-            if perks_end != -1:
-                perks_substring = perks_substring[:perks_end]
-
-            perk_hashes.append(perks_substring.split(","))
-            roll_id = perk_str[:PERK_START]
-    return perk_hashes, roll_id
-
-
-# Convert roll id and array of hashes to a line
-def convert_hash_to_string(hashes: List[str], roll_id: str):
-    roll_perks = []
-    for hash_list in hashes:
-        perk_str = roll_id + ",".join(str(hash) for hash in hash_list)
-        roll_perks.append(perk_str)
-    return roll_perks
-
-
-###########################################################################
-# Creates Counter to track number of mentions for each set of perk hashes #
-###########################################################################
+# Creates Counter to track number of mentions for each set of perk hashes
 def count_perks(voltron_roll, keys: "Keys"):
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
     roll_perks = voltron_roll.get(keys.PERK_KEY, [])
