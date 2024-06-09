@@ -100,7 +100,7 @@ def process_perks(weapon_roll, keys: "Keys"):
                 if not roll_id:
                     roll_id = perk_str[:PERK_START]
 
-        return perk_hashes, roll_id
+        return roll_id, perk_hashes
 
     # Convert roll id and array of hashes to a line
     def convert_hash_to_string(hashes: List[str], roll_id: str):
@@ -108,40 +108,43 @@ def process_perks(weapon_roll, keys: "Keys"):
             hashes[index] = roll_id + ",".join(str(hash) for hash in hash_list) + "\n"
         return hashes
 
-    perk_hashes, roll_id = get_perk_list(weapon_roll, keys)
+    roll_id, perk_hashes = get_perk_list(weapon_roll, keys)
+
     # 1st, 2nd, 3rd, 4th column
-    core_hashes = []
+    core_hashes = set()
     # Hashes without 1st and 2nd
-    trimmed_hashes = []
+    trimmed_hashes = set()
     # Hashes with only 3rd and 4th column
-    core_trimmed_hashes = []
+    core_trimmed_hashes = set()
 
     for hash_set in perk_hashes:
-        core_hash_set = []
-        trimmed_hash_set = []
-        core_trimmed_hash_set = []
+        core_hash_set = set()
+        trimmed_hash_set = set()
+        core_trimmed_hash_set = set()
 
         for hash in hash_set:
             if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
                 if hash not in keys.ORIGIN_TRAITS:
-                    core_trimmed_hash_set.append(hash)  # Frame mod without origin trait
+                    core_trimmed_hash_set.add(hash)  # Frame mod without origin trait
 
-                trimmed_hash_set.append(hash)  # Frame mod and origins traits
+                trimmed_hash_set.add(hash)  # Frame mod and origins traits
 
             if hash not in keys.ORIGIN_TRAITS:
-                core_hash_set.append(hash)  # No origin traits
+                core_hash_set.add(hash)  # No origin traits
 
         # Add hash set to list of hashes
-        core_hashes.append(core_hash_set)
-        trimmed_hashes.append(trimmed_hash_set)
-        core_trimmed_hashes.append(core_trimmed_hash_set)
+        core_hashes.add(frozenset(core_hash_set))
+        trimmed_hashes.add(frozenset(trimmed_hash_set))
+        core_trimmed_hashes.add(frozenset(core_trimmed_hash_set))
 
-    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
+    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(
+        list(core_hashes), roll_id
+    )
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        trimmed_hashes, roll_id
+        list(trimmed_hashes), roll_id
     )
     weapon_roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        core_trimmed_hashes, roll_id
+        list(core_trimmed_hashes), roll_id
     )
 
 
