@@ -1,6 +1,5 @@
 # loop wishlist, then voltron
 import concurrent.futures
-import threading
 
 from collections import Counter
 
@@ -25,15 +24,13 @@ def process_wishlists(keys: "Keys"):
     # for wishlist in keys.WISHLIST_CONFIGS:
     #     write_to_wishlist(wishlist, keys)
 
-    threads = []
-    for wishlist in keys.WISHLIST_CONFIGS:
-        thread = threading.Thread(target=write_to_wishlist, args=(wishlist, keys))
-        thread.start()
-        threads.append(thread)
-
-    # Wait for all threads to finish
-    for thread in threads:
-        thread.join()
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(write_to_wishlist, wishlist, keys)
+            for wishlist in keys.WISHLIST_CONFIGS
+        ]
+        # Wait for all futures to complete
+        concurrent.futures.wait(futures)
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
