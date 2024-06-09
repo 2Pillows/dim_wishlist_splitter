@@ -1,5 +1,4 @@
 # write_to_wishlists.py
-import concurrent.futures
 
 from collections import Counter
 
