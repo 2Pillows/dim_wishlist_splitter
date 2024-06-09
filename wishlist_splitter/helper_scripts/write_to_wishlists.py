@@ -1,7 +1,7 @@
 # loop wishlist, then voltron
 import concurrent.futures
 
-from collections import Counter
+from collections import Counter, OrderedDict
 
 # Import for type hints and intellisense
 from typing import TYPE_CHECKING, List, Dict, IO
@@ -110,6 +110,7 @@ def process_perks(weapon_roll, keys: "Keys"):
 
     roll_id, perk_hashes = get_perk_list(weapon_roll, keys)
 
+    # Initialize sets to remove duplicates
     unique_core_hashes = set()
     unique_trimmed_hashes = set()
     unique_core_trimmed_hashes = set()
