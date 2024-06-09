@@ -50,7 +50,7 @@ class Keys:
     PERK_KEY = "perks"
     DUPE_PERKS_KEY = "dupe"
 
-    BATCH_SIZE = 10000000
+    BATCH_SIZE = 1
 
     ######################################
     # Keys for storing data from voltron #
