@@ -21,16 +21,17 @@ def write_to_wishlists(keys: "Keys"):
 
 def process_wishlists(keys: "Keys"):
 
-    for wishlist in keys.WISHLIST_CONFIGS:
-        write_to_wishlist(wishlist, keys)
+    # Non threaded option
+    # for wishlist in keys.WISHLIST_CONFIGS:
+    #     write_to_wishlist(wishlist, keys)
 
-    # with concurrent.futures.ThreadPoolExecutor() as executor:
-    #     futures = [
-    #         executor.submit(write_to_wishlist, wishlist, keys)
-    #         for wishlist in keys.WISHLIST_CONFIGS
-    #     ]
-    #     # Wait for all futures to complete
-    #     concurrent.futures.wait(futures)
+    # Run each workflow in a thread
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(write_to_wishlist, wishlist, keys)
+            for wishlist in keys.WISHLIST_CONFIGS
+        ]
+        concurrent.futures.wait(futures)
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
@@ -52,12 +53,14 @@ def process_weapon_rolls(keys: "Keys"):
 def add_default_tags(weapon_roll, keys):
     default_input = "mkb"
     default_mode = "pve"
-    input_options = ["mkb", "controller"]
-    mode_options = ["pve", "pvp"]
+    input_options = {"mkb", "controller"}
+    mode_options = {"pve", "pvp"}
 
-    if not any(tag in weapon_roll[keys.INC_TAG_KEY] for tag in input_options):
+    inc_tags = set(weapon_roll[keys.INC_TAG_KEY])
+
+    if not inc_tags.intersection(input_options):
         weapon_roll[keys.INC_TAG_KEY].append(default_input)
-    if not any(tag in weapon_roll[keys.INC_TAG_KEY] for tag in mode_options):
+    if not inc_tags.intersection(mode_options):
         weapon_roll[keys.INC_TAG_KEY].append(default_mode)
 
 
