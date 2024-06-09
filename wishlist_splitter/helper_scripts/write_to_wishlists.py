@@ -111,40 +111,38 @@ def process_perks(weapon_roll, keys: "Keys"):
     roll_id, perk_hashes = get_perk_list(weapon_roll, keys)
 
     # 1st, 2nd, 3rd, 4th column
-    core_hashes = set()
+    core_hashes = []
     # Hashes without 1st and 2nd
-    trimmed_hashes = set()
+    trimmed_hashes = []
     # Hashes with only 3rd and 4th column
-    core_trimmed_hashes = set()
+    core_trimmed_hashes = []
 
     for hash_set in perk_hashes:
-        core_hash_set = set()
-        trimmed_hash_set = set()
-        core_trimmed_hash_set = set()
+        core_hash_set = []
+        trimmed_hash_set = []
+        core_trimmed_hash_set = []
 
         for hash in hash_set:
             if hash in keys.FRAME_MODS or hash in keys.ORIGIN_TRAITS:
                 if hash not in keys.ORIGIN_TRAITS:
-                    core_trimmed_hash_set.add(hash)  # Frame mod without origin trait
+                    core_trimmed_hash_set.append(hash)  # Frame mod without origin trait
 
-                trimmed_hash_set.add(hash)  # Frame mod and origins traits
+                trimmed_hash_set.append(hash)  # Frame mod and origins traits
 
             if hash not in keys.ORIGIN_TRAITS:
-                core_hash_set.add(hash)  # No origin traits
+                core_hash_set.append(hash)  # No origin traits
 
         # Add hash set to list of hashes
-        core_hashes.add(frozenset(core_hash_set))
-        trimmed_hashes.add(frozenset(trimmed_hash_set))
-        core_trimmed_hashes.add(frozenset(core_trimmed_hash_set))
+        core_hashes.append(core_hash_set)
+        trimmed_hashes.append(trimmed_hash_set)
+        core_trimmed_hashes.append(core_trimmed_hash_set)
 
-    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(
-        list(core_hashes), roll_id
-    )
+    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        list(trimmed_hashes), roll_id
+        trimmed_hashes, roll_id
     )
     weapon_roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        list(core_trimmed_hashes), roll_id
+        core_trimmed_hashes, roll_id
     )
 
 
