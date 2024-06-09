@@ -1,5 +1,7 @@
 # write_to_wishlists.py
 
+# loop voltron, then wishlist
+
 from collections import Counter
 
 # Import for type hints and intellisense
@@ -14,18 +16,13 @@ if TYPE_CHECKING:
 ########################################
 def write_to_wishlists(keys: "Keys"):
     # Add file object to each wishlist wishlist
-    get_wishlist_files(keys)
-
-    # Open all wishlist files
-    # Loop through Voltron, check line against filters for each list
-    # For each wishlist, have a batch that collets lines
-    # When batch reaches limit, write to repsective file
+    init_wishlist_files(keys)
 
     # Loop through voltron once to process each roll, loop again to write
     process_voltron(keys)
 
 
-def get_wishlist_files(keys: "Keys"):
+def init_wishlist_files(keys: "Keys"):
     for wishlist in keys.WISHLIST_CONFIGS:
         file_path = wishlist.get(keys.PATH_KEY)
         file_name = (
@@ -319,13 +316,29 @@ def contains_exc_tags(
     )
 
 
+# def write_batch_to_wishlist(wishlist, keys: "Keys"):
+#     for current_roll in wishlist[keys.BATCH_KEY]:
+#         write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.DESCRIPTION_KEY])
+#         write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.PERK_KEY])
+#         wishlist[keys.FILE_KEY].write("\n")
+
+
+# def write_to_file(wishlist_file: IO[str], lines: List[str]):
+#     for line in lines:
+#         wishlist_file.write(f"{line}\n")
+
+
 def write_batch_to_wishlist(wishlist, keys: "Keys"):
+
+    file_content = []
+
     for current_roll in wishlist[keys.BATCH_KEY]:
-        write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.DESCRIPTION_KEY])
-        write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.PERK_KEY])
-        wishlist[keys.FILE_KEY].write("\n")
+        for line in current_roll[keys.DESCRIPTION_KEY]:
+            file_content.append(line + "\n")
 
+        for line in current_roll[keys.PERK_KEY]:
+            file_content.append(line + "\n")
 
-def write_to_file(wishlist_file: IO[str], lines: List[str]):
-    for line in lines:
-        wishlist_file.write(f"{line}\n")
+        file_content.append("\n")
+
+    wishlist[keys.FILE_KEY].write("".join(file_content))
