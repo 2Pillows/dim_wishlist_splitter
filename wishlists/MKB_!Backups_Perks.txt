@@ -33788,7 +33788,7 @@ dimwishlist:item=2066434718&perks=1546637391,951095735
 
 // Canis Major
 //notes:Ekuegan (PvP): A-Tier (Strong). Recommended MW: Velocity.|tags:pvp
-dimwishlist:item=2066434718&perks=1546637391
+dimwishlist:item=2066434718&perks=1546637391,1546637391
 dimwishlist:item=2066434718&perks=1546637391,3425386926
 
 

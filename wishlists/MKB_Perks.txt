@@ -28105,7 +28105,7 @@ dimwishlist:item=829330711&perks=438098033,972757866
 dimwishlist:item=829330711&perks=3523296417,4082225868
 dimwishlist:item=829330711&perks=3708227201,4082225868
 dimwishlist:item=829330711&perks=3708227201,972757866
-dimwishlist:item=829330711&perks=4082225868
+dimwishlist:item=829330711&perks=4082225868,4082225868
 
 // Peacebond (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
@@ -28159,7 +28159,7 @@ dimwishlist:item=829330711&perks=3523296417,4082225868
 dimwishlist:item=829330711&perks=3523296417,972757866
 dimwishlist:item=829330711&perks=3708227201,4082225868
 dimwishlist:item=829330711&perks=3708227201,972757866
-dimwishlist:item=829330711&perks=4082225868
+dimwishlist:item=829330711&perks=4082225868,4082225868
 dimwishlist:item=829330711&perks=4082225868,972757866
 
 title:YeezyGT's S15 wishlist picks.
@@ -37486,7 +37486,7 @@ dimwishlist:item=2066434718&perks=1546637391,951095735
 
 // Canis Major
 //notes:Ekuegan (PvP): A-Tier (Strong). Recommended MW: Velocity.|tags:pvp
-dimwishlist:item=2066434718&perks=1546637391
+dimwishlist:item=2066434718&perks=1546637391,1546637391
 dimwishlist:item=2066434718&perks=1546637391,3425386926
 
 

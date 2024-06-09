@@ -4,7 +4,7 @@ import concurrent.futures
 from collections import Counter, OrderedDict
 
 # Import for type hints and intellisense
-from typing import TYPE_CHECKING, List, Dict, IO
+from typing import TYPE_CHECKING, List, Dict, IO, Set
 
 if TYPE_CHECKING:
     from main import Keys
@@ -94,7 +94,9 @@ def process_perks(weapon_roll, keys: "Keys"):
                 if extended_found != -1:
                     perks_substring = perks_substring[:extended_found]
 
-                perk_hashes.append(perks_substring.split(","))
+                perks_list = perks_substring.split(",")
+                perks_list.sort()  # sort to ensure accurate comparions
+                perk_hashes.append(perks_list)
 
                 # Get roll_id if not already set
                 if not roll_id:
@@ -103,52 +105,47 @@ def process_perks(weapon_roll, keys: "Keys"):
         return roll_id, perk_hashes
 
     # Convert roll id and array of hashes to a line
-    def convert_hash_to_string(hashes: List[str], roll_id: str):
-        for index, hash_list in enumerate(hashes):
-            hashes[index] = roll_id + ",".join(str(hash) for hash in hash_list) + "\n"
-        return hashes
+    def convert_hash_to_string(hashes: Set[str], roll_id: str):
+        converted_hashes = []
+        for hash_set in hashes:
+            converted_hashes.append(roll_id + ",".join(hash_set) + "\n")
+
+        # Need to sort to avoid incorrect update notices
+        return sorted(converted_hashes)
 
     roll_id, perk_hashes = get_perk_list(weapon_roll, keys)
 
-    # Initialize sets to remove duplicates
-
-    unique_core_hashes = set()  # 1st, 2nd, 3rd, 4th column
-    unique_trimmed_hashes = set()  # Hashes without 1st and 2nd
-    unique_core_trimmed_hashes = set()  # Hashes with only 3rd and 4th column
+    core_hash_set = set()  # 1st, 2nd, 3rd, 4th column
+    trimmed_hash_set = set()  # Hashes without 1st and 2nd
+    core_trimmed_hash_set = set()  # Hashes with only 3rd and 4th column
 
     # Iterate through each hash set in perk_hashes
-    for hash_set in perk_hashes:
-        core_hash_set = set()
-        trimmed_hash_set = set()
-        core_trimmed_hash_set = set()
+    for hashes in perk_hashes:
+        core_hashes = []
+        trimmed_hashes = []
+        core_trimmed_hashes = []
 
-        for hash_value in hash_set:
+        for hash_value in hashes:
             if hash_value in keys.FRAME_MODS or hash_value in keys.ORIGIN_TRAITS:
                 if hash_value not in keys.ORIGIN_TRAITS:
-                    core_trimmed_hash_set.add(hash_value)
-                trimmed_hash_set.add(hash_value)
+                    core_trimmed_hashes.append(hash_value)
+                trimmed_hashes.append(hash_value)
 
             if hash_value not in keys.ORIGIN_TRAITS:
-                core_hash_set.add(hash_value)
+                core_hashes.append(hash_value)
 
         # Add hash set to sets
-        unique_core_hashes.add(tuple(sorted(core_hash_set)))
-        unique_trimmed_hashes.add(tuple(sorted(trimmed_hash_set)))
-        unique_core_trimmed_hashes.add(tuple(sorted(core_trimmed_hash_set)))
+        core_hash_set.add(tuple(core_hashes))
+        trimmed_hash_set.add(tuple(trimmed_hashes))
+        core_trimmed_hash_set.add(tuple(core_trimmed_hashes))
 
-    # Convert sets to sorted lists of lists
-    core_hashes = sorted([list(hash_set) for hash_set in unique_core_hashes])
-    trimmed_hashes = sorted([list(hash_set) for hash_set in unique_trimmed_hashes])
-    core_trimmed_hashes = sorted(
-        [list(hash_set) for hash_set in unique_core_trimmed_hashes]
-    )
-
-    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hashes, roll_id)
+    # Convert sets to sorted lists and then covert hashes to strings
+    weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hash_set, roll_id)
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        trimmed_hashes, roll_id
+        trimmed_hash_set, roll_id
     )
     weapon_roll[keys.CORE_TRIMMED_PERKS_KEY] = convert_hash_to_string(
-        core_trimmed_hashes, roll_id
+        core_trimmed_hash_set, roll_id
     )
 
 
