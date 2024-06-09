@@ -1,6 +1,4 @@
-# write_to_wishlists.py
-
-# loop voltron, then wishlist
+# loop wishlist, then voltron
 
 from collections import Counter
 
@@ -15,28 +13,26 @@ if TYPE_CHECKING:
 # Write voltron_data to wishlist files #
 ########################################
 def write_to_wishlists(keys: "Keys"):
-    # Add file object to each wishlist wishlist
-    init_wishlist_files(keys)
+
+    # Open all wishlist files
+    # Loop through Voltron, check line against filters for each list
+    # For each wishlist, have a batch that collets lines
+    # When batch reaches limit, write to repsective file
 
     # Loop through voltron once to process each roll, loop again to write
-    process_voltron(keys)
+    process_weapon_rolls(keys)
+
+    process_wishlists(keys)
 
 
-def init_wishlist_files(keys: "Keys"):
+def process_wishlists(keys: "Keys"):
+
     for wishlist in keys.WISHLIST_CONFIGS:
-        file_path = wishlist.get(keys.PATH_KEY)
-        file_name = (
-            file_path.replace("./wishlists/", "").replace(".txt", "").replace("_", " ")
-        )
-
-        wishlist[keys.FILE_KEY] = open(file_path, mode="w", encoding="utf-8")
-        wishlist[keys.FILE_KEY].write("title:" + file_name + " - ")
-
-        wishlist[keys.BATCH_KEY] = []
+        write_to_wishlist(wishlist, keys)
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
-def process_voltron(keys: "Keys"):
+def process_weapon_rolls(keys: "Keys"):
     for weapon_roll in keys.VOLTRON_DATA:
         # Adds mouse and pve tag if no input or gamemode tag present
         add_default_tags(weapon_roll, keys)
@@ -48,16 +44,6 @@ def process_voltron(keys: "Keys"):
 
         # Collect perks into Counters
         count_perks(weapon_roll, keys)
-
-    for weapon_roll in keys.VOLTRON_DATA:
-        for wishlist in keys.WISHLIST_CONFIGS:
-            write_roll_to_wishlist(weapon_roll, wishlist, keys)
-
-    # Write final batch if present, close all files
-    for wishlist in keys.WISHLIST_CONFIGS:
-        if wishlist[keys.BATCH_KEY]:
-            write_batch_to_wishlist(wishlist, keys)
-        wishlist[keys.FILE_KEY].close()
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -165,24 +151,40 @@ def get_weapon_hash(perk_line: str):
 ######################################
 # Writes data to given wishlist file #
 ######################################
-def write_roll_to_wishlist(
-    weapon_roll,
+def write_to_wishlist(
     wishlist,
     keys: "Keys",
 ):
+    file_path = wishlist.get(keys.PATH_KEY)
+    file_name = (
+        file_path.replace("./wishlists/", "").replace(".txt", "").replace("_", " ")
+    )
 
-    # Always write roll if it is a credit roll
-    if contains_credits(weapon_roll, keys):
-        wishlist[keys.BATCH_KEY].append(weapon_roll)
+    with open(file_path, mode="w", encoding="utf-8") as wishlist_file:
+        # Write file name to start of file
+        wishlist_file.write("title:" + file_name + " - ")
 
-    # Check if roll tags match wishlist tags
-    elif check_tags(weapon_roll, wishlist, keys):
-        # Find correct perks for wishlist
-        wishlist[keys.BATCH_KEY].append(find_wishlist_roll(weapon_roll, wishlist, keys))
+        batch = []
 
-    if len(wishlist[keys.BATCH_KEY]) >= keys.BATCH_SIZE:
-        write_batch_to_wishlist(wishlist, keys)
-        wishlist[keys.BATCH_KEY] = []
+        for weapon_roll in keys.VOLTRON_DATA:
+            # Always write roll if it is a credit roll
+            if contains_credits(weapon_roll, keys):
+                # write_roll_to_wishlist(wishlist_file, weapon_roll, keys)
+                batch.append(weapon_roll)
+
+            # Check if roll tags match wishlist tags
+            elif check_tags(weapon_roll, wishlist, keys):
+                # Find correct perks for wishlist
+                tailored_roll = find_wishlist_roll(weapon_roll, wishlist, keys)
+                # write_roll_to_wishlist(wishlist_file, tailored_roll, keys)
+                batch.append(tailored_roll)
+
+            if len(batch) >= keys.BATCH_SIZE:
+                write_batch_to_wishlist(wishlist_file, batch, keys)
+                batch = []
+
+        if batch:
+            write_batch_to_wishlist(wishlist_file, batch, keys)
 
 
 def find_wishlist_roll(
@@ -319,11 +321,17 @@ def contains_exc_tags(
     )
 
 
-# def write_batch_to_wishlist(wishlist, keys: "Keys"):
-#     for current_roll in wishlist[keys.BATCH_KEY]:
-#         write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.DESCRIPTION_KEY])
-#         write_to_file(wishlist[keys.FILE_KEY], current_roll[keys.PERK_KEY])
-#         wishlist[keys.FILE_KEY].write("\n")
+# def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
+#     for current_roll in batch:
+#         write_to_file(wishlist_file, current_roll[keys.DESCRIPTION_KEY])
+#         write_to_file(wishlist_file, current_roll[keys.PERK_KEY])
+#         wishlist_file.write("\n")
+
+
+# def write_roll_to_wishlist(wishlist_file, weapon_roll, keys: "Keys"):
+#     write_to_file(wishlist_file, weapon_roll[keys.DESCRIPTION_KEY])
+#     write_to_file(wishlist_file, weapon_roll[keys.PERK_KEY])
+#     wishlist_file.write("\n")
 
 
 # def write_to_file(wishlist_file: IO[str], lines: List[str]):
@@ -331,14 +339,14 @@ def contains_exc_tags(
 #         wishlist_file.write(f"{line}\n")
 
 
-def write_batch_to_wishlist(wishlist, keys: "Keys"):
+def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
 
     file_content = []
 
-    for current_roll in wishlist[keys.BATCH_KEY]:
+    for current_roll in batch:
         # Add roll to file content
         file_content.extend(current_roll[keys.DESCRIPTION_KEY])
         file_content.extend(current_roll[keys.PERK_KEY])
         file_content.append("\n")
 
-    wishlist[keys.FILE_KEY].write("".join(file_content))
+    wishlist_file.write("".join(file_content))
