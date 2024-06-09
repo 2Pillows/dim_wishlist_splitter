@@ -79,17 +79,20 @@ def process_perks(weapon_roll, keys: "Keys"):
     def get_perk_list(roll: Dict[str, object], keys: "Keys"):
         # Start of hashes
         PERK_IND = "&perks="
-        # Indicator of a new line, fixes lines that have notes after hashes
-        END_IND = "#"
+        # Indicator of current line
+        END_IND = "\n"
         perk_hashes = []
         roll_id = ""
         for perk_str in roll[(keys.PERK_KEY)]:
             PERK_START = perk_str.find(PERK_IND) + len(PERK_IND)
+            PERKS_END = perk_str.find(END_IND)
             if PERK_START != -1:
-                perks_substring = perk_str[PERK_START:]
-                perks_end = perks_substring.find(END_IND)
-                if perks_end != -1:
-                    perks_substring = perks_substring[:perks_end]
+                perks_substring = perk_str[PERK_START:PERKS_END]
+
+                # Edge case for lines with perks#perk_desription
+                extended_found = perks_substring.find("#")
+                if extended_found != -1:
+                    perks_substring = perks_substring[:extended_found]
 
                 perk_hashes.append(perks_substring.split(","))
                 roll_id = perk_str[:PERK_START]
@@ -99,7 +102,7 @@ def process_perks(weapon_roll, keys: "Keys"):
     def convert_hash_to_string(hashes: List[str], roll_id: str):
         roll_perks = []
         for hash_list in hashes:
-            perk_str = roll_id + ",".join(str(hash) for hash in hash_list)
+            perk_str = roll_id + ",".join(str(hash) for hash in hash_list) + "\n"
             roll_perks.append(perk_str)
         return roll_perks
 
@@ -333,12 +336,9 @@ def write_batch_to_wishlist(wishlist, keys: "Keys"):
     file_content = []
 
     for current_roll in wishlist[keys.BATCH_KEY]:
-        for line in current_roll[keys.DESCRIPTION_KEY]:
-            file_content.append(line + "\n")
-
-        for line in current_roll[keys.PERK_KEY]:
-            file_content.append(line + "\n")
-
+        # Add roll to file content
+        file_content.extend(current_roll[keys.DESCRIPTION_KEY])
+        file_content.extend(current_roll[keys.PERK_KEY])
         file_content.append("\n")
 
     wishlist[keys.FILE_KEY].write("".join(file_content))

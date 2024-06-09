@@ -106,13 +106,13 @@ def process_rolls(
 ):
     dim_item_id = "dimwishlist:item="
     if dim_item_id in line_lower:
-        current_roll[keys.PERK_KEY].append(line)
+        current_roll[keys.PERK_KEY].append(line + "\n")
     else:
         # Remove title in heading, replaced with file name
         if "title:This is a compiled collection" in line:
             line = line.replace("title:", "")
 
-        current_roll[keys.DESCRIPTION_KEY].append(line)
+        current_roll[keys.DESCRIPTION_KEY].append(line + "\n")
 
         # Collect tags for roll
         process_author(current_roll, line_lower, keys)
