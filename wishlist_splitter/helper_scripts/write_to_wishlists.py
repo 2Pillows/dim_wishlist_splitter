@@ -1,4 +1,5 @@
 # loop wishlist, then voltron
+import concurrent.futures
 
 from collections import Counter
 
@@ -13,13 +14,6 @@ if TYPE_CHECKING:
 # Write voltron_data to wishlist files #
 ########################################
 def write_to_wishlists(keys: "Keys"):
-
-    # Open all wishlist files
-    # Loop through Voltron, check line against filters for each list
-    # For each wishlist, have a batch that collets lines
-    # When batch reaches limit, write to repsective file
-
-    # Loop through voltron once to process each roll, loop again to write
     process_weapon_rolls(keys)
 
     process_wishlists(keys)
@@ -27,8 +21,16 @@ def write_to_wishlists(keys: "Keys"):
 
 def process_wishlists(keys: "Keys"):
 
-    for wishlist in keys.WISHLIST_CONFIGS:
-        write_to_wishlist(wishlist, keys)
+    # for wishlist in keys.WISHLIST_CONFIGS:
+    #     write_to_wishlist(wishlist, keys)
+
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(write_to_wishlist, wishlist, keys)
+            for wishlist in keys.WISHLIST_CONFIGS
+        ]
+        # Wait for all futures to complete
+        concurrent.futures.wait(futures)
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
