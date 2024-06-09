@@ -44,14 +44,8 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collect roll data and tags
-    current_roll = {
-        keys.CREDIT_KEY: [],
-        keys.AUTHOR_KEY: [],
-        keys.INC_TAG_KEY: [],
-        keys.EXC_TAG_KEY: [],
-        keys.DESCRIPTION_KEY: [],
-        keys.PERK_KEY: [],
-    }
+    current_roll = {}
+    initialize_roll(current_roll, keys)
 
     with open(file_path, mode="r", encoding="utf-8") as file:
         for line in file:
@@ -67,7 +61,7 @@ def extract_voltron_data(keys: "Keys"):
                 initialize_roll(current_roll, keys)
                 continue
 
-            # Line ins't empty so save data to current_roll
+            # Line isn't empty so save data to current_roll
             process_rolls(current_roll, line, line_lower, keys)
 
         # Append last roll when reach end of file
