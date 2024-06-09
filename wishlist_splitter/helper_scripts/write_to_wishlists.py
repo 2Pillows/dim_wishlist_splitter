@@ -74,10 +74,11 @@ def process_perks(weapon_roll, keys: "Keys"):
         perk_hashes = []
         roll_id = ""
 
+        # Return if no perks given
         if not roll_perks:
             return perk_hashes, roll_id
 
-        # Constants
+        # Indicators for start and end of perks
         PERK_IND = "&perks="
         END_IND = "\n"
 
@@ -88,13 +89,14 @@ def process_perks(weapon_roll, keys: "Keys"):
                 PERKS_END = perk_str.find(END_IND, PERK_START)
                 perks_substring = perk_str[PERK_START:PERKS_END]
 
-                # Handle edge case for perks with descriptions
+                # Handle edge case for perks#perk_descriptions
                 extended_found = perks_substring.find("#")
                 if extended_found != -1:
                     perks_substring = perks_substring[:extended_found]
 
                 perk_hashes.append(perks_substring.split(","))
 
+                # Get roll_id if not already set
                 if not roll_id:
                     roll_id = perk_str[:PERK_START]
 
@@ -102,11 +104,9 @@ def process_perks(weapon_roll, keys: "Keys"):
 
     # Convert roll id and array of hashes to a line
     def convert_hash_to_string(hashes: List[str], roll_id: str):
-        roll_perks = []
-        for hash_list in hashes:
-            perk_str = roll_id + ",".join(str(hash) for hash in hash_list) + "\n"
-            roll_perks.append(perk_str)
-        return roll_perks
+        for index, hash_list in enumerate(hashes):
+            hashes[index] = roll_id + ",".join(str(hash) for hash in hash_list) + "\n"
+        return hashes
 
     perk_hashes, roll_id = get_perk_list(weapon_roll, keys)
     # 1st, 2nd, 3rd, 4th column
