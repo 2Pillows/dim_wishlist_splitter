@@ -28,16 +28,8 @@ def write_to_wishlists(keys: "Keys"):
 
 def process_wishlists(keys: "Keys"):
 
-    # for wishlist in keys.WISHLIST_CONFIGS:
-    #     write_to_wishlist(wishlist, keys)
-
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [
-            executor.submit(write_to_wishlist, wishlist, keys)
-            for wishlist in keys.WISHLIST_CONFIGS
-        ]
-        # Wait for all threads to complete
-        concurrent.futures.wait(futures)
+    for wishlist in keys.WISHLIST_CONFIGS:
+        write_to_wishlist(wishlist, keys)
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
@@ -170,27 +162,27 @@ def write_to_wishlist(
         # Write file name to start of file
         wishlist_file.write("title:" + file_name + " - ")
 
-        # batch = []
+        batch = []
 
         for weapon_roll in keys.VOLTRON_DATA:
             # Always write roll if it is a credit roll
             if contains_credits(weapon_roll, keys):
-                write_roll_to_wishlist(wishlist_file, weapon_roll, keys)
-                # batch.append(roll)
+                # write_roll_to_wishlist(wishlist_file, weapon_roll, keys)
+                batch.append(weapon_roll)
 
             # Check if roll tags match wishlist tags
             elif check_tags(weapon_roll, wishlist, keys):
                 # Find correct perks for wishlist
                 tailored_roll = find_wishlist_roll(weapon_roll, wishlist, keys)
-                write_roll_to_wishlist(wishlist_file, tailored_roll, keys)
-                # batch.append(wishlist_roll)
+                # write_roll_to_wishlist(wishlist_file, tailored_roll, keys)
+                batch.append(tailored_roll)
 
-        #     if len(batch) >= batch_size:
-        #         write_batch_to_wishlist(wishlist_file, batch, keys)
-        #         batch = []
+            if len(batch) >= keys.BATCH_SIZE:
+                write_batch_to_wishlist(wishlist_file, batch, keys)
+                batch = []
 
-        # if batch:
-        #     write_batch_to_wishlist(wishlist_file, batch, keys)
+        if batch:
+            write_batch_to_wishlist(wishlist_file, batch, keys)
 
 
 def find_wishlist_roll(
@@ -327,11 +319,11 @@ def contains_exc_tags(
     )
 
 
-# def write_batch_to_wishlist(wishlist, keys: "Keys"):
-#     for current_roll in wishlist[keys.BATCH_KEY]:
-#         write_to_file(wishlist[keys.PATH_KEY], current_roll[keys.DESCRIPTION_KEY])
-#         write_to_file(wishlist[keys.PATH_KEY], current_roll[keys.PERK_KEY])
-#         wishlist[keys.PATH_KEY].write("\n")
+def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
+    for current_roll in batch:
+        write_to_file(wishlist_file, current_roll[keys.DESCRIPTION_KEY])
+        write_to_file(wishlist_file, current_roll[keys.PERK_KEY])
+        wishlist_file.write("\n")
 
 
 def write_roll_to_wishlist(wishlist_file, weapon_roll, keys: "Keys"):
