@@ -111,9 +111,10 @@ def process_perks(weapon_roll, keys: "Keys"):
     roll_id, perk_hashes = get_perk_list(weapon_roll, keys)
 
     # Initialize sets to remove duplicates
-    unique_core_hashes = set()
-    unique_trimmed_hashes = set()
-    unique_core_trimmed_hashes = set()
+
+    unique_core_hashes = set()  # 1st, 2nd, 3rd, 4th column
+    unique_trimmed_hashes = set()  # Hashes without 1st and 2nd
+    unique_core_trimmed_hashes = set()  # Hashes with only 3rd and 4th column
 
     # Iterate through each hash set in perk_hashes
     for hash_set in perk_hashes:
