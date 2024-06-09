@@ -1,5 +1,4 @@
-# get full file, write to list
-import concurrent.futures
+# loop voltron, then wishlist
 
 from collections import Counter
 
@@ -14,8 +13,24 @@ if TYPE_CHECKING:
 # Write voltron_data to wishlist files #
 ########################################
 def write_to_wishlists(keys: "Keys"):
+    # Add file object to each wishlist wishlist
+    init_wishlist_files(keys)
+
     # Loop through voltron once to process each roll, loop again to write
     process_voltron(keys)
+
+
+def init_wishlist_files(keys: "Keys"):
+    for wishlist in keys.WISHLIST_CONFIGS:
+        file_path = wishlist.get(keys.PATH_KEY)
+        file_name = (
+            file_path.replace("./wishlists/", "").replace(".txt", "").replace("_", " ")
+        )
+
+        wishlist[keys.FILE_KEY] = open(file_path, mode="w", encoding="utf-8")
+        wishlist[keys.FILE_KEY].write("title:" + file_name + " - ")
+
+        wishlist[keys.BATCH_KEY] = []
 
 
 # Add tags, process perks, and count perks for each roll in Voltron
@@ -32,25 +47,15 @@ def process_voltron(keys: "Keys"):
         # Collect perks into Counters
         count_perks(weapon_roll, keys)
 
-    # Init batch to hold wishlist rolls
-    for wishlist in keys.WISHLIST_CONFIGS:
-        wishlist[keys.BATCH_KEY] = []
-
     for weapon_roll in keys.VOLTRON_DATA:
         for wishlist in keys.WISHLIST_CONFIGS:
             write_roll_to_wishlist(weapon_roll, wishlist, keys)
 
-    # Write batches
+    # Write final batch if present, close all files
     for wishlist in keys.WISHLIST_CONFIGS:
-        write_batch_to_wishlist(wishlist, keys)
-
-    # with concurrent.futures.ThreadPoolExecutor() as executor:
-    #     futures = [
-    #         executor.submit(write_batch_to_wishlist, wishlist, keys)
-    #         for wishlist in keys.WISHLIST_CONFIGS
-    #     ]
-    #     # Wait for all futures to complete
-    #     concurrent.futures.wait(futures)
+        if wishlist[keys.BATCH_KEY]:
+            write_batch_to_wishlist(wishlist, keys)
+        wishlist[keys.FILE_KEY].close()
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -183,9 +188,9 @@ def write_roll_to_wishlist(
         # Find correct perks for wishlist
         wishlist[keys.BATCH_KEY].append(find_wishlist_roll(weapon_roll, wishlist, keys))
 
-    # if len(wishlist[keys.BATCH_KEY]) >= keys.BATCH_SIZE:
-    #     write_batch_to_wishlist(wishlist, keys)
-    #     wishlist[keys.BATCH_KEY] = []
+    if len(wishlist[keys.BATCH_KEY]) >= keys.BATCH_SIZE:
+        write_batch_to_wishlist(wishlist, keys)
+        wishlist[keys.BATCH_KEY] = []
 
 
 def find_wishlist_roll(
@@ -319,24 +324,13 @@ def contains_exc_tags(
 
 
 def write_batch_to_wishlist(wishlist, keys: "Keys"):
-    file_path = wishlist.get(keys.PATH_KEY)
-    file_name = (
-        file_path.replace("./wishlists/", "").replace(".txt", "").replace("_", " ")
-    )
 
-    buffer_size = 1000  # Adjust the buffer size as needed
-    buffer = []
+    file_content = []
 
-    with open(file_path, mode="w", encoding="utf-8") as wishlist_file:
-        wishlist_file.write(f"title:{file_name} - ")
+    for current_roll in wishlist[keys.BATCH_KEY]:
+        # Add roll to file content
+        file_content.extend(current_roll[keys.DESCRIPTION_KEY])
+        file_content.extend(current_roll[keys.PERK_KEY])
+        file_content.append("\n")
 
-        for current_roll in wishlist[keys.BATCH_KEY]:
-            buffer.extend(current_roll[keys.DESCRIPTION_KEY])
-            buffer.extend(current_roll[keys.PERK_KEY])
-            buffer.append("\n")
-
-            if len(buffer) >= buffer_size:
-                wishlist_file.write("".join(buffer))
-                buffer = []
-
-        wishlist_file.write("".join(buffer))
+    wishlist[keys.FILE_KEY].write("".join(file_content))
