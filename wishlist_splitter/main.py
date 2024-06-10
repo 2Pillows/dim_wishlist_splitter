@@ -2,6 +2,8 @@
 from collections import Counter
 from dataclasses import dataclass
 
+from typing import List, Dict, Set
+
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
 # Collects wishlist config and voltron data              #
@@ -68,19 +70,19 @@ class Keys:
 
     # Keys to be added
     # Voltron text
-    VOLTRON_DATA = None
+    VOLTRON_DATA: List[Dict[str, List[str]]] = None
     # Dictionary storing wishlist information
-    WISHLIST_CONFIGS = None
+    WISHLIST_CONFIGS: List[Dict[str, object]] = None
     # List of origin trait hashes
-    ORIGIN_TRAITS = None
+    ORIGIN_TRAITS: Set[str] = None
     # List of frame mod hashes, 3rd and 4th column
-    FRAME_MODS = None
+    FRAME_MODS: Set[str] = None
     # List of tag values for all, include, and exclude
-    ALL_TAGS = None
-    INC_TAGS = None
-    EXC_TAGS = None
+    ALL_TAGS: Set[str] = None
+    INC_TAGS: Set[str] = None
+    EXC_TAGS: Set[str] = None
     # List of author names
-    AUTHOR_NAMES = None
+    AUTHOR_NAMES: Set[str] = None
 
     # Counters
     CORE_COUNTER = Counter()
