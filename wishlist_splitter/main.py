@@ -1,8 +1,6 @@
 # main.py
 from collections import Counter
-import time
 
-start_time = time.time()
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
 # Collects wishlist config and voltron data              #
@@ -108,19 +106,9 @@ def main():
     # Collect data from voltron
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
-    end_time = time.time()
-
-    runtime = end_time - start_time
-    print(f"Runtime before writing: {runtime} seconds")
-
     # Write voltron data to config files
     write_to_wishlists(keys)
 
 
 if __name__ == "__main__":
     main()
-
-    end_time = time.time()
-
-    runtime = end_time - start_time
-    print(f"Runtime: {runtime} seconds")
