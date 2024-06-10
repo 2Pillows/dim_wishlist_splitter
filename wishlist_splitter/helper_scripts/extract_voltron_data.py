@@ -66,10 +66,10 @@ def extract_voltron_data(keys: "Keys"):
 # Generate tags for roll
 def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
     current_roll = {
-        keys.CREDIT_KEY: [],
-        keys.AUTHOR_KEY: [],
-        keys.INC_TAG_KEY: [],
-        keys.EXC_TAG_KEY: [],
+        keys.CREDIT_KEY: set(),
+        keys.AUTHOR_KEY: set(),
+        keys.INC_TAG_KEY: set(),
+        keys.EXC_TAG_KEY: set(),
         keys.DESCRIPTION_KEY: [],
         keys.PERK_KEY: [],
     }
@@ -95,7 +95,7 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
 def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
     for author in keys.AUTHOR_NAMES:
         if author in line_lower:
-            current_roll[keys.AUTHOR_KEY].append(author)
+            current_roll[keys.AUTHOR_KEY].add(author)
 
 
 # Collects any tags if they are in wishlists
@@ -110,7 +110,7 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
         line_lower[: line_lower.find(":")] if ":" in line_lower else "",
     )
     if "title" == line_type or "description" == line_type:
-        current_roll[keys.CREDIT_KEY].append(keys.CREDIT_TAG)
+        current_roll[keys.CREDIT_KEY].add(keys.CREDIT_TAG)
 
     # Fix MKB formatting
     line_lower = line_lower.replace("m+kb", "mkb")
@@ -140,10 +140,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Collect tags if any present
     for tag in keys.ALL_TAGS:
         if tag in valuable_text:
-            if tag in keys.INC_TAGS and tag not in current_roll[keys.INC_TAG_KEY]:
-                current_roll[keys.INC_TAG_KEY].append(tag)
-            elif tag in keys.EXC_TAGS and tag not in current_roll[keys.EXC_TAG_KEY]:
-                current_roll[keys.EXC_TAG_KEY].append(tag)
+            if tag in keys.INC_TAGS:
+                current_roll[keys.INC_TAG_KEY].add(tag)
+            elif tag in keys.EXC_TAGS:
+                current_roll[keys.EXC_TAG_KEY].add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters
