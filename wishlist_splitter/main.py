@@ -108,11 +108,6 @@ def main():
     # Collect data from voltron
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
-    end_time = time.time()
-
-    runtime = end_time - start_time
-    print(f"Runtime before writing: {runtime} seconds")
-
     # Write voltron data to config files
     write_to_wishlists(keys)
 
