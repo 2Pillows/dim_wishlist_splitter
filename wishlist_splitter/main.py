@@ -48,8 +48,6 @@ class Keys:
     DESCRIPTION_KEY = "description"
     PERK_KEY = "perks"
     DUPE_PERKS_KEY = "dupe"
-    FILE_KEY = "file"
-    BATCH_KEY = "batch"
     BATCH_SIZE = 30
 
     ######################################
@@ -90,6 +88,7 @@ class Keys:
 
 def main():
     keys = Keys()
+
     # Pass helper keys to get wishlist configs with matching keys
     keys.WISHLIST_CONFIGS = get_wishlist_config(keys)
 
