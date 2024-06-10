@@ -61,10 +61,9 @@ def extract_voltron_data(keys: "Keys"):
 
                 # Clear contents of current_roll
                 current_roll.clear()
-                continue
-
-            # Line isn't empty so save data to current_roll
-            current_roll.append(line)
+            else:
+                # Line isn't empty so save data to current_roll
+                current_roll.append(line)
 
         # Append last roll when reach end of file
         voltron_data.append(process_roll(current_roll, keys))
