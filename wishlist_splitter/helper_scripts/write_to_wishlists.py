@@ -127,12 +127,12 @@ def process_perks(weapon_roll, keys: "Keys"):
             if hash_value not in keys.ORIGIN_TRAITS:
                 core_hashes.append(hash_value)
 
-        # Add hash set to sets
+        # Add hashes to sets
         core_hash_set.add(tuple(core_hashes))
         trimmed_hash_set.add(tuple(trimmed_hashes))
         core_trimmed_hash_set.add(tuple(core_trimmed_hashes))
 
-    # Convert sets to sorted lists and then covert hashes to strings
+    # Convert hashes to strings
     weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hash_set, roll_id)
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
         trimmed_hash_set, roll_id
@@ -185,15 +185,12 @@ def write_to_wishlist(
         for weapon_roll in keys.VOLTRON_DATA:
             # Always write roll if it is a credit roll
             if contains_credits(weapon_roll, keys):
-                # write_roll_to_wishlist(wishlist_file, weapon_roll, keys)
                 batch.append(weapon_roll)
 
             # Check if roll tags match wishlist tags
             elif check_tags(weapon_roll, wishlist, keys):
-                # Find correct perks for wishlist
-                tailored_roll = find_wishlist_roll(weapon_roll, wishlist, keys)
-                # write_roll_to_wishlist(wishlist_file, tailored_roll, keys)
-                batch.append(tailored_roll)
+                # Find correct perks for wishlist and add to batch
+                batch.append(find_wishlist_roll(weapon_roll, wishlist, keys))
 
             if len(batch) >= keys.BATCH_SIZE:
                 write_batch_to_wishlist(wishlist_file, batch, keys)
@@ -284,10 +281,8 @@ def check_tags(
 
 
 def contains_credits(weapon_roll: Dict[str, object], keys: "Keys"):
-    # If wishlist doesn't have an include tag or if roll has a credit tag and no perks, it passes
-    return len(weapon_roll.get(keys.CREDIT_TAG, [])) > 0 and not weapon_roll.get(
-        keys.PERK_KEY
-    )
+    # If roll has a credit tag and no perks, it passes
+    return weapon_roll.get(keys.CREDIT_TAG) and not weapon_roll.get(keys.PERK_KEY)
 
 
 def contains_author_names(
@@ -297,23 +292,31 @@ def contains_author_names(
     if keys.AUTHOR_KEY not in wishlist:
         return True
 
+    # If weapon doesn't have author then fails
+    if not weapon_roll.get(keys.AUTHOR_KEY):
+        return False
+
     # Author for wishlist and weapon need to share an author
-    return keys.AUTHOR_KEY in weapon_roll and set(
-        weapon_roll[keys.AUTHOR_KEY]
-    ).intersection(set(wishlist.get(keys.AUTHOR_KEY)))
+    return set(wishlist[keys.AUTHOR_KEY]).intersection(
+        set(weapon_roll.get(keys.AUTHOR_KEY))
+    )
 
 
 def contains_inc_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
+    # If wishlist doesn't have inc tags, then passes
+    if keys.INC_TAG_KEY not in wishlist:
+        return True
+
     # If roll doesn't have any include tags but wishlist does, it doesn't pass
-    if keys.INC_TAG_KEY not in weapon_roll:
+    if not weapon_roll.get(keys.INC_TAG_KEY):
         return False
 
     # Return if all include tags in wishlist are in roll include tags
     # the tags needed for the wishlist need to be subset of tags for roll
-    return set(wishlist.get(keys.INC_TAG_KEY, [])).issubset(
-        set(weapon_roll.get(keys.INC_TAG_KEY, []))
+    return set(wishlist.get(keys.INC_TAG_KEY)).issubset(
+        set(weapon_roll.get(keys.INC_TAG_KEY))
     )
 
 
@@ -322,15 +325,12 @@ def contains_exc_tags(
 ):
     # If wishlist doesn't have any exlcude tags then roll can't have any exclude tags
     # Or if roll doesn't have any exclude tags then it passes
-    if (
-        keys.EXC_TAG_KEY not in wishlist
-        or len(weapon_roll.get(keys.EXC_TAG_KEY, [])) == 0
-    ):
+    if keys.EXC_TAG_KEY not in wishlist or not weapon_roll.get(keys.EXC_TAG_KEY):
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
-    return set(weapon_roll.get(keys.EXC_TAG_KEY, [])).intersection(
-        set(wishlist.get(keys.EXC_TAG_KEY, []))
+    return set(wishlist.get(keys.EXC_TAG_KEY)).intersection(
+        set(weapon_roll.get(keys.EXC_TAG_KEY))
     )
 
 
