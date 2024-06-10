@@ -218,8 +218,8 @@ def find_wishlist_roll(
             wishlist_perks = get_dupe_perks(
                 weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
                 weapon_roll[keys.TRIMMED_PERKS_KEY],
-                keys,
                 keys.TRIMMED_COUNTER,
+                keys,
             )
         else:
             # wishlist wants 3rd and 4th column perks
@@ -230,8 +230,8 @@ def find_wishlist_roll(
         wishlist_perks = get_dupe_perks(
             weapon_roll[keys.CORE_PERKS_KEY],
             weapon_roll[keys.PERK_KEY],
-            keys,
             keys.CORE_COUNTER,
+            keys,
         )
 
     wishlist_roll[keys.PERK_KEY] = wishlist_perks
@@ -243,29 +243,24 @@ def find_wishlist_roll(
 def get_dupe_perks(
     core_perks: List[str],
     full_perks: List[str],
-    keys: "Keys",
     perk_counter: Counter,
+    keys: "Keys",
 ):
     # Return empty array if no perks given
     if len(full_perks) < 1:
         return []
 
-    weapon_hash = get_weapon_hash(full_perks[0])
-
     valid_perks = []
 
     # Adds valid perk lines to valid_perks
     for index in range(len(core_perks)):
-        core_line = core_perks[index]
-        full_line = full_perks[index]
-
         # Perk is valid if present at least MIN_COUNT
         # OR weapon isn't present MIN_COUNT
         if (
-            perk_counter[core_line] >= keys.MIN_ROLL_COUNT
-            or keys.WEAPON_COUNTER[weapon_hash] < keys.MIN_ROLL_COUNT
+            perk_counter[core_perks[index]] >= keys.MIN_ROLL_COUNT
+            or keys.WEAPON_COUNTER[get_weapon_hash(full_perks[0])] < keys.MIN_ROLL_COUNT
         ):
-            valid_perks.append(full_line)
+            valid_perks.append(full_perks[index])
 
     return valid_perks
 
