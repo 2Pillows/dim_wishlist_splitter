@@ -4,9 +4,9 @@ from dataclasses import dataclass
 
 from typing import List, Dict, Set
 
-import time
+# import time
 
-start_time = time.time()
+# start_time = time.time()
 
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
@@ -74,7 +74,7 @@ class Keys:
 
     # Keys to be added
     # Voltron text
-    VOLTRON_DATA: List[Dict[str, List[str]]] = None
+    VOLTRON_DATA: List[Dict[str, object]] = None
     # Dictionary storing wishlist information
     WISHLIST_CONFIGS: List[Dict[str, object]] = None
     # List of origin trait hashes
@@ -123,7 +123,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    end_time = time.time()
+    # end_time = time.time()
 
-    runtime = end_time - start_time
-    print(f"Runtime: {runtime} seconds")
+    # runtime = end_time - start_time
+    # print(f"Runtime: {runtime} seconds")
