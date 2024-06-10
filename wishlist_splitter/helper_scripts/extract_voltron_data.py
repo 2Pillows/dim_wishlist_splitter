@@ -44,16 +44,13 @@ def extract_voltron_data(keys: "Keys"):
     current_roll = {}
     initialize_roll(current_roll, keys)
 
-    first_line = True
-
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
         lines = voltron_file.readlines()
-        for line in lines:
-            # Remove title in heading, replaced later with file name
-            if first_line:
-                line = line.replace("title:", "")
-                first_line = False
 
+        # Remove title in heading, replaced later with file name
+        lines[0] = lines[0].replace("title:", "")
+
+        for line in lines:
             line = line.strip()
 
             # Indicates end of current_roll
