@@ -1,10 +1,10 @@
 # extract_voltron_data.py
 
 import copy
-import re
 
 # Import for type hints and intellisense
-from typing import TYPE_CHECKING, Dict
+import re
+from typing import TYPE_CHECKING, List, Dict
 
 if TYPE_CHECKING:
     from main import Keys
@@ -44,19 +44,19 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collect roll data and tags
-    current_roll = {}
-    initialize_roll(current_roll, keys)
-
-    first_line = True
+    current_roll = {
+        keys.CREDIT_KEY: [],
+        keys.AUTHOR_KEY: [],
+        keys.INC_TAG_KEY: [],
+        keys.EXC_TAG_KEY: [],
+        keys.DESCRIPTION_KEY: [],
+        keys.PERK_KEY: [],
+    }
 
     with open(file_path, mode="r", encoding="utf-8") as file:
         for line in file:
-            # Remove title in heading, replaced later with file name
-            if first_line:
-                line = line.replace("title:", "")
-                first_line = False
-
             line = line.strip()
+            line_lower = line.lower()
 
             # Indicates end of current_roll
             if line == "":
@@ -67,8 +67,8 @@ def extract_voltron_data(keys: "Keys"):
                 initialize_roll(current_roll, keys)
                 continue
 
-            # Line isn't empty so save data to current_roll
-            process_rolls(current_roll, line, line.lower(), keys)
+            # Line ins't empty so save data to current_roll
+            process_rolls(current_roll, line, line_lower, keys)
 
         # Append last roll when reach end of file
         voltron_data.append(copy.deepcopy(current_roll))
@@ -90,11 +90,14 @@ def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
 def process_rolls(
     current_roll: Dict[str, object], line: str, line_lower: str, keys: "Keys"
 ):
-    # Perk line
-    if "dimwishlist:item=" in line_lower:
+    dim_item_id = "dimwishlist:item="
+    if dim_item_id in line_lower:
         current_roll[keys.PERK_KEY].append(line + "\n")
-    # Description line
     else:
+        # Remove title in heading, replaced with file name
+        if "title:This is a compiled collection" in line:
+            line = line.replace("title:", "")
+
         current_roll[keys.DESCRIPTION_KEY].append(line + "\n")
 
         # Collect tags for roll
