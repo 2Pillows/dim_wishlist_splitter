@@ -17,8 +17,7 @@ from helper_scripts.get_weapon_mods import get_weapon_mods
 
 # Import helper functions for getting voltron data
 from helper_scripts.extract_voltron_data import (
-    extract_authors,
-    extract_tags,
+    extract_author_and_tags,
     extract_voltron_data,
 )
 from helper_scripts.write_to_wishlists import write_to_wishlists
@@ -64,6 +63,9 @@ class Keys:
     # Minimum number of rolls to for dupe rolls
     MIN_ROLL_COUNT = 2
 
+    # Numebr of rolls held for wishlist before writing
+    BATCH_SIZE = 30
+
     # Keys to be added
     # Voltron text
     VOLTRON_DATA = None
@@ -88,6 +90,7 @@ class Keys:
 
 def main():
     keys = Keys()
+
     # Pass helper keys to get wishlist configs with matching keys
     keys.WISHLIST_CONFIGS = get_wishlist_config(keys)
 
@@ -100,21 +103,17 @@ def main():
     # Collect frame mod hashes
     keys.FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
 
-    # Collect all, include, and exlcude tags from config
-    keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = extract_tags(
-        keys.WISHLIST_CONFIGS,
-        keys.INC_TAG_KEY,
-        keys.EXC_TAG_KEY,
-    )
-
-    # Collect all author names in config
-    keys.AUTHOR_NAMES = extract_authors(
-        keys.WISHLIST_CONFIGS,
-        keys.AUTHOR_KEY,
+    keys.AUTHOR_NAMES, keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = (
+        extract_author_and_tags(keys)
     )
 
     # Collect data from voltron
     keys.VOLTRON_DATA = extract_voltron_data(keys)
+
+    end_time = time.time()
+
+    runtime = end_time - start_time
+    print(f"Runtime before writing: {runtime} seconds")
 
     # Write voltron data to config files
     write_to_wishlists(keys)

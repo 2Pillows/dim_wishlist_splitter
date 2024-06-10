@@ -1270,13 +1270,13 @@ dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,3871884143
 @description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
 
 @title:Season 23 World Drop weapons
-@description:Season of the Wish world weapon drops
+@description:Season of the Wish world weapon drops 
 
 @title:Season 23 Playlist weapons
-@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities
+@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities 
 
 @title:Season 23 Seasonal weapons
-@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait
+@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait 
 
 @title:Season 23 Dreaming City weapons
 @description:Reprised weapons, with the Advanced Reflexes origin trait
@@ -9008,7 +9008,7 @@ description:Reprised King's Fall raid weapons with Runneth Over origin perk
 @description:Season 18 weapons with Right Hook origin trait
 
 title:Dares of Eternity weapons
-description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity
+description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity 
 
 @title:Dares of Eternity redux weapons
 @description:Reissued Season 18 (Season of Punder) new weapon perk rolls
@@ -9017,7 +9017,7 @@ title:Chevy's S17 Super Pog PVE List
 description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
 
 title:Chevy's S18 Super Pog PVE List
-description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622 
 
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
@@ -11463,6 +11463,8 @@ dimwishlist:item=2721157927&perks=1478423395,409831596,2450788523,2396489472
 title:Vow of the Disciple Raid weapons
 description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
 
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep8-witch-queen-dlc-weapons.txt
+
 @title:Triumph Weapon
 @description:From completing the Chief Investigator Triumph and then world drops
 
@@ -11472,7 +11474,7 @@ description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/b
 @description:Dropping from Savathun's Throne World engrams
 
 title:Nightfall weapons part 2 and Hakke foundry
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
 
 title:Nightfall weapons part 3 and Omolon foundry
 description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
@@ -11500,6 +11502,8 @@ title:@AyyItsChevy's S16 Super Pog PvE Loot List
 description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
 title:Season 15 Vanguard Nightfall weapons
 notes:Reprised D1 weapons dropping from Nightfall completions
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
 
 title:Reprised Dawning weapons
 description:Season 15 (Season of the Lost) Dawning weapons
@@ -11753,6 +11757,8 @@ dimwishlist:item=2139640995&perks=938542991,3625355092,3523296417,1685431615
 
 title:YeezyGT's S16
 
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
+
 title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
 description:Xûr activity, reputation and cache chest legendary weapons
 
@@ -11762,19 +11768,29 @@ description:World pool legendary weapon rolls
 title:Season 13 (Season of the Chosen) World drop weapon rolls
 description:World pool legendary weapon rolls
 
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
+
 title:Season 15 (Season of the Lost) Activity weapon rolls
 description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
 
 title:Season 14 (Season of the Chosen) Vault of Glass rolls
 description:Reprised weapons from Vault of Glass Raid
 
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
+
 @title:Season 15 Reissued Trials of the Nine weapons
 @notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
 
 title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
 description:Weapons roundup as at S15 Festival of the Lost
 
 title:YeezyGT's S15 wishlist picks.
+
+description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
 
 title:Destiny Massive Breakdown-inspired weapon rolls
 description:Not affiliated with the DMB podcast, but based on their discussions
@@ -24740,6 +24756,9 @@ description:Originally found at https://www.blueberries.gg/weapons/destiny-2-sea
 
 title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
+
+//title:Sharditkeepit Community Vault of Glass favorites
+//description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nq1usy/communitysourced_season_of_the_splicer_breakdown/
 
 title:@AyyItsChevy's S13 Super Pog PvE Loot List
 description:Originally found at https://twitter.com/AyyItsChevy/status/1359565294709190658?s=20

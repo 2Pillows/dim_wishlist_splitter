@@ -1,44 +1,34 @@
 # extract_voltron_data.py
 
-import copy
+import re
 
 # Import for type hints and intellisense
-from typing import TYPE_CHECKING, List, Dict
+from typing import TYPE_CHECKING, Dict
 
 if TYPE_CHECKING:
     from main import Keys
 
 
-##########################################
-# Collect auithors from wishlist configs #
-##########################################
-def extract_authors(WISHLIST_CONFIGS: List[Dict[str, object]], AUTHOR_KEY: str):
+##################################################
+# Collect authors and tags from wishlist configs #
+##################################################
+def extract_author_and_tags(keys: "Keys"):
     author_names = set()
-    for config in WISHLIST_CONFIGS:
-        author_names.update(config.get(AUTHOR_KEY, []))
-    return author_names
-
-
-######################################
-# Collect tags from wishlist configs #
-######################################
-def extract_tags(
-    WISHLIST_CONFIGS: List[Dict[str, object]], INC_TAG_KEY: str, EXC_TAG_KEY: str
-):
     all_tags = set()
     inc_tags = set()
     exc_tags = set()
 
-    # Iterate through each config and collect INC_TAG_KEY and EXC_TAG_KEY values
-    for config in WISHLIST_CONFIGS:
-        inc_tags.update(config.get(INC_TAG_KEY, []))
-        exc_tags.update(config.get(EXC_TAG_KEY, []))
+    # Iterate through each config and collect author names, INC_TAG_KEY, and EXC_TAG_KEY values
+    for config in keys.WISHLIST_CONFIGS:
+        author_names.update(config.get(keys.AUTHOR_KEY, []))
+        inc_tags.update(config.get(keys.INC_TAG_KEY, []))
+        exc_tags.update(config.get(keys.EXC_TAG_KEY, []))
 
     # Update ALL_TAGS with tags collected from config
     all_tags.update(inc_tags)
     all_tags.update(exc_tags)
 
-    return all_tags, inc_tags, exc_tags
+    return author_names, all_tags, inc_tags, exc_tags
 
 
 ###############################################################
@@ -46,13 +36,35 @@ def extract_tags(
 # Then writes dictionaries to config files                    #
 ###############################################################
 def extract_voltron_data(keys: "Keys"):
-    # Path to voltron file
-    file_path = keys.VOLTRON_PATH
-
     # Holds the dictionaries for each set of lines in Voltron
     voltron_data = []
 
-    # Collect roll data and tags
+    current_roll = []
+
+    with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
+        for line_num, line in enumerate(voltron_file):
+            if line_num == 0:
+                # Remove title in heading, replaced later with file name
+                line = line.replace("title:", "")
+
+            if line == "\n":
+                if current_roll:
+                    voltron_data.append(process_roll(current_roll, keys))
+                    current_roll = []
+            else:
+                current_roll.append(line)
+
+        # Append the last roll if any
+        if current_roll:
+            voltron_data.append(process_roll(current_roll, keys))
+
+    return voltron_data
+
+
+# Given array for all lines in roll
+# Save line to current_roll[KEY] depending on value in line
+# Generate tags for roll
+def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
     current_roll = {
         keys.CREDIT_KEY: [],
         keys.AUTHOR_KEY: [],
@@ -62,61 +74,21 @@ def extract_voltron_data(keys: "Keys"):
         keys.PERK_KEY: [],
     }
 
-    with open(file_path, mode="r", encoding="utf-8") as file:
-        for line in file:
-            line = line.strip()
+    for index, line in enumerate(roll_lines):
+        # Add all perk lines
+        if "dimwishlist:item=" in line:
+            current_roll[keys.PERK_KEY] = roll_lines[index:]
+            break
+        # Description line
+        else:
+            current_roll[keys.DESCRIPTION_KEY].append(line)
+
+            # Collect tags for roll
             line_lower = line.lower()
+            process_author(current_roll, line_lower, keys)
+            process_tags(current_roll, line_lower, keys)
 
-            # Indicates end of current_roll
-            if line == "":
-                # Add roll to voltron_data
-                voltron_data.append(copy.deepcopy(current_roll))
-
-                # Clear contents of current_roll
-                initialize_roll(current_roll, keys)
-                continue
-
-            # Line ins't empty so save data to current_roll
-            process_rolls(current_roll, line, line_lower, keys)
-
-        # Append last roll when reach end of file
-        voltron_data.append(copy.deepcopy(current_roll))
-
-    return voltron_data
-
-
-# ===========================================
-# keys functions for extract_voltron_data =
-# ===========================================
-
-
-# Clear contents of current_roll
-def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
-    current_roll[keys.CREDIT_KEY] = []
-    current_roll[keys.AUTHOR_KEY] = []
-    current_roll[keys.INC_TAG_KEY] = []
-    current_roll[keys.EXC_TAG_KEY] = []
-    current_roll[keys.DESCRIPTION_KEY] = []
-    current_roll[keys.PERK_KEY] = []
-
-
-# Save line to current_roll[KEY] depending on value in line
-def process_rolls(
-    current_roll: Dict[str, object], line: str, line_lower: str, keys: "Keys"
-):
-    dim_item_id = "dimwishlist:item="
-    if dim_item_id in line_lower:
-        current_roll[keys.PERK_KEY].append(line)
-    else:
-        # Remove title in heading, replaced with file name
-        if "title:This is a compiled collection" in line:
-            line = line.replace("title:", "")
-
-        current_roll[keys.DESCRIPTION_KEY].append(line)
-
-        # Collect tags for roll
-        process_author(current_roll, line_lower, keys)
-        process_tags(current_roll, line_lower, keys)
+    return current_roll
 
 
 # Adds name of author if present in any wishlist config
@@ -132,8 +104,12 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Also takes string from 'tags:' to end of line
 
     # Tags that indicate line contains credits
-    credit_tags = ["title:", "description:"]
-    if any(tag in line_lower for tag in credit_tags) and "//" not in line_lower:
+    line_type = re.sub(
+        r"[^a-zA-Z]",
+        "",
+        line_lower[: line_lower.find(":")] if ":" in line_lower else "",
+    )
+    if "title" == line_type or "description" == line_type:
         current_roll[keys.CREDIT_KEY].append(keys.CREDIT_TAG)
 
     # Fix MKB formatting
