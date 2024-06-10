@@ -9,28 +9,6 @@ if TYPE_CHECKING:
     from main import Keys
 
 
-##################################################
-# Collect authors and tags from wishlist configs #
-##################################################
-def extract_author_and_tags(keys: "Keys"):
-    author_names = set()
-    all_tags = set()
-    inc_tags = set()
-    exc_tags = set()
-
-    # Iterate through each config and collect author names, INC_TAG_KEY, and EXC_TAG_KEY values
-    for config in keys.WISHLIST_CONFIGS:
-        author_names.update(config.get(keys.AUTHOR_KEY, []))
-        inc_tags.update(config.get(keys.INC_TAG_KEY, []))
-        exc_tags.update(config.get(keys.EXC_TAG_KEY, []))
-
-    # Update ALL_TAGS with tags collected from config
-    all_tags.update(inc_tags)
-    all_tags.update(exc_tags)
-
-    return author_names, all_tags, inc_tags, exc_tags
-
-
 ###############################################################
 # Reads Voltron and saves each batch of lines to a dictionary #
 # Then writes dictionaries to config files                    #
