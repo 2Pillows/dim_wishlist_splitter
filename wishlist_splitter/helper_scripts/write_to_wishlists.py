@@ -56,12 +56,10 @@ def add_default_tags(weapon_roll, keys):
     input_options = {"mkb", "controller"}
     mode_options = {"pve", "pvp"}
 
-    inc_tags = set(weapon_roll[keys.INC_TAG_KEY])
-
-    if not inc_tags.intersection(input_options):
-        weapon_roll[keys.INC_TAG_KEY].append(default_input)
-    if not inc_tags.intersection(mode_options):
-        weapon_roll[keys.INC_TAG_KEY].append(default_mode)
+    if not weapon_roll[keys.INC_TAG_KEY].intersection(input_options):
+        weapon_roll[keys.INC_TAG_KEY].add(default_input)
+    if not weapon_roll[keys.INC_TAG_KEY].intersection(mode_options):
+        weapon_roll[keys.INC_TAG_KEY].add(default_mode)
 
 
 # Create and store core and trimmed perk strings

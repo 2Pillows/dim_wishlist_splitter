@@ -47,17 +47,16 @@ def extract_voltron_data(keys: "Keys"):
     current_roll = {}
     initialize_roll(current_roll, keys)
 
-    # Remove title in heading, replaced with file name
     first_line = True
 
     with open(file_path, mode="r", encoding="utf-8") as file:
         for line in file:
+            # Remove title in heading, replaced later with file name
             if first_line:
                 line = line.replace("title:", "")
                 first_line = False
 
             line = line.strip()
-            line_lower = line.lower()
 
             # Indicates end of current_roll
             if line == "":
@@ -69,7 +68,7 @@ def extract_voltron_data(keys: "Keys"):
                 continue
 
             # Line isn't empty so save data to current_roll
-            process_rolls(current_roll, line, line_lower, keys)
+            process_rolls(current_roll, line, line.lower(), keys)
 
         # Append last roll when reach end of file
         voltron_data.append(copy.deepcopy(current_roll))
@@ -81,8 +80,8 @@ def extract_voltron_data(keys: "Keys"):
 def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
     current_roll[keys.CREDIT_KEY] = []
     current_roll[keys.AUTHOR_KEY] = []
-    current_roll[keys.INC_TAG_KEY] = []
-    current_roll[keys.EXC_TAG_KEY] = []
+    current_roll[keys.INC_TAG_KEY] = set()
+    current_roll[keys.EXC_TAG_KEY] = set()
     current_roll[keys.DESCRIPTION_KEY] = []
     current_roll[keys.PERK_KEY] = []
 
@@ -152,10 +151,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Collect tags if any present
     for tag in keys.ALL_TAGS:
         if tag in valuable_text:
-            if tag in keys.INC_TAGS and tag not in current_roll[keys.INC_TAG_KEY]:
-                current_roll[keys.INC_TAG_KEY].append(tag)
-            elif tag in keys.EXC_TAGS and tag not in current_roll[keys.EXC_TAG_KEY]:
-                current_roll[keys.EXC_TAG_KEY].append(tag)
+            if tag in keys.INC_TAGS:
+                current_roll[keys.INC_TAG_KEY].add(tag)
+            elif tag in keys.EXC_TAGS:
+                current_roll[keys.EXC_TAG_KEY].add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters
