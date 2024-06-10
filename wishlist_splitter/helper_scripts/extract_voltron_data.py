@@ -40,12 +40,14 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     current_roll = []
+    first_line = True
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
-        for line_num, line in enumerate(voltron_file):
-            if line_num == 0:
-                # Remove title in heading, replaced later with file name
+        for line in voltron_file:
+            # Remove title in heading, replaced later with file name
+            if first_line:
                 line = line.replace("title:", "")
+                first_line = False
 
             if line == "\n":
                 if current_roll:
