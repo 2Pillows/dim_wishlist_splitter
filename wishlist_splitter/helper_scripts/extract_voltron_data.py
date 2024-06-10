@@ -39,26 +39,31 @@ def extract_voltron_data(keys: "Keys"):
     # Holds the dictionaries for each set of lines in Voltron
     voltron_data = []
 
-    # Indexes for roll
-    roll_start = 0
-
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
-        voltron_lines = voltron_file.readlines()
+        # Collect roll data and tags
+        current_roll = []
 
-        # Remove title in heading, replaced later with file name
-        voltron_lines[0] = voltron_lines[0].replace("title:", "")
+        first_line = True
 
-        for index, line in enumerate(voltron_lines):
+        for line in voltron_file:
+            # Remove title in heading, replaced later with file name
+            if first_line:
+                line = line.replace("title:", "")
+                first_line = False
+
             # Indicates end of current_roll
-            if line == "\n":
+            if line == "\n" and len(current_roll) > 0:
                 # Process roll and add to voltron_data
-                voltron_data.append(process_roll(voltron_lines[roll_start:index], keys))
+                voltron_data.append(process_roll(current_roll, keys))
 
-                # Set new roll start
-                roll_start = index + 1
+                # Clear contents of current_roll
+                current_roll.clear()
+            elif line != "\n":
+                # Line isn't empty so save data to current_roll
+                current_roll.append(line)
 
         # Append last roll when reach end of file
-        voltron_data.append(process_roll(voltron_lines[roll_start:], keys))
+        voltron_data.append(process_roll(current_roll, keys))
 
     return voltron_data
 
@@ -77,9 +82,6 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
     }
 
     for index, line in enumerate(roll_lines):
-        if line == "\n":
-            continue
-
         # Add all perk lines
         if "dimwishlist:item=" in line:
             current_roll[keys.PERK_KEY] = roll_lines[index:]
