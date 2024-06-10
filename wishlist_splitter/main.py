@@ -1,6 +1,8 @@
 # main.py
 from collections import Counter
+import time
 
+start_time = time.time()
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
 # Collects wishlist config and voltron data              #
@@ -46,7 +48,6 @@ class Keys:
     DESCRIPTION_KEY = "description"
     PERK_KEY = "perks"
     DUPE_PERKS_KEY = "dupe"
-    BATCH_SIZE = 30
 
     ######################################
     # Keys for storing data from voltron #
@@ -61,6 +62,9 @@ class Keys:
 
     # Minimum number of rolls to for dupe rolls
     MIN_ROLL_COUNT = 2
+
+    # Numebr of rolls held for wishlist before writing
+    BATCH_SIZE = 30
 
     # Keys to be added
     # Voltron text
@@ -106,9 +110,19 @@ def main():
     # Collect data from voltron
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
+    end_time = time.time()
+
+    runtime = end_time - start_time
+    print(f"Runtime before writing: {runtime} seconds")
+
     # Write voltron data to config files
     write_to_wishlists(keys)
 
 
 if __name__ == "__main__":
     main()
+
+    end_time = time.time()
+
+    runtime = end_time - start_time
+    print(f"Runtime: {runtime} seconds")
