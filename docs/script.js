@@ -1,10 +1,10 @@
 // script.js
 
 async function wishlistsMain() {
-  // Text file with json dump array of wishlist paths
+  // Path to json dump of wishlist file paths
   const wishlistPathsPath = "data/wishlist_names.txt";
 
-  // Holds selected checkboxes
+  // Array to hold checkbox settings
   var selectedFilters = {
     include: [],
     exclude: [],
@@ -14,7 +14,7 @@ async function wishlistsMain() {
   const baseLink =
     "https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main";
 
-  // Get array of wishlist paths
+  // Get all wishlist file paths from json dump
   const wishlistPaths = await (async () => {
     try {
       const response = await fetch(wishlistPathsPath);
@@ -37,25 +37,8 @@ async function wishlistsMain() {
       // Remove _
       label = label.replace(/_/g, " ");
 
-      // Make labels prettier
-      const labelReplacements = {
-        all: "All Rolls",
-        mkb: "MKB",
-        ctr: "CTR",
-        pve: "PvE",
-        pvp: "PvP",
-        panda: "PandaPaxxy",
-        god: "God",
-        "!backup": "!Backups",
-        perks: "Perks",
-        dupes: "Dupes",
-      };
-      for (const [key, value] of Object.entries(labelReplacements)) {
-        label = label.replace(key, value);
-      }
-
       // Create tags for lists based off file name
-      let tags = fileName;
+      let tags = fileName.toLowerCase();
 
       // Add PvE or PvP if neither is found
       if (!tags.includes("pve") && !tags.includes("pvp")) {
@@ -86,19 +69,19 @@ async function wishlistsMain() {
     // Set onclick to change state of button and update wishlists
     filterButtons.forEach((button) => {
       button.addEventListener("click", function () {
-        // tag for btn
+        // Tag for btn
         let btn_option = button.id.replace("-btn", "");
 
-        // set button to include state
+        // Set button to include state
         if (button.classList.contains("default-btn")) {
-          // change from default to include
+          // Change from default to include
           button.classList.remove("default-btn");
           button.classList.add("include-btn");
           selectedFilters.include.push(btn_option);
         }
-        // set button to exclude state
+        // Set button to exclude state
         else if (button.classList.contains("include-btn")) {
-          // change from include to exclude
+          // Change from include to exclude
           button.classList.remove("include-btn");
           button.classList.add("exclude-btn");
           selectedFilters.exclude.push(btn_option);
@@ -106,9 +89,9 @@ async function wishlistsMain() {
             (i) => i !== btn_option
           );
         }
-        // set btn to default state
+        // Set btn to default state
         else if (button.classList.contains("exclude-btn")) {
-          // change from exclude to default
+          // Change from exclude to default
           button.classList.remove("exclude-btn");
           button.classList.add("default-btn");
           selectedFilters.exclude = selectedFilters.exclude.filter(
@@ -116,7 +99,7 @@ async function wishlistsMain() {
           );
         }
 
-        // update wishlists
+        // Update wishlists
         updateWishlists();
       });
     });

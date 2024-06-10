@@ -1,3 +1,5 @@
+# get_weapon_mods.py
+
 import json
 
 
