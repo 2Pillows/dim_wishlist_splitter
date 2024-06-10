@@ -41,8 +41,7 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collect roll data and tags
-    current_roll = {}
-    initialize_roll(current_roll, keys)
+    current_roll = []
 
     first_line = True
 
@@ -57,46 +56,49 @@ def extract_voltron_data(keys: "Keys"):
 
             # Indicates end of current_roll
             if line == "":
-                # Add roll to voltron_data
-                voltron_data.append(copy.deepcopy(current_roll))
+                # Process roll and add to voltron_data
+                voltron_data.append(process_roll(current_roll, keys))
 
                 # Clear contents of current_roll
-                initialize_roll(current_roll, keys)
+                current_roll.clear()
                 continue
 
             # Line isn't empty so save data to current_roll
-            process_rolls(current_roll, line, line.lower(), keys)
+            current_roll.append(line)
 
         # Append last roll when reach end of file
-        voltron_data.append(copy.deepcopy(current_roll))
+        voltron_data.append(process_roll(current_roll, keys))
 
     return voltron_data
 
 
-# Clear contents of current_roll
-def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
-    current_roll[keys.CREDIT_KEY] = []
-    current_roll[keys.AUTHOR_KEY] = []
-    current_roll[keys.INC_TAG_KEY] = []
-    current_roll[keys.EXC_TAG_KEY] = []
-    current_roll[keys.DESCRIPTION_KEY] = []
-    current_roll[keys.PERK_KEY] = []
-
-
+# Given array for all lines in roll
 # Save line to current_roll[KEY] depending on value in line
-def process_rolls(
-    current_roll: Dict[str, object], line: str, line_lower: str, keys: "Keys"
-):
-    # Perk line
-    if "dimwishlist:item=" in line_lower:
-        current_roll[keys.PERK_KEY].append(line + "\n")
-    # Description line
-    else:
-        current_roll[keys.DESCRIPTION_KEY].append(line + "\n")
+# Generate tags for roll
+def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
+    current_roll = {
+        keys.CREDIT_KEY: [],
+        keys.AUTHOR_KEY: [],
+        keys.INC_TAG_KEY: [],
+        keys.EXC_TAG_KEY: [],
+        keys.DESCRIPTION_KEY: [],
+        keys.PERK_KEY: [],
+    }
 
-        # Collect tags for roll
-        process_author(current_roll, line_lower, keys)
-        process_tags(current_roll, line_lower, keys)
+    for line in roll_lines:
+        line_lower = line.lower()
+        # Perk line
+        if "dimwishlist:item=" in line_lower:
+            current_roll[keys.PERK_KEY].append(line + "\n")
+        # Description line
+        else:
+            current_roll[keys.DESCRIPTION_KEY].append(line + "\n")
+
+            # Collect tags for roll
+            process_author(current_roll, line_lower, keys)
+            process_tags(current_roll, line_lower, keys)
+
+    return current_roll
 
 
 # Adds name of author if present in any wishlist config
