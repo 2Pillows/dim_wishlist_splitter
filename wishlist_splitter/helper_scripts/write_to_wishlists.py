@@ -144,8 +144,8 @@ def count_perks(weapon_roll, keys: "Keys"):
     if len(roll_perks) < 1:
         return
 
-    keys.CORE_COUNTER.update(set(weapon_roll[keys.CORE_PERKS_KEY]))
-    keys.TRIMMED_COUNTER.update(set(weapon_roll[keys.TRIMMED_PERKS_KEY]))
+    keys.CORE_COUNTER.update(weapon_roll[keys.CORE_PERKS_KEY])
+    keys.TRIMMED_COUNTER.update(weapon_roll[keys.TRIMMED_PERKS_KEY])
     keys.WEAPON_COUNTER.update([get_weapon_hash(roll_perks[0])])
 
 
@@ -285,9 +285,7 @@ def contains_author_names(
         return False
 
     # Author for wishlist and weapon need to share an author
-    return set(wishlist[keys.AUTHOR_KEY]).intersection(
-        set(weapon_roll.get(keys.AUTHOR_KEY))
-    )
+    return wishlist[keys.AUTHOR_KEY].intersection(weapon_roll.get(keys.AUTHOR_KEY))
 
 
 def contains_inc_tags(
@@ -303,9 +301,7 @@ def contains_inc_tags(
 
     # Return if all include tags in wishlist are in roll include tags
     # the tags needed for the wishlist need to be subset of tags for roll
-    return set(wishlist.get(keys.INC_TAG_KEY)).issubset(
-        set(weapon_roll.get(keys.INC_TAG_KEY))
-    )
+    return wishlist.get(keys.INC_TAG_KEY).issubset(weapon_roll.get(keys.INC_TAG_KEY))
 
 
 def contains_exc_tags(
@@ -317,8 +313,8 @@ def contains_exc_tags(
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
-    return set(wishlist.get(keys.EXC_TAG_KEY)).intersection(
-        set(weapon_roll.get(keys.EXC_TAG_KEY))
+    return wishlist.get(keys.EXC_TAG_KEY).intersection(
+        weapon_roll.get(keys.EXC_TAG_KEY)
     )
 
 
