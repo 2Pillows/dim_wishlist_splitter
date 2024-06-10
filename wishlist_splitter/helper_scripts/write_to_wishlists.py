@@ -51,17 +51,12 @@ def process_weapon_rolls(keys: "Keys"):
 
 # Adds mouse and pve tag if no input or gamemode tag present
 def add_default_tags(weapon_roll, keys):
-    default_input = "mkb"
-    default_mode = "pve"
-    input_options = {"mkb", "controller"}
-    mode_options = {"pve", "pvp"}
-
     inc_tags = set(weapon_roll[keys.INC_TAG_KEY])
 
-    if not inc_tags.intersection(input_options):
-        weapon_roll[keys.INC_TAG_KEY].append(default_input)
-    if not inc_tags.intersection(mode_options):
-        weapon_roll[keys.INC_TAG_KEY].append(default_mode)
+    if not inc_tags.intersection({"mkb", "controller"}):
+        weapon_roll[keys.INC_TAG_KEY].append("mkb")
+    if not inc_tags.intersection({"pve", "pvp"}):
+        weapon_roll[keys.INC_TAG_KEY].append("pve")
 
 
 # Create and store core and trimmed perk strings
