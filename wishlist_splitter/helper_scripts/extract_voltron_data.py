@@ -39,31 +39,24 @@ def extract_voltron_data(keys: "Keys"):
     # Holds the dictionaries for each set of lines in Voltron
     voltron_data = []
 
+    current_roll = []
+
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
-        # Collect roll data and tags
-        current_roll = []
-
-        first_line = True
-
-        for line in voltron_file:
-            # Remove title in heading, replaced later with file name
-            if first_line:
+        for line_num, line in enumerate(voltron_file):
+            if line_num == 0:
+                # Remove title in heading, replaced later with file name
                 line = line.replace("title:", "")
-                first_line = False
 
-            # Indicates end of current_roll
-            if line == "\n" and len(current_roll) > 0:
-                # Process roll and add to voltron_data
-                voltron_data.append(process_roll(current_roll, keys))
-
-                # Clear contents of current_roll
-                current_roll.clear()
-            elif line != "\n":
-                # Line isn't empty so save data to current_roll
+            if line == "\n":
+                if current_roll:
+                    voltron_data.append(process_roll(current_roll, keys))
+                    current_roll = []
+            else:
                 current_roll.append(line)
 
-        # Append last roll when reach end of file
-        voltron_data.append(process_roll(current_roll, keys))
+        # Append the last roll if any
+        if current_roll:
+            voltron_data.append(process_roll(current_roll, keys))
 
     return voltron_data
 
