@@ -138,12 +138,13 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
         return
 
     # Collect tags if any present
-    for tag in keys.ALL_TAGS:
+    for tag in keys.INC_TAGS:
         if tag in valuable_text:
-            if tag in keys.INC_TAGS:
-                current_roll[keys.INC_TAG_KEY].add(tag)
-            elif tag in keys.EXC_TAGS:
-                current_roll[keys.EXC_TAG_KEY].add(tag)
+            current_roll[keys.INC_TAG_KEY].add(tag)
+
+    for tag in keys.EXC_TAGS:
+        if tag in valuable_text:
+            current_roll[keys.EXC_TAG_KEY].add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters

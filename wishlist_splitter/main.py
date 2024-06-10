@@ -4,9 +4,9 @@ from dataclasses import dataclass
 
 from typing import List, Dict, Set
 
-# import time
+import time
 
-# start_time = time.time()
+start_time = time.time()
 
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
@@ -15,7 +15,7 @@ from typing import List, Dict, Set
 ###########################################################
 
 # Import config file
-from data.wishlist_configs import get_wishlist_config, export_wishlist_names
+from data.wishlist_configs import get_wishlist_config
 
 # Import helper function to grab origin trait hashes
 from helper_scripts.get_weapon_mods import get_weapon_mods
@@ -98,10 +98,8 @@ def main():
     keys = Keys()
 
     # Pass helper keys to get wishlist configs with matching keys
-    keys.WISHLIST_CONFIGS = get_wishlist_config(keys)
-
     # Export wishlists to a txt file for the website
-    export_wishlist_names(keys)
+    keys.WISHLIST_CONFIGS = get_wishlist_config(keys)
 
     # Collect origin trait hashes
     keys.ORIGIN_TRAITS = get_weapon_mods(keys.ORIGIN_TRAITS_PATH)
@@ -123,7 +121,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # end_time = time.time()
+    end_time = time.time()
 
-    # runtime = end_time - start_time
-    # print(f"Runtime: {runtime} seconds")
+    runtime = end_time - start_time
+    print(f"Runtime: {runtime} seconds")

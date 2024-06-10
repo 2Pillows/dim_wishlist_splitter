@@ -168,9 +168,13 @@ def get_wishlist_config(keys: "Keys"):
     ]
 
     # Iterate through the list of dictionaries
+    wishlist_paths = []
     for wishlist in wishlist_configs:
-        # Add directory to file path
-        wishlist[FILE_PATH] = WISHLIST_DIR + wishlist[FILE_PATH]
+        # Add directory to file path and add path to wishlist and wishlist_paths
+        wishlist_path = WISHLIST_DIR + wishlist[FILE_PATH]
+        wishlist[FILE_PATH] = wishlist_path  # Add path to wishlist name
+
+        wishlist_paths.append(wishlist_path)  # Add full path to array for website
 
         # Extend include and exclude tags
         if INCLUDE_TAGS in wishlist and wishlist[INCLUDE_TAGS] is not None:
@@ -178,6 +182,10 @@ def get_wishlist_config(keys: "Keys"):
 
         if EXCLUDE_TAGS in wishlist and wishlist[EXCLUDE_TAGS] is not None:
             transform_tags(wishlist[EXCLUDE_TAGS])
+
+    # Write wishlist paths to file for website
+    with open(keys.WISHLIST_NAMES_PATH, "w") as file:
+        json.dump(wishlist_paths, file)
 
     return wishlist_configs
 
@@ -194,15 +202,3 @@ def transform_tags(tag_list: Set[str]):
         if tag in tag_list:
             tag_list.remove(tag)
             tag_list.update(transformed_tags)
-
-
-# Write the file names to separate txt file for website
-def export_wishlist_names(keys: "Keys"):
-    # Create array with the file names
-    wishlist_paths = []
-    for config in keys.WISHLIST_CONFIGS:
-        wishlist_paths.append(config[keys.PATH_KEY])
-
-    # Write names to file
-    with open(keys.WISHLIST_NAMES_PATH, "w") as file:
-        json.dump(wishlist_paths, file)
