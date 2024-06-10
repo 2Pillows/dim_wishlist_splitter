@@ -1123,7 +1123,7 @@ dimwishlist:item=655712834&perks=2048641572,776531651
 dimwishlist:item=657927352&perks=2173046394,2396489472
 
 @title:Season 23 World Drop weapons
-@description:Season of the Wish world weapon drops
+@description:Season of the Wish world weapon drops 
 
 // Ros Arago IV (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore), (Tactical Mag, Flared Magwell), (Rewind Rounds, Subsistence), Onslaught
@@ -1162,7 +1162,7 @@ dimwishlist:item=1719687748&perks=3194351027,968510818
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 934 (https://open.spotify.com/episode/0M24D3moUjRCXj0AtIsCCx?si=208c6d31bdb7453e) with @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for burst damage against Majors or sustained damage against Boss spec enemies in end-game content. As an aggressive RL, Crux Termination IV is in the highest damage category of rocket launchers, along with adaptive-frames, and has the highest velocity in its peer group to boot. You can look on the low blast radius as an advantage for boss fights, as you can get a bit closer without being killing yourself in the explosion. With one eye on Bipod as the second column trait, as there's no Field Prep option, you'll start off with 2 in the mag and 12 reserves, with one more rocket for each chest ammo reserve mod. Go for the highest velocity you can with the barrel perk and then, for boss damage, Impact Casing is always the best option. In the first trait column, you could look at Envious Assassin - up to five in the tube after 11 kills with other weapons. Alternatively Reconstruction passively provides 4 in the tube at the rate of one every 4s, or Clown Cartridge provides 3 or 4 after a manual reload. For burst and sustained Boss damage, Bipod just about breaks even with 25% less damage and slower reloads, but faster firing and more reserve ammo. Recommended MW: Reload Speed or Velocity, with a damage boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
 
 @title:Season 23 Playlist weapons
-@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities
+@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities 
 
 // Undercurrent (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Hard Launch, Linear Compensator), High-Velocity Rounds, Ambitious Assassin, Voltshot
@@ -1277,7 +1277,7 @@ dimwishlist:item=2026755633&perks=1820235745,95528736
 dimwishlist:item=2026755633&perks=1820235745,3891536761
 
 @title:Season 23 Seasonal weapons
-@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait
+@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait 
 
 // Appetence (PvE first-choice roll)
 // (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Arrowhead Brake, Corkscrew Rifling), Ionized Battery, Overflow, Killing Tally
@@ -5581,36 +5581,36 @@ dimwishlist:item=495442100&perks=2396489472,831391274
 dimwishlist:item=495442100&perks=2396489472,831391274
 
 // Briar's Contempt (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine to keep get as many shots with Focused Fury's damage boost as possible, as your second trait column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=1491665733&perks=1523832109,2896038713
 dimwishlist:item=1491665733&perks=2896038713,3418782618
 
 // Briar's Contempt (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by up to 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine, or alternatively Demolitionist provides an instant reload to keep damage uptime for Frenzy's 15% damage boost as your second trait column signature perk. The additional 50 Reload Speed from Frenzy is handy, once you do need to reload, too. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=1491665733&perks=1523832109,4104185692
 dimwishlist:item=1491665733&perks=3418782618,4104185692
 dimwishlist:item=1491665733&perks=3523296417,4104185692
 
 // Briar's Contempt (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for solar synergy in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10% so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. Unusually, you can roll Incandescent in the first trait column as your support perk, to synergise with solar subclasses to improve scorch and ignition, and proc Paracausal Affinity in the second column as your signature park. Paracausal Affinity then buffs ignition damage to keep the loop going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 
 // Briar's Contempt (Adept) (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine to keep get as many shots with Focused Fury's damage boost as possible, as your second trait column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=2890082420&perks=1523832109,2896038713
 dimwishlist:item=2890082420&perks=2896038713,3418782618
 
 // Briar's Contempt (Adept) (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by up to 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine, or alternatively Demolitionist provides an instant reload to keep damage uptime for Frenzy's 15% damage boost as your second trait column signature perk. The additional 50 Reload Speed from Frenzy is handy, once you do need to reload, too. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=2890082420&perks=1523832109,4104185692
 dimwishlist:item=2890082420&perks=3418782618,4104185692
 
 // Briar's Contempt (Adept) (PvE first-choice roll)
-// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for solar synergy in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10% so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. Unusually, you can roll Incandescent in the first trait column as your support perk, to synergise with solar subclasses to improve scorch and ignition, and proc Paracausal Affinity in the second column as your signature park. Paracausal Affinity then buffs ignition damage to keep the loop going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 
 title:TheAlpacalypse's Raid Rolls
@@ -5646,7 +5646,7 @@ dimwishlist:item=1606497639&perks=776531651,968510818
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for burst damage to Majors in end-game content. The reprised Hand in Hand is the only non-endgame arc aggressive shotgun currently (as at v7.0.0.6) in game but, as usual for a world drop, the stats are on the low side - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers. Handling is the standard play for shotguns, so Barrel Shroud or Corkscrew Rifling are your best choices. Assault Mag brings your RPM up to 60 and also boosts stability - maybe not so essential with a slower firing shottie, but still nice. As your support perk in the first trait column, Slideshot is normally regarded as a PvP-flavoured perk but bypasses the reload to keep the magazine full, and you can take advantage of the arc toolkit to proc the second stack of Golden Tricorn as your signature perk in the second trait column to boost damage by 50%, as well as proccing useful arc verbs, like Blinding with Spark of Beacons. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
 
 // Nasreddin (PvE first-choice roll)
-// Jagged Edge, Swordmaster's Guard, Relentless Strikes,
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, 
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for damage to Bosses in end-game content. First thing to say about the reprised Nasreddin (named for a legendary trickster figure in Muslin folklore) is that if you already have a decent arc sword, you can give this a miss, as there's nothing that really makes it stand out except, maybe, for a slightly higher base Impact stat, and the new Devrim Kay VIII Foundry origin trait which should make the heavy attack rechage rate a little faster, but it takes a long time to proc the higher tiers. For newer Guardians, the usual recommendations of Jagged Edge as the blade perk for additinal damage, Swordmaster's Guard for the guard perk to get the heavy attack up as fast as possible. Then Relentless Strikes as your support perk in the first trait column, which works well to return ammo against all enemies, and either Whirlwind Blade or Surrounded, to boost damage, for your signature perk in the second. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=1456017061&perks=1749209109,3708227201
 dimwishlist:item=1456017061&perks=1749209109,3913600130
@@ -9183,7 +9183,7 @@ dimwishlist:item=820890091&perks=1428297954,4082225868
 //notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for general content. The Origin Perk works well in CQC, so you might find it some use if you're lucky. A Stability barrel will help control recoil, and Extended Magazine keeps you firing for as long as possible, even with a reload penalty. Then Heating Up corrects for Recoil Direction and adds more stability, and who doesn't love extra Super energy through Thresh.  Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MinorSpec, Controller, MKB
 
 title:Dares of Eternity weapons
-description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity
+description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity 
 
 // Wastelander M5 (PvE first-choice roll)
 // Full Choke, (Tactical Mag, Assault Mag), Slideshot, One-Two Punch
@@ -9331,7 +9331,7 @@ title:Chevy's S17 Super Pog PVE List
 description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
 
 title:Chevy's S18 Super Pog PVE List
-description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622 
 
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
@@ -9837,12 +9837,12 @@ dimwishlist:item=507038823&perks=2621346526,4104185692
 dimwishlist:item=1476654960&perks=1774574192,3523296417
 
 // Judgment (PvE first-choice roll)
-// Fastdraw HCS, (Tactical Mag, Appended Mag), Demolitionist,
+// Fastdraw HCS, (Tactical Mag, Appended Mag), Demolitionist, 
 //notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod.|tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
 dimwishlist:item=1476654960&perks=11612903,3523296417
 
 // Judgment (PvE first-choice roll)
-// Fastdraw HCS, (Tactical Mag, Appended Mag),
+// Fastdraw HCS, (Tactical Mag, Appended Mag), 
 //notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Ensemble helps speed reloads and Timed Payload adds damage, helps with Overload stuns and can proc Explosive Wellmaker. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod.|tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
 dimwishlist:item=1476654960&perks=1954620775,2621346526
 
@@ -11032,7 +11032,7 @@ description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/b
 @description:Dropping from Savathun's Throne World engrams
 
 title:Nightfall weapons part 2 and Hakke foundry
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
 
 title:Nightfall weapons part 3 and Omolon foundry
 description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt

@@ -2711,13 +2711,13 @@ dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
 @description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
 
 @title:Season 23 World Drop weapons
-@description:Season of the Wish world weapon drops
+@description:Season of the Wish world weapon drops 
 
 @title:Season 23 Playlist weapons
-@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities
+@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities 
 
 @title:Season 23 Seasonal weapons
-@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait
+@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait 
 
 @title:Season 23 Dreaming City weapons
 @description:Reprised weapons, with the Advanced Reflexes origin trait
@@ -19680,7 +19680,7 @@ description:Reprised King's Fall raid weapons with Runneth Over origin perk
 @description:Season 18 weapons with Right Hook origin trait
 
 title:Dares of Eternity weapons
-description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity
+description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity 
 
 @title:Dares of Eternity redux weapons
 @description:Reissued Season 18 (Season of Punder) new weapon perk rolls
@@ -19689,7 +19689,7 @@ title:Chevy's S17 Super Pog PVE List
 description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
 
 title:Chevy's S18 Super Pog PVE List
-description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622 
 
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
@@ -24282,7 +24282,7 @@ description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/b
 @description:Dropping from Savathun's Throne World engrams
 
 title:Nightfall weapons part 2 and Hakke foundry
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
 
 title:Nightfall weapons part 3 and Omolon foundry
 description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
