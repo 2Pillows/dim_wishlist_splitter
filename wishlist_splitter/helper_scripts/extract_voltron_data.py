@@ -12,17 +12,17 @@ if TYPE_CHECKING:
 ##################################################
 # Collect authors and tags from wishlist configs #
 ##################################################
-def extract_author_and_tags(WISHLIST_CONFIGS, AUTHOR_KEY, INC_TAG_KEY, EXC_TAG_KEY):
+def extract_author_and_tags(keys: "Keys"):
     author_names = set()
     all_tags = set()
     inc_tags = set()
     exc_tags = set()
 
     # Iterate through each config and collect author names, INC_TAG_KEY, and EXC_TAG_KEY values
-    for config in WISHLIST_CONFIGS:
-        author_names.update(config.get(AUTHOR_KEY, []))
-        inc_tags.update(config.get(INC_TAG_KEY, []))
-        exc_tags.update(config.get(EXC_TAG_KEY, []))
+    for config in keys.WISHLIST_CONFIGS:
+        author_names.update(config.get(keys.AUTHOR_KEY, []))
+        inc_tags.update(config.get(keys.INC_TAG_KEY, []))
+        exc_tags.update(config.get(keys.EXC_TAG_KEY, []))
 
     # Update ALL_TAGS with tags collected from config
     all_tags.update(inc_tags)
