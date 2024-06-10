@@ -18,11 +18,16 @@ def extract_author_and_tags(keys: "Keys"):
     inc_tags = set()
     exc_tags = set()
 
+    WISHLIST_CONFIGS = keys.WISHLIST_CONFIGS
+    AUTHOR_KEY = keys.AUTHOR_KEY
+    INC_TAG_KEY = keys.INC_TAG_KEY
+    EXC_TAG_KEY = keys.EXC_TAG_KEY
+
     # Iterate through each config and collect author names, INC_TAG_KEY, and EXC_TAG_KEY values
-    for config in keys.WISHLIST_CONFIGS:
-        author_names.update(config.get(keys.AUTHOR_KEY, []))
-        inc_tags.update(config.get(keys.INC_TAG_KEY, []))
-        exc_tags.update(config.get(keys.EXC_TAG_KEY, []))
+    for config in WISHLIST_CONFIGS:
+        author_names.update(config.get(AUTHOR_KEY, []))
+        inc_tags.update(config.get(INC_TAG_KEY, []))
+        exc_tags.update(config.get(EXC_TAG_KEY, []))
 
     # Update ALL_TAGS with tags collected from config
     all_tags.update(inc_tags)
@@ -74,14 +79,17 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
         keys.PERK_KEY: [],
     }
 
+    PERK_KEY = keys.PERK_KEY
+    DESCRIPTION_KEY = keys.DESCRIPTION_KEY
+
     for index, line in enumerate(roll_lines):
         # Add all perk lines
         if "dimwishlist:item=" in line:
-            current_roll[keys.PERK_KEY] = roll_lines[index:]
+            current_roll[PERK_KEY] = roll_lines[index:]
             break
         # Description line
         else:
-            current_roll[keys.DESCRIPTION_KEY].append(line)
+            current_roll[DESCRIPTION_KEY].append(line)
 
             # Collect tags for roll
             line_lower = line.lower()
@@ -93,9 +101,11 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
 
 # Adds name of author if present in any wishlist config
 def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
+    author_key = keys.AUTHOR_KEY
+
     for author in keys.AUTHOR_NAMES:
         if author in line_lower:
-            current_roll[keys.AUTHOR_KEY].append(author)
+            current_roll[author_key].append(author)
 
 
 # Collects any tags if they are in wishlists
