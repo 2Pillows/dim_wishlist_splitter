@@ -1,6 +1,5 @@
 # extract_voltron_data.py
 
-import copy
 import re
 
 # Import for type hints and intellisense
