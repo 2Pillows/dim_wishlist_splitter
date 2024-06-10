@@ -103,7 +103,9 @@ def main():
     keys.FRAME_MODS = get_weapon_mods(keys.FRAME_MODS_PATH)
 
     keys.AUTHOR_NAMES, keys.ALL_TAGS, keys.INC_TAGS, keys.EXC_TAGS = (
-        extract_author_and_tags(keys)
+        extract_author_and_tags(
+            keys.WISHLIST_CONFIGS, keys.AUTHOR_KEY, keys.INC_TAG_KEY, keys.EXC_TAG_KEY
+        )
     )
 
     # Collect data from voltron
