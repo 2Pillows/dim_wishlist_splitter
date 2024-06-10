@@ -56,10 +56,12 @@ def add_default_tags(weapon_roll, keys):
     input_options = {"mkb", "controller"}
     mode_options = {"pve", "pvp"}
 
-    if not weapon_roll[keys.INC_TAG_KEY].intersection(input_options):
-        weapon_roll[keys.INC_TAG_KEY].add(default_input)
-    if not weapon_roll[keys.INC_TAG_KEY].intersection(mode_options):
-        weapon_roll[keys.INC_TAG_KEY].add(default_mode)
+    inc_tags = set(weapon_roll[keys.INC_TAG_KEY])
+
+    if not inc_tags.intersection(input_options):
+        weapon_roll[keys.INC_TAG_KEY].append(default_input)
+    if not inc_tags.intersection(mode_options):
+        weapon_roll[keys.INC_TAG_KEY].append(default_mode)
 
 
 # Create and store core and trimmed perk strings
@@ -311,7 +313,7 @@ def contains_inc_tags(
     # Return if all include tags in wishlist are in roll include tags
     # the tags needed for the wishlist need to be subset of tags for roll
     return set(wishlist.get(keys.INC_TAG_KEY, [])).issubset(
-        weapon_roll.get(keys.INC_TAG_KEY, [])
+        set(weapon_roll.get(keys.INC_TAG_KEY, []))
     )
 
 
@@ -322,13 +324,13 @@ def contains_exc_tags(
     # Or if roll doesn't have any exclude tags then it passes
     if (
         keys.EXC_TAG_KEY not in wishlist
-        or len(weapon_roll.get(keys.EXC_TAG_KEY, set())) == 0
+        or len(weapon_roll.get(keys.EXC_TAG_KEY, [])) == 0
     ):
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
     return set(weapon_roll.get(keys.EXC_TAG_KEY, [])).intersection(
-        wishlist.get(keys.EXC_TAG_KEY, set())
+        set(wishlist.get(keys.EXC_TAG_KEY, []))
     )
 
 

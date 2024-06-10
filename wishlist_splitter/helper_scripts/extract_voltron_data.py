@@ -80,8 +80,8 @@ def extract_voltron_data(keys: "Keys"):
 def initialize_roll(current_roll: Dict[str, object], keys: "Keys"):
     current_roll[keys.CREDIT_KEY] = []
     current_roll[keys.AUTHOR_KEY] = []
-    current_roll[keys.INC_TAG_KEY] = set()
-    current_roll[keys.EXC_TAG_KEY] = set()
+    current_roll[keys.INC_TAG_KEY] = []
+    current_roll[keys.EXC_TAG_KEY] = []
     current_roll[keys.DESCRIPTION_KEY] = []
     current_roll[keys.PERK_KEY] = []
 
@@ -151,10 +151,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Collect tags if any present
     for tag in keys.ALL_TAGS:
         if tag in valuable_text:
-            if tag in keys.INC_TAGS:
-                current_roll[keys.INC_TAG_KEY].add(tag)
-            elif tag in keys.EXC_TAGS:
-                current_roll[keys.EXC_TAG_KEY].add(tag)
+            if tag in keys.INC_TAGS and tag not in current_roll[keys.INC_TAG_KEY]:
+                current_roll[keys.INC_TAG_KEY].append(tag)
+            elif tag in keys.EXC_TAGS and tag not in current_roll[keys.EXC_TAG_KEY]:
+                current_roll[keys.EXC_TAG_KEY].append(tag)
 
 
 # Find outer content of a line given the open and closing delimiters
