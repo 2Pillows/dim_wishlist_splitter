@@ -311,7 +311,7 @@ def contains_inc_tags(
     # Return if all include tags in wishlist are in roll include tags
     # the tags needed for the wishlist need to be subset of tags for roll
     return set(wishlist.get(keys.INC_TAG_KEY, [])).issubset(
-        set(weapon_roll.get(keys.INC_TAG_KEY, []))
+        weapon_roll.get(keys.INC_TAG_KEY, [])
     )
 
 
@@ -322,13 +322,13 @@ def contains_exc_tags(
     # Or if roll doesn't have any exclude tags then it passes
     if (
         keys.EXC_TAG_KEY not in wishlist
-        or len(weapon_roll.get(keys.EXC_TAG_KEY, [])) == 0
+        or len(weapon_roll.get(keys.EXC_TAG_KEY, set())) == 0
     ):
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
     return set(weapon_roll.get(keys.EXC_TAG_KEY, [])).intersection(
-        set(wishlist.get(keys.EXC_TAG_KEY, []))
+        wishlist.get(keys.EXC_TAG_KEY, set())
     )
 
 
