@@ -178,37 +178,57 @@ def write_to_wishlist(
         for weapon_roll in keys.VOLTRON_DATA:
             # Always write roll if it is a credit roll
             if contains_credits(weapon_roll, keys):
-                batch.append(weapon_roll)
+                batch.extend(
+                    get_wishlist_roll(
+                        weapon_roll[keys.DESCRIPTION_KEY],
+                        weapon_roll[keys.PERK_KEY],
+                    )
+                )
 
             # Check if roll tags match wishlist tags
             elif check_tags(weapon_roll, wishlist, keys):
                 # Find correct perks for wishlist and add to batch
-                batch.append(find_wishlist_roll(weapon_roll, wishlist, keys))
+                wishlist_perks = get_wishlist_perks(weapon_roll, wishlist, keys)
+                batch.extend(
+                    get_wishlist_roll(
+                        weapon_roll[keys.DESCRIPTION_KEY],
+                        wishlist_perks,
+                    )
+                )
 
             if len(batch) >= keys.BATCH_SIZE:
-                write_batch_to_wishlist(wishlist_file, batch, keys)
+                wishlist_file.write("".join(batch))
                 batch = []
 
         # Empty batch if any leftover
         if batch:
-            write_batch_to_wishlist(wishlist_file, batch, keys)
+            wishlist_file.write("".join(batch))
 
 
-def find_wishlist_roll(
+def get_wishlist_roll(weapon_description, weapon_perks):
+    wishlist_roll = []
+
+    # Add description and perks to wishlist roll
+    wishlist_roll.extend(weapon_description)
+    wishlist_roll.extend(weapon_perks)
+    wishlist_roll.append("\n")
+
+    return wishlist_roll
+
+
+def get_wishlist_perks(
     weapon_roll: Dict[str, object],
     wishlist: Dict[str, object],
     keys: "Keys",
 ):
     # Copy weapon roll and perks to avoid changing the source
-    wishlist_roll = weapon_roll.copy()
-    wishlist_perks = weapon_roll[keys.PERK_KEY].copy()
     # Core perks is perks without extra perks
     # Filtered perks is only 3rd and 4th column perks and extras
     # Core filtered is 3rd and 4th column perks without extra perks
     if wishlist.get(keys.PERK_KEY):
         if wishlist.get(keys.DUPE_PERKS_KEY):
             # wishlist wants 3rd and 4th column perks in at least 2 rolls
-            wishlist_perks = get_dupe_perks(
+            return get_dupe_perks(
                 weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
                 weapon_roll[keys.TRIMMED_PERKS_KEY],
                 keys.TRIMMED_COUNTER,
@@ -216,19 +236,19 @@ def find_wishlist_roll(
             )
         else:
             # wishlist wants 3rd and 4th column perks
-            wishlist_perks = weapon_roll[keys.TRIMMED_PERKS_KEY].copy()
+            return weapon_roll[keys.TRIMMED_PERKS_KEY]
 
     elif wishlist.get(keys.DUPE_PERKS_KEY):
         # wishlist wants rolls in at least 2 rolls
-        wishlist_perks = get_dupe_perks(
+        return get_dupe_perks(
             weapon_roll[keys.CORE_PERKS_KEY],
             weapon_roll[keys.PERK_KEY],
             keys.CORE_COUNTER,
             keys,
         )
 
-    wishlist_roll[keys.PERK_KEY] = wishlist_perks
-    return wishlist_roll
+    # Wistlist wants all perks
+    return weapon_roll[keys.PERK_KEY]
 
 
 # Returns perks that are present MIN_COUNT
@@ -316,16 +336,3 @@ def contains_exc_tags(
     return wishlist.get(keys.EXC_TAG_KEY).intersection(
         weapon_roll.get(keys.EXC_TAG_KEY)
     )
-
-
-def write_batch_to_wishlist(wishlist_file, batch, keys: "Keys"):
-
-    file_content = []
-
-    for current_roll in batch:
-        # Add roll to file content
-        file_content.extend(current_roll[keys.DESCRIPTION_KEY])
-        file_content.extend(current_roll[keys.PERK_KEY])
-        file_content.append("\n")
-
-    wishlist_file.write("".join(file_content))

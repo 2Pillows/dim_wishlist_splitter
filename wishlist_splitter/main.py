@@ -4,9 +4,9 @@ from dataclasses import dataclass
 
 from typing import List, Dict, Set
 
-# import time
+import time
 
-# start_time = time.time()
+start_time = time.time()
 
 ###########################################################
 # Called from Github Workflow to start updating wishlist #
@@ -70,7 +70,7 @@ class Keys:
     MIN_ROLL_COUNT = 2
 
     # Numebr of rolls held for wishlist before writing
-    BATCH_SIZE = 30
+    BATCH_SIZE = 1000
 
     # Keys to be added
     # Voltron text
@@ -122,7 +122,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # end_time = time.time()
+    end_time = time.time()
 
-    # runtime = end_time - start_time
-    # print(f"Runtime: {runtime} seconds")
+    runtime = end_time - start_time
+    print(f"Runtime: {runtime} seconds")
