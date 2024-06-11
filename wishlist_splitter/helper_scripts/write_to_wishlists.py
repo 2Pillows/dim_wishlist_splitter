@@ -178,23 +178,15 @@ def write_to_wishlist(
         for weapon_roll in keys.VOLTRON_DATA:
             # Always write roll if it is a credit roll
             if contains_credits(weapon_roll, keys):
-                batch.extend(
-                    get_wishlist_roll(
-                        weapon_roll[keys.DESCRIPTION_KEY],
-                        weapon_roll[keys.PERK_KEY],
-                    )
-                )
+                batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
+                batch.append("\n")
 
             # Check if roll tags match wishlist tags
             elif check_tags(weapon_roll, wishlist, keys):
                 # Find correct perks for wishlist and add to batch
-                wishlist_perks = get_wishlist_perks(weapon_roll, wishlist, keys)
-                batch.extend(
-                    get_wishlist_roll(
-                        weapon_roll[keys.DESCRIPTION_KEY],
-                        wishlist_perks,
-                    )
-                )
+                batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
+                batch.extend(get_wishlist_perks(weapon_roll, wishlist, keys))
+                batch.append("\n")
 
             if len(batch) >= keys.BATCH_SIZE:
                 wishlist_file.write("".join(batch))
@@ -203,17 +195,6 @@ def write_to_wishlist(
         # Empty batch if any leftover
         if batch:
             wishlist_file.write("".join(batch))
-
-
-def get_wishlist_roll(weapon_description, weapon_perks):
-    wishlist_roll = []
-
-    # Add description and perks to wishlist roll
-    wishlist_roll.extend(weapon_description)
-    wishlist_roll.extend(weapon_perks)
-    wishlist_roll.append("\n")
-
-    return wishlist_roll
 
 
 def get_wishlist_perks(
