@@ -70,7 +70,7 @@ class Keys:
     MIN_ROLL_COUNT = 2
 
     # Numebr of rolls held for wishlist before writing
-    BATCH_SIZE = 30
+    BATCH_SIZE = 1000
 
     # Keys to be added
     # Voltron text
