@@ -154,7 +154,7 @@ def write_to_wishlist(
     keys: "Keys",
 ):
     # Determine what perks wishlist wants, avoid repeated calcs
-    wishlist_perk_prefs = get_wishlist_perk_prefs(wishlist, keys)
+    PERKS_KEY, CORE_HASHES_KEY, PERK_COUNTER = get_wishlist_prefs(wishlist, keys)
 
     with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
         # Write file name to start of file
@@ -181,7 +181,15 @@ def write_to_wishlist(
             elif check_tags(weapon_roll, wishlist, keys):
                 # Add description and correct perks to batch
                 batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
-                batch.extend(get_weapon_perks(weapon_roll, wishlist_perk_prefs, keys))
+                batch.extend(
+                    get_weapon_perks(
+                        weapon_roll.get(PERKS_KEY),
+                        weapon_roll.get(CORE_HASHES_KEY),
+                        PERK_COUNTER,
+                        keys.WEAPON_COUNTER,
+                        keys.MIN_ROLL_COUNT,
+                    )
+                )
                 batch.append("\n")
 
             # Write to file if batch size reached
@@ -194,63 +202,44 @@ def write_to_wishlist(
             wishlist_file.write("".join(batch))
 
 
-def get_wishlist_perk_prefs(wishlist, keys: "Keys"):
+def get_wishlist_prefs(wishlist, keys: "Keys"):
+
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
-            # wishlist wants perks and dupes
-            return {
-                keys.PERKS_KEY: keys.TRIMMED_PERKS_KEY,
-                keys.CORE_PERKS_KEY: keys.CORE_TRIMMED_PERKS_KEY,
-                keys.PERK_COUNTER_KEY: keys.TRIMMED_COUNTER,
-            }
+            # wishlist wants trimmed perks and dupes
+            return (
+                keys.TRIMMED_PERKS_KEY,
+                keys.CORE_TRIMMED_PERKS_KEY,
+                keys.TRIMMED_COUNTER,
+            )
         else:
-            # wishlist wants perks
-            return {
-                keys.PERKS_KEY: keys.TRIMMED_PERKS_KEY,
-            }
+            # wishlist wants trimmed perks
+            return keys.TRIMMED_PERKS_KEY, None, None
     elif wishlist.get(keys.REQ_DUPES):
         # Wishlist wants dupes
-        return {
-            keys.PERKS_KEY: keys.PERKS_KEY,
-            keys.CORE_PERKS_KEY: keys.CORE_PERKS_KEY,
-            keys.PERK_COUNTER_KEY: keys.CORE_COUNTER,
-        }
+        return keys.PERKS_KEY, keys.CORE_PERKS_KEY, keys.CORE_COUNTER
 
-    return {
-        keys.PERKS_KEY: keys.PERKS_KEY,
-    }
+    # Wishlist wants all perks
+    return keys.PERKS_KEY, None, None
 
 
 # Returns perks that are present MIN_COUNT
 # If the weapon for the roll isn't present MIN_COUNT, its also included
 def get_weapon_perks(
-    weapon_roll,
-    wishlist_prefs,
-    keys: "Keys",
+    perk_hashes, core_perk_hashes, perk_counter, weapon_counter, min_count
 ):
-    perk_hashes = weapon_roll[wishlist_prefs[keys.PERKS_KEY]]
-
-    # If no core perks are given, return the weapon rolls perks according to the pref perk key
-    if not wishlist_prefs.get(keys.CORE_PERKS_KEY):
+    # if no core perks given, wishlist doesn't want dupes
+    if not core_perk_hashes:
         return perk_hashes
 
-    valid_perks = []
-
-    core_perk_hashes = weapon_roll[wishlist_prefs[keys.CORE_PERKS_KEY]]
-    perk_counter = wishlist_prefs[keys.PERK_COUNTER_KEY]
-
-    # Adds valid perk lines to valid_perks
-    for index in range(len(core_perk_hashes)):
-        # Perk is valid if present at least MIN_COUNT
-        # OR weapon isn't present MIN_COUNT
-        if (
-            perk_counter[core_perk_hashes[index]] >= keys.MIN_ROLL_COUNT
-            or keys.WEAPON_COUNTER[get_weapon_hash(perk_hashes[0])]
-            < keys.MIN_ROLL_COUNT
-        ):
-            valid_perks.append(perk_hashes[index])
-
-    return valid_perks
+    # Return valid perks that are present at least min_count times
+    # Only for weapons that appear at least min_count times
+    return [
+        perk_hashes[index]
+        for index in range(len(core_perk_hashes))
+        if perk_counter[core_perk_hashes[index]] >= min_count
+        or weapon_counter[get_weapon_hash(perk_hashes[0])] < min_count
+    ]
 
 
 def check_tags(
