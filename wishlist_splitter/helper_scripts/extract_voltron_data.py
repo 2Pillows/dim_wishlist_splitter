@@ -42,7 +42,7 @@ def extract_voltron_data(keys: "Keys"):
 def process_roll(weapon_roll: Dict[str, object], keys: "Keys"):
     current_roll = {
         keys.CREDIT_KEY: set(),
-        keys.AUTHOR_KEY: set(),
+        keys.AUTHORS_KEY: set(),
         keys.INC_TAGS_KEY: set(),
         keys.EXC_TAGS_KEY: set(),
         keys.DESCRIPTION_KEY: [],
@@ -69,9 +69,9 @@ def process_roll(weapon_roll: Dict[str, object], keys: "Keys"):
 # Check each author present in wishlist configs
 # If any found in line, add to current roll
 def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
-    for author in keys.AUTHOR_NAMES:
+    for author in keys.AUTHORS:
         if author in line_lower:
-            current_roll[keys.AUTHOR_KEY].add(author)
+            current_roll[keys.AUTHORS_KEY].add(author)
 
 
 # Checks if any tags in wishlist are in given line
@@ -83,7 +83,7 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
         line_lower[: line_lower.find(":")] if ":" in line_lower else "",
     )
     if "title" == line_type or "description" == line_type:
-        current_roll[keys.CREDIT_KEY].add(keys.CREDIT_TAG)
+        current_roll[keys.CREDIT_KEY] = True
 
     # Fix MKB formatting
     line_lower = line_lower.replace("m+kb", "mkb")
