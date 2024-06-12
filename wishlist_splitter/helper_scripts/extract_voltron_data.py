@@ -2,47 +2,44 @@
 
 import re
 
-# Import for type hints and intellisense
 from typing import TYPE_CHECKING, Dict
 
+# Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
     from main import Keys
 
 
-###############################################################
-# Reads Voltron and saves each batch of lines to a dictionary #
-# Then writes dictionaries to config files                    #
-###############################################################
 def extract_voltron_data(keys: "Keys"):
-    # Holds the dictionaries for each set of lines in Voltron
+    # Array for dictionaries for weapon roll in Voltron
     voltron_data = []
 
+    # Collects lines until weapon roll finished, then adds to voltron_data and empties
     current_roll = []
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
         for line_num, line in enumerate(voltron_file):
+            # Removed title heading, replaced later with wishlist name
             if line_num == 0:
-                # Remove title in heading, replaced later with file name
                 line = line.replace("title:", "")
 
-            if line == "\n":
+            if line == "\n":  # New line signifies end of current weapon roll
                 if current_roll:
+                    # Process current roll and add to voltron data
                     voltron_data.append(process_roll(current_roll, keys))
-                    current_roll = []
+                    current_roll = []  # Start new roll
             else:
-                current_roll.append(line)
+                current_roll.append(line)  # Not empty line, add to current roll
 
-        # Append the last roll if any
+        # Add last roll to voltron data when reach end of file
         if current_roll:
             voltron_data.append(process_roll(current_roll, keys))
 
     return voltron_data
 
 
-# Given array for all lines in roll
-# Save line to current_roll[KEY] depending on value in line
-# Generate tags for roll
-def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
+# Given array of weapon roll lines
+# Save lines as Description or Perks. If Description, find author and tags
+def process_roll(weapon_roll: Dict[str, object], keys: "Keys"):
     current_roll = {
         keys.CREDIT_KEY: set(),
         keys.AUTHOR_KEY: set(),
@@ -52,16 +49,16 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
         keys.PERKS_KEY: [],
     }
 
-    for index, line in enumerate(roll_lines):
-        # Add all perk lines
+    for index, line in enumerate(weapon_roll):
+        # When perk line found, assume rest are also perks and add remaining
         if "dimwishlist:item=" in line:
-            current_roll[keys.PERKS_KEY] = roll_lines[index:]
+            current_roll[keys.PERKS_KEY] = weapon_roll[index:]
             break
         # Description line
         else:
             current_roll[keys.DESCRIPTION_KEY].append(line)
 
-            # Collect tags for roll
+            # Collect author and tags for roll
             line_lower = line.lower()
             process_author(current_roll, line_lower, keys)
             process_tags(current_roll, line_lower, keys)
@@ -69,19 +66,17 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
     return current_roll
 
 
-# Adds name of author if present in any wishlist config
+# Check each author present in wishlist configs
+# If any found in line, add to current roll
 def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
     for author in keys.AUTHOR_NAMES:
         if author in line_lower:
             current_roll[keys.AUTHOR_KEY].add(author)
 
 
-# Collects any tags if they are in wishlists
+# Checks if any tags in wishlist are in given line
 def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
-    # Uess pattern to select strings between (...) or [...]
-    # Also takes string from 'tags:' to end of line
-
-    # Tags that indicate line contains credits
+    # Check if line contains any credits
     line_type = re.sub(
         r"[^a-zA-Z]",
         "",
@@ -93,26 +88,24 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Fix MKB formatting
     line_lower = line_lower.replace("m+kb", "mkb")
 
-    # All text between '(...)'
-    parenthesis_content = find_outer_content(line_lower, "(", ")")
-
-    # All text between '[...]'
-    bracket_content = find_outer_content(line_lower, "[", "]")
-
-    # Combine both matches
-    grouped_text = " ".join(parenthesis_content + bracket_content)
-
-    # All text after tags:
+    # Check if line has "tags:"
     tags_start = line_lower.find("tags:")
-    tags_text = ""
+    valuable_text = ""
     if tags_start != -1:
-        tags_text = line_lower[tags_start:].replace("tags:", "").strip()
+        valuable_text = line_lower[tags_start:].replace("tags:", "").strip()
+    # If no "tags:" found, find text between "(...)" or "[...]"
+    else:
+        # All text between '(...)'
+        parenthesis_content = find_outer_content(line_lower, "(", ")")
 
-    # Valuable text is either tags or grouped text if no tags
-    valuable_text = tags_text if len(tags_text) > 0 else grouped_text
+        # All text between '[...]'
+        bracket_content = find_outer_content(line_lower, "[", "]")
+
+        # Combine both matches
+        valuable_text = " ".join(parenthesis_content + bracket_content)
 
     # Return if no valuable text
-    if len(valuable_text) <= 0:
+    if not valuable_text:
         return
 
     # Collect tags if any present
