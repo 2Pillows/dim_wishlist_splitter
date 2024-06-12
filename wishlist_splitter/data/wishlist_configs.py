@@ -61,6 +61,12 @@ def get_wishlist_config(keys: "Keys"):
         {
             keys.INC_TAG_KEY: {"mkb", "pve"},
             keys.EXC_TAG_KEY: {"backups"},
+            keys.DUPE_PERKS_KEY: True,
+            keys.PATH_KEY: "MKB_PvE_!Backups_Dupes.txt",
+        },
+        {
+            keys.INC_TAG_KEY: {"mkb", "pve"},
+            keys.EXC_TAG_KEY: {"backups"},
             keys.PERK_KEY: True,
             keys.PATH_KEY: "MKB_PvE_!Backups_Perks.txt",
         },
@@ -73,6 +79,12 @@ def get_wishlist_config(keys: "Keys"):
         },
         # Mouse and Keyboard, PvP
         {keys.INC_TAG_KEY: {"mkb", "pvp"}, keys.PATH_KEY: "MKB_PvP.txt"},
+        {
+            keys.INC_TAG_KEY: {"mkb", "pvp"},
+            keys.EXC_TAG_KEY: {"backups"},
+            keys.DUPE_PERKS_KEY: True,
+            keys.PATH_KEY: "MKB_PvP_!Backups_Dupes.txt",
+        },
         # -------------------------------------------
         # Controller
         {keys.INC_TAG_KEY: {"ctr"}, keys.PATH_KEY: "CTR.txt"},
