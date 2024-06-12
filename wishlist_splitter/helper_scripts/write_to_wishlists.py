@@ -154,7 +154,7 @@ def write_to_wishlist(
     keys: "Keys",
 ):
     # Determine what perks wishlist wants, avoid repeated calcs
-    PERKS_KEY, CORE_HASHES_KEY, PERK_COUNTER = get_wishlist_prefs(wishlist, keys)
+    PREF_PERKS, PREF_CORE_HASHES, PREF_PERK_COUNTER = get_wishlist_prefs(wishlist, keys)
 
     with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
         # Write file name to start of file
@@ -183,9 +183,9 @@ def write_to_wishlist(
                 batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
                 batch.extend(
                     get_weapon_perks(
-                        weapon_roll.get(PERKS_KEY),
-                        weapon_roll.get(CORE_HASHES_KEY),
-                        PERK_COUNTER,
+                        weapon_roll.get(PREF_PERKS),
+                        weapon_roll.get(PREF_CORE_HASHES),
+                        PREF_PERK_COUNTER,
                         keys.WEAPON_COUNTER,
                         keys.MIN_ROLL_COUNT,
                     )
@@ -202,8 +202,10 @@ def write_to_wishlist(
             wishlist_file.write("".join(batch))
 
 
+# Determine what perks the given wishlist wants
+# Returns keys for perks and core perks as well as the counter for perks
+# If wishlist doesn't want dupes, no core perks or counter is returned
 def get_wishlist_prefs(wishlist, keys: "Keys"):
-
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
             # wishlist wants trimmed perks and dupes
@@ -223,8 +225,8 @@ def get_wishlist_prefs(wishlist, keys: "Keys"):
     return keys.PERKS_KEY, None, None
 
 
-# Returns perks that are present MIN_COUNT
-# If the weapon for the roll isn't present MIN_COUNT, its also included
+# Returns perks that meet conditions of params given
+# Returnsp perk_hashes if no core perks are given
 def get_weapon_perks(
     perk_hashes, core_perk_hashes, perk_counter, weapon_counter, min_count
 ):
@@ -242,6 +244,7 @@ def get_weapon_perks(
     ]
 
 
+# Checks author, inc, and exc tags to see if given roll is meets conditions
 def check_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):

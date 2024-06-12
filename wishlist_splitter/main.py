@@ -74,7 +74,6 @@ class Keys:
     BATCH_SIZE = 1000  # Numebr of rolls held for wishlist before writing
 
     # Counters for perks and weapons
-    PERK_COUNTER_KEY = "counter"
     CORE_COUNTER = Counter()  # Counter of core perks
     TRIMMED_COUNTER = Counter()  # Counter for trimmed perks
     WEAPON_COUNTER = Counter()  # Counter for appearences of weapons
