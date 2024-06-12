@@ -4,22 +4,21 @@ import json
 
 from typing import TYPE_CHECKING
 
+# Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
     from main import Keys
 
 
-#############################
-# Gets array from file_path #
-#############################
 def get_weapon_mods(keys: "Keys") -> set:
-    # Empty set to hold frame mod hashes
+    # Empty set to hold file data
     origin_traits = set()
     frame_mods = set()
 
-    # Open and read the JSON file
+    # Get origin traits from file
     with open(keys.ORIGIN_TRAITS_PATH, "r", encoding="utf-8") as origin_traits_file:
         origin_traits = set(json.load(origin_traits_file))
 
+    # Get frame mods from file
     with open(keys.FRAME_MODS_PATH, "r", encoding="utf-8") as frame_mods_file:
         frame_mods = set(json.load(frame_mods_file))
 
