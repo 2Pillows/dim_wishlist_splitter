@@ -1,15 +1,14 @@
 # wishlist_configs.py
 
-# Import for type hints and intellisense
 import json
 from typing import TYPE_CHECKING, Set, List
 
+# Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
     from main import Keys
 
 
 def get_wishlist_config(keys: "Keys"):
-    # Array of Wishlists Configs
     wishlist_configs = [
         # -------------------------------------------
         # No Filters
@@ -175,7 +174,7 @@ def get_wishlist_config(keys: "Keys"):
         },
     ]
 
-    # Iterate through the list of dictionaries
+    # Paths for all wishlist files, referenced by website
     wishlist_paths = []
 
     # Collect options used in configs
@@ -216,26 +215,24 @@ def set_wishlist_tags(
     exc_tags: Set[str],
     keys: "Keys",
 ):
-    # Extend include and exclude tags
+    # Update abreviated wishlist tags
     if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
-        transform_tags(wishlist[keys.INC_TAGS_KEY])
-
+        update_tags(wishlist[keys.INC_TAGS_KEY], "ctr", {"controller"})
     if keys.EXC_TAGS_KEY in wishlist and wishlist.get(keys.EXC_TAGS_KEY):
-        transform_tags(wishlist[keys.EXC_TAGS_KEY])
+        update_tags(
+            wishlist[keys.EXC_TAGS_KEY],
+            "backups",
+            {"backup roll", "backup choice roll"},
+        )
 
+    # Add wishlist preferences to set with all preferences
     author_names.update(wishlist.get(keys.AUTHOR_KEY, []))
     inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))
     exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))
 
 
 # Extend tags to catch all rolls
-def transform_tags(tag_list: Set[str]):
-    # Handle tag transformations
-    tag_transformations = {
-        "backups": {"backup roll", "backup choice roll"},
-        "ctr": {"controller"},
-    }
-    for tag, transformed_tags in tag_transformations.items():
-        if tag in tag_list:
-            tag_list.remove(tag)
-            tag_list.update(transformed_tags)
+def update_tags(wishlist_tags: Set[str], old_tag, new_tags):
+    if old_tag in wishlist_tags:
+        wishlist_tags.remove(old_tag)
+        wishlist_tags.update(new_tags)
