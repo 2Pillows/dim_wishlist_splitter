@@ -46,16 +46,16 @@ def process_roll(roll_lines: Dict[str, object], keys: "Keys"):
     current_roll = {
         keys.CREDIT_KEY: set(),
         keys.AUTHOR_KEY: set(),
-        keys.INC_TAG_KEY: set(),
-        keys.EXC_TAG_KEY: set(),
+        keys.INC_TAGS_KEY: set(),
+        keys.EXC_TAGS_KEY: set(),
         keys.DESCRIPTION_KEY: [],
-        keys.PERK_KEY: [],
+        keys.PERKS_KEY: [],
     }
 
     for index, line in enumerate(roll_lines):
         # Add all perk lines
         if "dimwishlist:item=" in line:
-            current_roll[keys.PERK_KEY] = roll_lines[index:]
+            current_roll[keys.PERKS_KEY] = roll_lines[index:]
             break
         # Description line
         else:
@@ -118,11 +118,11 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # Collect tags if any present
     for tag in keys.INC_TAGS:
         if tag in valuable_text:
-            current_roll[keys.INC_TAG_KEY].add(tag)
+            current_roll[keys.INC_TAGS_KEY].add(tag)
 
     for tag in keys.EXC_TAGS:
         if tag in valuable_text:
-            current_roll[keys.EXC_TAG_KEY].add(tag)
+            current_roll[keys.EXC_TAGS_KEY].add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters

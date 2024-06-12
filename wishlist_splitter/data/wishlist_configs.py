@@ -16,122 +16,122 @@ def get_wishlist_config(keys: "Keys"):
         {keys.PATH_KEY: "All_Rolls.txt"},
         # -------------------------------------------
         # Any Input
-        {keys.INC_TAG_KEY: {"pve"}, keys.PATH_KEY: "PvE.txt"},
-        {keys.INC_TAG_KEY: {"pvp"}, keys.PATH_KEY: "PvP.txt"},
+        {keys.INC_TAGS_KEY: {"pve"}, keys.PATH_KEY: "PvE.txt"},
+        {keys.INC_TAGS_KEY: {"pvp"}, keys.PATH_KEY: "PvP.txt"},
         # -------------------------------------------
         # Mouse and Keyboard
-        {keys.INC_TAG_KEY: {"mkb"}, keys.PATH_KEY: "MKB.txt"},
+        {keys.INC_TAGS_KEY: {"mkb"}, keys.PATH_KEY: "MKB.txt"},
         {
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "MKB_Perks.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.PERK_KEY: True,
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.PERKS_KEY: True,
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "MKB_Perks_Dupes.txt",
         },
-        {keys.INC_TAG_KEY: {"mkb", "god"}, keys.PATH_KEY: "MKB_God.txt"},
+        {keys.INC_TAGS_KEY: {"mkb", "god"}, keys.PATH_KEY: "MKB_God.txt"},
         {
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.EXC_TAG_KEY: {"backups"},
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.EXC_TAGS_KEY: {"backups"},
             keys.PATH_KEY: "MKB_!Backups.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "MKB_!Backups_Perks.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "MKB_!Backups_Perks_Dupes.txt",
         },
         # Mouse and Keyboard, PvE
-        {keys.INC_TAG_KEY: {"mkb", "pve"}, keys.PATH_KEY: "MKB_PvE.txt"},
+        {keys.INC_TAGS_KEY: {"mkb", "pve"}, keys.PATH_KEY: "MKB_PvE.txt"},
         {
-            keys.INC_TAG_KEY: {"mkb", "pve"},
-            keys.EXC_TAG_KEY: {"backups"},
+            keys.INC_TAGS_KEY: {"mkb", "pve"},
+            keys.EXC_TAGS_KEY: {"backups"},
             keys.PATH_KEY: "MKB_PvE_!Backups.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb", "pve"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb", "pve"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "MKB_PvE_!Backups_Dupes.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb", "pve"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb", "pve"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "MKB_PvE_!Backups_Perks.txt",
         },
         {
-            keys.INC_TAG_KEY: {"mkb", "pve"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb", "pve"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "MKB_PvE_!Backups_Perks_Dupes.txt",
         },
         # Mouse and Keyboard, PvP
-        {keys.INC_TAG_KEY: {"mkb", "pvp"}, keys.PATH_KEY: "MKB_PvP.txt"},
+        {keys.INC_TAGS_KEY: {"mkb", "pvp"}, keys.PATH_KEY: "MKB_PvP.txt"},
         {
-            keys.INC_TAG_KEY: {"mkb", "pvp"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb", "pvp"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "MKB_PvP_!Backups_Dupes.txt",
         },
         # -------------------------------------------
         # Controller
-        {keys.INC_TAG_KEY: {"ctr"}, keys.PATH_KEY: "CTR.txt"},
+        {keys.INC_TAGS_KEY: {"ctr"}, keys.PATH_KEY: "CTR.txt"},
         {
-            keys.INC_TAG_KEY: {"ctr"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "CTR_Perks.txt",
         },
         {
-            keys.INC_TAG_KEY: {"ctr"},
-            keys.PERK_KEY: True,
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr"},
+            keys.PERKS_KEY: True,
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "CTR_Perks_Dupes.txt",
         },
-        {keys.INC_TAG_KEY: {"ctr", "god"}, keys.PATH_KEY: "CTR_God.txt"},
+        {keys.INC_TAGS_KEY: {"ctr", "god"}, keys.PATH_KEY: "CTR_God.txt"},
         {
-            keys.INC_TAG_KEY: {"ctr"},
-            keys.EXC_TAG_KEY: {"backups"},
+            keys.INC_TAGS_KEY: {"ctr"},
+            keys.EXC_TAGS_KEY: {"backups"},
             keys.PATH_KEY: "CTR_!Backups.txt",
         },
         {
-            keys.INC_TAG_KEY: {"ctr"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "CTR_!Backups_Perks.txt",
         },
         {
-            keys.INC_TAG_KEY: {"ctr"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.PERK_KEY: True,
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.PERKS_KEY: True,
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "CTR_!Backups_Perks_Dupes.txt",
         },
         # Controller, PvE
-        {keys.INC_TAG_KEY: {"ctr", "pve"}, keys.PATH_KEY: "CTR_PvE.txt"},
+        {keys.INC_TAGS_KEY: {"ctr", "pve"}, keys.PATH_KEY: "CTR_PvE.txt"},
         {
-            keys.INC_TAG_KEY: {"ctr", "pve"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr", "pve"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "CTR_PvE_!Backups_Dupes.txt",
         },
         # Controller, PvP
-        {keys.INC_TAG_KEY: {"ctr", "pvp"}, keys.PATH_KEY: "CTR_PvP.txt"},
+        {keys.INC_TAGS_KEY: {"ctr", "pvp"}, keys.PATH_KEY: "CTR_PvP.txt"},
         {
-            keys.INC_TAG_KEY: {"ctr", "pvp"},
-            keys.EXC_TAG_KEY: {"backups"},
-            keys.DUPE_PERKS_KEY: True,
+            keys.INC_TAGS_KEY: {"ctr", "pvp"},
+            keys.EXC_TAGS_KEY: {"backups"},
+            keys.DUPES_KEY: True,
             keys.PATH_KEY: "CTR_PvP_!Backups_Dupes.txt",
         },
         # -------------------------------------------
@@ -139,38 +139,38 @@ def get_wishlist_config(keys: "Keys"):
         {keys.AUTHOR_KEY: {"pandapaxxy"}, keys.PATH_KEY: "PandaPaxxy.txt"},
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"mkb"},
+            keys.INC_TAGS_KEY: {"mkb"},
             keys.PATH_KEY: "PandaPaxxy_MKB.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"mkb", "pve"},
+            keys.INC_TAGS_KEY: {"mkb", "pve"},
             keys.PATH_KEY: "PandaPaxxy_MKB_PvE.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"mkb", "pvp"},
+            keys.INC_TAGS_KEY: {"mkb", "pvp"},
             keys.PATH_KEY: "PandaPaxxy_MKB_PvP.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"mkb"},
-            keys.PERK_KEY: True,
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.PERKS_KEY: True,
             keys.PATH_KEY: "PandaPaxxy_MKB_Perks.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"ctr"},
+            keys.INC_TAGS_KEY: {"ctr"},
             keys.PATH_KEY: "PandaPaxxy_CTR.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"ctr", "pve"},
+            keys.INC_TAGS_KEY: {"ctr", "pve"},
             keys.PATH_KEY: "PandaPaxxy_CTR_PvE.txt",
         },
         {
             keys.AUTHOR_KEY: {"pandapaxxy"},
-            keys.INC_TAG_KEY: {"ctr", "pvp"},
+            keys.INC_TAGS_KEY: {"ctr", "pvp"},
             keys.PATH_KEY: "PandaPaxxy_CTR_PvP.txt",
         },
     ]
@@ -180,7 +180,6 @@ def get_wishlist_config(keys: "Keys"):
 
     # Collect options used in configs
     author_names = set()
-    all_tags = set()
     inc_tags = set()
     exc_tags = set()
 
@@ -189,10 +188,6 @@ def get_wishlist_config(keys: "Keys"):
 
         set_wishlist_tags(wishlist, author_names, inc_tags, exc_tags, keys)
 
-    # Update ALL_TAGS with tags collected from config
-    all_tags.update(inc_tags)
-    all_tags.update(exc_tags)
-
     # Write wishlist paths to file for website
     with open(keys.WISHLIST_NAMES_PATH, "w") as file:
         json.dump(wishlist_paths, file)
@@ -200,9 +195,8 @@ def get_wishlist_config(keys: "Keys"):
     return {
         keys.WISHLIST_CONFIGS_KEY: wishlist_configs,
         keys.AUTHOR_KEY: author_names,
-        keys.ALL_TAG_KEY: all_tags,
-        keys.INC_TAG_KEY: inc_tags,
-        keys.EXC_TAG_KEY: exc_tags,
+        keys.INC_TAGS_KEY: inc_tags,
+        keys.EXC_TAGS_KEY: exc_tags,
     }
 
 
@@ -223,15 +217,15 @@ def set_wishlist_tags(
     keys: "Keys",
 ):
     # Extend include and exclude tags
-    if keys.INC_TAG_KEY in wishlist and wishlist.get(keys.INC_TAG_KEY):
-        transform_tags(wishlist[keys.INC_TAG_KEY])
+    if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
+        transform_tags(wishlist[keys.INC_TAGS_KEY])
 
-    if keys.EXC_TAG_KEY in wishlist and wishlist.get(keys.EXC_TAG_KEY):
-        transform_tags(wishlist[keys.EXC_TAG_KEY])
+    if keys.EXC_TAGS_KEY in wishlist and wishlist.get(keys.EXC_TAGS_KEY):
+        transform_tags(wishlist[keys.EXC_TAGS_KEY])
 
     author_names.update(wishlist.get(keys.AUTHOR_KEY, []))
-    inc_tags.update(wishlist.get(keys.INC_TAG_KEY, []))
-    exc_tags.update(wishlist.get(keys.EXC_TAG_KEY, []))
+    inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))
+    exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))
 
 
 # Extend tags to catch all rolls

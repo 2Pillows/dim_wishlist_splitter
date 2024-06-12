@@ -38,22 +38,23 @@ class Keys:
     FRAME_MODS_PATH = "./wishlist_splitter/data/weapon_mods/frame_mods.txt"
     # Path to all wishlist paths for website
     WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"
+    # Directory to hold wishlists
+    WISHLIST_DIR = "./wishlists/"
 
     ############################
     # Keys for wishlist config #
     ############################
     WISHLIST_CONFIGS_KEY = "wishlist_configs"
     PATH_KEY = "path"
-    WISHLIST_DIR = "./wishlists/"
+
     CREDIT_KEY = "credits"
     CREDIT_TAG = "credits"
     AUTHOR_KEY = "author"
-    ALL_TAG_KEY = "all_tags"
-    INC_TAG_KEY = "include_tags"
-    EXC_TAG_KEY = "exclude_tags"
+    INC_TAGS_KEY = "include_tags"
+    EXC_TAGS_KEY = "exclude_tags"
     DESCRIPTION_KEY = "description"
-    PERK_KEY = "perks"
-    DUPE_PERKS_KEY = "dupe"
+    PERKS_KEY = "perks"
+    DUPES_KEY = "dupes"
 
     ######################################
     # Keys for storing data from voltron #
@@ -82,13 +83,12 @@ class Keys:
     # List of frame mod hashes, 3rd and 4th column
     FRAME_MODS: Set[str] = None
     # List of tag values for all, include, and exclude
-    ALL_TAGS: Set[str] = None
     INC_TAGS: Set[str] = None
     EXC_TAGS: Set[str] = None
     # List of author names
     AUTHOR_NAMES: Set[str] = None
 
-    # Counters
+    # Counters for perks and weapons
     CORE_COUNTER = Counter()
     TRIMMED_COUNTER = Counter()
     WEAPON_COUNTER = Counter()
@@ -102,9 +102,8 @@ def main():
     config_results = get_wishlist_config(keys)
     keys.WISHLIST_CONFIGS = config_results[keys.WISHLIST_CONFIGS_KEY]
     keys.AUTHOR_NAMES = config_results[keys.AUTHOR_KEY]
-    keys.ALL_TAGS = config_results[keys.ALL_TAG_KEY]
-    keys.INC_TAGS = config_results[keys.INC_TAG_KEY]
-    keys.EXC_TAGS = config_results[keys.EXC_TAG_KEY]
+    keys.INC_TAGS = config_results[keys.INC_TAGS_KEY]
+    keys.EXC_TAGS = config_results[keys.EXC_TAGS_KEY]
 
     # Collect origin trait hashes
     keys.ORIGIN_TRAITS = get_weapon_mods(keys.ORIGIN_TRAITS_PATH)

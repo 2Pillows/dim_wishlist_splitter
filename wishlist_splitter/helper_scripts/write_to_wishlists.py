@@ -51,10 +51,10 @@ def process_weapon_rolls(keys: "Keys"):
 
 # Adds mouse and pve tag if no input or gamemode tag present
 def add_default_tags(weapon_roll, keys: "Keys"):
-    if not weapon_roll[keys.INC_TAG_KEY].intersection({"mkb", "controller"}):
-        weapon_roll[keys.INC_TAG_KEY].add("mkb")
-    if not weapon_roll[keys.INC_TAG_KEY].intersection({"pve", "pvp"}):
-        weapon_roll[keys.INC_TAG_KEY].add("pve")
+    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"mkb", "controller"}):
+        weapon_roll[keys.INC_TAGS_KEY].add("mkb")
+    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"pve", "pvp"}):
+        weapon_roll[keys.INC_TAGS_KEY].add("pve")
 
 
 # Create and store core and trimmed perk strings
@@ -62,7 +62,7 @@ def process_perks(weapon_roll, keys: "Keys"):
     # Transform perks in roll from a string to an array of hashes and the string before hashes
     def get_perk_list(roll: Dict[str, object], keys: "Keys"):
 
-        roll_perks = roll[keys.PERK_KEY]
+        roll_perks = roll[keys.PERKS_KEY]
 
         perk_hashes = []
         roll_id = ""
@@ -138,7 +138,7 @@ def process_perks(weapon_roll, keys: "Keys"):
 # Creates Counter to track number of mentions for each set of perk hashes
 def count_perks(weapon_roll, keys: "Keys"):
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
-    roll_perks = weapon_roll[keys.PERK_KEY]
+    roll_perks = weapon_roll[keys.PERKS_KEY]
 
     # If roll has no perks, continue
     if len(roll_perks) < 1:
@@ -207,8 +207,8 @@ def get_wishlist_perks(
     # Core perks is perks without extra perks
     # Filtered perks is only 3rd and 4th column perks and extras
     # Core filtered is 3rd and 4th column perks without extra perks
-    if wishlist.get(keys.PERK_KEY):
-        if wishlist.get(keys.DUPE_PERKS_KEY):
+    if wishlist.get(keys.PERKS_KEY):
+        if wishlist.get(keys.DUPES_KEY):
             # wishlist wants 3rd and 4th column perks in at least 2 rolls
             return get_dupe_perks(
                 weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
@@ -220,17 +220,17 @@ def get_wishlist_perks(
             # wishlist wants 3rd and 4th column perks
             return weapon_roll[keys.TRIMMED_PERKS_KEY]
 
-    elif wishlist.get(keys.DUPE_PERKS_KEY):
+    elif wishlist.get(keys.DUPES_KEY):
         # wishlist wants rolls in at least 2 rolls
         return get_dupe_perks(
             weapon_roll[keys.CORE_PERKS_KEY],
-            weapon_roll[keys.PERK_KEY],
+            weapon_roll[keys.PERKS_KEY],
             keys.CORE_COUNTER,
             keys,
         )
 
     # Wistlist wants all perks
-    return weapon_roll[keys.PERK_KEY]
+    return weapon_roll[keys.PERKS_KEY]
 
 
 # Returns perks that are present MIN_COUNT
@@ -272,7 +272,7 @@ def check_tags(
 
 def contains_credits(weapon_roll: Dict[str, object], keys: "Keys"):
     # If roll has a credit tag and no perks, it passes
-    return weapon_roll.get(keys.CREDIT_TAG) and not weapon_roll.get(keys.PERK_KEY)
+    return weapon_roll.get(keys.CREDIT_TAG) and not weapon_roll.get(keys.PERKS_KEY)
 
 
 def contains_author_names(
@@ -294,16 +294,16 @@ def contains_inc_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
     # If wishlist doesn't have inc tags, then passes
-    if keys.INC_TAG_KEY not in wishlist:
+    if keys.INC_TAGS_KEY not in wishlist:
         return True
 
     # If roll doesn't have any include tags but wishlist does, it doesn't pass
-    if not weapon_roll.get(keys.INC_TAG_KEY):
+    if not weapon_roll.get(keys.INC_TAGS_KEY):
         return False
 
     # Return if all include tags in wishlist are in roll include tags
     # the tags needed for the wishlist need to be subset of tags for roll
-    return wishlist.get(keys.INC_TAG_KEY).issubset(weapon_roll.get(keys.INC_TAG_KEY))
+    return wishlist.get(keys.INC_TAGS_KEY).issubset(weapon_roll.get(keys.INC_TAGS_KEY))
 
 
 def contains_exc_tags(
@@ -311,10 +311,10 @@ def contains_exc_tags(
 ):
     # If wishlist doesn't have any exlcude tags then roll can't have any exclude tags
     # Or if roll doesn't have any exclude tags then it passes
-    if keys.EXC_TAG_KEY not in wishlist or not weapon_roll.get(keys.EXC_TAG_KEY):
+    if keys.EXC_TAGS_KEY not in wishlist or not weapon_roll.get(keys.EXC_TAGS_KEY):
         return False
 
     # Return if any wishlist exclude tag is in roll exlude tags
-    return wishlist.get(keys.EXC_TAG_KEY).intersection(
-        weapon_roll.get(keys.EXC_TAG_KEY)
+    return wishlist.get(keys.EXC_TAGS_KEY).intersection(
+        weapon_roll.get(keys.EXC_TAGS_KEY)
     )
