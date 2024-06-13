@@ -71,7 +71,7 @@ class Keys:
 
     MIN_ROLL_COUNT = 2  # Minimum number of rolls to for dupe rolls
 
-    BATCH_SIZE = 1000  # Numebr of rolls held for wishlist before writing
+    BATCH_SIZE = 500  # Numebr of rolls held for wishlist before writing
 
     # Counters for perks and weapons
     CORE_COUNTER = Counter()  # Counter of core perks
