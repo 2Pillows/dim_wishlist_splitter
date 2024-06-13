@@ -25,6 +25,10 @@ class Keys:
     # VOLTRON_PATH = "./wishlist_splitter/data/test.txt"
     VOLTRON_DATA: List[Dict[str, object]] = None
 
+    WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"  # Wishlists for website ref
+
+    WISHLIST_DIR = "./wishlists/"
+
     # Origin traits from Destiny Data Explorer
     ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/weapon_mods/origin_traits.txt"
     ORIGIN_TRAITS: Set[str] = None
@@ -52,10 +56,6 @@ class Keys:
     # Wishlist and weapon dict keys
     PATH_KEY = "path"
     CREDIT_KEY = "credits"
-
-    WISHLIST_NAMES_PATH = "./docs/data/wishlist_names.txt"  # Wishlists for website ref
-
-    WISHLIST_DIR = "./wishlists/"
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
 
@@ -63,6 +63,7 @@ class Keys:
     REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
     REQ_DUPES = "req_dupes"  # Rolls appear min_count times
 
+    # Keys for weapon_roll perks
     TRIMMED_PERKS_KEY = "trimmed_perks"  # Only 3rd, 4th, and origin traits
     # Core perks are used to ensure accurate count for perks when filtering dupes
     CORE_PERKS_KEY = "core_perks"  # No origin traits
