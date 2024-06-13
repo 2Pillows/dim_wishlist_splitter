@@ -11,9 +11,9 @@ from helper_scripts.extract_voltron_data import extract_voltron_data
 from helper_scripts.write_to_wishlists import write_to_wishlists
 
 # Timer to test script performance
-import time
+# import time
 
-start_time = time.time()
+# start_time = time.time()
 
 
 # Class to store constants that reference keys or values
@@ -105,6 +105,6 @@ if __name__ == "__main__":
     main()
 
     # Timer to see main script performance
-    end_time = time.time()
-    runtime = end_time - start_time
-    print(f"Runtime: {runtime} seconds")
+    # end_time = time.time()
+    # runtime = end_time - start_time
+    # print(f"Runtime: {runtime} seconds")
