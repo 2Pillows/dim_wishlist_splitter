@@ -59,10 +59,9 @@ class Keys:
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
 
-    REQ_TRIMMED_PERKS = "req_trimmed_perks"
-    REQ_DUPES = (
-        "req_dupes"  # Flag for if wishlist wants weapon rolls that appear +2 times
-    )
+    # Flags for wishlist requirements
+    REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
+    REQ_DUPES = "req_dupes"  # Rolls appear min_count times
 
     TRIMMED_PERKS_KEY = "trimmed_perks"  # Only 3rd, 4th, and origin traits
     # Core perks are used to ensure accurate count for perks when filtering dupes
