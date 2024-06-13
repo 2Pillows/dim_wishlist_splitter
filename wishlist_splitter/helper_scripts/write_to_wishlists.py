@@ -1,31 +1,31 @@
-# loop wishlist, then voltron
+# write_to_wishlists.py
+
 import concurrent.futures
-
 from collections import Counter
-
-# Import for type hints and intellisense
 from typing import TYPE_CHECKING, List, Dict, Set
 
+# Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
     from main import Keys
 
 
-########################################
-# Write voltron_data to wishlist files #
-########################################
+# Main function called from main.py
 def write_to_wishlists(keys: "Keys"):
+    # Reads voltron data to add default tags, process perks, and collect counter data
     process_weapon_rolls(keys)
 
+    # Write voltron data to wishlists
     process_wishlists(keys)
 
 
+# Creates threads to write data to each wishlist
 def process_wishlists(keys: "Keys"):
 
     # Non threaded option
     # for wishlist in keys.WISHLIST_CONFIGS:
     #     write_to_wishlist(wishlist, keys)
 
-    # Run each workflow in a thread
+    # Write to each wishlist in a thread
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = [
             executor.submit(write_to_wishlist, wishlist, keys)
@@ -45,8 +45,8 @@ def process_weapon_rolls(keys: "Keys"):
         # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
         process_perks(weapon_roll, keys)
 
-        # Collect perks into Counters
-        count_perks(weapon_roll, keys)
+        # Collect weapon and perks Counters
+        get_weapon_and_perk_counters(weapon_roll, keys)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -57,17 +57,14 @@ def add_default_tags(weapon_roll, keys: "Keys"):
         weapon_roll[keys.INC_TAGS_KEY].add("pve")
 
 
-# Create and store core and trimmed perk strings
+# Create and stores core and trimmed perk strings
 def process_perks(weapon_roll, keys: "Keys"):
-    # Transform perks in roll from a string to an array of hashes and the string before hashes
+    # Transform perks into an array of hashes and the string before hashes
     def get_perk_list(roll: Dict[str, object], keys: "Keys"):
+        perk_hashes = []  # Holds arrays of perk hashes
+        roll_id = ""  # Holds initial string before perk hashes
 
-        roll_perks = roll[keys.PERKS_KEY]
-
-        perk_hashes = []
-        roll_id = ""
-
-        for perk_str in roll_perks:
+        for perk_str in roll[keys.PERKS_KEY]:
             PERK_IND = "&perks="
             PERK_START = perk_str.find(PERK_IND)
             if PERK_START != -1:
@@ -80,9 +77,8 @@ def process_perks(weapon_roll, keys: "Keys"):
                 if extended_found != -1:
                     perks_substring = perks_substring[:extended_found]
 
-                perks_list = perks_substring.split(",")
-                perks_list.sort()  # sort to ensure accurate comparions
-                perk_hashes.append(perks_list)
+                # Sorted required to ensure consistent comparing for counters
+                perk_hashes.append(sorted(perks_substring.split(",")))
 
                 # Get roll_id if not already set
                 if not roll_id:
@@ -105,7 +101,7 @@ def process_perks(weapon_roll, keys: "Keys"):
     trimmed_hash_set = set()  # Hashes without 1st and 2nd
     core_trimmed_hash_set = set()  # Hashes with only 3rd and 4th column
 
-    # Iterate through each hash set in perk_hashes
+    # Collects core, trimmed, and core_trimmed hashes by referencing frame and origin hashes
     for hashes in perk_hashes:
         core_hashes = []
         trimmed_hashes = []
@@ -120,12 +116,12 @@ def process_perks(weapon_roll, keys: "Keys"):
             if hash_value not in keys.ORIGIN_TRAITS:
                 core_hashes.append(hash_value)
 
-        # Add hashes to sets
+        # Add hashes to sets to avoid duplicates
         core_hash_set.add(tuple(core_hashes))
         trimmed_hash_set.add(tuple(trimmed_hashes))
         core_trimmed_hash_set.add(tuple(core_trimmed_hashes))
 
-    # Convert hashes to strings
+    # Convert hashes to strings and save to current weapon roll
     weapon_roll[keys.CORE_PERKS_KEY] = convert_hash_to_string(core_hash_set, roll_id)
     weapon_roll[keys.TRIMMED_PERKS_KEY] = convert_hash_to_string(
         trimmed_hash_set, roll_id
@@ -135,18 +131,16 @@ def process_perks(weapon_roll, keys: "Keys"):
     )
 
 
-# Creates Counter to track number of mentions for each set of perk hashes
-def count_perks(weapon_roll, keys: "Keys"):
-    # Update counter for each rolls hashes. Only one set of hashes per roll will count
-    roll_perks = weapon_roll[keys.PERKS_KEY]
-
+# Creates Counter to track number of mentions for each set of perk and weapon hashes
+def get_weapon_and_perk_counters(weapon_roll, keys: "Keys"):
     # If roll has no perks, continue
-    if len(roll_perks) < 1:
+    if len(weapon_roll[keys.PERKS_KEY]) < 1:
         return
 
+    # Update counter for each rolls hashes. Only one set of hashes per roll will count
     keys.CORE_COUNTER.update(weapon_roll[keys.CORE_PERKS_KEY])
     keys.TRIMMED_COUNTER.update(weapon_roll[keys.TRIMMED_PERKS_KEY])
-    keys.WEAPON_COUNTER.update([get_weapon_hash(roll_perks[0])])
+    keys.WEAPON_COUNTER.update([get_weapon_hash(weapon_roll[keys.PERKS_KEY][0])])
 
 
 # Takes a perk line string and returns the weapon hash
@@ -154,13 +148,14 @@ def get_weapon_hash(perk_line: str):
     return perk_line.split("item=")[1].split("&perks=")[0]
 
 
-######################################
-# Writes data to given wishlist file #
-######################################
+# Writes data to given wishlist file
 def write_to_wishlist(
     wishlist,
     keys: "Keys",
 ):
+    # Determine what perks wishlist wants, avoid repeated calcs
+    PREF_PERKS, PREF_CORE_HASHES, PREF_PERK_COUNTER = get_wishlist_prefs(wishlist, keys)
+
     with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
         # Write file name to start of file
         wishlist_file.write(
@@ -186,9 +181,18 @@ def write_to_wishlist(
             elif check_tags(weapon_roll, wishlist, keys):
                 # Add description and correct perks to batch
                 batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
-                batch.extend(get_wishlist_perks(weapon_roll, wishlist, keys))
+                batch.extend(
+                    get_weapon_perks(
+                        weapon_roll.get(PREF_PERKS),
+                        weapon_roll.get(PREF_CORE_HASHES),
+                        PREF_PERK_COUNTER,
+                        keys.WEAPON_COUNTER,
+                        keys.MIN_ROLL_COUNT,
+                    )
+                )
                 batch.append("\n")
 
+            # Write to file if batch size reached
             if len(batch) >= keys.BATCH_SIZE:
                 wishlist_file.write("".join(batch))
                 batch = []
@@ -198,68 +202,49 @@ def write_to_wishlist(
             wishlist_file.write("".join(batch))
 
 
-def get_wishlist_perks(
-    weapon_roll: Dict[str, object],
-    wishlist: Dict[str, object],
-    keys: "Keys",
-):
-    # Copy weapon roll and perks to avoid changing the source
-    # Core perks is perks without extra perks
-    # Filtered perks is only 3rd and 4th column perks and extras
-    # Core filtered is 3rd and 4th column perks without extra perks
-    if wishlist.get(keys.PERKS_KEY):
-        if wishlist.get(keys.DUPES_KEY):
-            # wishlist wants 3rd and 4th column perks in at least 2 rolls
-            return get_dupe_perks(
-                weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
-                weapon_roll[keys.TRIMMED_PERKS_KEY],
+# Determine what perks the given wishlist wants
+# Returns keys for perks and core perks as well as the counter for perks
+# If wishlist doesn't want dupes, no core perks or counter is returned
+def get_wishlist_prefs(wishlist, keys: "Keys"):
+    if wishlist.get(keys.REQ_TRIMMED_PERKS):
+        if wishlist.get(keys.REQ_DUPES):
+            # wishlist wants trimmed perks and dupes
+            return (
+                keys.TRIMMED_PERKS_KEY,
+                keys.CORE_TRIMMED_PERKS_KEY,
                 keys.TRIMMED_COUNTER,
-                keys,
             )
         else:
-            # wishlist wants 3rd and 4th column perks
-            return weapon_roll[keys.TRIMMED_PERKS_KEY]
+            # wishlist wants trimmed perks
+            return keys.TRIMMED_PERKS_KEY, None, None
+    elif wishlist.get(keys.REQ_DUPES):
+        # Wishlist wants dupes
+        return keys.PERKS_KEY, keys.CORE_PERKS_KEY, keys.CORE_COUNTER
 
-    elif wishlist.get(keys.DUPES_KEY):
-        # wishlist wants rolls in at least 2 rolls
-        return get_dupe_perks(
-            weapon_roll[keys.CORE_PERKS_KEY],
-            weapon_roll[keys.PERKS_KEY],
-            keys.CORE_COUNTER,
-            keys,
-        )
-
-    # Wistlist wants all perks
-    return weapon_roll[keys.PERKS_KEY]
+    # Wishlist wants all perks
+    return keys.PERKS_KEY, None, None
 
 
-# Returns perks that are present MIN_COUNT
-# If the weapon for the roll isn't present MIN_COUNT, its also included
-def get_dupe_perks(
-    core_perks: List[str],
-    full_perks: List[str],
-    perk_counter: Counter,
-    keys: "Keys",
+# Returns perks that meet conditions of params given
+# Returnsp perk_hashes if no core perks are given
+def get_weapon_perks(
+    perk_hashes, core_perk_hashes, perk_counter, weapon_counter, min_count
 ):
-    # Return empty array if no perks given
-    if len(full_perks) < 1:
-        return []
+    # if no core perks given, wishlist doesn't want dupes
+    if not core_perk_hashes:
+        return perk_hashes
 
-    valid_perks = []
-
-    # Adds valid perk lines to valid_perks
-    for index in range(len(core_perks)):
-        # Perk is valid if present at least MIN_COUNT
-        # OR weapon isn't present MIN_COUNT
-        if (
-            perk_counter[core_perks[index]] >= keys.MIN_ROLL_COUNT
-            or keys.WEAPON_COUNTER[get_weapon_hash(full_perks[0])] < keys.MIN_ROLL_COUNT
-        ):
-            valid_perks.append(full_perks[index])
-
-    return valid_perks
+    # Return valid perks that are present at least min_count times
+    # Only for weapons that appear at least min_count times
+    return [
+        perk_hashes[index]
+        for index in range(len(core_perk_hashes))
+        if perk_counter[core_perk_hashes[index]] >= min_count
+        or weapon_counter[get_weapon_hash(perk_hashes[0])] < min_count
+    ]
 
 
+# Checks author, inc, and exc tags to see if given roll is meets conditions
 def check_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
@@ -272,22 +257,22 @@ def check_tags(
 
 def contains_credits(weapon_roll: Dict[str, object], keys: "Keys"):
     # If roll has a credit tag and no perks, it passes
-    return weapon_roll.get(keys.CREDIT_TAG) and not weapon_roll.get(keys.PERKS_KEY)
+    return weapon_roll.get(keys.CREDIT_KEY) and not weapon_roll.get(keys.PERKS_KEY)
 
 
 def contains_author_names(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
     # If wishlist doesn't specify author then all rolls pass
-    if keys.AUTHOR_KEY not in wishlist:
+    if keys.AUTHORS_KEY not in wishlist:
         return True
 
     # If weapon doesn't have author then fails
-    if not weapon_roll.get(keys.AUTHOR_KEY):
+    if not weapon_roll.get(keys.AUTHORS_KEY):
         return False
 
     # Author for wishlist and weapon need to share an author
-    return wishlist[keys.AUTHOR_KEY].intersection(weapon_roll.get(keys.AUTHOR_KEY))
+    return wishlist[keys.AUTHORS_KEY].intersection(weapon_roll.get(keys.AUTHORS_KEY))
 
 
 def contains_inc_tags(
