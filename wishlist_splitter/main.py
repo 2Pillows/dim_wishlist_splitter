@@ -11,9 +11,9 @@ from helper_scripts.extract_voltron_data import extract_voltron_data
 from helper_scripts.write_to_wishlists import write_to_wishlists
 
 # Timer to test script performance
-# import time
+import time
 
-# start_time = time.time()
+start_time = time.time()
 
 
 # Class to store constants that reference keys or values
@@ -55,9 +55,11 @@ class Keys:
 
     # Wishlist and weapon dict keys
     PATH_KEY = "path"
-    CREDIT_KEY = "credits"
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
+    PERKS_DUPES_KEY = "perks_dupes"
+    TRIMMED_PERKS_DUPES_KEY = "trimmed_perks_dupes"
+    WEAPON_HASH_KEY = "weapon_hash"
 
     # Flags for wishlist requirements
     REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
@@ -74,6 +76,7 @@ class Keys:
     BATCH_SIZE = 500  # Numebr of rolls held for wishlist before writing
 
     # Counters for perks and weapons
+    COUNTER_KEY = "counter"
     CORE_COUNTER = Counter()  # Counter of core perks
     TRIMMED_COUNTER = Counter()  # Counter for trimmed perks
     WEAPON_COUNTER = Counter()  # Counter for appearences of weapons
@@ -97,6 +100,10 @@ def main():
     # Collect data from voltron to keys
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
+    end_time = time.time()
+    runtime = end_time - start_time
+    print(f"Runtime before write: {runtime} seconds")
+
     # Write voltron data to wishlist files
     write_to_wishlists(keys)
 
@@ -105,6 +112,6 @@ if __name__ == "__main__":
     main()
 
     # Timer to see main script performance
-    # end_time = time.time()
-    # runtime = end_time - start_time
-    # print(f"Runtime: {runtime} seconds")
+    end_time = time.time()
+    runtime = end_time - start_time
+    print(f"Runtime: {runtime} seconds")

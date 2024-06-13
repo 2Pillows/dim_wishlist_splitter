@@ -1,18 +1,6 @@
 title:PandaPaxxy CTR PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
-@title:Episode 103 - BRAVE weapons part 2
-@description:Second six Season 23 BRAVE arsenal weapons with the Indomitability origin trait
-
-@title:BRAVE weapons part 1
-@description:First six Season 23 BRAVE arsenal weapons with the Indomitability origin trait
-
-@title:Reprised and new Playlist and Dares of Eternity weapons
-@description:Season 23 Nightfall, Trials and Iron Banner and selected Dares weapons
-
-title:Pandapaxxy S23 Into the Light Weapon Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/1c5qp1y/into_the_light_breakdown/
-
 // Forbearance
 //notes: pandapaxxy (PvP / M+KB / Controller): "Hitting 3 targets in PvE is certainly easier than hitting multiple targets in PvP. If you can make Stats for All work in PvP I will be impressed. A better perk would be Demolitionist for a total of 15% ability energy back on kills (10% paired with 5% from the origin trait), or Disruption Break to give your kinetic weapons a nice 50% damage boost. There isn't a lot to be said in column 4 for PvP as most Disruption Break grenade launchers are paired with Auto-Loading Holster in the third column. Wellspring could pair well with Demolitionist for even more ability energy, or Desperate Measures for a damage bonus without needing a weapon kill to start." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,3592538738
@@ -753,9 +741,6 @@ dimwishlist:item=570866107&perks=1840239774,3142289711,280464955,957782887
 dimwishlist:item=570866107&perks=1840239774,106909392,588594999,957782887
 dimwishlist:item=570866107&perks=1840239774,106909392,280464955,957782887
 
-title:Pandapaxxy S23 March Update Weapon Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/1biv6ta/march_update_weapon_breakdown/
-
 // Darkest Before
 //notes: pandapaxxy (PvP / Controller): "Darkest Before in PvP lost a little bit of arc shenanigans, but gained a better perk pool. Elemental Capacitor and Headseeker will make for an extremely consistent or snappy pulse on void or solar, respectively. Kill Clip and Heal Clip together make for a lethal and synergistic build. I don’t foresee Darkest Before becoming the king of pulses, but definitely a top contender for those rapid-fires." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=435821040&perks=839105230,1885400500,3511092054,460017080
@@ -1246,12 +1231,6 @@ dimwishlist:item=4097972038&perks=1482024992,791862061,4071163871,47981717
 dimwishlist:item=4097972038&perks=1482024992,791862061,3511092054,47981717
 dimwishlist:item=4097972038&perks=1482024992,791862061,3161816588,47981717
 
-@title:Reprised Prophecy and Trials of the Nine weapons
-@description:Refreshed Prophecy dungeon and Trials of the Nine weapons with Crossing Over origin trait
-
-title:RNGeez Guardian Games Breakdown (2024)
-description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
-
 // Taraxippos
 //notes:pandapaxxy (PvP / Controller): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3007479950&perks=839105230,3177308360,2387244414,1015611457
@@ -1265,24 +1244,6 @@ dimwishlist:item=655712834&perks=1482024992,1885400500,1359896290,4082225868
 //notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,1683379515
 dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,3871884143
-
-@title:Reprised and new Guardian Games 2024 weapons
-@description:Season 23 refreshed Guardian Games weapons with Classy Contender origin trait
-
-@title:Season 23 World Drop weapons
-@description:Season of the Wish world weapon drops 
-
-@title:Season 23 Playlist weapons
-@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities 
-
-@title:Season 23 Seasonal weapons
-@description:Season of the Wish seasonal weapons, with the Dragon's Vengeance origin trait 
-
-@title:Season 23 Dreaming City weapons
-@description:Reprised weapons, with the Advanced Reflexes origin trait
-
-title:Pandapaxxy S23 Dreaming City Weapons
-description:https://www.reddit.com/r/sharditkeepit/comments/18urqqa/season_23_dreaming_city_weapons/
 
 // Tigerspite
 //notes:pandapaxxy (PvP / M+KB / Controller): "Tigerspite now has a better glow-up for PvP. Fragile Focus is great for starting an engagement but will quickly lose its value the longer you’re in a gunfight. Moving Target is neutrally good for providing a better strafe speed and some much needed aim assist. I prefer Kill Clip in the final column to lower my TtK requirements in subsequent kills, but if you’re going to take this into Trials or 3v3 game modes, Eye of the Storm might be better for its consistency duel to duel." Recommened MW: Range.|tags:pvp,mkb,controller
@@ -1465,9 +1426,6 @@ dimwishlist:item=2140635451&perks=1441682018,2822142346,3592538738,3523296417
 dimwishlist:item=2140635451&perks=3525010810,1996142143,3592538738,3523296417
 dimwishlist:item=2140635451&perks=3798852852,1996142143,3592538738,3523296417
 dimwishlist:item=2140635451&perks=1441682018,1996142143,3592538738,3523296417
-
-title:Pandapaxxy S23 Seasonal Weapons
-description:https://www.reddit.com/r/sharditkeepit/comments/18urnyr/season_23_seasonal_weapons/
 
 // Appentence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Taking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn’t advise it." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -1809,9 +1767,6 @@ dimwishlist:item=1501688142&perks=1840239774,2969185026,3619207468,588594999
 dimwishlist:item=1501688142&perks=1840239774,689005463,4071163871,588594999
 dimwishlist:item=1501688142&perks=1840239774,2969185026,4071163871,588594999
 
-title:Pandapaxxy S23 World Drops
-description:https://www.reddit.com/r/sharditkeepit/comments/18uront/season_23_world_drops/
-
 // Breakneck
 //notes:pandapaxxy (PvP / Controller): "Breakneck is one of those weapons where if you like it, you’ll use it everywhere no matter what. It isn’t incredible in the crucible, but it can hold its own as a precision frame auto rifle. Breakneck gets a touch of SUROS Regime by either speeding up the RPM post kill with Onslaught or slowing it down with Adagio. Depending on how you play, one might feel better than the other. If you’re not looking for a legendary SUROS I’d recommend consistency perks to have a reliable precision frame from gunfight to gunfight." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=2026755633&perks=839105230,1885400500,1359896290,1890422124
@@ -1925,9 +1880,6 @@ dimwishlist:item=4233375372&perks=3250034553,3142289711,3523296417,95528736
 dimwishlist:item=4233375372&perks=1482024992,3142289711,3523296417,95528736
 dimwishlist:item=4233375372&perks=3250034553,3142289711,923806249,95528736
 dimwishlist:item=4233375372&perks=1482024992,3142289711,923806249,95528736
-
-title:Pandapaxxy's S23 Vendor Weapons
-description:https://www.reddit.com/r/sharditkeepit/comments/18urpst/season_23_vendor_weapons/
 
 // Belisarius-D
 //notes:pandapaxxy (PvP / Controller): "Belisarius-D comes from the crucible, and it belongs in the crucible. Rapid Hit and Headseeker are fantastic neutral perks that no one would argue belong together. Keep Away and Moving Target can substitute as well for a very strong neutral weapon. Eye of the Storm is conditional in that you will have to take damage, but the benefits far outweigh the drawbacks. In the crucible you will be taking damage, so getting some extra benefits alongside that is all upsides. Kill Clip doesn’t change the time to kill enough to be noticeable unless you hit nothing but headshots. In which case you’ll drop down to a 0.60 TtK with 6 crits on Tier 8 Resilience or below. Without Kill Clip on those higher tiered resilience levels you’ll need 1 extra bullet, either way it still remains a two-burst as you won’t stop the burst mid-burst." Recommended MW: Stability.|tags:pvp,controller
@@ -2321,9 +2273,6 @@ dimwishlist:item=2421180981&perks=1482024992,2969185026,2387244414,557221067
 dimwishlist:item=2421180981&perks=3250034553,732557052,2387244414,557221067
 dimwishlist:item=2421180981&perks=1482024992,732557052,2387244414,557221067
 
-title:Pandapaxxy S23 Warlord's Ruin
-description:https://www.reddit.com/r/sharditkeepit/comments/18urr7m/season_23_warlords_ruin/
-
 // Naeem's Lance
 //notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible it also lags behind without two of the most important perks. Opening Shot or Snapshot Sights, and while you can get away without either of those perks and still see success, you’ll have to find handling and accuracy perks elsewhere. Keep Away is fantastic for reducing your accuracy cone, and Elemental Capacitor could bump you up to 100 handling with an arc subclass. I don’t think many players will opt for this sniper but you can make it work." Recommended MW: Handling.|tags:pvp,mkb,controller
 dimwishlist:item=2806569825&perks=1840239774,3142289711,3619207468,3523296417
@@ -2408,21 +2357,6 @@ dimwishlist:item=3668817296&perks=3666208348,52780822,354401740,2396489472
 dimwishlist:item=3668817296&perks=2827049491,52780822,354401740,2396489472
 dimwishlist:item=3668817296&perks=938542991,52780822,354401740,2396489472
 
-@title:Season 23 Dawning weapons
-@description:New weapons and reprised, with the Dawning Surprise origin trait
-
-@title:Season 23 Warlord's Ruin weapons
-@description:New weapons dropping from the Warlord's Ruin dungeon, with the Sundering origin trait
-
-title:RNGeez 2023 Dawning Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/18gqn8y/rngeez_2023_dawning_breakdown/
-
-@title:Season 22 Festival of the Lost weapons
-@description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
-
-title: RNGeez Festival of the Lost Breakdown, Season 22
-description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
-
 // Horror Story
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
 dimwishlist:item=177568179&perks=839105230,3142289711,3828510309,365154968
@@ -2438,18 +2372,6 @@ dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
 // Acosmic GSp
 //notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
-
-@title:Crota's End weapons
-@description:Reprised weapons from the Crota's End Raid, with the Cursed Thrall origin trait
-
-@title:Season 22 Foundry Athenaeum Ritual Table and World drop weapons, and reprised craftable exotics
-@description:Season of the Witch Cassoid and Nadir Foundry weapons, Dead Man's Tale and Dead Messenger
-
-@title:Season 22 Playlist weapons
-@description:Season of the Witch Playlist weapons wfrom CXrucile, Vanguard, Gambit, Iron Banner and Trials of Osiris
-
-title:Pandapaxxy's Season 22 Vendor Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/16b037h/season_22_vendor_breakdown/
 
 // Pre Astyanax IV (Adept) - Controller PvP (controller,pvp)
 //notes:pandapaxxy (PvP / Controller): "Pre Astyanax IV is not really meant for the crucible but you can achieve some really great stats through adept mods. Either lowering the draw time further or increasing the accuracy. Archer's Tempo is the best in slot, but you can pair that with a bunch of other perks like Opening Shot, Explosive Head, or even Successful Warm-Up for even faster follow up shots after a kill." Recommended MW: Draw Time.|tags:controller,pvp
@@ -2902,9 +2824,6 @@ dimwishlist:item=2738601016&perks=1441682018,2822142346,3523296417,831391274
 //notes:pandapaxxy (PvP / Controller): "In PvP the handling and gun feel continue here too. But you're only really going to use Explosive Payload and Enlightened Action. The stability bump from Flared Magwell, Fluted Barrel, and the stability MW make round out all the stats you need." Recommended MW: Stability.|tags:controller,pvp
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
 
-title:pandapaxxy's Season 22 World Drop Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/16b03ta/season_22_world_drop_breakdown/
-
 // Psi Hermetic V - Controller PvP (controller,pvp)
 //notes:pandapaxxy (PvP / Controller): "So Psi Heretic V is a great PvP pulse. Don’t believe me? You can hit 100 stability with Smallbore / Steady Rounds / Void Elemental Capacitor / Stability MW, and you have your fourth column perk to do with as you please. Perpetual Motion for more handling and reload, Headseeker for more forgiving bursts, Kill Clip for a bit of chaining, Headstone for Stasis shenanigans. The world is your oyster. Crack it and find out what you want." Recommended MW: Stability. tags:controller,pvp
 dimwishlist:item=358788212&perks=839105230,3142289711,3511092054,460017080
@@ -2994,9 +2913,6 @@ dimwishlist:item=3998080529&perks=1482024992,3142289711,588594999,1015611457
 dimwishlist:item=3998080529&perks=1482024992,3230963543,1428297954,1015611457
 dimwishlist:item=3998080529&perks=1482024992,3230963543,2846385770,1015611457
 dimwishlist:item=3998080529&perks=1482024992,3230963543,588594999,1015611457
-
-title:pandapaxxy Season 22 Seasonal Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/16b04lz/season_22_seasonal_breakdown/
 
 // Eleatic Principle - Controller PvP (controller,pvp)
 //notes:pandapaxxy (PvP / Controller): "Eleatic Principle will live and die by the PvE metascene, so there isn't much hope for it in PvP. Moving Target or Zen Moment paired with Tap the Trigger will allow you to stay on target a bit with the 900 RPM, and if you're a good shot you could take advantage of Target Lock for a slight edge." Recommended MW: Stability.|tags:controller,pvp
@@ -3368,9 +3284,6 @@ dimwishlist:item=4132072834&perks=4090651448,106909392,3643424744,124408337
 dimwishlist:item=4132072834&perks=4090651448,106909392,3619207468,47981717
 dimwishlist:item=4132072834&perks=4090651448,106909392,3619207468,124408337
 
-title:Pandapaxxy's Season 22 Crota's End Breakdown
-description:https://www.reddit.com/r/sharditkeepit/comments/16b01e2/season_22_crotas_end_breakdown/
-
 // Abyss Defiant - Controller PvP (controller,pvp)
 //notes:pandapaxxy (PvP / Controller): "High-impact autos in PvP are not strong. Can you slay out with them? For sure. Are they meta? Definitely not. Kill Clip is the strongest perk you can use on Abyss Defiant, and your choice of accuracy booster will keep your bullets true. Reconstruction is here for anyone who dislikes reloading. Eye of the Storm will help in pure 1v1 fights but will fall off in any 1v2+ fights. Swashbuckler could be fun with any of the melee heavy builds to get an incredibly fast 0.67s TtK with 4 crits and 1 body. (psst, with Radiant it becomes a 4 crit kill at 0.50s TtK, just FYI)." Recommended MW: Stability.|tags:controller,pvp
 dimwishlist:item=833898322&perks=839105230,1885400500,2387244414,1015611457
@@ -3514,18 +3427,6 @@ dimwishlist:item=120706239&perks=1482024992,2450788523,11612903
 dimwishlist:item=120706239&perks=1840239774,3523296417,11612903
 dimwishlist:item=120706239&perks=3250034553,3523296417,11612903
 dimwishlist:item=120706239&perks=1482024992,3523296417,11612903
-
-@title:Season 22 weapons
-@description:Season of the Witch weapons with the Head Rush origin trait
-
-title:Legoleflash Season 22 Weapon Reviews. Pulled from his youtube channel and discord server.
-description:Legoleflash's season 22 weapon rolls for pvp and pve
-
-title:Legoleflash Season 20 + Lightfall Weapon Reviews. Pulled from his youtube channel and discord server.
-description:Legoleflash's season 20 weapon rolls for pvp and pve
-
-title:u/pandapaxxy's Season 21, Season Of Deep
-description:Originally found here https://www.reddit.com/r/sharditkeepit/comments/145hckm/season_21_weapon_breakdown/
 
 // A Distant Pull
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Handling. Rapid-Fire Frame(140) Stasis Sniper Rifle Special Ammo.  "A Distant Pull is not going to be great in the Crucible. You can roll some really high handling, but without Snapshot Sights, some players won’t even look at it, and being a rapid-fire other players won’t even equip it. These snipers are not as dominant as they used to be before their double body nerf and haven’t seen the sun since. Moving Target and Opening Shot will bump up your aim assist to 100 and you can craft this sniper for either 90 range or 90 handling. While it has some amazing stats, the frame and lack of snapshot will just put it under." |tags:pvp,controller
@@ -4570,28 +4471,6 @@ dimwishlist:item=2883484461&perks=1300023272,3142289711,744594675,11612903
 dimwishlist:item=2883484461&perks=4090651448,3142289711,744594675,11612903
 dimwishlist:item=2883484461&perks=1482024992,3142289711,744594675,11612903
 
-@title:Season 21 Ghost of the Deep Dungeon weapons
-@description:Ghost of the Deep Dungeon weapons with the Restoration Ritual origin trait
-
-@title:Season 21 Taken and reprised Reckoning weapons
-@description:Season of the Deep weapons with Unsated Hunger or Disaster Plan origin trait
-
-@title:Season 21 Last Wish weapons
-@description:The Giggity episode, presenting reprised Last Wish raid weapons with the Explosive Pact origin trait
-
-@title:Season 21 Solstice weapons
-@description:Season of the Deep new and reprised Solstice weapons with the Dream Work origin trait
-
-@title:Season 21 Nightfall and Trials of Osiris weapons
-@description:Season of the Deep new and reprised Vanguard and Crucible end-game weapons
-
-// originally found at https://gist.github.com/heckinn/a0becf75fae81cfa5f845468191d3ed8
-title:Speedrunner's Shopping List
-description:https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit#gid=0
-
-title:RNGeez S20 Guardian Games Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/135o1ti/guardian_games_rngeez_weapon_breakdown/
-
 // The Title
 //notes:pandapaxxy (PvP / Controller): "This is the best version of the title we have seen. This almost competes with the like of Shayura's Tarrabah, IKELOS and Immortal. No adept mods, not the best range, but having rangefinder is an incredible bonus. Dynamic Sway Reduction is icing on the Title's cake for allowing a smooth shooting experience." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3559361670&perks=839105230,1885400500,1359896290,2846385770
@@ -4599,15 +4478,6 @@ dimwishlist:item=3559361670&perks=839105230,1885400500,1359896290,2846385770
 // Taraxippos
 //notes:pandapaxxy (PvP / Controller): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons." Recommended MW: Handling.|tags:pvp,controller
 dimwishlist:item=1389546626&perks=839105230,3177308360,588594999,1015611457
-
-@title:Season 20 Guardian Games weapons
-@description:Lightfall Guardian Games weapons with Classy Contender origin trait
-
-@title:Season 20 Guardian Games weapons
-@description:Lightfall Guardian Games weapons with Classy Contender origin trait
-
-title:u/pandapaxxy's Season 20, Lightfall And Season Of Defiance
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/12kyvei/lightfall_seasonal_breakdown/
 
 // Acasia's Dejection
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(1000) Solar Trace Rifle Special Ammo.  "In PvP there’s a lot less to talk about. Trace rifles are beefed up auto rifles but lack ammo. Target Lock will melt your enemies as long as you're accurate. The one bonus is perfect hip-fire accuracy as you are looking at the trace." |tags:pvp,controller
@@ -6321,35 +6191,6 @@ dimwishlist:item=161675590&perks=2801223209,3311977193,588594999,4082225868
 dimwishlist:item=161675590&perks=852209214,3311977193,588594999,4082225868
 dimwishlist:item=161675590&perks=4067834857,3311977193,588594999,4082225868
 
-@title:Root of Nightmares weapons
-@description:Raid weapons with the Harmonic Resonance origin trait
-
-title:TheAlpacalypse's Raid Rolls
-
-@title:Season of Defiance Devrim Kay VIII and Foundry weapons
-@description:Season 20 new and reprised weapons with the Field Tested or Foundry origin trait
-
-@title:Season of Defiance weapons
-@description:Season 20 weapons wit the Noble Deeds origin trait
-
-title:Datto's Defiance Weapon Rolls
-description:Rolls from https://www.youtube.com/watch?v=nEVp6Fz0lTk
-
-@title:Season 20 Neomuna weapons
-@description:Lightfall weapons with the Nanotech Tracer Rockets origin trait
-
-@title:Season 19 Foundry weapons
-@description:New world drop weapons from weapon foundries
-
-title:Datto's early thoughts on lightfall weapons.
-description:Original video at https://www.youtube.com/watch?v=JlV7QZ5P0Mk
-
-title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
-
-title:u/pandapaxxy's Season 19, World Drops Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
-
 // Aurvandil FR6
 //notes:pandapaxxy (PvP / Controller): "In PvP there aren't a lot of pros for high-impact fusions. They are certainly strong and they are my favorites to use. But the charge time increase really hurt their overall utility. The change to 5 bolts was nice, but not having high-impact reserves in this weapons perk pool is a bit of a let down. Elemental capacitor can make it feel super consistent on void, arc or stasis. Firmly planted will make the shot you do take incredibly consistent, void or not." Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=963710795&perks=839105230,2969185026,280464955,3511092054
@@ -6436,9 +6277,6 @@ dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,588594999
 dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,588594999
 dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,588594999
 
-title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
-
 // Long Arm
 //notes:pandapaxxy (PvP / M+KB / Controller): "Long Arm also opens up some neat builds in PvP. Being able to use legendary and exotic kinetics with a DMT-lite will open up so many different play styles and options. Rapid hit or hip-fire grip are going to be player dependent. Hip firing Long Arm or having better follow up shots when aiming down sights will depend on you. Opening shot will ensure that your first shot is going to connect. Explosive payload will introduce added flinch and even some small AoE." Recommended MW - Stability.|tags:pvp,mkb,controller
 dimwishlist:item=8293111&perks=1840239774,3177308360,247725512,47981717
@@ -6508,9 +6346,6 @@ dimwishlist:item=2306182339&perks=3809316345,409831596,3523296417,3871884143
 dimwishlist:item=2306182339&perks=3525010810,2822142346,3523296417,3871884143
 dimwishlist:item=2306182339&perks=3798852852,2822142346,3523296417,3871884143
 dimwishlist:item=2306182339&perks=3809316345,2822142346,3523296417,3871884143
-
-title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
 
 // Liminal Vigil
 //notes:pandapaxxy (PvP / Controller): "Luminal Vigil will continue its dominance in PvP. Rangefinder will push out its effective range enough to be viable against some submachine guns. Tap the trigger or headstone for bonus accuracy or stasis crystals. Kill clip for easy damage. Desperado for Luminal Vigil, the machine gun. All fantastic perks that are wrapped up into the Crimson Chin." Recommended MW - Stability.|tags:pvp,controller
@@ -6651,9 +6486,6 @@ dimwishlist:item=487205709&perks=1482024992,1885400500,3523296417,331667533
 dimwishlist:item=487205709&perks=839105230,1561002382,3523296417,331667533
 dimwishlist:item=487205709&perks=1482024992,1561002382,3523296417,331667533
 
-title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
-
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
 dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,47981717
@@ -6780,9 +6612,6 @@ dimwishlist:item=2302346155&perks=1840239774,1140096971,588594999,3511092054
 dimwishlist:item=2302346155&perks=1840239774,3142289711,1428297954,3511092054
 dimwishlist:item=2302346155&perks=1840239774,1140096971,1428297954,3511092054
 
-title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
-
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
 dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,47981717
@@ -6908,9 +6737,6 @@ dimwishlist:item=2302346155&perks=1840239774,3142289711,588594999,3511092054
 dimwishlist:item=2302346155&perks=1840239774,1140096971,588594999,3511092054
 dimwishlist:item=2302346155&perks=1840239774,3142289711,1428297954,3511092054
 dimwishlist:item=2302346155&perks=1840239774,1140096971,1428297954,3511092054
-
-title:u/pandapaxxy's Season 19, Faction Weapons M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
 
 // Veles-X
 //notes:pandapaxxy (PvP / M+KB / Controller): "Veles-X will still have some incredible usefulness in PvP as well. Tunnel vision and kill clip are perfect with one another. At base you have an incredible pulse that can two burst. With kill clip it makes that two burst more forgiving but you also have tunnel vision for more aim assist. With the recent change to kill clip and tunnel vision, both can be refreshed so it keeps both perks active whenever you get a kill." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -6984,9 +6810,6 @@ dimwishlist:item=487361141&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,957782887
 dimwishlist:item=487361141&perks=1840239774,3142289711,3436462433,957782887
 dimwishlist:item=487361141&perks=3250034553,3142289711,3436462433,957782887
-
-title:u/pandapaxxy's Season 19, Faction Weapons Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
 
 // Veles-X
 //notes:pandapaxxy (PvP / M+KB / Controller): "Veles-X will still have some incredible usefulness in PvP as well. Tunnel vision and kill clip are perfect with one another. At base you have an incredible pulse that can two burst. With kill clip it makes that two burst more forgiving but you also have tunnel vision for more aim assist. With the recent change to kill clip and tunnel vision, both can be refreshed so it keeps both perks active whenever you get a kill." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -7203,9 +7026,6 @@ dimwishlist:item=882778888&perks=1840239774,3142289711,247725512,3038247973
 dimwishlist:item=882778888&perks=1482024992,3142289711,247725512,3038247973
 dimwishlist:item=882778888&perks=3250034553,3142289711,247725512,3038247973
 
-title:u/pandapaxxy's Season 19, Dawning M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
-
 // Glacioclasm
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
 dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
@@ -7213,9 +7033,6 @@ dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
-
-title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
 // Cold Front
 //notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
@@ -7236,53 +7053,6 @@ dimwishlist:item=495940989&perks=839105230,1885400500,1359896290,1890422124
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
-
-@title:Season 19 Dawning weapons
-@description:New Seraph weapons with the Ambush origin perk and new and reprised IKELOS weapons with the Rasputin's Arsenal origin perk
-
-title:Season 19 Dawning weapons
-description:New and reprised Dawning weapons with the Dawning Surprise origin perk
-
-title:WarlockMaggie's Season 19, Dawning Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
-
-title:SirStallion's Season 19, Dawning Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
-
-@title:Season 18 Festival of the Lost weapons
-@description:Reprised weapons dropping from Festival of the Lost with Scouting Party Origin Trait
-
-title:YeezyGT's S18
-
-@title:Season 18 (Season of Plunder) Festival of the Lost reprised, and 30th Anniversary primary and power weapons with @ImpetusAlways
-@description:Festival of the Lost reprised weapons with the Search Party Origin trait, and primary and power weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
-
-title: WarlockMaggie's Festival of the Lost 2022 picks
-description: Rolls for updated and new weapons in Festival of the Lost 2022 (Season 18)
-
-title:Season 15 (Season of the Lost) 30th Anniversary speacial weapons with @Saint_Kabr
-description:Speacial weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
-
-@title:Season 19 Deep Stone Crypt raid weapons
-@description:Reprised DSC Raid weapons with the Bray Inheritance origin perk
-
-title:King's Fall Raid PvP weapon picks with illPhysics
-description:Reprised King's Fall weapons with Runneth Over origin trait
-
-title:Season 18 Nightfall weapons
-description:Newly reprised weapons dropping from Season of Plunder Nightfalls
-
-title:Season 18 Playlist weapson with @Critbuff
-description:Season of Plunder New Vanguard, Gambit and Crucible playlist weapons
-
-@title:Season of Plunder PvP weapon picks with Gleaux
-@description:Season 18 weapons with Right Hook origin perk
-
-@title:Season 18 Playlist and Foundry weapons
-@description:New Vanguard, Gambit and Crucible playlist, and Hakke, Suros, Omolon and Veist weapons
-
-title:u/pandapaxxy's Season of the Plunder Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/x8jqis/season_of_the_plunder_breakdown/
 
 // Allied Demand
 //notes:pandapaxxy (PvP Controller): Recommended MW: Stability “In PvP you can go one or two ways max range, or not quite max range. With rangefinder in the third column you can really opt for anything within that final column and be okay. Eye of the storm is a perfect pairing because you will definitely be taking damage to get into sidearm range to begin with. Multikill clip gives you that slaying potential. If you wanted to invest fully into range you can do so and you will hit 18.95m, but I would suggest going to hammer-forged, losing that extra meter and dropping to 17.96 so you will not lose any stats. 18.95 m (max), 17.96 without losing stats“ (Year 5 S18: Season of Plunder Kinetic Sidearm Primary Ammo)|tags:PvP, Controller
@@ -8996,32 +8766,6 @@ dimwishlist:item=291092617&perks=1482024992,2420895100,1365187766,3824105627
 dimwishlist:item=291092617&perks=1840239774,3177308360,1365187766,3824105627
 dimwishlist:item=291092617&perks=1482024992,3177308360,1365187766,3824105627
 
-title: WarlockMaggie's Something New perk list
-
-title:Season of Plunder PvP weapon picks with Gleaux
-description:Season 18 weapons with Right Hook origin perk
-
-title:Kings Fall weapons
-description:Reprised King's Fall raid weapons with Runneth Over origin perk
-
-@title:Season of Plunder weapons
-@description:Season 18 weapons with Right Hook origin trait
-
-title:Dares of Eternity weapons
-description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity 
-
-@title:Dares of Eternity redux weapons
-@description:Reissued Season 18 (Season of Punder) new weapon perk rolls
-
-title:Chevy's S17 Super Pog PVE List
-description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
-
-title:Chevy's S18 Super Pog PVE List
-description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622 
-
-title:u/pandapaxxy's Duality Weapons, Season of the Haunted
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
-
 // Lingering Dread
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could try for chill clip but I think the utility of demolitionist for potentially shooting twice in quick succession is better. You’ll also need to have good aim to get those direct hits. Whereas with demolitionist if you do happen to get a kill with Lingering Dread you’ll just get some of your grenade cooldown knocked off. Proximity grenades are the best in slot for demoltionist, but if you wanted the alternative high-velocity rounds for getting the grenade to targets with chill clip is the way to go." Recommended MW - Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=2026087437&perks=3525010810,409831596,3300816228,3523296417
@@ -9177,9 +8921,6 @@ dimwishlist:item=3652506829&perks=1467527085,689005463,744594675,3523296417
 dimwishlist:item=3652506829&perks=1840239774,2969185026,744594675,3523296417
 dimwishlist:item=3652506829&perks=202670084,2969185026,744594675,3523296417
 dimwishlist:item=3652506829&perks=1467527085,2969185026,744594675,3523296417
-
-title:u/pandapaxxy's Seasonal Weapons, Season of the Haunted
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5euj8/seasonal_weapons_season_of_the_haunted/
 
 // Austringer
 //notes:pandapaxxy (PvP / Controller): "You can either go for Eyasluna with rangefinder and moving target for max aim assist and incredible range. Or Austringer with eye of the storm and rangefinder for better aim assist at low health. Neither one is objectively better than the other, but how you play will determine which hand cannon is better for you. Having enhanced perks is a definite favor for Austringer, but it does not make Austringer blow Eyasluna right out of the water." Recommended MW - Stability.|tags:pvp,controller
@@ -9382,9 +9123,6 @@ dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2978966579
 dimwishlist:item=1959650777&perks=1441682018,2822142346,3977735242,2978966579
 dimwishlist:item=1959650777&perks=3525010810,2822142346,3977735242,2978966579
 dimwishlist:item=1959650777&perks=1478423395,2822142346,3977735242,2978966579
-
-title:u/pandapaxxy's Vendor Weapons, Season of the Haunted
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5etqg/vendor_weapons_season_of_the_haunted/
 
 // Chain of Command
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP there aren’t too many times a neutral machine gun is a top choice. [...] I would just stay away from Chain of Command for PvP. You’re better off using something else." Recommended MW - Range.|tags:pvp,mkb,controller
@@ -9766,9 +9504,6 @@ dimwishlist:item=2345794502&perks=1482024992,1561002382,744594675,247725512
 dimwishlist:item=2345794502&perks=1840239774,1885400500,744594675,247725512
 dimwishlist:item=2345794502&perks=1482024992,1885400500,744594675,247725512
 
-title:u/pandapaxxy's World Drops / Season Pass, Season of the Haunted
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5ev69/world_drops_season_pass_season_of_the_haunted/
-
 // Enyo-D
 //notes:pandapaxxy (PvP / Controller): "Where I’ve heard the most chatter around Enyo-D is in the Crucible. People are calling it the Antiope-D 2.0 or the kinetic Shayura’s Wrath. I think both are true, but the Enyo-D still has some shortcomings when it comes to comparing against the both. Enyo-D does not have kill clip. Multikill clip is fine and good, but the immediate 33% damage bonus is incredible on any precision frame smg. Enyo-D also has less zoom than both. The zoom field has been condensed, but the 16 zoom smgs will still be some of the best out of the gate. Steady hands also brings up one of Enyo-D’s weakest stats and makes it feel incredibly fluid. Keep an eye out for this one." Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=1601177201&perks=1840239774,3142289711,509074078,2458213969
@@ -9890,44 +9625,6 @@ dimwishlist:item=1478986057&perks=1300023272,3142289711,1866048759,3511092054
 dimwishlist:item=1478986057&perks=1047830412,791862061,1866048759,3511092054
 dimwishlist:item=1478986057&perks=1300023272,791862061,1866048759,3511092054
 
-@title:Opulent weapons
-@description:Reprised weapons with To Excess origin perk from Leviathan Opulent Key chests and Duality Dungeon
-
-title:Prophecy weapons
-description:Reprised Trials of the Nine weapons dropping from the Prophecy dungeon
-
-title:Season 17 Solstice of Heroes weapons
-description:New and reprised weapons dropping from Season 17 (Haunted) Solstice event
-
-title:Selected Dreaming City weapons
-description:Selected weapons from Dreaming City destinations and activities as at Destiny Update 4.1.5
-
-title:S-Tier Hand Cannons and rolls recommended by @illPhysics
-description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
-
-title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
-description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
-
-title:Glaive roll recommendations with @legoleflash
-description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
-
-@title:Playlist weapons
-@description:Season 17 returning and new playlist (Vanguard, Nightfall, Crucible, Iron Banner, Trials of Osiris, and Gambit) weapons
-
-title:Duality Dungeon weapons
-description:New Duality weapons with the Bitterspite origin perk
-
-title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
-description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
-
-title:Season 17 Foundry weapons
-description:Season of the Haunted Foundries New weapons
-
-@title:Haunted weapons
-@description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
-
-title:u/pandapaxxy's Guardian Games 2022 breakdown
-
 // The Title
 //notes:pandapaxxy (Controller / PvP): "For PvP I think the Title outclasses most SMGs but falls short in lethality. The best damage perk you have is swashbuckler, which, while fine, falls short of kill clip or multikill clip. It will be interesting to see how the meta shifts with the SMG rework and shotgun nerfs coming. If a more neutral SMG is what really starts to shine." Recommended MW - Range or Stability.|tags:controller,pvp
 dimwishlist:item=294129361&perks=839105230,1885400500,1359896290,588594999
@@ -9978,9 +9675,6 @@ dimwishlist:item=294129361&perks=839105230,1561002382,1428297954,4082225868
 dimwishlist:item=294129361&perks=3661387068,1561002382,1428297954,4082225868
 dimwishlist:item=294129361&perks=1467527085,1561002382,1428297954,4082225868
 dimwishlist:item=294129361&perks=2420895100,1561002382,1428297954,4082225868
-
-title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/
 
 // Deliverance (Adept)
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP Deliverance is more of a “kinetic” Likely Suspect than it is a “kinetic” Main Ingredient. That being said, it does now allow players the ability to use other weapons and create some loadout diversity. Demolitionist and tap the trigger are extremely strong pairings together. Successful warm-up is also good if you want to go on sprees, but the consistency of tap the trigger (even post nerf) is hard to pass up.". Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -10197,9 +9891,6 @@ dimwishlist:item=999767358&perks=3250034553,689005463,2172504645,2213355989
 dimwishlist:item=999767358&perks=1840239774,2969185026,2172504645,2213355989
 dimwishlist:item=999767358&perks=839105230,2969185026,2172504645,2213355989
 dimwishlist:item=999767358&perks=3250034553,2969185026,2172504645,2213355989
-
-title:u/pandapaxxy's PsiOps and World Drop Weapons, Season of the Risen Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhbos/psiops_and_world_drop_weapons_season_of_the_risen/
 
 // Piece of Mind
 //notes:pandapaxxy (PvP / Controller): "Time-Worn Spire has better range and consistency perks, while you really need arrowhead break to clean up the recoil direction to a usable degree. It does allow for other consistency in the form of perpetual motion and moving target or elemental capacitor; it falls just a little short compared to the zoom of Time-Worn Spire. Both are equally good options." Recommended MW: Stability.|tags:pvp,controller
@@ -10632,9 +10323,6 @@ dimwishlist:item=3568377122&perks=1478423395,409831596,951095735,11612903
 dimwishlist:item=3568377122&perks=1844523823,409831596,3523296417,11612903
 dimwishlist:item=3568377122&perks=3525010810,409831596,3523296417,11612903
 dimwishlist:item=3568377122&perks=1478423395,409831596,3523296417,11612903
-
-title:u/pandapaxxy's Faction Weapons, Season of the Risen Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhb2m/faction_weapons_season_of_the_risen/
 
 // Reckless Endangerment
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller): "In PvE there are just better shotguns, where a neutral, high-handling weapon just will not fit the bill. In Reckless Endangerment’s benefit is how smooth it feels to use. No other shotgun really comes close to how fluid this feels without any investment. [...] Crucible is where Reckless Endangerment can really flex [...] Having a shotgun that you don’t really have to invest in to make it feel fluid gives new players and people uncomfortable with PvP a shotgun to compete with. The obvious comparison is Riiswalker and I do think Riiswalker takes the cake over Reckless Endangerment in all forms of PvP. That being said, you can use Reckless Endangerment and hang with Riiswalker without feeling like a detriment to your team or yourself.". Recommended MW - Handling.|tags:pve,pvp,mkb,controller
@@ -11102,9 +10790,6 @@ dimwishlist:item=1796949035&perks=3666208348,52780822,3108830275,2726471870
 dimwishlist:item=1796949035&perks=2827049491,52780822,3108830275,2726471870
 dimwishlist:item=1796949035&perks=938542991,52780822,3108830275,2726471870
 
-title:u/pandapaxxy's Exotic Weapons, Season of the Risen Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfha13/exotic_weapons_season_of_the_risen/
-
 // Edge of Action
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
 dimwishlist:item=2535142413&perks=2713678205,3721627275,2379536009,1067908860
@@ -11156,9 +10841,6 @@ dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860
 dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,1067908860
 dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,3465198467
 dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,3465198467
-
-title:u/pandapaxxy's Enclave and Wellspring Weapons, Season of the Risen Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhcoq/enclave_and_wellspring_weapons_season_of_the_risen/
 
 // Empirical Evidence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -11460,60 +11142,6 @@ dimwishlist:item=2721157927&perks=1844523823,409831596,2450788523,2396489472
 dimwishlist:item=2721157927&perks=3525010810,409831596,2450788523,2396489472
 dimwishlist:item=2721157927&perks=1478423395,409831596,2450788523,2396489472
 
-title:Vow of the Disciple Raid weapons
-description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
-
-description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep8-witch-queen-dlc-weapons.txt
-
-@title:Triumph Weapon
-@description:From completing the Chief Investigator Triumph and then world drops
-
-@title:The Wellspring - Witch Queen DLC six-man activity - weapons
-
-@title:Throne World Weapons
-@description:Dropping from Savathun's Throne World engrams
-
-title:Nightfall weapons part 2 and Hakke foundry
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
-
-title:Nightfall weapons part 3 and Omolon foundry
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
-
-title:Suros foundry weapons
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep13-suros-foundry-weapons.txt
-
-title:Guardian Games 2022 and Trials of Osiris weapon
-description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep14-guardian-games-2022-and-trials-of-osiris-weapons.txt
-
-title:YeezyGT's S16
-
-@title:Vow of the Disciple Raid weapons
-@description:Raid weapons from Witch Queen, Season 16 (Risen)
-
-title:Nightfall weapons part 1
-description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
-
-@title:Veist Foundry weapons
-
-title:YeezyGT's WQ
-
-title:@AyyItsChevy's S16 Super Pog PvE Loot List
-
-description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
-title:Season 15 Vanguard Nightfall weapons
-notes:Reprised D1 weapons dropping from Nightfall completions
-
-description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
-
-title:Reprised Dawning weapons
-description:Season 15 (Season of the Lost) Dawning weapons
-
-title:u/pandapaxxy's 30th Anniversary M+KB Breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
-
-title:u/pandapaxxy's 30th Anniversary Controller Breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
-
 // Pardon Our Dust
 //notes:pandapaxxy (Controller / PvP): "The downside to this is it is worse than last season’s Ignition Code. Both in farming and rolls you can get. If you already have a good Ignition code there is very little reason to get another one of these." Recommended MW: Blast Radius or Velocity.|tags:controller,pvp
 dimwishlist:item=3849810018&perks=1844523823,409831596,3300816228,3523296417
@@ -11754,103 +11382,6 @@ dimwishlist:item=2139640995&perks=938542991,269888150,3523296417,1685431615
 dimwishlist:item=2139640995&perks=3666208348,3625355092,3523296417,1685431615
 dimwishlist:item=2139640995&perks=2827049491,3625355092,3523296417,1685431615
 dimwishlist:item=2139640995&perks=938542991,3625355092,3523296417,1685431615
-
-title:YeezyGT's S16
-
-description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
-
-title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
-description:Xûr activity, reputation and cache chest legendary weapons
-
-title:Season 15 (Season of the Lost) World drop weapon rolls
-description:World pool legendary weapon rolls
-
-title:Season 13 (Season of the Chosen) World drop weapon rolls
-description:World pool legendary weapon rolls
-
-description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
-
-title:Season 15 (Season of the Lost) Activity weapon rolls
-description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
-
-description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
-
-title:Season 14 (Season of the Chosen) Vault of Glass rolls
-description:Reprised weapons from Vault of Glass Raid
-
-description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
-
-@title:Season 15 Reissued Trials of the Nine weapons
-@notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
-
-description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
-
-title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
-description:Weapons roundup as at S15 Festival of the Lost
-
-title:YeezyGT's S15 wishlist picks.
-
-description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
-
-title:Destiny Massive Breakdown-inspired weapon rolls
-description:Not affiliated with the DMB podcast, but based on their discussions
-
-title:Season 12 Beyond Light Europan weapons from Podcast 186
-description:Weapons from Variks and Europan activities
-
-title:Season 12 (Season of the Hunt) Wrathborne Hunt and Season Pass weapon rolls from Podcast 187
-description:Weapons dropped from Season 12 Pass, Crow and Wrathborne Hunts
-
-title:Season 12 (Beyond Light) Raid weapon rolls from Podcast 188
-description:Weapons from the Deep Stone Crypt Raid
-
-title:Season 12 (Season of the Hunt) Dawning event weapon rolls from Podcast 189
-description:Weapons from the S12 Christmas/New Year Dawning event
-
-title:Season 12 (Season of the Chosen) Activity weapon rolls from  Podcast 190
-description:Weapons from S13 Gambit, Vanguard and Crucible activities
-
-title:Season 14 (Season of the Chosen) Hawkmoon breakdown from Podcast 194
-description:Harbinger quest exotic hand cannon random rolls
-
-title:Season 13 (Season of the Chosen) Dead Man's Tale from Podast 198
-description:Presage quest exotic scout rifle random rolls
-
-title:Season 13 (Season of the Chosen) Battleground weapon rolls from Podcast 201
-description:Weapons from Battleground events, War Table and S13 Umbral Engrams
-
-title:Season 13 (Season of the Chosen) Gambit weapons from Podcast 203
-description:Season 13 end of game Game drops
-
-title:Season 13 (Season of the Chosen) Nightfall weapons from Podcast 205
-description:Reprised Vanguard and Nightfall weapons
-
-title:Season 14 (Season of the Splicer) Iron Banner weapons from Podcast 212
-description:Season 14 Iron Banner weapons
-
-title:Season 14 (Season of the Splicer) Override and Splicer Servitor weapons from Podcast 213
-description:Season 14 activity weapons
-
-title:Season 14 (Season of the Splicer) Crucible weapons from Podcast 215
-description:Shayura's Wrath and Survivors Epitaph
-
-title:Season 14 (Season of the Splicer) Reprised Dreaming City (non-Shatterered Throne) weapons from Podcast 219
-description:New perks on Tigerspite, Twilight Oath and Abide the Return
-
-title:Season 14 (Season of the Splicer) Solstice of Heroes weapon from Podcast 220
-description:Compass Rose rolls
-
-title:Season 14 (Season of the Splicer) Nightfall weapons from Podcast 222
-description:Reprised weapons as Nightfall weekly drops
-
-title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
-description:Season activity weapon rolls
-
-title:Season 15 (Season of the Lost) Reprised and new Trials weapons from Podcast 229
-description:Reprised Trials of Osiris weapons and Reed's Regret rolls
-
-title:Pandapaxxy's S15 roundup
-description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/
 
 // Annual Skate - Annual Skate (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -12979,18 +12510,6 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
 // Waking Vigil - Waking Vigil (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -17389,14 +16908,6 @@ dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,3511092054
 dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1546637391
 dimwishlist:item=1786797708&perks=663495155,106909392,1866048759,3511092054
 dimwishlist:item=1786797708&perks=663495155,106909392,1866048759,1546637391
-dimwishlist:item=1786797708&perks=663495155,3142289711,3643424744,3511092054
-dimwishlist:item=1786797708&perks=663495155,3142289711,3643424744,1546637391
-dimwishlist:item=1786797708&perks=663495155,3142289711,1866048759,3511092054
-dimwishlist:item=1786797708&perks=663495155,3142289711,1866048759,1546637391
-dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,3511092054
-dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1546637391
-dimwishlist:item=1786797708&perks=663495155,106909392,1866048759,3511092054
-dimwishlist:item=1786797708&perks=663495155,106909392,1866048759,1546637391
 
 // Seventh Seraph CQC-12 - Seventh Seraph CQC-12 (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -20136,12 +19647,6 @@ dimwishlist:item=2714022207&perks=202670084,2969185026,588594999,3108830275
 dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,706527188
 dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,2213355989
 dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,3108830275
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
@@ -23236,18 +22741,6 @@ dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,1015611457
 dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,591790007
 dimwishlist:item=3717177717&perks=663495155,106909392,1866048759,1015611457
 dimwishlist:item=3717177717&perks=663495155,106909392,1866048759,591790007
-dimwishlist:item=3717177717&perks=663495155,3142289711,1359896290,1015611457
-dimwishlist:item=3717177717&perks=663495155,3142289711,1359896290,591790007
-dimwishlist:item=3717177717&perks=663495155,3142289711,2450788523,1015611457
-dimwishlist:item=3717177717&perks=663495155,3142289711,2450788523,591790007
-dimwishlist:item=3717177717&perks=663495155,3142289711,1866048759,1015611457
-dimwishlist:item=3717177717&perks=663495155,3142289711,1866048759,591790007
-dimwishlist:item=3717177717&perks=663495155,106909392,1359896290,1015611457
-dimwishlist:item=3717177717&perks=663495155,106909392,1359896290,591790007
-dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,1015611457
-dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,591790007
-dimwishlist:item=3717177717&perks=663495155,106909392,1866048759,1015611457
-dimwishlist:item=3717177717&perks=663495155,106909392,1866048759,591790007
 
 // Sleepless - Sleepless (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -24130,12 +23623,6 @@ dimwishlist:item=4094657108&perks=3250034553,2969185026,1645158859,2846385770
 dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2213355989
 dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2846385770
 
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Accrued Redemption - Accrued Redemption (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133
@@ -24742,30 +24229,6 @@ dimwishlist:item=4292849692&perks=1926090094,106909392,957782887,3038247973
 dimwishlist:item=4292849692&perks=1926090094,106909392,957782887,1954620775
 dimwishlist:item=4292849692&perks=1926090094,106909392,957782887,1015611457
 
-title:@AyyItsChevy's S15 Super Pog PvE Loot List
-description:Originally found at https://twitter.com/AyyItsChevy/status/1431303773817823234?s=20 . Cheers to @Deanosim for the conversion.
-
-title:Blueberries.gg's collected / tiered S15 weapon picks
-description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
-
-title:@AyyItsChevy's S14 Super Pog PvE Loot List
-description:Originally found at https://twitter.com/AyyItsChevy/status/1394340842278686722?s=20
-
-title:Blueberries.gg's collected / tiered S14 weapon picks
-description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
-
-title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
-
-//title:Sharditkeepit Community Vault of Glass favorites
-//description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nq1usy/communitysourced_season_of_the_splicer_breakdown/
-
-title:@AyyItsChevy's S13 Super Pog PvE Loot List
-description:Originally found at https://twitter.com/AyyItsChevy/status/1359565294709190658?s=20
-
-title:An addendum of pandapaxxy's Dead Man's Tale rolls.
-description:Originally found in https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U
-
 // Dead Man's Tale
 //notes:pandapaxxy (PvP / Controller)
 dimwishlist:item=3654674561&perks=1482024992,1885400500,588594999,1067908860#notes:|tags:controller,pvp
@@ -24823,14 +24286,6 @@ dimwishlist:item=3654674561&perks=1482024992,3142289711,957782887,3465198467#not
 dimwishlist:item=3654674561&perks=1392496348,3142289711,957782887,3465198467#notes:|tags:controller,pvp
 dimwishlist:item=3654674561&perks=1840239774,3142289711,957782887,3465198467#notes:|tags:controller,pvp
 
-title:@AyyItsChevy's Super Pog PvE Loot List
-
-title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
-
-title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
-
 // Hawkmoon
 //notes:pandapaxxy (PvP / Controller): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,controller
 dimwishlist:item=3856705927&perks=1482024992,2846385770,3326204863
@@ -24857,37 +24312,4 @@ dimwishlist:item=3856705927&perks=1482024992,699525795,1012699414
 dimwishlist:item=3856705927&perks=3250034553,699525795,1012699414
 dimwishlist:item=3856705927&perks=1482024992,2450788523,1012699414
 dimwishlist:item=3856705927&perks=3250034553,2450788523,1012699414
-
-title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
-
-title:u/Mercules904's Massive Breakdown of the Legacy and Dredgen Focused Umbral Engram Weapons
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hfpop8/massive_breakdown_of_the_legacy_and_dredgen/
-
-title:u/Mercules904's Sundial weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
-
-title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
-
-title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
-
-title:u/Mercules904's Vex Invasion drop picks
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/djo6bn/massive_breakdown_of_the_vex_offensive_weapons/
-
-title:u/Mercules904's Season of the Undying season pass weapon picks
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/docorx/massive_breakdown_of_the_season_of_the_undying/
-
-title:u/Mercules904's Altars of Sorrow weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
-
-title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
-
-title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
-
-title:u/Mercules904's Garden of Salvation raid weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
 
