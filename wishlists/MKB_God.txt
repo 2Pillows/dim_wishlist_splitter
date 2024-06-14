@@ -3313,24 +3313,16 @@ dimwishlist:item=3723679465&perks=1968497646,2173046394,247725512,3250034553
 dimwishlist:item=3723679465&perks=1467527085,1968497646,2173046394,247725512
 dimwishlist:item=3723679465&perks=1968497646,202670084,2173046394,247725512
 dimwishlist:item=3723679465&perks=1482024992,1561002382,2173046394,247725512
-dimwishlist:item=3723679465&perks=1482024992,1561002382,2173046394,247725512
-dimwishlist:item=3723679465&perks=1561002382,2173046394,247725512,3250034553
 dimwishlist:item=3723679465&perks=1561002382,2173046394,247725512,3250034553
 dimwishlist:item=3723679465&perks=1467527085,1561002382,2173046394,247725512
-dimwishlist:item=3723679465&perks=1467527085,1561002382,2173046394,247725512
-dimwishlist:item=3723679465&perks=1561002382,202670084,2173046394,247725512
 dimwishlist:item=3723679465&perks=1561002382,202670084,2173046394,247725512
 dimwishlist:item=3723679465&perks=1428297954,1482024992,1968497646,2173046394
 dimwishlist:item=3723679465&perks=1428297954,1968497646,2173046394,3250034553
 dimwishlist:item=3723679465&perks=1428297954,1467527085,1968497646,2173046394
 dimwishlist:item=3723679465&perks=1428297954,1968497646,202670084,2173046394
 dimwishlist:item=3723679465&perks=1428297954,1482024992,1561002382,2173046394
-dimwishlist:item=3723679465&perks=1428297954,1482024992,1561002382,2173046394
-dimwishlist:item=3723679465&perks=1428297954,1561002382,2173046394,3250034553
 dimwishlist:item=3723679465&perks=1428297954,1561002382,2173046394,3250034553
 dimwishlist:item=3723679465&perks=1428297954,1467527085,1561002382,2173046394
-dimwishlist:item=3723679465&perks=1428297954,1467527085,1561002382,2173046394
-dimwishlist:item=3723679465&perks=1428297954,1561002382,202670084,2173046394
 dimwishlist:item=3723679465&perks=1428297954,1561002382,202670084,2173046394
 
 // Waking Vigil (PvE first-choice roll)
@@ -3341,24 +3333,16 @@ dimwishlist:item=3723679465&perks=1968497646,247725512,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1467527085,1968497646,247725512,3324494224
 dimwishlist:item=3723679465&perks=1968497646,202670084,247725512,3324494224
 dimwishlist:item=3723679465&perks=1482024992,1561002382,247725512,3324494224
-dimwishlist:item=3723679465&perks=1482024992,1561002382,247725512,3324494224
-dimwishlist:item=3723679465&perks=1561002382,247725512,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1561002382,247725512,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,3324494224
-dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,3324494224
-dimwishlist:item=3723679465&perks=1561002382,202670084,247725512,3324494224
 dimwishlist:item=3723679465&perks=1561002382,202670084,247725512,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1482024992,1968497646,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1968497646,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1467527085,1968497646,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1968497646,202670084,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1482024992,1561002382,3324494224
-dimwishlist:item=3723679465&perks=1428297954,1482024992,1561002382,3324494224
-dimwishlist:item=3723679465&perks=1428297954,1561002382,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1561002382,3250034553,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1467527085,1561002382,3324494224
-dimwishlist:item=3723679465&perks=1428297954,1467527085,1561002382,3324494224
-dimwishlist:item=3723679465&perks=1428297954,1561002382,202670084,3324494224
 dimwishlist:item=3723679465&perks=1428297954,1561002382,202670084,3324494224
 
 // Vouchsafe (PvE first-choice roll)
@@ -3643,11 +3627,9 @@ dimwishlist:item=2680976411&perks=2284787283,2610012052,2713678205,679225683
 (Full Bore, Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling), (Ionized Battery, Extended Battery), Controlled Burst
 //notes: Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for burst damage against Major Spec or Boss Spec enemies in end-game content. Grab Glacioclasm while you can - unusually, for a world-drop weapon it has great stats as a High-Impact fusion rifle. Only firing five bolts, it's a bit more controllable than faster-firing subtypes, so spec into range with the barrel perk. In the battery perk slot, you're aiming to get as many shots as possible, with Ionized or Extended Battery. For the first trait perk, there's really only one to consider, and that's Overflow to instantly double your battery size for picking up ammo. Combine that with Controlled Burst in the second trait slot for DPS that'll hold up as a burst damage weapon against Majors or a backup weapon for boss damage phases. The Dawning Surprise origin trait is very useful in PvE - when the behind the scenes counter hits 100, the surprise is spawned on the ground for 10s and grants 10% energy to all abilities, grants 20HP and starts shield/health regeneration. Recommended MW: Shield Diraction, with a damage boosting (Major or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=2728851518&perks=1483536627,2594592626,3250034553,3643424744
-dimwishlist:item=2728851518&perks=1483536627,2594592626,3250034553,3643424744
 dimwishlist:item=2728851518&perks=1467527085,1483536627,2594592626,3643424744
 dimwishlist:item=2728851518&perks=1482024992,1483536627,2594592626,3643424744
 dimwishlist:item=2728851518&perks=1483536627,2594592626,3643424744,4090651448
-dimwishlist:item=2728851518&perks=2594592626,2680121939,3250034553,3643424744
 dimwishlist:item=2728851518&perks=2594592626,2680121939,3250034553,3643424744
 dimwishlist:item=2728851518&perks=1467527085,2594592626,2680121939,3643424744
 dimwishlist:item=2728851518&perks=1482024992,2594592626,2680121939,3643424744
@@ -3912,7 +3894,6 @@ dimwishlist:item=3381450498&perks=1119449540,1380253176,1441682018,2428997981
 // Dragoncult Sickle (PvE first-choice roll)
 // Jagged Edge, Swordmaster's Guard, Slice, (Surrounded, Whirlwind Blade)
 //notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major and Boss Spec enemies particularly for Strand subclasses in end-game content. This is the first new Caster-Frame sword we've seen in some time, and the first Strand one. Dungeon weapons tend to have better stats than world drops, and Dragoncult Sickle is no exception, having pretty good overall stats - both Impact and Ammo Capacity are higher than its peers. The advantage you have with caster frames is that you can hit from range with the heavy attack, but the ammo cost as at v7.3.0.3 is still a little high. On the other hand, you can use it for major or boss damage - the standard Jagged Edge for the extra damage and Swordmaster's Guard for the Blade and Guard perks still apply. The new-to-Season-23 Slice as the first trait perk gives this an ability to sever a major or a boss, reducing its outgoing damage by 40% for 10s (or 15s with Thread of Continuity), which can be a lifesaver in a CQC fight. In the second trait column as the signature perk, you could go for Surrounded, if you know there will be adds around to boost damage by 40%, or Whirlwind Blade if there aren't. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=3668817296&perks=269888150,3666208348,3708227201,923806249
 dimwishlist:item=3668817296&perks=269888150,3666208348,3708227201,923806249
 
 // Dragoncult Sickle (PvE first-choice roll)
@@ -6314,7 +6295,6 @@ dimwishlist:item=3885259140&perks=202670084,3230963543,3418782618,3891536761
 // (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel), Appended Mag, Rewind Rounds, Fourth Times the Charm
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for sustained damage against bosses in end-game activities. Shapeable. The Supremacy has decent in-band stats by comparison with other kinetic slot rapid-fire snipers. Putting out shots at pace needs some additional control with the barrel perk - you could improve the recoil direction, or you can increase the stability. Appended Mag gets you to the maximum of 7 in the mag without needing to use Extended Mag. The roll that's been dubbed "Whisper Lite" combines Enhanced Rewind Rounds in the first trait column as the support perk refunds 70% of the shots that hit from reserves when the magazine's emptied. Fourth Time's the Charm in the second slot as the signature perk magics two bullets out of thin air after hitting four rapid crits. Between the two, it's been reported that with 3x Reserve mods you can hit 42 crits in a row without reloading - very handy to have in your back pocket against a boss if you run out of power ammo, or if you're running Tractor Cannon and need a damage option. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
 dimwishlist:item=2884596447&perks=1087426260,1354429876,1482024992,3418782618
-dimwishlist:item=2884596447&perks=1087426260,1354429876,1482024992,3418782618
 dimwishlist:item=2884596447&perks=1087426260,1354429876,1392496348,3418782618
 dimwishlist:item=2884596447&perks=1087426260,1354429876,3418782618,3661387068
 dimwishlist:item=2884596447&perks=1087426260,1354429876,1840239774,3418782618
@@ -6331,9 +6311,7 @@ dimwishlist:item=2884596447&perks=1087426260,1556840489,1840239774,3078487919
 // (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), Repulsor Brace, Destabilising Rounds
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for Void synergy. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. This is one of only two primaries that can roll with Repulsor Brace in the first column, as the support perk, and Destabilising Rounds in the second as the signature perk. In a similar way to Incandescent and Voltshot, this means you can enjoy void verb use whether you're sporting a void subclass or not (although if you are, you have access to the full 3.0 kit of fragments you can use). If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
 dimwishlist:item=424291879&perks=106909392,2048641572,776531651,839105230
-dimwishlist:item=424291879&perks=106909392,2048641572,776531651,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,2048641572,776531651
-dimwishlist:item=424291879&perks=2048641572,3230963543,776531651,839105230
 dimwishlist:item=424291879&perks=2048641572,3230963543,776531651,839105230
 dimwishlist:item=424291879&perks=1392496348,2048641572,3230963543,776531651
 
@@ -6341,21 +6319,15 @@ dimwishlist:item=424291879&perks=1392496348,2048641572,3230963543,776531651
 // (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), (Dragonfly, Stats For All, Discord), Golden Tricorn
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for Void synergy. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. In the first trait column, as the support perk, you could choose Dragonfly for AoE damage, Stats For All for hefty gunfeel stat boosts, or Discord if you're weapon swapping a lot and like the idea of easier crits. In the second column as the signature perk, Golden Tricorn is great for a reliable 15% refreshable damage bump up that goes up to a chunky 50% with a void ability kill. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
 dimwishlist:item=424291879&perks=106909392,2610012052,2848615171,839105230
-dimwishlist:item=424291879&perks=106909392,2610012052,2848615171,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,2610012052,2848615171
-dimwishlist:item=424291879&perks=2610012052,2848615171,3230963543,839105230
 dimwishlist:item=424291879&perks=2610012052,2848615171,3230963543,839105230
 dimwishlist:item=424291879&perks=1392496348,2610012052,2848615171,3230963543
 dimwishlist:item=424291879&perks=106909392,1583705720,2610012052,839105230
-dimwishlist:item=424291879&perks=106909392,1583705720,2610012052,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,1583705720,2610012052
-dimwishlist:item=424291879&perks=1583705720,2610012052,3230963543,839105230
 dimwishlist:item=424291879&perks=1583705720,2610012052,3230963543,839105230
 dimwishlist:item=424291879&perks=1392496348,1583705720,2610012052,3230963543
 dimwishlist:item=424291879&perks=106909392,2610012052,3978468247,839105230
-dimwishlist:item=424291879&perks=106909392,2610012052,3978468247,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,2610012052,3978468247
-dimwishlist:item=424291879&perks=2610012052,3230963543,3978468247,839105230
 dimwishlist:item=424291879&perks=2610012052,3230963543,3978468247,839105230
 dimwishlist:item=424291879&perks=1392496348,2610012052,3230963543,3978468247
 
@@ -6363,21 +6335,15 @@ dimwishlist:item=424291879&perks=1392496348,2610012052,3230963543,3978468247
 // (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), (Dragonfly, Stats For All, Discord), Collective Action
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. In the first trait column, as the support perk, you could choose Dragonfly for AoE damage, Stats For All for hefty gunfeel stat boosts, or Discord if you're weapon swapping a lot and like the idea of easier crits. In the second column as the signature perk, Collective Action is a reliable 20% damage boost just for collecting an Elemental pickup. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
 dimwishlist:item=424291879&perks=106909392,2848615171,3324494224,839105230
-dimwishlist:item=424291879&perks=106909392,2848615171,3324494224,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,2848615171,3324494224
-dimwishlist:item=424291879&perks=2848615171,3230963543,3324494224,839105230
 dimwishlist:item=424291879&perks=2848615171,3230963543,3324494224,839105230
 dimwishlist:item=424291879&perks=1392496348,2848615171,3230963543,3324494224
 dimwishlist:item=424291879&perks=106909392,1583705720,3324494224,839105230
-dimwishlist:item=424291879&perks=106909392,1583705720,3324494224,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,1583705720,3324494224
-dimwishlist:item=424291879&perks=1583705720,3230963543,3324494224,839105230
 dimwishlist:item=424291879&perks=1583705720,3230963543,3324494224,839105230
 dimwishlist:item=424291879&perks=1392496348,1583705720,3230963543,3324494224
 dimwishlist:item=424291879&perks=106909392,3324494224,3978468247,839105230
-dimwishlist:item=424291879&perks=106909392,3324494224,3978468247,839105230
 dimwishlist:item=424291879&perks=106909392,1392496348,3324494224,3978468247
-dimwishlist:item=424291879&perks=3230963543,3324494224,3978468247,839105230
 dimwishlist:item=424291879&perks=3230963543,3324494224,3978468247,839105230
 dimwishlist:item=424291879&perks=1392496348,3230963543,3324494224,3978468247
 
@@ -8483,12 +8449,8 @@ dimwishlist:item=3849444474&perks=201365942,2801223209,3365897133,3429800428
 dimwishlist:item=3849444474&perks=201365942,3365897133,3429800428,4067834857
 dimwishlist:item=3849444474&perks=201365942,3365897133,3429800428,852209214
 dimwishlist:item=3849444474&perks=201365942,3365897133,3827198035,4067834857
-dimwishlist:item=3849444474&perks=201365942,3365897133,3827198035,4067834857
-dimwishlist:item=3849444474&perks=201365942,3365897133,3827198035,852209214
 dimwishlist:item=3849444474&perks=201365942,3365897133,3827198035,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,3365897133,4067834857
-dimwishlist:item=3849444474&perks=201365942,3311977193,3365897133,4067834857
-dimwishlist:item=3849444474&perks=201365942,3311977193,3365897133,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,3365897133,852209214
 dimwishlist:item=3849444474&perks=201365942,2801223209,3365897133,3827198035
 dimwishlist:item=3849444474&perks=201365942,2801223209,3311977193,3365897133
@@ -8505,22 +8467,14 @@ dimwishlist:item=3849444474&perks=201365942,2801223209,3429800428,4082225868
 dimwishlist:item=3849444474&perks=201365942,3429800428,4067834857,4104185692
 dimwishlist:item=3849444474&perks=201365942,3429800428,4104185692,852209214
 dimwishlist:item=3849444474&perks=201365942,3827198035,4067834857,4104185692
-dimwishlist:item=3849444474&perks=201365942,3827198035,4067834857,4104185692
-dimwishlist:item=3849444474&perks=201365942,3827198035,4104185692,852209214
 dimwishlist:item=3849444474&perks=201365942,3827198035,4104185692,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,4067834857,4104185692
-dimwishlist:item=3849444474&perks=201365942,3311977193,4067834857,4104185692
-dimwishlist:item=3849444474&perks=201365942,3311977193,4104185692,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,4104185692,852209214
 dimwishlist:item=3849444474&perks=201365942,3429800428,4067834857,4082225868
 dimwishlist:item=3849444474&perks=201365942,3429800428,4082225868,852209214
 dimwishlist:item=3849444474&perks=201365942,3827198035,4067834857,4082225868
-dimwishlist:item=3849444474&perks=201365942,3827198035,4067834857,4082225868
-dimwishlist:item=3849444474&perks=201365942,3827198035,4082225868,852209214
 dimwishlist:item=3849444474&perks=201365942,3827198035,4082225868,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,4067834857,4082225868
-dimwishlist:item=3849444474&perks=201365942,3311977193,4067834857,4082225868
-dimwishlist:item=3849444474&perks=201365942,3311977193,4082225868,852209214
 dimwishlist:item=3849444474&perks=201365942,3311977193,4082225868,852209214
 dimwishlist:item=3849444474&perks=201365942,2801223209,3827198035,4104185692
 dimwishlist:item=3849444474&perks=201365942,2801223209,3311977193,4104185692
@@ -8546,42 +8500,26 @@ dimwishlist:item=3849444474&perks=2652708987,2801223209,2848615171,3429800428
 dimwishlist:item=3849444474&perks=2848615171,3365897133,3429800428,4067834857
 dimwishlist:item=3849444474&perks=2848615171,3365897133,3429800428,852209214
 dimwishlist:item=3849444474&perks=2848615171,3365897133,3827198035,4067834857
-dimwishlist:item=3849444474&perks=2848615171,3365897133,3827198035,4067834857
-dimwishlist:item=3849444474&perks=2848615171,3365897133,3827198035,852209214
 dimwishlist:item=3849444474&perks=2848615171,3365897133,3827198035,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,3365897133,4067834857
-dimwishlist:item=3849444474&perks=2848615171,3311977193,3365897133,4067834857
-dimwishlist:item=3849444474&perks=2848615171,3311977193,3365897133,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,3365897133,852209214
 dimwishlist:item=3849444474&perks=2848615171,3429800428,4067834857,4104185692
 dimwishlist:item=3849444474&perks=2848615171,3429800428,4104185692,852209214
 dimwishlist:item=3849444474&perks=2848615171,3827198035,4067834857,4104185692
-dimwishlist:item=3849444474&perks=2848615171,3827198035,4067834857,4104185692
-dimwishlist:item=3849444474&perks=2848615171,3827198035,4104185692,852209214
 dimwishlist:item=3849444474&perks=2848615171,3827198035,4104185692,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,4067834857,4104185692
-dimwishlist:item=3849444474&perks=2848615171,3311977193,4067834857,4104185692
-dimwishlist:item=3849444474&perks=2848615171,3311977193,4104185692,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,4104185692,852209214
 dimwishlist:item=3849444474&perks=2848615171,3429800428,4067834857,4082225868
 dimwishlist:item=3849444474&perks=2848615171,3429800428,4082225868,852209214
 dimwishlist:item=3849444474&perks=2848615171,3827198035,4067834857,4082225868
-dimwishlist:item=3849444474&perks=2848615171,3827198035,4067834857,4082225868
-dimwishlist:item=3849444474&perks=2848615171,3827198035,4082225868,852209214
 dimwishlist:item=3849444474&perks=2848615171,3827198035,4082225868,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,4067834857,4082225868
-dimwishlist:item=3849444474&perks=2848615171,3311977193,4067834857,4082225868
-dimwishlist:item=3849444474&perks=2848615171,3311977193,4082225868,852209214
 dimwishlist:item=3849444474&perks=2848615171,3311977193,4082225868,852209214
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3429800428,4067834857
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3429800428,852209214
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3827198035,4067834857
-dimwishlist:item=3849444474&perks=2652708987,2848615171,3827198035,4067834857
-dimwishlist:item=3849444474&perks=2652708987,2848615171,3827198035,852209214
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3827198035,852209214
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3311977193,4067834857
-dimwishlist:item=3849444474&perks=2652708987,2848615171,3311977193,4067834857
-dimwishlist:item=3849444474&perks=2652708987,2848615171,3311977193,852209214
 dimwishlist:item=3849444474&perks=2652708987,2848615171,3311977193,852209214
 dimwishlist:item=3849444474&perks=2801223209,2848615171,3365897133,3827198035
 dimwishlist:item=3849444474&perks=2801223209,2848615171,3311977193,3365897133
@@ -8833,20 +8771,16 @@ dimwishlist:item=3103325054&perks=1392496348,2420895100,2869569095,3425386926
 (Fluted Barrel, Polygonal Rifling), Enhanced Battery, Field Prep, Focused Fury
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable  boss-killing replacement for Reed's Regret, and a aggressive-frame companion to Stormchaser. Being a stasis LFR, it's easy to get a Font of Might 25% boost to your damage if you have a Warlock putting down a Well and willing to use the Supreme Wellmaker mod, and you're using the Elemental Shards and Elemental Time Dilation mods. You'll need to keep your shots on a boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger), and you'll get plenty of opportunity to proc the 20% damage boost from Focused Fury once you hit six individual crits (the trait procs on individual shots rather than on bursts). Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=2272041093&perks=1392496348,2680121939,2869569095,2896038713
-dimwishlist:item=2272041093&perks=1392496348,2680121939,2869569095,2896038713
 
 // Fire and Forget (PvE first-choice roll)
 (Fluted Barrel, Polygonal Rifling), Enhanced Battery, Field Prep, (Frenzy, Vorpal Weapon)
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable  boss-killing replacement for Reed's Regret, and a aggressive-frame companion to Stormchaser. Being a stasis LFR, it's easy to get a Font of Might 25% boost to your damage if you have a Warlock putting down a Well and willing to use the Supreme Wellmaker mod, and you're using the Elemental Shards and Elemental Time Dilation mods. You'll need to keep your shots on a boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For major or boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger). Frenzy is an easily procced 15% damage boost just for being in combat, or Vorpal Weapon is an uncomplicated 10% boost against Majors and Bosses. Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=2272041093&perks=1392496348,2680121939,2869569095,4104185692
-dimwishlist:item=2272041093&perks=1392496348,2680121939,2869569095,4104185692
-dimwishlist:item=2272041093&perks=1392496348,1546637391,2680121939,2869569095
 dimwishlist:item=2272041093&perks=1392496348,1546637391,2680121939,2869569095
 
 // Fire and Forget (PvE first-choice roll)
 (Fluted Barrel, Polygonal Rifling), Enhanced Battery, Headstone, Chill Clip
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable stasis LFR replacement for Reed's Regret, and an aggressive-frame companion to Stormchaser.  You'll need to keep your shots on a major or boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For major or boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger). For stasis subclass synergy, Fire and Forget can roll (or be crafted) with two stasis perks - use Headstone and Chill Clip for stasis crystals and slow stacks to work your Aspects and Fragments on. Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=2272041093&perks=124408337,1392496348,2680121939,2978966579
 dimwishlist:item=2272041093&perks=124408337,1392496348,2680121939,2978966579
 
 // IKELOS_HC_v1.0.3 (PvE first-choice roll)
@@ -9412,7 +9346,6 @@ dimwishlist:item=1280894514&perks=106909392,1428297954,1840239774,2173046394
 // Fluted Barrel, (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for add clear in non-endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Swashbuckler in the second to boost your damage. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB|tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
 dimwishlist:item=2869466318&perks=1840239774,1968497646,4082225868,691659142
-dimwishlist:item=2869466318&perks=1840239774,1968497646,4082225868,691659142
 dimwishlist:item=2869466318&perks=1561002382,1840239774,4082225868,691659142
 dimwishlist:item=2869466318&perks=1840239774,3230963543,4082225868,691659142
 dimwishlist:item=2869466318&perks=1840239774,4082225868,679225683,691659142
@@ -9422,10 +9355,7 @@ dimwishlist:item=2869466318&perks=1087426260,1840239774,4082225868,691659142
 // (Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB PvE Podcast 37. PvE backup roll for add clear in non-endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Swashbuckler in the second to boost your damage. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB|tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
 dimwishlist:item=2869466318&perks=1482024992,1968497646,4082225868,691659142
-dimwishlist:item=2869466318&perks=1482024992,1968497646,4082225868,691659142
 dimwishlist:item=2869466318&perks=1968497646,4082225868,4090651448,691659142
-dimwishlist:item=2869466318&perks=1968497646,4082225868,4090651448,691659142
-dimwishlist:item=2869466318&perks=1392496348,1968497646,4082225868,691659142
 dimwishlist:item=2869466318&perks=1392496348,1968497646,4082225868,691659142
 dimwishlist:item=2869466318&perks=1482024992,1561002382,4082225868,691659142
 dimwishlist:item=2869466318&perks=1561002382,4082225868,4090651448,691659142
@@ -9448,7 +9378,6 @@ dimwishlist:item=2869466318&perks=1546637391,1840239774,1968497646,691659142
 // BrayTech Werewolf (PvE first-choice roll)
 // Fluted Barrel, (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Osmosis
 //notes:Inspired by DMB PvE Podcast 37. PvE first-choice utility roll for endgame content, particularly soloing. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with your barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Osmosis in the second for an additional primary energy weapon option when you use your grenade - useful as a utility roll, and for soloing activities in particular. This won't replace a Demolitionist/Osmosis The Last Breath, and you only really need one Osmosis auto rifle in your Vault, but you never know - Bungie might just add melee kills to proc... Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, PvE-Solo, Controller, MKB|tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, PvE-Solo, Controller, MKB
-dimwishlist:item=2869466318&perks=1774574192,1840239774,1968497646,691659142
 dimwishlist:item=2869466318&perks=1774574192,1840239774,1968497646,691659142
 dimwishlist:item=2869466318&perks=1561002382,1774574192,1840239774,691659142
 dimwishlist:item=2869466318&perks=1774574192,1840239774,3230963543,691659142
@@ -10983,7 +10912,6 @@ dimwishlist:item=3281285075&perks=106909392,1840239774,2173046394,4104185692
 // Fluted Barrel, Tactical Mag, (Rapid Hit, Surplus, Reconstruction), Frenzy
 //notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Precision HCs aren't the best choice for PvE as at v6.3.0.7, but just in case they ever get at little love, this might be worth tucking away. Stats are good by comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. For end-game add clear, Reconstruction can double the size of your magazine, or Rapid Hit or Surplus and Frenzy between them can passively max out stability, handling and reload speed and add 15% damage. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
 dimwishlist:item=3281285075&perks=106909392,1523832109,1840239774,4104185692
-dimwishlist:item=3281285075&perks=106909392,1523832109,1840239774,4104185692
 dimwishlist:item=3281285075&perks=106909392,1840239774,3436462433,4104185692
 
 // Trustee (PvE first-choice roll)
@@ -11475,8 +11403,6 @@ dimwishlist:item=1094005544&perks=106909392,1482024992,3300816228,4293542123
 // Full Choke, (Assault Mag, Tactical Mag), (Slideways, Lead From Gold, Auto-Loading Holster), One-Two Punch
 //notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. We're building into One-Two Punch, so you need to hit all of your pellets - Full Choke should help with that. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Slideways, Lead From Gold or Auto-Loading Holster to pair with One-Two Punch for big Burst damage against Majors and stunned Champions. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=1094005544&perks=1047830412,2679249093,3300816228,791862061
-dimwishlist:item=1094005544&perks=1047830412,2679249093,3300816228,791862061
-dimwishlist:item=1094005544&perks=1047830412,106909392,2679249093,3300816228
 dimwishlist:item=1094005544&perks=1047830412,106909392,2679249093,3300816228
 dimwishlist:item=1094005544&perks=1047830412,1556840489,2679249093,791862061
 dimwishlist:item=1094005544&perks=1047830412,106909392,1556840489,2679249093
@@ -11517,8 +11443,6 @@ dimwishlist:item=912150785&perks=106909392,1482024992,3300816228,4293542123
 // Full Choke, (Assault Mag, Tactical Mag), (Slideways, Lead From Gold, Auto-Loading Holster), One-Two Punch
 //notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. We're building into One-Two Punch, so you need to hit all of your pellets - Full Choke should help with that. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Slideways, Lead From Gold or Auto-Loading Holster to pair with One-Two Punch for big Burst damage against Majors and stunned Champions. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=912150785&perks=1047830412,2679249093,3300816228,791862061
-dimwishlist:item=912150785&perks=1047830412,2679249093,3300816228,791862061
-dimwishlist:item=912150785&perks=1047830412,106909392,2679249093,3300816228
 dimwishlist:item=912150785&perks=1047830412,106909392,2679249093,3300816228
 dimwishlist:item=912150785&perks=1047830412,1556840489,2679249093,791862061
 dimwishlist:item=912150785&perks=1047830412,106909392,1556840489,2679249093
@@ -12142,14 +12066,12 @@ dimwishlist:item=2221264583&perks=106909392,1583705720,4049631843,839105230
 dimwishlist:item=2221264583&perks=106909392,1392496348,1583705720,4049631843
 dimwishlist:item=2221264583&perks=106909392,1583705720,3661387068,4049631843
 dimwishlist:item=2221264583&perks=106909392,1482024992,1583705720,4049631843
-dimwishlist:item=2221264583&perks=106909392,1482024992,1583705720,4049631843
 dimwishlist:item=2221264583&perks=106909392,1583705720,1840239774,4049631843
 dimwishlist:item=2221264583&perks=106909392,1583705720,4049631843,4090651448
 dimwishlist:item=2221264583&perks=106909392,1583705720,3250034553,4049631843
 dimwishlist:item=2221264583&perks=1583705720,3230963543,4049631843,839105230
 dimwishlist:item=2221264583&perks=1392496348,1583705720,3230963543,4049631843
 dimwishlist:item=2221264583&perks=1583705720,3230963543,3661387068,4049631843
-dimwishlist:item=2221264583&perks=1482024992,1583705720,3230963543,4049631843
 dimwishlist:item=2221264583&perks=1482024992,1583705720,3230963543,4049631843
 dimwishlist:item=2221264583&perks=1583705720,1840239774,3230963543,4049631843
 dimwishlist:item=2221264583&perks=1583705720,3230963543,4049631843,4090651448
@@ -12162,14 +12084,12 @@ dimwishlist:item=2221264583&perks=106909392,2896038713,3824105627,839105230
 dimwishlist:item=2221264583&perks=106909392,1392496348,2896038713,3824105627
 dimwishlist:item=2221264583&perks=106909392,2896038713,3661387068,3824105627
 dimwishlist:item=2221264583&perks=106909392,1482024992,2896038713,3824105627
-dimwishlist:item=2221264583&perks=106909392,1482024992,2896038713,3824105627
 dimwishlist:item=2221264583&perks=106909392,1840239774,2896038713,3824105627
 dimwishlist:item=2221264583&perks=106909392,2896038713,3824105627,4090651448
 dimwishlist:item=2221264583&perks=106909392,2896038713,3250034553,3824105627
 dimwishlist:item=2221264583&perks=2896038713,3230963543,3824105627,839105230
 dimwishlist:item=2221264583&perks=1392496348,2896038713,3230963543,3824105627
 dimwishlist:item=2221264583&perks=2896038713,3230963543,3661387068,3824105627
-dimwishlist:item=2221264583&perks=1482024992,2896038713,3230963543,3824105627
 dimwishlist:item=2221264583&perks=1482024992,2896038713,3230963543,3824105627
 dimwishlist:item=2221264583&perks=1840239774,2896038713,3230963543,3824105627
 dimwishlist:item=2221264583&perks=2896038713,3230963543,3824105627,4090651448
@@ -12182,14 +12102,12 @@ dimwishlist:item=2221264583&perks=106909392,1546637391,2896038713,839105230
 dimwishlist:item=2221264583&perks=106909392,1392496348,1546637391,2896038713
 dimwishlist:item=2221264583&perks=106909392,1546637391,2896038713,3661387068
 dimwishlist:item=2221264583&perks=106909392,1482024992,1546637391,2896038713
-dimwishlist:item=2221264583&perks=106909392,1482024992,1546637391,2896038713
 dimwishlist:item=2221264583&perks=106909392,1546637391,1840239774,2896038713
 dimwishlist:item=2221264583&perks=106909392,1546637391,2896038713,4090651448
 dimwishlist:item=2221264583&perks=106909392,1546637391,2896038713,3250034553
 dimwishlist:item=2221264583&perks=1546637391,2896038713,3230963543,839105230
 dimwishlist:item=2221264583&perks=1392496348,1546637391,2896038713,3230963543
 dimwishlist:item=2221264583&perks=1546637391,2896038713,3230963543,3661387068
-dimwishlist:item=2221264583&perks=1482024992,1546637391,2896038713,3230963543
 dimwishlist:item=2221264583&perks=1482024992,1546637391,2896038713,3230963543
 dimwishlist:item=2221264583&perks=1546637391,1840239774,2896038713,3230963543
 dimwishlist:item=2221264583&perks=1546637391,2896038713,3230963543,4090651448
@@ -12202,14 +12120,12 @@ dimwishlist:item=2221264583&perks=106909392,4082225868,691659142,839105230
 dimwishlist:item=2221264583&perks=106909392,1392496348,4082225868,691659142
 dimwishlist:item=2221264583&perks=106909392,3661387068,4082225868,691659142
 dimwishlist:item=2221264583&perks=106909392,1482024992,4082225868,691659142
-dimwishlist:item=2221264583&perks=106909392,1482024992,4082225868,691659142
 dimwishlist:item=2221264583&perks=106909392,1840239774,4082225868,691659142
 dimwishlist:item=2221264583&perks=106909392,4082225868,4090651448,691659142
 dimwishlist:item=2221264583&perks=106909392,3250034553,4082225868,691659142
 dimwishlist:item=2221264583&perks=3230963543,4082225868,691659142,839105230
 dimwishlist:item=2221264583&perks=1392496348,3230963543,4082225868,691659142
 dimwishlist:item=2221264583&perks=3230963543,3661387068,4082225868,691659142
-dimwishlist:item=2221264583&perks=1482024992,3230963543,4082225868,691659142
 dimwishlist:item=2221264583&perks=1482024992,3230963543,4082225868,691659142
 dimwishlist:item=2221264583&perks=1840239774,3230963543,4082225868,691659142
 dimwishlist:item=2221264583&perks=3230963543,4082225868,4090651448,691659142
@@ -12222,14 +12138,12 @@ dimwishlist:item=2221264583&perks=106909392,11612903,3523296417,839105230
 dimwishlist:item=2221264583&perks=106909392,11612903,1392496348,3523296417
 dimwishlist:item=2221264583&perks=106909392,11612903,3523296417,3661387068
 dimwishlist:item=2221264583&perks=106909392,11612903,1482024992,3523296417
-dimwishlist:item=2221264583&perks=106909392,11612903,1482024992,3523296417
 dimwishlist:item=2221264583&perks=106909392,11612903,1840239774,3523296417
 dimwishlist:item=2221264583&perks=106909392,11612903,3523296417,4090651448
 dimwishlist:item=2221264583&perks=106909392,11612903,3250034553,3523296417
 dimwishlist:item=2221264583&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=2221264583&perks=11612903,1392496348,3230963543,3523296417
 dimwishlist:item=2221264583&perks=11612903,3230963543,3523296417,3661387068
-dimwishlist:item=2221264583&perks=11612903,1482024992,3230963543,3523296417
 dimwishlist:item=2221264583&perks=11612903,1482024992,3230963543,3523296417
 dimwishlist:item=2221264583&perks=11612903,1840239774,3230963543,3523296417
 dimwishlist:item=2221264583&perks=11612903,3230963543,3523296417,4090651448
@@ -12242,14 +12156,12 @@ dimwishlist:item=3407395594&perks=106909392,1583705720,4049631843,839105230
 dimwishlist:item=3407395594&perks=106909392,1392496348,1583705720,4049631843
 dimwishlist:item=3407395594&perks=106909392,1583705720,3661387068,4049631843
 dimwishlist:item=3407395594&perks=106909392,1482024992,1583705720,4049631843
-dimwishlist:item=3407395594&perks=106909392,1482024992,1583705720,4049631843
 dimwishlist:item=3407395594&perks=106909392,1583705720,1840239774,4049631843
 dimwishlist:item=3407395594&perks=106909392,1583705720,4049631843,4090651448
 dimwishlist:item=3407395594&perks=106909392,1583705720,3250034553,4049631843
 dimwishlist:item=3407395594&perks=1583705720,3230963543,4049631843,839105230
 dimwishlist:item=3407395594&perks=1392496348,1583705720,3230963543,4049631843
 dimwishlist:item=3407395594&perks=1583705720,3230963543,3661387068,4049631843
-dimwishlist:item=3407395594&perks=1482024992,1583705720,3230963543,4049631843
 dimwishlist:item=3407395594&perks=1482024992,1583705720,3230963543,4049631843
 dimwishlist:item=3407395594&perks=1583705720,1840239774,3230963543,4049631843
 dimwishlist:item=3407395594&perks=1583705720,3230963543,4049631843,4090651448
@@ -12262,14 +12174,12 @@ dimwishlist:item=3407395594&perks=106909392,2896038713,3824105627,839105230
 dimwishlist:item=3407395594&perks=106909392,1392496348,2896038713,3824105627
 dimwishlist:item=3407395594&perks=106909392,2896038713,3661387068,3824105627
 dimwishlist:item=3407395594&perks=106909392,1482024992,2896038713,3824105627
-dimwishlist:item=3407395594&perks=106909392,1482024992,2896038713,3824105627
 dimwishlist:item=3407395594&perks=106909392,1840239774,2896038713,3824105627
 dimwishlist:item=3407395594&perks=106909392,2896038713,3824105627,4090651448
 dimwishlist:item=3407395594&perks=106909392,2896038713,3250034553,3824105627
 dimwishlist:item=3407395594&perks=2896038713,3230963543,3824105627,839105230
 dimwishlist:item=3407395594&perks=1392496348,2896038713,3230963543,3824105627
 dimwishlist:item=3407395594&perks=2896038713,3230963543,3661387068,3824105627
-dimwishlist:item=3407395594&perks=1482024992,2896038713,3230963543,3824105627
 dimwishlist:item=3407395594&perks=1482024992,2896038713,3230963543,3824105627
 dimwishlist:item=3407395594&perks=1840239774,2896038713,3230963543,3824105627
 dimwishlist:item=3407395594&perks=2896038713,3230963543,3824105627,4090651448
@@ -12282,14 +12192,12 @@ dimwishlist:item=3407395594&perks=106909392,1546637391,2896038713,839105230
 dimwishlist:item=3407395594&perks=106909392,1392496348,1546637391,2896038713
 dimwishlist:item=3407395594&perks=106909392,1546637391,2896038713,3661387068
 dimwishlist:item=3407395594&perks=106909392,1482024992,1546637391,2896038713
-dimwishlist:item=3407395594&perks=106909392,1482024992,1546637391,2896038713
 dimwishlist:item=3407395594&perks=106909392,1546637391,1840239774,2896038713
 dimwishlist:item=3407395594&perks=106909392,1546637391,2896038713,4090651448
 dimwishlist:item=3407395594&perks=106909392,1546637391,2896038713,3250034553
 dimwishlist:item=3407395594&perks=1546637391,2896038713,3230963543,839105230
 dimwishlist:item=3407395594&perks=1392496348,1546637391,2896038713,3230963543
 dimwishlist:item=3407395594&perks=1546637391,2896038713,3230963543,3661387068
-dimwishlist:item=3407395594&perks=1482024992,1546637391,2896038713,3230963543
 dimwishlist:item=3407395594&perks=1482024992,1546637391,2896038713,3230963543
 dimwishlist:item=3407395594&perks=1546637391,1840239774,2896038713,3230963543
 dimwishlist:item=3407395594&perks=1546637391,2896038713,3230963543,4090651448
@@ -12302,14 +12210,12 @@ dimwishlist:item=3407395594&perks=106909392,4082225868,691659142,839105230
 dimwishlist:item=3407395594&perks=106909392,1392496348,4082225868,691659142
 dimwishlist:item=3407395594&perks=106909392,3661387068,4082225868,691659142
 dimwishlist:item=3407395594&perks=106909392,1482024992,4082225868,691659142
-dimwishlist:item=3407395594&perks=106909392,1482024992,4082225868,691659142
 dimwishlist:item=3407395594&perks=106909392,1840239774,4082225868,691659142
 dimwishlist:item=3407395594&perks=106909392,4082225868,4090651448,691659142
 dimwishlist:item=3407395594&perks=106909392,3250034553,4082225868,691659142
 dimwishlist:item=3407395594&perks=3230963543,4082225868,691659142,839105230
 dimwishlist:item=3407395594&perks=1392496348,3230963543,4082225868,691659142
 dimwishlist:item=3407395594&perks=3230963543,3661387068,4082225868,691659142
-dimwishlist:item=3407395594&perks=1482024992,3230963543,4082225868,691659142
 dimwishlist:item=3407395594&perks=1482024992,3230963543,4082225868,691659142
 dimwishlist:item=3407395594&perks=1840239774,3230963543,4082225868,691659142
 dimwishlist:item=3407395594&perks=3230963543,4082225868,4090651448,691659142
@@ -12322,14 +12228,12 @@ dimwishlist:item=3407395594&perks=106909392,11612903,3523296417,839105230
 dimwishlist:item=3407395594&perks=106909392,11612903,1392496348,3523296417
 dimwishlist:item=3407395594&perks=106909392,11612903,3523296417,3661387068
 dimwishlist:item=3407395594&perks=106909392,11612903,1482024992,3523296417
-dimwishlist:item=3407395594&perks=106909392,11612903,1482024992,3523296417
 dimwishlist:item=3407395594&perks=106909392,11612903,1840239774,3523296417
 dimwishlist:item=3407395594&perks=106909392,11612903,3523296417,4090651448
 dimwishlist:item=3407395594&perks=106909392,11612903,3250034553,3523296417
 dimwishlist:item=3407395594&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=3407395594&perks=11612903,1392496348,3230963543,3523296417
 dimwishlist:item=3407395594&perks=11612903,3230963543,3523296417,3661387068
-dimwishlist:item=3407395594&perks=11612903,1482024992,3230963543,3523296417
 dimwishlist:item=3407395594&perks=11612903,1482024992,3230963543,3523296417
 dimwishlist:item=3407395594&perks=11612903,1840239774,3230963543,3523296417
 dimwishlist:item=3407395594&perks=11612903,3230963543,3523296417,4090651448
