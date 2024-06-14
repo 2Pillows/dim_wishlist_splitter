@@ -1,8 +1,7 @@
 # write_to_wishlists.py
 
 import concurrent.futures
-from collections import Counter, defaultdict
-from typing import TYPE_CHECKING, List, Dict, Set
+from typing import TYPE_CHECKING, Dict, Set
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -26,7 +25,7 @@ def write_to_wishlists(keys: "Keys"):
 
 # Writes data to given wishlist file
 def write_to_wishlist(
-    wishlist,
+    wishlist: Dict[str, object],
     keys: "Keys",
 ):
     # Determine what perks wishlist wants, avoid repeated calcs
@@ -47,17 +46,17 @@ def write_to_wishlist(
         batch = []
 
         for index, weapon_roll in enumerate(keys.VOLTRON_DATA):
-            weapon_desc = weapon_roll[keys.DESCRIPTION_KEY]
+
             # Write first line for credits
             if index == 0:
-                batch.extend(weapon_desc)
+                batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
                 batch.append("\n")
 
-            weapon_perks = weapon_roll.get(PREF_PERKS)
             # Check there are perks to write and roll tags match wishlist tags
+            weapon_perks = weapon_roll.get(PREF_PERKS)
             if weapon_perks and check_tags(weapon_roll, wishlist, keys):
                 # Add description and correct perks to batch
-                batch.extend(weapon_desc)
+                batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
                 batch.extend(weapon_perks)
                 batch.append("\n")
 
@@ -74,7 +73,7 @@ def write_to_wishlist(
 # Determine what perks the given wishlist wants
 # Returns keys for perks and core perks as well as the counter for perks
 # If wishlist doesn't want dupes, no core perks or counter is returned
-def get_wishlist_perk_prefs(wishlist, keys: "Keys"):
+def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
             # wishlist wants trimmed perks and dupes
@@ -107,7 +106,7 @@ def check_tags(
     )
 
 
-def contains_author_names(weapon_authors, wishlist_authors):
+def contains_author_names(weapon_authors: Set[str], wishlist_authors: Set[str]):
     # If wishlist doesn't specify author then all rolls pass
     if not wishlist_authors:
         return True
@@ -120,7 +119,7 @@ def contains_author_names(weapon_authors, wishlist_authors):
     return wishlist_authors.intersection(weapon_authors)
 
 
-def contains_inc_tags(weapon_inc, wishlist_inc):
+def contains_inc_tags(weapon_inc: Set[str], wishlist_inc: Set[str]):
     # If wishlist doesn't have inc tags, then passes
     if not wishlist_inc:
         return True
@@ -134,7 +133,7 @@ def contains_inc_tags(weapon_inc, wishlist_inc):
     return wishlist_inc.issubset(weapon_inc)
 
 
-def contains_exc_tags(weapon_exc, wishlist_exc):
+def contains_exc_tags(weapon_exc, wishlist_exc: Set[str]):
     # If wishlist doesn't have any exlcude tags then roll can't have any exclude tags
     # Or if roll doesn't have any exclude tags then it passes
     if not wishlist_exc or not weapon_exc:

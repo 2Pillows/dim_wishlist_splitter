@@ -1,9 +1,7 @@
 # extract_voltron_data.py
 
-import re
-
-from collections import Counter, defaultdict
-from typing import TYPE_CHECKING, Dict, List
+from collections import defaultdict
+from typing import TYPE_CHECKING, Dict
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -72,7 +70,13 @@ def process_roll(weapon_desc, weapon_perks, keys: "Keys"):
 
     for line in current_roll[keys.DESCRIPTION_KEY]:
         line_lower = line.lower()
-        process_author(current_roll, line_lower, keys)
+
+        # Collect author names present in roll
+        for author in keys.AUTHORS:
+            if author in line_lower:
+                current_roll[keys.AUTHORS_KEY].add(author)
+
+        # Collect tags present in roll
         process_tags(current_roll, line_lower, keys)
 
     current_roll[keys.WEAPON_HASH_KEY] = (
@@ -80,7 +84,11 @@ def process_roll(weapon_desc, weapon_perks, keys: "Keys"):
     )
 
     # Adds mouse and pve tag if no input or gamemode tag present
-    add_default_tags(current_roll, keys)
+    roll_inc_tags = current_roll[keys.INC_TAGS_KEY]
+    if not roll_inc_tags.intersection({"mkb", "controller"}):
+        roll_inc_tags.add("mkb")
+    if not roll_inc_tags.intersection({"pve", "pvp"}):
+        roll_inc_tags.add("pve")
 
     # Get core and trimmed perks
     # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
@@ -88,45 +96,11 @@ def process_roll(weapon_desc, weapon_perks, keys: "Keys"):
     process_perks(current_roll, weapon_perks, keys)
 
     # Collect weapon and perks Counters
-    get_weapon_and_perk_counters(current_roll, keys)
+    keys.CORE_COUNTER.update(current_roll[keys.PERKS_KEY].keys())
+    keys.TRIMMED_COUNTER.update(current_roll[keys.TRIMMED_PERKS_KEY].keys())
+    keys.WEAPON_COUNTER.update([current_roll[keys.WEAPON_HASH_KEY]])
 
     return current_roll
-
-
-# Get array of perk lines that are present min_count times
-# Change curent perk and trimed perks from dict to list w/ lines
-def process_perks_dupes(voltron_data, keys: "Keys"):
-    perk_counter = keys.CORE_COUNTER
-    trimmed_perk_counter = keys.TRIMMED_COUNTER
-    min_count = keys.MIN_ROLL_COUNT
-
-    for weapon_roll in voltron_data:
-        perks = []
-        perks_dupes = []
-        trimmed_perks = []
-        trimmed_perks_dupes = []
-
-        if not weapon_roll.get(keys.PERKS_KEY):
-            continue
-
-        for core_perks in weapon_roll[keys.PERKS_KEY].keys():
-            perks.extend(weapon_roll[keys.PERKS_KEY][core_perks])
-            if perk_counter[core_perks] >= min_count:
-                perks_dupes.extend(weapon_roll[keys.PERKS_KEY][core_perks])
-
-        for core_trimmed_perks in weapon_roll[keys.TRIMMED_PERKS_KEY].keys():
-            trimmed_perks.extend(
-                weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
-            )
-            if trimmed_perk_counter[core_trimmed_perks] >= min_count:
-                trimmed_perks_dupes.extend(
-                    weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
-                )
-
-        weapon_roll[keys.PERKS_KEY] = perks
-        weapon_roll[keys.PERKS_DUPES_KEY] = perks_dupes
-        weapon_roll[keys.TRIMMED_PERKS_KEY] = trimmed_perks
-        weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = trimmed_perks_dupes
 
 
 def process_perks(weapon_roll, perk_lines, keys: "Keys"):
@@ -209,30 +183,6 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
     )
 
 
-# Creates Counter to track number of mentions for each set of perk and weapon hashes
-def get_weapon_and_perk_counters(weapon_roll, keys: "Keys"):
-    # Update counter for each rolls hashes. Only one set of hashes per roll will count
-    keys.CORE_COUNTER.update(weapon_roll[keys.PERKS_KEY].keys())
-    keys.TRIMMED_COUNTER.update(weapon_roll[keys.TRIMMED_PERKS_KEY].keys())
-    keys.WEAPON_COUNTER.update([weapon_roll[keys.WEAPON_HASH_KEY]])
-
-
-# Adds mouse and pve tag if no input or gamemode tag present
-def add_default_tags(weapon_roll, keys: "Keys"):
-    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"mkb", "controller"}):
-        weapon_roll[keys.INC_TAGS_KEY].add("mkb")
-    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"pve", "pvp"}):
-        weapon_roll[keys.INC_TAGS_KEY].add("pve")
-
-
-# Check each author present in wishlist configs
-# If any found in line, add to current roll
-def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
-    for author in keys.AUTHORS:
-        if author in line_lower:
-            current_roll[keys.AUTHORS_KEY].add(author)
-
-
 # Checks if any tags in wishlist are in given line
 def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
     # Fix MKB formatting
@@ -288,3 +238,39 @@ def find_outer_content(line: str, open_delim: str, close_delim: str):
                     content_start = -1
 
     return content
+
+
+# Get array of perk lines that are present min_count times
+# Change curent perk and trimed perks from dict to list w/ lines
+def process_perks_dupes(voltron_data, keys: "Keys"):
+    perk_counter = keys.CORE_COUNTER
+    trimmed_perk_counter = keys.TRIMMED_COUNTER
+    min_count = keys.MIN_ROLL_COUNT
+
+    for weapon_roll in voltron_data:
+        perks = []
+        perks_dupes = []
+        trimmed_perks = []
+        trimmed_perks_dupes = []
+
+        if not weapon_roll.get(keys.PERKS_KEY):
+            continue
+
+        for core_perks in weapon_roll[keys.PERKS_KEY].keys():
+            perks.extend(weapon_roll[keys.PERKS_KEY][core_perks])
+            if perk_counter[core_perks] >= min_count:
+                perks_dupes.extend(weapon_roll[keys.PERKS_KEY][core_perks])
+
+        for core_trimmed_perks in weapon_roll[keys.TRIMMED_PERKS_KEY].keys():
+            trimmed_perks.extend(
+                weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
+            )
+            if trimmed_perk_counter[core_trimmed_perks] >= min_count:
+                trimmed_perks_dupes.extend(
+                    weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
+                )
+
+        weapon_roll[keys.PERKS_KEY] = perks
+        weapon_roll[keys.PERKS_DUPES_KEY] = perks_dupes
+        weapon_roll[keys.TRIMMED_PERKS_KEY] = trimmed_perks
+        weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = trimmed_perks_dupes
