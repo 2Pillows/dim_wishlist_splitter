@@ -10177,6 +10177,7 @@ dimwishlist:item=999767358&perks=2284787283,3436462433
 // Cataclysmic (Adept)
 //notes:pandapaxxy (PvE / M+KB / Controller): "Cataclysmic is an interesting linear fusion rifle [...] While it doesn’t directly beat out Reed’s Regret in terms of damage it possibly could. It really depends on your damage window. Firing line will do longer burst damage, but if you don’t have mag extending perks you won’t be able to keep up with Cataclysmic. Fourth time’s the charm will let you deal damage for longer if you spec your Cataclysmic the right way, and you can craft the exact roll you want.". Recommended MW - Reload or Charge Time.|tags:pve,mkb,controller
 dimwishlist:item=2886339027&perks=1354429876,2213355989
+dimwishlist:item=2886339027&perks=1354429876,2284787283
 
 // Piece of Mind
 //notes:pandapaxxy (PvE / M+KB / Controller): "What would make Piece of Mind better than say Time-Worn Spire or a Gridskipper alternative? Well, it can get barrels to boost it above Time-Worn Spire, and its perk pool is better for neutral builds in PvE. [...] It won’t have the straight up consistency as Time-Worn Spire but it will have a higher ceiling for using it in all activities." Recommended MW: Reload.|tags:pve,mkb,controller
@@ -10415,6 +10416,7 @@ dimwishlist:item=2821430069&perks=4071163871,47981717
 dimwishlist:item=2821430069&perks=1428297954,47981717
 dimwishlist:item=2821430069&perks=4071163871,588594999
 dimwishlist:item=2821430069&perks=1428297954,588594999
+dimwishlist:item=2821430069&perks=11612903,3523296417
 
 // Duty Bound
 //notes:pandapaxxy (PvE / M+KB / Controller): "With triple tap, fourth time’s the charm, and actium war rig, you could fire forever. In most cases that is entirely a meme, but against specific bosses it could be useful to have. A more utilitarian roll would be triple tap with vorpal weapon to slot in adept big ones when the grandmaster nightfalls release. Ideally you want to bring up the recoil direction from the base 60, but chambered compensator or extended barrel won’t do as much, and you won’t want to slot a counterbalance mod in favor of any of the spec mods. Arrowhead then becomes the only choice to really improve that recoil to something more desirable. Other options are then just to make the gun feel better. Stats for all pairs really well with one for all, but also fourth time’s the charm or vorpal for a better feeling gun. And perpetual motion will elevate the gun feel without needing to shoot.". Recommended MW - Reload.|tags:pve,mkb,controller
@@ -11428,6 +11430,7 @@ dimwishlist:item=217140611&perks=3436462433,3511092054
 // The Deicide - The Deicide (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
 dimwishlist:item=217140611&perks=1546637391,1631667848
+dimwishlist:item=217140611&perks=1631667848,2679249093
 dimwishlist:item=217140611&perks=1546637391,3436462433
 dimwishlist:item=217140611&perks=2679249093,3436462433
 dimwishlist:item=217140611&perks=3436462433,3523296417
