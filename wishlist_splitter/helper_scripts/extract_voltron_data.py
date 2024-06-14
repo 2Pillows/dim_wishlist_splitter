@@ -3,7 +3,7 @@
 import re
 
 from collections import Counter, defaultdict
-from typing import TYPE_CHECKING, Dict
+from typing import TYPE_CHECKING, Dict, List
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -15,8 +15,8 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collects lines until weapon roll finished, then adds to voltron_data and empties
-    weapon_lines = []
-    perks_present = True  # Need to capture heading
+    weapon_perks = []
+    weapon_desc = []
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
         for line_num, line in enumerate(voltron_file):
@@ -26,19 +26,21 @@ def extract_voltron_data(keys: "Keys"):
 
             if line == "\n":  # New line signifies end of current weapon roll
                 # Process current roll and add to voltron data
-                if perks_present:
-                    voltron_data.append(process_roll(weapon_lines, keys))
+                if line_num == 2 or weapon_perks:
+                    voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
 
-                weapon_lines = []  # Start new roll
-                perks_present = False
+                # Start new roll
+                weapon_perks = []
+                weapon_desc = []
             else:
-                if not perks_present and "dimwishlist:item=" in line:
-                    perks_present = True
-                weapon_lines.append(line)  # Not empty line, add to current roll
+                if "dimwishlist:item=" in line:
+                    weapon_perks.append(line)
+                else:
+                    weapon_desc.append(line)  # Not empty line, add to current roll
 
         # Add last roll to voltron data when reach end of file
-        if weapon_lines:
-            voltron_data.append(process_roll(weapon_lines, keys))
+        if weapon_perks:
+            voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
 
     # Process perks more, get dupes and set perk and trimmed to lists
     process_perks_dupes(voltron_data, keys)
@@ -48,7 +50,7 @@ def extract_voltron_data(keys: "Keys"):
 
 # Given array of weapon roll lines
 # Save lines as Description or Perks. If Description, find author and tags
-def process_roll(weapon_lines, keys: "Keys"):
+def process_roll(weapon_desc, weapon_perks, keys: "Keys"):
     current_roll = {
         keys.AUTHORS_KEY: set(),
         keys.INC_TAGS_KEY: set(),
@@ -61,32 +63,31 @@ def process_roll(weapon_lines, keys: "Keys"):
         keys.TRIMMED_PERKS_DUPES_KEY: [],
     }
 
-    for index, line in enumerate(weapon_lines):
-        # When perk line found, assume rest are also perks and add remaining
-        if "dimwishlist:item=" in line:
-            weapon_hash = line.split("item=")[1].split("&perks=")[0]
-            current_roll[keys.WEAPON_HASH_KEY] = weapon_hash
+    current_roll[keys.DESCRIPTION_KEY] = weapon_desc
 
-            # Adds mouse and pve tag if no input or gamemode tag present
-            add_default_tags(current_roll, keys)
+    # Return if just desc given, no perks to process
+    if not weapon_perks:
+        return current_roll
 
-            # Get core and trimmed perks
-            # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
-            # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
-            process_perks(current_roll, weapon_lines[index:], keys)
+    for line in current_roll[keys.DESCRIPTION_KEY]:
+        line_lower = line.lower()
+        process_author(current_roll, line_lower, keys)
+        process_tags(current_roll, line_lower, keys)
 
-            # Collect weapon and perks Counters
-            get_weapon_and_perk_counters(current_roll, keys)
-            break
+    current_roll[keys.WEAPON_HASH_KEY] = (
+        weapon_perks[0].split("item=")[1].split("&perks=")[0]
+    )
 
-        # Description line
-        else:
-            current_roll[keys.DESCRIPTION_KEY].append(line)
+    # Adds mouse and pve tag if no input or gamemode tag present
+    add_default_tags(current_roll, keys)
 
-            # Collect author and tags for roll
-            line_lower = line.lower()
-            process_author(current_roll, line_lower, keys)
-            process_tags(current_roll, line_lower, keys)
+    # Get core and trimmed perks
+    # core is 1st, 2nd, 3rd, 4th column. Used for accurate counting
+    # Trimmed doesn't have 1st and 2nd column. Gets core version for counting as well
+    process_perks(current_roll, weapon_perks, keys)
+
+    # Collect weapon and perks Counters
+    get_weapon_and_perk_counters(current_roll, keys)
 
     return current_roll
 
@@ -99,23 +100,32 @@ def process_perks_dupes(voltron_data, keys: "Keys"):
     min_count = keys.MIN_ROLL_COUNT
 
     for weapon_roll in voltron_data:
+        perks = []
+        perks_dupes = []
+        trimmed_perks = []
+        trimmed_perks_dupes = []
+
         if not weapon_roll.get(keys.PERKS_KEY):
             continue
 
-        for core_perks, perk_lines in weapon_roll[keys.PERKS_KEY].items():
+        for core_perks in weapon_roll[keys.PERKS_KEY].keys():
+            perks.extend(weapon_roll[keys.PERKS_KEY][core_perks])
             if perk_counter[core_perks] >= min_count:
-                weapon_roll[keys.PERKS_DUPES_KEY].extend(perk_lines)
+                perks_dupes.extend(weapon_roll[keys.PERKS_KEY][core_perks])
 
-        for core_trimmed_perks, perk_lines in weapon_roll[
-            keys.TRIMMED_PERKS_KEY
-        ].items():
+        for core_trimmed_perks in weapon_roll[keys.TRIMMED_PERKS_KEY].keys():
+            trimmed_perks.extend(
+                weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
+            )
             if trimmed_perk_counter[core_trimmed_perks] >= min_count:
-                weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY].extend(perk_lines)
+                trimmed_perks_dupes.extend(
+                    weapon_roll[keys.TRIMMED_PERKS_KEY][core_trimmed_perks]
+                )
 
-        weapon_roll[keys.PERKS_KEY] = sum(weapon_roll[keys.PERKS_KEY].values(), [])
-        weapon_roll[keys.TRIMMED_PERKS_KEY] = sum(
-            weapon_roll[keys.TRIMMED_PERKS_KEY].values(), []
-        )
+        weapon_roll[keys.PERKS_KEY] = perks
+        weapon_roll[keys.PERKS_DUPES_KEY] = perks_dupes
+        weapon_roll[keys.TRIMMED_PERKS_KEY] = trimmed_perks
+        weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = trimmed_perks_dupes
 
 
 def process_perks(weapon_roll, perk_lines, keys: "Keys"):
