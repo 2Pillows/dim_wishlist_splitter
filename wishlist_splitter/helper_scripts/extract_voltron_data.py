@@ -152,7 +152,10 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
             perk_hashes.append(sorted(perks_substring.split(",")))
         return perk_hashes
 
-    def get_perk_dicts(perk_lines, perk_hashes, keys: "Keys"):
+    def get_perk_dicts(perk_hashes, keys: "Keys"):
+        def hashes_to_string(roll_id, perk_hashes):
+            return roll_id + ",".join(perk_hashes) + "\n"
+
         def remove_duplicates(perks):
             seen = set()
             for core_perks, perk_lines in perks.items():
@@ -165,7 +168,7 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
         trimmed_perks = defaultdict(list)
 
         # Filter the perk hashes based on type of perks
-        for index, hashes in enumerate(perk_hashes):
+        for hashes in perk_hashes:
             trimmed_hashes = []
             core_hashes = []
             core_trimmed_hashes = []
@@ -180,11 +183,13 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
                     core_hashes.append(hash_value)
 
             # Append perks to corresponding core perks
-            perks[roll_id + ",".join(core_hashes) + "\n"].append(perk_lines[index])
+            perks[hashes_to_string(roll_id, core_hashes)].append(
+                hashes_to_string(roll_id, hashes)
+            )
 
             # Change trimmed hashes to string and append to correspoding core trimmed perks
-            trimmed_perks[roll_id + ",".join(core_trimmed_hashes) + "\n"].append(
-                roll_id + ",".join(trimmed_hashes) + "\n"
+            trimmed_perks[hashes_to_string(roll_id, core_trimmed_hashes)].append(
+                hashes_to_string(roll_id, trimmed_hashes)
             )
 
         # Remove duplicates, keeping order
@@ -199,7 +204,7 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
     perk_hashes = get_perk_hashes(perk_lines)  # Holds arrays of perk hashes
 
     weapon_roll[keys.PERKS_KEY], weapon_roll[keys.TRIMMED_PERKS_KEY] = get_perk_dicts(
-        perk_lines, perk_hashes, keys
+        perk_hashes, keys
     )
 
 
