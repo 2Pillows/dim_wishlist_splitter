@@ -26,6 +26,7 @@ def extract_voltron_data(keys: "Keys"):
 
             if line == "\n":  # New line signifies end of current weapon roll
                 # Process current roll and add to voltron data
+
                 if line_num == 2 or weapon_perks:
                     voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
 
