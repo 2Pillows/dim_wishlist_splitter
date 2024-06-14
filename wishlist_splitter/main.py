@@ -55,12 +55,17 @@ class Keys:
 
     # Wishlist and weapon dict keys
     PATH_KEY = "path"
+
+    # Voltron Data keys
+    WEAPON_HASH_KEY = "weapon_hash"
+    ROLL_ID_KEY = "roll_id"
+
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
+
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
     PERKS_DUPES_KEY = "perks_dupes"
     TRIMMED_PERKS_KEY = "trimmed_perks"
     TRIMMED_PERKS_DUPES_KEY = "trimmed_perks_dupes"
-    WEAPON_HASH_KEY = "weapon_hash"
 
     # Flags for wishlist requirements
     REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
