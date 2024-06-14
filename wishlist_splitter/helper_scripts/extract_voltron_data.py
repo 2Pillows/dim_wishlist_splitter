@@ -245,13 +245,10 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
     # If no "tags:" found, find text between "(...)" or "[...]"
     else:
         # All text between '(...)'
-        parenthesis_content = find_outer_content(line_lower, "(", ")")
-
-        # All text between '[...]'
-        bracket_content = find_outer_content(line_lower, "[", "]")
-
-        # Combine both matches
-        valuable_text = " ".join(parenthesis_content + bracket_content)
+        if "(" in line_lower:
+            valuable_text += "".join(find_outer_content(line_lower, "(", ")"))
+        if "[" in line_lower:
+            valuable_text += "".join(find_outer_content(line_lower, "[", "]"))
 
     # Return if no valuable text
     if not valuable_text:

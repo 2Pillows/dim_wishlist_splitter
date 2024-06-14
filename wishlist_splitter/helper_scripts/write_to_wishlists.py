@@ -12,16 +12,16 @@ if TYPE_CHECKING:
 # Main function called from main.py
 def write_to_wishlists(keys: "Keys"):
     # Non threaded option
-    for wishlist in keys.WISHLIST_CONFIGS:
-        write_to_wishlist(wishlist, keys)
+    # for wishlist in keys.WISHLIST_CONFIGS:
+    #     write_to_wishlist(wishlist, keys)
 
     # Write to each wishlist in a thread
-    # with concurrent.futures.ThreadPoolExecutor() as executor:
-    #     futures = [
-    #         executor.submit(write_to_wishlist, wishlist, keys)
-    #         for wishlist in keys.WISHLIST_CONFIGS
-    #     ]
-    #     concurrent.futures.wait(futures)
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(write_to_wishlist, wishlist, keys)
+            for wishlist in keys.WISHLIST_CONFIGS
+        ]
+        concurrent.futures.wait(futures)
 
 
 # Writes data to given wishlist file
