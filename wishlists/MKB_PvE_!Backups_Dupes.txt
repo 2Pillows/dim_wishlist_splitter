@@ -11206,14 +11206,12 @@ dimwishlist:item=999767358&perks=2213355989,3436462433,689005463,839105230
 dimwishlist:item=999767358&perks=1840239774,2213355989,3436462433,689005463
 dimwishlist:item=999767358&perks=1354429876,2284787283,689005463,839105230
 dimwishlist:item=999767358&perks=1354429876,1840239774,2284787283,689005463
-dimwishlist:item=999767358&perks=1354429876,1687452232,1840239774,2284787283
 dimwishlist:item=999767358&perks=2284787283,3436462433,689005463,839105230
 dimwishlist:item=999767358&perks=1840239774,2284787283,3436462433,689005463
 
 // Cataclysmic (Adept)
 //notes:pandapaxxy (PvE / M+KB / Controller): "Cataclysmic is an interesting linear fusion rifle [...] While it doesn’t directly beat out Reed’s Regret in terms of damage it possibly could. It really depends on your damage window. Firing line will do longer burst damage, but if you don’t have mag extending perks you won’t be able to keep up with Cataclysmic. Fourth time’s the charm will let you deal damage for longer if you spec your Cataclysmic the right way, and you can craft the exact roll you want.". Recommended MW - Reload or Charge Time.|tags:pve,mkb,controller
 dimwishlist:item=2886339027&perks=1354429876,1840239774,2213355989,689005463
-dimwishlist:item=2886339027&perks=1354429876,1687452232,1840239774,2284787283
 
 // Piece of Mind
 //notes:pandapaxxy (PvE / M+KB / Controller): "What would make Piece of Mind better than say Time-Worn Spire or a Gridskipper alternative? Well, it can get barrels to boost it above Time-Worn Spire, and its perk pool is better for neutral builds in PvE. [...] It won’t have the straight up consistency as Time-Worn Spire but it will have a higher ceiling for using it in all activities." Recommended MW: Reload.|tags:pve,mkb,controller
@@ -11636,10 +11634,6 @@ dimwishlist:item=927567426&perks=106909392,1428297954,2848615171,4090651448
 dimwishlist:item=927567426&perks=1087426260,1428297954,1840239774,2848615171
 dimwishlist:item=927567426&perks=1087426260,1428297954,2848615171,4090651448
 
-// Father's Sins
-//notes:pandapaxxy (PvE / M+KB / Controller): "Father’s Sins is craftable but doesn’t offer as much. Focused Fury is great for choosing when to get your damage and being able to reload and triple tap into a bigger mag is a huge boon. But damage phases are moving to more mobile sets, so “stand and DPS” is becoming less common. Even still having one in the event a “stand and DPS” phase comes back would be nice to keep in your back pocket.". Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=3865728990&perks=1087426260,1840239774,2896038713,3400784728
-
 // Tarnation
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tarnation is underwhelming. [...] While they still have decent burst damage, and middling sustained damage. For single target damage there are better options and for grenade launchers you’re better off using the adaptives to clear rooms.". Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=2721157927&perks=2396489472,2869569095,3301904089,3525010810
@@ -11945,7 +11939,6 @@ dimwishlist:item=2233545123&perks=1087426260,1546637391,3300816228,4090651448
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for Boss DPS. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for burst DPS or Tactical Mag for a larger mag and sustained damage. Fourth Time's The Charm and either Vorpal Weapon or Frenzy work to boost damage against bosses. Recommended MW: Handling, with Backup Mag mod.|tags:pve
 dimwishlist:item=2821430069&perks=1354429876,1546637391,1840239774,791862061
 dimwishlist:item=2821430069&perks=1354429876,1546637391,791862061,839105230
-dimwishlist:item=2821430069&perks=1354429876,1546637391,4090651448,791862061
 dimwishlist:item=2821430069&perks=106909392,1354429876,1546637391,1840239774
 dimwishlist:item=2821430069&perks=106909392,1354429876,1546637391,839105230
 
@@ -23959,7 +23952,6 @@ dimwishlist:item=613334176&perks=2822142346,3108830275,3525010810,598607952
 dimwishlist:item=613334176&perks=2396489472,2822142346,3525010810,855168139
 dimwishlist:item=613334176&perks=2822142346,3525010810,598607952,855168139
 dimwishlist:item=613334176&perks=2396489472,2822142346,3436462433,3525010810
-dimwishlist:item=613334176&perks=2010801679,2396489472,2822142346,981914802
 
 // Deliverance - [YeezyGT's WQ] (god-pve)
 //notes: [YeezyGT's WQ] [MW: Charge] "Deliverance is a one-of-a-kind with an incredible suite of perks. It's difficult to recommend something specific, as there's a great deal of synergistic perk options here. Compulsive/Chill Clip is a Reservoir Burst-esque combo, without detrimentally increasing mag size. Cornered/Surrounded is a godly combo that cuts down Charge Time and massively increases damage output (Enhanced Surrounded + Spec is an ENORMOUS +47% buff), Demolitionist/Adrenaline Junkie have natural synergy, along with Demo/Chill Clip, Heating Up/Tap the Trigger, Perpetual Motion for consistency... Almost anything works here. Invest in getting that Charge Time down as far as you can while maintaining Range and bolt spread (Stability)." tags:god-pve
@@ -24347,7 +24339,6 @@ dimwishlist:item=1994645182&perks=1392496348,2171055345,2652708987,280464955,386
 dimwishlist:item=1994645182&perks=1392496348,1428297954,2171055345,2652708987,3868766766
 dimwishlist:item=1994645182&perks=1392496348,2171055345,2652708987,280464955,689005463
 dimwishlist:item=1994645182&perks=1392496348,1428297954,2171055345,2652708987,689005463
-dimwishlist:item=1994645182&perks=1428297954,2171055345,2652708987,4090651448,689005463
 
 // Lubrae's Ruin - [YeezyGT's WQ] (pve)
 //notes: [YeezyGT's WQ] [MW: Range] "Lubrae's Ruin is amazing. While maybe not a go-to for the higher-end PvE sandbox, it wins out on "cool factor", having wrested Rhulk's weapon that destroyed his home planet. A little cooler is Grave Robber's synergy on Glaives, with the Glaive melee fully reloading the magazine and nullifying any need to invest in reload perks. Swashbuckler currently only boosts the projectile damage, but the projectiles are a larger part of the Glaive identity we haven't fully realised yet. Currently, this is the only Glaive that feels good to me - but its still early days." tags:pve
@@ -24383,7 +24374,6 @@ dimwishlist:item=2595497736&perks=1263609309,3007133316,357495645,3878366039,679
 //notes: [YeezyGT's WQ] [MW: Velocity / Reload] "Tarnation feels like every other 150RPM, with the usual suite of good HGL perks; Clown Cartridge, Field Prep, Pulse Monitor, the main difference being their Enhanced versions now being available for crafting. Chain Reaction is nice as always." tags:pve
 dimwishlist:item=2721157927&perks=2284787283,2396489472,3301904089,3525010810,79448657
 dimwishlist:item=2721157927&perks=2396489472,2869569095,3301904089,3525010810,79448657
-dimwishlist:item=2721157927&perks=2284787283,2396489472,3525010810,409831596,79448657
 
 // Krait - [YeezyGT's WQ] (pve)
 //notes: [YeezyGT's WQ] [MW: Range / Stability] "Krait is pretty nuts. Overflow or Subsistence combo'd with the Veist Stinger origin allows you to shoot for... a very long time. Extended Mag makes it even crazier. One-for-All makes 720RPMs a little more usable in higher-end content, but in general, I'd label this as a fun gun for mid-to-low-level engagements." tags:pve
@@ -24504,7 +24494,6 @@ dimwishlist:item=3568377122&perks=11612903,2839173408,3301904089,3523296417,3525
 dimwishlist:item=3568377122&perks=2839173408,3301904089,3523296417,3525010810,4104185692
 dimwishlist:item=3568377122&perks=11612903,2839173408,3525010810,409831596,951095735
 dimwishlist:item=3568377122&perks=11612903,2839173408,3523296417,3525010810,409831596
-dimwishlist:item=3568377122&perks=2839173408,3194351027,3301904089,3523296417,981914802
 
 // Submission - [YeezyGT's WQ] (god-pve)
 //notes: [YeezyGT's WQ] [MW: Reload / Range] "Submission is great. As a Craftable, Enhanced Subsistence refunds up to +25% of the mag per kill, Enhanced Overflow gives an additional bonus from +5-20%, and then Frenzy elevates pretty much any SMG into god-tier status. Souldrinker is a perfect Origin Trait for the gun. The whole package is just able to synergise really well together." tags:god-pve
@@ -24571,8 +24560,6 @@ dimwishlist:item=4096943616&perks=1536798515,1583705720,2822142346,3525010810,40
 dimwishlist:item=4096943616&perks=1536798515,2822142346,3108830275,3300816228,3525010810
 dimwishlist:item=4096943616&perks=1536798515,2822142346,3300816228,3525010810,4104185692
 dimwishlist:item=4096943616&perks=1536798515,2822142346,3300816228,3525010810,4049631843
-dimwishlist:item=4096943616&perks=1536798515,2779035018,2822142346,4104185692,981914802
-dimwishlist:item=4096943616&perks=1536798515,1583705720,2822142346,4049631843,981914802
 
 // Snorri FR5 - [YeezyGT's WQ] (pve)
 //notes: [YeezyGT's WQ] [MW: Charge] "Snorri's the new kid on the block with a great perk pool. Firmly Planted (of course), Surplus as a reload booster, Heating Up for kill chaining, and the Omolon Origin trait that pairs fantastically with Reservoir Burst. Outside of that niche, Frenzy, HIRs and Successful Warm Up are all stellar options. Invest in the usual Fusion specs and Snorri should become a great workhorse for you." tags:pve
@@ -24606,8 +24593,6 @@ dimwishlist:item=1788603939&perks=124408337,1561002382,1820235745,4090651448
 dimwishlist:item=1788603939&perks=1561002382,1820235745,4049631843,4090651448
 dimwishlist:item=1788603939&perks=1561002382,1820235745,4090651448,4104185692
 
-dimwishlist:item=2821430069&perks=1354429876,1546637391,4090651448,791862061
-
 dimwishlist:item=3355385170&perks=1840239774,2420895100,3400784728,4104185692
 dimwishlist:item=3355385170&perks=1771339417,1840239774,2420895100,3400784728
 
@@ -24625,17 +24610,9 @@ dimwishlist:item=927567426&perks=106909392,1583705720,2848615171,4090651448
 dimwishlist:item=927567426&perks=106909392,3400784728,4049631843,4090651448
 dimwishlist:item=927567426&perks=106909392,1583705720,4049631843,4090651448
 
-dimwishlist:item=3865728990&perks=1087426260,1840239774,2896038713,3400784728
-
-dimwishlist:item=2721157927&perks=2284787283,2396489472,3525010810,409831596
-
 dimwishlist:item=2097055732&perks=11612903,1561002382,3643424744,4090651448
 
 dimwishlist:item=4067556514&perks=1771339417,1840239774,2420895100,3643424744
-
-dimwishlist:item=4096943616&perks=1583705720,2822142346,4049631843,981914802
-
-dimwishlist:item=4096943616&perks=2779035018,2822142346,4104185692,981914802
 
 dimwishlist:item=1572896086&perks=124408337,2869569095,3142289711,4090651448
 dimwishlist:item=1572896086&perks=124408337,1820235745,3142289711,4090651448
@@ -24670,12 +24647,8 @@ dimwishlist:item=3341893443&perks=11612903,1428297954,3142289711,3250034553
 dimwishlist:item=3341893443&perks=1820235745,3142289711,3250034553,4104185692
 dimwishlist:item=3341893443&perks=1428297954,3142289711,3250034553,4104185692
 
-dimwishlist:item=3568377122&perks=3194351027,3301904089,3523296417,981914802
-
 dimwishlist:item=1526296434&perks=124408337,1428297954,1561002382,4090651448
 dimwishlist:item=1526296434&perks=1428297954,1561002382,4082225868,4090651448
-
-dimwishlist:item=1994645182&perks=1428297954,2652708987,4090651448,689005463
 
 dimwishlist:item=297296830&perks=1048183818,1354429876,1561002382,4090651448
 dimwishlist:item=297296830&perks=1354429876,1561002382,2848615171,4090651448
@@ -24706,18 +24679,12 @@ dimwishlist:item=1941816543&perks=106909392,3523296417,3643424744,4090651448
 dimwishlist:item=1941816543&perks=106909392,1820235745,3523296417,4090651448
 dimwishlist:item=1941816543&perks=106909392,1428297954,3523296417,4090651448
 
-dimwishlist:item=613334176&perks=2010801679,2396489472,2822142346,981914802
-
 dimwishlist:item=3428521585&perks=11612903,2848615171,3142289711,4090651448
 dimwishlist:item=3428521585&perks=11612903,3142289711,3523296417,4090651448
 dimwishlist:item=3428521585&perks=11612903,247725512,3142289711,4090651448
 dimwishlist:item=3428521585&perks=2848615171,3142289711,3425386926,4090651448
 dimwishlist:item=3428521585&perks=3142289711,3425386926,3523296417,4090651448
 dimwishlist:item=3428521585&perks=247725512,3142289711,3425386926,4090651448
-
-dimwishlist:item=999767358&perks=1354429876,1687452232,1840239774,2284787283
-
-dimwishlist:item=2886339027&perks=1354429876,1687452232,1840239774,2284787283
 
 // Hung Jury SR4 (PvE first choice roll)
 // (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Extended Barrel, Rapid Hit, Explosive Payload 
@@ -40715,8 +40682,6 @@ dimwishlist:item=2065081837&perks=1087426260,1840239774,3038247973,3400784728
 dimwishlist:item=2065081837&perks=106909392,1840239774,2284787283,3038247973
 dimwishlist:item=2065081837&perks=1087426260,1840239774,2284787283,3038247973
 
-dimwishlist:item=1967303408&perks=106909392,1840239774,2869569095,3425386926
-
 dimwishlist:item=1119734784&perks=1015611457,106909392,2779035018,3250034553
 dimwishlist:item=1119734784&perks=1015611457,106909392,2779035018,4090651448
 dimwishlist:item=1119734784&perks=1015611457,106909392,1820235745,3250034553
@@ -40756,8 +40721,6 @@ dimwishlist:item=304659313&perks=1546637391,2010801679,3032599245,981914802
 dimwishlist:item=304659313&perks=1546637391,2010801679,3032599245,3525010810
 dimwishlist:item=304659313&perks=1546637391,2010801679,3301904089,981914802
 dimwishlist:item=304659313&perks=1546637391,2010801679,3301904089,3525010810
-
-dimwishlist:item=541188001&perks=106909392,1820235745,1840239774,4104185692
 
 dimwishlist:item=1621558458&perks=1561002382,1840239774,2450788523,4104185692
 dimwishlist:item=1621558458&perks=1840239774,1885400500,2450788523,4104185692
@@ -42082,14 +42045,6 @@ dimwishlist:item=614426548&perks=1749209109,269888150,3666208348,3708227201
 dimwishlist:item=35794111&perks=1546637391,1749209109,269888150,3666208348
 dimwishlist:item=35794111&perks=1749209109,269888150,3666208348,3708227201
 
-dimwishlist:item=407621213&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=4146702548&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=2257180473&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=1972985595&perks=3300816228,3301904089,981914802
-
 dimwishlist:item=2870169846&perks=1168162263,1561002382,3523296417,839105230
 dimwishlist:item=2870169846&perks=1168162263,1561002382,1840239774,3523296417
 dimwishlist:item=2870169846&perks=1168162263,1968497646,3523296417,839105230
@@ -42282,8 +42237,6 @@ dimwishlist:item=981718087&perks=1441682018,1556840489,2822142346,3300816228
 dimwishlist:item=981718087&perks=1556840489,2822142346,3300816228,3525010810
 dimwishlist:item=981718087&perks=1441682018,2010801679,2822142346,3300816228
 dimwishlist:item=981718087&perks=2010801679,2822142346,3300816228,3525010810
-
-dimwishlist:item=2714022207&perks=1168162263,1687452232,2213355989,3250034553
 
 dimwishlist:item=2050789284&perks=1015611457,106909392,1168162263,3250034553
 dimwishlist:item=2050789284&perks=1015611457,106909392,1168162263,1392496348
@@ -42852,14 +42805,6 @@ dimwishlist:item=2807687156&perks=1771339417,1840239774,2284787283,2420895100
 dimwishlist:item=35794111&perks=1546637391,1749209109,269888150,3666208348
 dimwishlist:item=35794111&perks=1749209109,269888150,3666208348,3708227201
 
-dimwishlist:item=1972985595&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=2257180473&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=4146702548&perks=3300816228,3301904089,981914802
-
-dimwishlist:item=407621213&perks=3300816228,3301904089,981914802
-
 dimwishlist:item=2870169846&perks=1168162263,1561002382,3523296417,839105230
 dimwishlist:item=2870169846&perks=1168162263,1561002382,1840239774,3523296417
 dimwishlist:item=2870169846&perks=1168162263,1968497646,3523296417,839105230
@@ -43052,8 +42997,6 @@ dimwishlist:item=981718087&perks=1441682018,1556840489,2822142346,3300816228
 dimwishlist:item=981718087&perks=1556840489,2822142346,3300816228,3525010810
 dimwishlist:item=981718087&perks=1441682018,2010801679,2822142346,3300816228
 dimwishlist:item=981718087&perks=2010801679,2822142346,3300816228,3525010810
-
-dimwishlist:item=2714022207&perks=1168162263,1687452232,2213355989,3250034553
 
 dimwishlist:item=2050789284&perks=1015611457,106909392,1168162263,3250034553
 dimwishlist:item=2050789284&perks=1015611457,106909392,1168162263,1392496348

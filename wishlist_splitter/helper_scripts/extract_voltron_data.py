@@ -13,33 +13,48 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collects lines until weapon roll finished, then adds to voltron_data and empties
-    weapon_perks = []
-    weapon_desc = []
+
+    desc_start = 0
+    desc_end = 2
+    # desc: desc start - desc end
+    # perks: desc end - index
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
-        for line_num, line in enumerate(voltron_file):
-            # Removed title heading, replaced later with wishlist name
-            if line_num == 0:
-                line = line.replace("title:", "")
+        volltron_lines = voltron_file.readlines()
 
+        # Removed title heading, replaced later with wishlist name
+        volltron_lines[0] = volltron_lines[0].replace("title:", "")
+
+        for line_num, line in enumerate(volltron_lines):
             if line == "\n":  # New line signifies end of current weapon roll
                 # Process current roll and add to voltron data
-
-                if line_num == 2 or weapon_perks:
-                    voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
+                if desc_start != -1 and desc_end != -1:
+                    voltron_data.append(
+                        process_roll(
+                            volltron_lines[desc_start:desc_end],
+                            volltron_lines[desc_end:line_num],
+                            keys,
+                        )
+                    )
 
                 # Start new roll
-                weapon_perks = []
-                weapon_desc = []
+                desc_start = -1
+                desc_end = -1
             else:
-                if "dimwishlist:item=" in line:
-                    weapon_perks.append(line)
-                else:
-                    weapon_desc.append(line)  # Not empty line, add to current roll
+                if desc_end == -1 and "dimwishlist:item=" in line:
+                    desc_end = line_num
+                elif desc_start == -1:
+                    desc_start = line_num  # Not empty line, add to current roll
 
         # Add last roll to voltron data when reach end of file
-        if weapon_perks:
-            voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
+        if desc_start != -1 and desc_end != -1:
+            voltron_data.append(
+                process_roll(
+                    volltron_lines[desc_start:desc_end],
+                    volltron_lines[desc_end:line_num],
+                    keys,
+                )
+            )
 
     # Process perks more, get dupes and set perk and trimmed to lists
     process_perks_dupes(voltron_data, keys)
