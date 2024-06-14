@@ -192,8 +192,8 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
             )
 
         # Remove duplicates, keeping order
-        # perks = remove_duplicates(perks)
-        # trimmed_perks = remove_duplicates(trimmed_perks)
+        perks = remove_duplicates(perks)
+        trimmed_perks = remove_duplicates(trimmed_perks)
 
         return perks, trimmed_perks
 
