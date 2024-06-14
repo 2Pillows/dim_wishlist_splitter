@@ -1,7 +1,7 @@
 # wishlist_configs.py
 
 import json
-from typing import TYPE_CHECKING, Set, List
+from typing import TYPE_CHECKING, Set
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -183,9 +183,25 @@ def get_wishlist_config(keys: "Keys"):
     exc_tags = set()
 
     for wishlist in wishlist_configs:
-        set_wishlist_path(wishlist, wishlist_paths, keys)
+        # Update wishlist names
+        wishlist_path = keys.WISHLIST_DIR + wishlist[keys.PATH_KEY]
+        wishlist[keys.PATH_KEY] = wishlist_path  # Add path to wishlist name
+        wishlist_paths.append(wishlist_path)  # Add full path to array for website
 
-        set_wishlist_tags(wishlist, author_names, inc_tags, exc_tags, keys)
+        # Update abreviated wishlist tags
+        if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
+            update_tags(wishlist[keys.INC_TAGS_KEY], "ctr", {"controller"})
+        if keys.EXC_TAGS_KEY in wishlist and wishlist.get(keys.EXC_TAGS_KEY):
+            update_tags(
+                wishlist[keys.EXC_TAGS_KEY],
+                "backups",
+                {"backup roll", "backup choice roll"},
+            )
+
+        # Add wishlist preferences to set with all preferences
+        author_names.update(wishlist.get(keys.AUTHORS_KEY, []))
+        inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))
+        exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))
 
     # Write wishlist paths to file for website
     with open(keys.WISHLIST_NAMES_PATH, "w") as file:
@@ -199,40 +215,8 @@ def get_wishlist_config(keys: "Keys"):
     }
 
 
-# Add directory to file path and add path to wishlist and wishlist_paths
-def set_wishlist_path(wishlist, wishlist_paths: List[str], keys: "Keys"):
-    wishlist_path = keys.WISHLIST_DIR + wishlist[keys.PATH_KEY]
-    wishlist[keys.PATH_KEY] = wishlist_path  # Add path to wishlist name
-
-    wishlist_paths.append(wishlist_path)  # Add full path to array for website
-
-
-# Set inc and exc tags. Add tags and author names to set that holds all wishlist options
-def set_wishlist_tags(
-    wishlist,
-    author_names: Set[str],
-    inc_tags: Set[str],
-    exc_tags: Set[str],
-    keys: "Keys",
-):
-    # Update abreviated wishlist tags
-    if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
-        update_tags(wishlist[keys.INC_TAGS_KEY], "ctr", {"controller"})
-    if keys.EXC_TAGS_KEY in wishlist and wishlist.get(keys.EXC_TAGS_KEY):
-        update_tags(
-            wishlist[keys.EXC_TAGS_KEY],
-            "backups",
-            {"backup roll", "backup choice roll"},
-        )
-
-    # Add wishlist preferences to set with all preferences
-    author_names.update(wishlist.get(keys.AUTHORS_KEY, []))
-    inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))
-    exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))
-
-
 # Extend tags to catch all rolls
-def update_tags(wishlist_tags: Set[str], old_tag, new_tags):
+def update_tags(wishlist_tags: Set[str], old_tag: str, new_tags: Set[str]):
     if old_tag in wishlist_tags:
         wishlist_tags.remove(old_tag)
         wishlist_tags.update(new_tags)

@@ -58,6 +58,7 @@ class Keys:
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
     PERKS_DUPES_KEY = "perks_dupes"
+    TRIMMED_PERKS_KEY = "trimmed_perks"
     TRIMMED_PERKS_DUPES_KEY = "trimmed_perks_dupes"
     WEAPON_HASH_KEY = "weapon_hash"
 
@@ -65,18 +66,11 @@ class Keys:
     REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
     REQ_DUPES = "req_dupes"  # Rolls appear min_count times
 
-    # Keys for weapon_roll perks
-    TRIMMED_PERKS_KEY = "trimmed_perks"  # Only 3rd, 4th, and origin traits
-    # Core perks are used to ensure accurate count for perks when filtering dupes
-    CORE_PERKS_KEY = "core_perks"  # No origin traits
-    CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"  # Only 3rd and 4th column
-
     MIN_ROLL_COUNT = 2  # Minimum number of rolls to for dupe rolls
 
     BATCH_SIZE = 500  # Numebr of rolls held for wishlist before writing
 
     # Counters for perks and weapons
-    COUNTER_KEY = "counter"
     CORE_COUNTER = Counter()  # Counter of core perks
     TRIMMED_COUNTER = Counter()  # Counter for trimmed perks
     WEAPON_COUNTER = Counter()  # Counter for appearences of weapons
