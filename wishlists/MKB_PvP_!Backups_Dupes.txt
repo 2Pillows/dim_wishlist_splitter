@@ -36165,4 +36165,3 @@ dimwishlist:item=3385326721&perks=1015611457,1168162263,1885400500,839105230
 // Omniscient Eye (PvP)
 //notes:Mercules904 (pretty good PvP) - "For PvP Mulligan and Snapshot or No Distractions and Snapshot may be your best bets for traits, so it's not what I would consider to be the best sniper for a great player, but it can be useful for those who need a more forgiving option on their way to getting Revoker."
 dimwishlist:item=3454326177&perks=1840239774,2866798147,3142289711,957782887
-

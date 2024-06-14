@@ -35626,8 +35626,3 @@ dimwishlist:item=4020742303&perks=3096702027,3275789089
 // Prophet of Doom (PvE/DPS)
 //notes:Mercules904 (must have PvE/DPS) - "Going to be in the running for best PvP shotty for awhile with DRB and Mindbender's."
 dimwishlist:item=4020742303&perks=2117683199,2679249093
-
-// Prophet of Doom (PvP)
-//notes:Mercules904 (must have PvP) - "Going to be in the running for best PvP shotty for awhile with DRB and Mindbender's."
-dimwishlist:item=4020742303&perks=2117683199,47981717
-

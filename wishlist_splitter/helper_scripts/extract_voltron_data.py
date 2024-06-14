@@ -13,34 +13,42 @@ def extract_voltron_data(keys: "Keys"):
     voltron_data = []
 
     # Collects lines until weapon roll finished, then adds to voltron_data and empties
-    weapon_perks = []
-    weapon_desc = []
+    perks_start = 2
+    desc_start = 0
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
-        for line_num, line in enumerate(voltron_file):
+        voltron_lines = voltron_file.readlines()
+        voltron_lines[0] = voltron_lines[0].replace("title:", "")
+        for line_num, line in enumerate(voltron_lines):
             # Removed title heading, replaced later with wishlist name
-            if line_num == 0:
-                line = line.replace("title:", "")
 
             if line == "\n":  # New line signifies end of current weapon roll
                 # Process current roll and add to voltron data
-
-                if line_num == 2 or weapon_perks:
-                    voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
+                if line_num == 2 or perks_start != desc_start:
+                    voltron_data.append(
+                        process_roll(
+                            voltron_lines[desc_start:perks_start],
+                            voltron_lines[perks_start:line_num],
+                            keys,
+                        )
+                    )
 
                 # Start new roll
-                weapon_perks = []
-                weapon_desc = []
+                perks_start = line_num
+                desc_start = line_num
             else:
-                if "dimwishlist:item=" in line:
-                    weapon_perks.append(line)
-                else:
-                    weapon_desc.append(line)  # Not empty line, add to current roll
+                if "dimwishlist:item=" in line and perks_start == desc_start:
+                    perks_start = line_num
 
         # Add last roll to voltron data when reach end of file
-        if weapon_perks:
-            voltron_data.append(process_roll(weapon_desc, weapon_perks, keys))
-
+        if perks_start != desc_start:
+            voltron_data.append(
+                process_roll(
+                    voltron_lines[desc_start:perks_start],
+                    voltron_lines[perks_start:line_num],
+                    keys,
+                )
+            )
     # Process perks more, get dupes and set perk and trimmed to lists
     process_perks_dupes(voltron_data, keys)
 
@@ -62,16 +70,19 @@ def process_roll(weapon_desc, weapon_perks, keys: "Keys"):
         keys.TRIMMED_PERKS_DUPES_KEY: [],
     }
 
-    current_roll[keys.DESCRIPTION_KEY] = weapon_desc
+    for line in weapon_desc:
+        if not line:
+            continue
+
+        current_roll[keys.DESCRIPTION_KEY].append(line)
+
+        line_lower = line.lower()
+        process_author(current_roll, line_lower, keys)
+        process_tags(current_roll, line_lower, keys)
 
     # Return if just desc given, no perks to process
     if not weapon_perks:
         return current_roll
-
-    for line in current_roll[keys.DESCRIPTION_KEY]:
-        line_lower = line.lower()
-        process_author(current_roll, line_lower, keys)
-        process_tags(current_roll, line_lower, keys)
 
     current_roll[keys.WEAPON_HASH_KEY] = (
         weapon_perks[0].split("item=")[1].split("&perks=")[0]
@@ -192,10 +203,7 @@ def process_perks(weapon_roll, perk_lines, keys: "Keys"):
             )
 
         # Remove duplicates, keeping order
-        perks = remove_duplicates(perks)
-        trimmed_perks = remove_duplicates(trimmed_perks)
-
-        return perks, trimmed_perks
+        return remove_duplicates(perks), remove_duplicates(trimmed_perks)
 
     # Holds initial string before perk hashes
     roll_id = perk_lines[0][: perk_lines[0].find("&perks") + 7]

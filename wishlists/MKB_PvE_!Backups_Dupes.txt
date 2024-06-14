@@ -43567,4 +43567,3 @@ dimwishlist:item=3385326721&perks=1015611457,1168162263,1885400500,839105230
 // Omniscient Eye (PvE)
 //notes:Mercules904 (pretty good PvE) - "Interestingly, when looking at the perks it seems that whoever built the rolls for this weapon really, really wanted to push people to use it for hitting soft targets in PvE, similar to how they conditioned Zealot's Reward."
 dimwishlist:item=3454326177&perks=106909392,1168162263,1840239774,2848615171
-
