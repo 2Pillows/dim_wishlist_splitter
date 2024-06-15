@@ -1,15 +1,12 @@
 # extract_voltron_data.py
 
-from collections import defaultdict
-from typing import TYPE_CHECKING, Dict, List
+from typing import TYPE_CHECKING, Dict
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
     from main import Keys
 
 
-# new method to try:
-# only use lists for all perks, reference related by index
 def extract_voltron_data(keys: "Keys"):
     # Array for dictionaries for weapon roll in Voltron
     voltron_data = []
@@ -155,24 +152,28 @@ def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
         return roll_id + ",".join(perk_hashes) + "\n"
 
     # Filter the perk hashes based on type of perks
-    trimmed_hashes = []
-    core_hashes = []
-    core_trimmed_hashes = []
+    trimmed_hashes = roll_id
+    core_hashes = roll_id
+    core_trimmed_hashes = roll_id
 
     for hash_value in perk_hashes:
         if hash_value in keys.FRAME_MODS or hash_value in keys.ORIGIN_TRAITS:
             if hash_value not in keys.ORIGIN_TRAITS:
-                core_trimmed_hashes.append(hash_value)
-            trimmed_hashes.append(hash_value)
+                core_trimmed_hashes += (
+                    "," + hash_value if core_trimmed_hashes != roll_id else hash_value
+                )
+            trimmed_hashes += (
+                "," + hash_value if trimmed_hashes != roll_id else hash_value
+            )
 
         if hash_value not in keys.ORIGIN_TRAITS:
-            core_hashes.append(hash_value)
+            core_hashes += "," + hash_value if core_hashes != roll_id else hash_value
 
     return (
         hashes_to_string(roll_id, perk_hashes),
-        hashes_to_string(roll_id, trimmed_hashes),
-        hashes_to_string(roll_id, core_hashes),
-        hashes_to_string(roll_id, core_trimmed_hashes),
+        trimmed_hashes + "\n",
+        core_hashes + "\n",
+        core_trimmed_hashes + "\n",
     )
 
 
