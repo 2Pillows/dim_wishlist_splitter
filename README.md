@@ -1,10 +1,10 @@
 # DIM Wishlist Splitter
 
-Breaks down DIM's default wishlist, Voltron, based on the type of rolls such as PvE, PvP, PvE + Controller, etc.
+Creates wishlists from DIM's default wishlist, Voltron, using roll descriptions and tags, including input, gamemode, author, roll type (god or backup), perk (showing only 3rd and 4th columns), and frequency (appearing at least twice).
 
-Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
+Uses the voltron.txt file from dim-wish-list-sources by 48klocs: https://github.com/48klocs/dim-wish-list-sources
 
-Collects origin traits and 3rd/4th column perks from Destiny Data Explorer (https://data.destinysets.com/).
+Collects 3rd and 4th column perks and origin traits from Destiny Data Explorer: https://data.destinysets.com
 
 #### Filter Descriptions
 
@@ -14,14 +14,14 @@ For more details about filters and how they work: https://github.com/2Pillows/di
 
 DIM needs the URL for the raw version of a wishlist file. There are two ways to get this URL:
 
-- Visit the GitHub Pages: https://2pillows.github.io/dim_wishlist_splitter/.
+- Visit the GitHub Pages: https://2pillows.github.io/dim_wishlist_splitter
 
-- Copy from the repository: https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists.
+- Copy from the repository: https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists
 
-  After finding the desired wishlist, click "View raw" to get the raw URL.
+  After finding the wishlist, click "View raw" to get the raw URL.
 
 #### Requesting a Wishlist
 
-Create an issue using the Wishlist Request template. Edit the template to configure your desired wishlist.
+Create an issue using the Wishlist Request template, edit the template to configure the wishlist.
 
-All available filter options are on the template. If a filter option is not on the template, create an issue using the Filter Request template.
+If you want a filter that isn't on the Wishlist Request template, create an issue using the Filter Request template.
