@@ -152,28 +152,24 @@ def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
         return roll_id + ",".join(perk_hashes) + "\n"
 
     # Filter the perk hashes based on type of perks
-    trimmed_hashes = roll_id
-    core_hashes = roll_id
-    core_trimmed_hashes = roll_id
+    trimmed_hashes = []
+    core_hashes = []
+    core_trimmed_hashes = []
 
     for hash_value in perk_hashes:
         if hash_value in keys.FRAME_MODS or hash_value in keys.ORIGIN_TRAITS:
             if hash_value not in keys.ORIGIN_TRAITS:
-                core_trimmed_hashes += (
-                    "," + hash_value if core_trimmed_hashes != roll_id else hash_value
-                )
-            trimmed_hashes += (
-                "," + hash_value if trimmed_hashes != roll_id else hash_value
-            )
+                core_trimmed_hashes.append(hash_value)
+            trimmed_hashes.append(hash_value)
 
         if hash_value not in keys.ORIGIN_TRAITS:
-            core_hashes += "," + hash_value if core_hashes != roll_id else hash_value
+            core_hashes.append(hash_value)
 
     return (
         hashes_to_string(roll_id, perk_hashes),
-        trimmed_hashes + "\n",
-        core_hashes + "\n",
-        core_trimmed_hashes + "\n",
+        hashes_to_string(roll_id, trimmed_hashes),
+        hashes_to_string(roll_id, core_hashes),
+        hashes_to_string(roll_id, core_trimmed_hashes),
     )
 
 
