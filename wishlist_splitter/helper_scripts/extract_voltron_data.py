@@ -1,6 +1,6 @@
 # extract_voltron_data.py
 
-from typing import TYPE_CHECKING, Dict
+from typing import TYPE_CHECKING, Dict, List
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -92,8 +92,8 @@ def initialize_roll(keys: "Keys"):
 
 # Adds dupe perks for perks and trimmed perks. Also removes duplicates from
 # perks and trimmed perks
-def process_perks_dupes(voltron_data, keys: "Keys"):
-    def remove_duplicates(perk_list):
+def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys"):
+    def remove_duplicates(perk_list: List[str]):
         return list(dict.fromkeys(perk_list))
 
     for weapon_roll in voltron_data:
@@ -138,7 +138,7 @@ def process_perks_dupes(voltron_data, keys: "Keys"):
 
 
 # Returns sorted array of perk hashes in given line
-def get_perk_hashes(perk_line):
+def get_perk_hashes(perk_line: str):
     # Convert perk lines into arrays with hashes
     perks_substring = perk_line[perk_line.find("&perks=") + 7 :]
 
@@ -157,8 +157,8 @@ def get_perk_hashes(perk_line):
 
 
 # Returns the perk line string for each type of perk
-def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
-    def hashes_to_string(roll_id, perk_hashes):
+def get_perk_types(roll_id: str, perk_hashes: List[str], keys: "Keys"):
+    def hashes_to_string(roll_id: str, perk_hashes: List[str]):
         return roll_id + ",".join(perk_hashes) + "\n"
 
     # Filter the perk hashes based on type of perks
@@ -184,7 +184,7 @@ def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
 
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
-def get_weapon_and_perk_counters(weapon_roll, keys: "Keys"):
+def get_weapon_and_perk_counters(weapon_roll: Dict[str, object], keys: "Keys"):
     weapon_hash = weapon_roll[keys.ROLL_ID_KEY].split("item=")[1].split("&perks=")[0]
     weapon_roll[keys.WEAPON_HASH_KEY] = weapon_hash
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
@@ -194,7 +194,7 @@ def get_weapon_and_perk_counters(weapon_roll, keys: "Keys"):
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
-def add_default_tags(weapon_roll, keys: "Keys"):
+def add_default_tags(weapon_roll: Dict[str, object], keys: "Keys"):
     if not weapon_roll[keys.INC_TAGS_KEY].intersection({"mkb", "controller"}):
         weapon_roll[keys.INC_TAGS_KEY].add("mkb")
     if not weapon_roll[keys.INC_TAGS_KEY].intersection({"pve", "pvp"}):

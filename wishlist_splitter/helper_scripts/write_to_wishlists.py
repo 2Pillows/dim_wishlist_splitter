@@ -134,7 +134,7 @@ def contains_inc_tags(weapon_inc: Set[str], wishlist_inc: Set[str]):
     return wishlist_inc.issubset(weapon_inc)
 
 
-def contains_exc_tags(weapon_exc, wishlist_exc: Set[str]):
+def contains_exc_tags(weapon_exc: Set[str], wishlist_exc: Set[str]):
     # If wishlist doesn't have any exlcude tags then roll can't have any exclude tags
     # Or if roll doesn't have any exclude tags then it passes
     if not wishlist_exc or not weapon_exc:
