@@ -53,11 +53,12 @@ def write_to_wishlist(
                 batch.append("\n")
 
             # Check there are perks to write and roll tags match wishlist tags
-            weapon_perks = weapon_roll.get(PREF_PERKS)
-            if weapon_perks and check_tags(weapon_roll, wishlist, keys):
+            elif weapon_roll.get(PREF_PERKS) and check_tags(
+                weapon_roll, wishlist, keys
+            ):
                 # Add description and correct perks to batch
                 batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
-                batch.extend(weapon_perks)
+                batch.extend(weapon_roll[PREF_PERKS])
                 batch.append("\n")
 
             # Write to file if batch size reached
