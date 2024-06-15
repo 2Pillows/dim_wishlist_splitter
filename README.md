@@ -1,6 +1,8 @@
 # DIM Wishlist Splitter
 
-Creates wishlists from DIM's default wishlist, Voltron, using roll descriptions and tags, including input, gamemode, author, roll type (god or backup), perk (showing only 3rd and 4th columns), and frequency (appearing at least twice).
+Creates wishlists from DIM's default wishlist, Voltron, using roll descriptions and tags. 
+
+Filters include input (Mouse and Keyboard, Controller), gamemode (PvE, PvP), author (PandaPaxxy), roll type (God, Backup), perks (3rd and 4th column), and frequency (recommended at least twice).
 
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs: https://github.com/48klocs/dim-wish-list-sources
 
