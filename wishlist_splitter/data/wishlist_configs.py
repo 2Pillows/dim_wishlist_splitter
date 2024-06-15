@@ -11,8 +11,9 @@ if TYPE_CHECKING:
 def get_wishlist_config(keys: "Keys"):
     wishlist_configs = [
         # -------------------------------------------
-        # No Filters
+        # All Rolls
         {keys.PATH_KEY: "All_Rolls.txt"},
+        {keys.REQ_TRIMMED_PERKS: True, keys.PATH_KEY: "All_Rolls_Perks.txt"},
         # -------------------------------------------
         # Any Input
         {keys.INC_TAGS_KEY: {"pve"}, keys.PATH_KEY: "PvE.txt"},

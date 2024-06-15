@@ -63,8 +63,12 @@ class Keys:
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
 
     PERKS_KEY = "perks"  # Holds perks for weapon rolls
-    PERKS_DUPES_KEY = "perks_dupes"
     TRIMMED_PERKS_KEY = "trimmed_perks"
+
+    CORE_PERKS_KEY = "core_perks"
+    CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
+
+    PERKS_DUPES_KEY = "perks_dupes"
     TRIMMED_PERKS_DUPES_KEY = "trimmed_perks_dupes"
 
     # Flags for wishlist requirements
