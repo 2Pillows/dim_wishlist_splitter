@@ -1,7 +1,7 @@
 # wishlist_configs.py
 
 import json
-from typing import TYPE_CHECKING, Set
+from typing import TYPE_CHECKING
 
 # Load Keys class without importing to avoid cyclic import
 if TYPE_CHECKING:
@@ -190,18 +190,26 @@ def get_wishlist_config(keys: "Keys"):
 
         # Update abreviated wishlist tags
         if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
-            update_tags(wishlist[keys.INC_TAGS_KEY], "ctr", {"controller"})
-        if keys.EXC_TAGS_KEY in wishlist and wishlist.get(keys.EXC_TAGS_KEY):
-            update_tags(
-                wishlist[keys.EXC_TAGS_KEY],
-                "backups",
-                {"backup roll", "backup choice roll"},
-            )
+            # Update tags
+            if "ctr" in wishlist[keys.INC_TAGS_KEY]:
+                wishlist[keys.INC_TAGS_KEY].remove("ctr")
+                wishlist[keys.INC_TAGS_KEY].update({"controller"})
+
+            inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))  # Add to all inc tags
+
+        if keys.EXC_TAGS_KEY in wishlist:
+            # Update tags
+            if "backups" in wishlist[keys.EXC_TAGS_KEY]:
+                wishlist[keys.EXC_TAGS_KEY].remove("backups")
+                wishlist[keys.EXC_TAGS_KEY].update(
+                    {"backup roll", "backup choice roll"}
+                )
+
+            exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))  # Add to all exc tags
 
         # Add wishlist preferences to set with all preferences
-        author_names.update(wishlist.get(keys.AUTHORS_KEY, []))
-        inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))
-        exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))
+        if keys.AUTHORS_KEY in wishlist:
+            author_names.update(wishlist.get(keys.AUTHORS_KEY, []))
 
     # Write wishlist paths to file for website
     with open(keys.WISHLIST_NAMES_PATH, "w") as file:
@@ -213,10 +221,3 @@ def get_wishlist_config(keys: "Keys"):
         keys.INC_TAGS_KEY: inc_tags,
         keys.EXC_TAGS_KEY: exc_tags,
     }
-
-
-# Extend tags to catch all rolls
-def update_tags(wishlist_tags: Set[str], old_tag: str, new_tags: Set[str]):
-    if old_tag in wishlist_tags:
-        wishlist_tags.remove(old_tag)
-        wishlist_tags.update(new_tags)
