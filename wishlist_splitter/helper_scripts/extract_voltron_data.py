@@ -89,15 +89,14 @@ def initialize_roll(keys: "Keys"):
 # Get array of perk lines that are present min_count times
 # Change curent perk and trimed perks from dict to list w/ lines
 def process_perks_dupes(voltron_data, keys: "Keys"):
-    perk_counter = keys.CORE_COUNTER
-    trimmed_perk_counter = keys.TRIMMED_COUNTER
-    min_count = keys.MIN_ROLL_COUNT
+    def remove_duplicates(perk_list):
+        return list(dict.fromkeys(perk_list))
 
     for weapon_roll in voltron_data:
         if not weapon_roll.get(keys.WEAPON_HASH_KEY):
             continue
 
-        if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]] < min_count:
+        if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]] < keys.MIN_ROLL_COUNT:
             perks = remove_duplicates(weapon_roll[keys.PERKS_KEY])
             trimmed_perks = remove_duplicates(weapon_roll[keys.TRIMMED_PERKS_KEY])
             weapon_roll[keys.PERKS_KEY] = perks
@@ -110,13 +109,13 @@ def process_perks_dupes(voltron_data, keys: "Keys"):
         trimmed_perks_dupes = []
 
         for index, core_perks in enumerate(weapon_roll[keys.CORE_PERKS_KEY]):
-            if perk_counter[core_perks] >= min_count:
+            if keys.CORE_COUNTER[core_perks] >= keys.MIN_ROLL_COUNT:
                 perks_dupes.append(weapon_roll[keys.PERKS_KEY][index])
 
         for index, core_trimmed_perks in enumerate(
             weapon_roll[keys.CORE_TRIMMED_PERKS_KEY]
         ):
-            if trimmed_perk_counter[core_trimmed_perks] >= min_count:
+            if keys.TRIMMED_COUNTER[core_trimmed_perks] >= keys.MIN_ROLL_COUNT:
                 trimmed_perks_dupes.append(weapon_roll[keys.TRIMMED_PERKS_KEY][index])
 
         weapon_roll[keys.PERKS_KEY] = remove_duplicates(weapon_roll[keys.PERKS_KEY])
@@ -171,10 +170,6 @@ def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
         hashes_to_string(roll_id, core_hashes),
         hashes_to_string(roll_id, core_trimmed_hashes),
     )
-
-
-def remove_duplicates(perk_list):
-    return list(dict.fromkeys(perk_list))
 
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
