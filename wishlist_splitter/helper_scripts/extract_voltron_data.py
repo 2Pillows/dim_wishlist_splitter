@@ -97,11 +97,20 @@ def process_perks_dupes(voltron_data, keys: "Keys"):
     min_count = keys.MIN_ROLL_COUNT
 
     for weapon_roll in voltron_data:
+        if not weapon_roll.get(keys.WEAPON_HASH_KEY):
+            continue
+
+        if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]] < min_count:
+            perks = remove_duplicates(weapon_roll[keys.PERKS_KEY])
+            trimmed_perks = remove_duplicates(weapon_roll[keys.TRIMMED_PERKS_KEY])
+            weapon_roll[keys.PERKS_KEY] = perks
+            weapon_roll[keys.PERKS_DUPES_KEY] = perks
+            weapon_roll[keys.TRIMMED_PERKS_KEY] = trimmed_perks
+            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = trimmed_perks
+            continue
+
         perks_dupes = []
         trimmed_perks_dupes = []
-
-        if not weapon_roll.get(keys.PERKS_KEY):
-            continue
 
         for index, core_perks in enumerate(weapon_roll[keys.CORE_PERKS_KEY]):
             if perk_counter[core_perks] >= min_count:
@@ -173,12 +182,12 @@ def remove_duplicates(perk_list):
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
 def get_weapon_and_perk_counters(weapon_roll, keys: "Keys"):
+    weapon_hash = weapon_roll[keys.ROLL_ID_KEY].split("item=")[1].split("&perks=")[0]
+    weapon_roll[keys.WEAPON_HASH_KEY] = weapon_hash
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
     keys.CORE_COUNTER.update(set(weapon_roll[keys.CORE_PERKS_KEY]))
     keys.TRIMMED_COUNTER.update(set(weapon_roll[keys.CORE_TRIMMED_PERKS_KEY]))
-    keys.WEAPON_COUNTER.update(
-        [weapon_roll[keys.ROLL_ID_KEY].split("item=")[1].split("&perks=")[0]]
-    )
+    keys.WEAPON_COUNTER.update([weapon_hash])
 
 
 # Adds mouse and pve tag if no input or gamemode tag present

@@ -5249,6 +5249,17 @@ dimwishlist:item=1298815317&perks=1428297954,3142289711,3250034553,4082225868
 dimwishlist:item=1298815317&perks=1428297954,1482024992,3142289711,4082225868
 dimwishlist:item=1298815317&perks=1428297954,1840239774,3142289711,4082225868
 
+// Cry Mutiny
+//notes:pandapaxxy (M+KB PvP) Recommended MW: Blast Radius “Cry Mutiny is not fantastic at any one thing being both grenade and melee focused. But it is unique in being one of three heavy weapons with incandescent. Of the three this is the easiest to get and one of the better weapons to get incandescent on. Roar of the Bear coming from Iron Banner is a rocket, which has better use cases. Fixed Odds coming from the Duality dungeon and feels impossible to farm for. Cry Mutiny gives this to players in an easy to get format.   For PvE I would use it with Solar builds, especially as one of your minor killing weapons. For PvP I would look elsewhere. The perks do not lend themselves to the best experience.“ (Year 5 S18: Season of Plunder Solar Grenade Launcher Heavy Ammo)|tags:PvP, M+KB
+dimwishlist:item=616582332&perks=332133599,332773068,3523296417,4082225868
+dimwishlist:item=616582332&perks=1478423395,332133599,3523296417,4082225868
+dimwishlist:item=616582332&perks=332133599,332773068,4082225868,4293542123
+dimwishlist:item=616582332&perks=1478423395,332133599,4082225868,4293542123
+dimwishlist:item=616582332&perks=1546637391,332133599,332773068,3523296417
+dimwishlist:item=616582332&perks=1478423395,1546637391,332133599,3523296417
+dimwishlist:item=616582332&perks=1546637391,332133599,332773068,4293542123
+dimwishlist:item=616582332&perks=1478423395,1546637391,332133599,4293542123
+
 // Defiance of Yasmin
 //notes:pandapaxxy (M+KB PvP) Recommended MW: Range “In PvP is where this sniper will find its forever home. With incredible aim assist, the sleekest body this side of the golden age, and 40 zoom, it gives Beloved a run for its money. Opening shot and snapshot will be the coveted roll and being crafted makes the rng a lot less harsh. I will definitely be farming this, please just get me in there and get me my baby back. Thanks!“ (Year 5 S18: Season of Plunder Kinetic Sniper Rifle Special Ammo)|tags:PvP, M+KB
 dimwishlist:item=3228096719&perks=1840239774,3142289711,47981717,957782887
@@ -7513,6 +7524,13 @@ dimwishlist:item=4114929480&perks=1392496348,1570042021,2652708987,3868766766
 dimwishlist:item=3568377122&perks=11612903,3525010810,409831596,951095735
 dimwishlist:item=3568377122&perks=11612903,3523296417,3525010810,409831596
 
+// Reckless Endangerment
+//notes:pandapaxxy (PvE / PvP / M+KB / Controller): "In PvE there are just better shotguns, where a neutral, high-handling weapon just will not fit the bill. In Reckless Endangerment’s benefit is how smooth it feels to use. No other shotgun really comes close to how fluid this feels without any investment. [...] Crucible is where Reckless Endangerment can really flex [...] Having a shotgun that you don’t really have to invest in to make it feel fluid gives new players and people uncomfortable with PvP a shotgun to compete with. The obvious comparison is Riiswalker and I do think Riiswalker takes the cake over Reckless Endangerment in all forms of PvP. That being said, you can use Reckless Endangerment and hang with Riiswalker without feeling like a detriment to your team or yourself.". Recommended MW - Handling.|tags:pve,pvp,mkb,controller
+dimwishlist:item=3216652511&perks=1047830412,1428297954,791862061,957782887
+dimwishlist:item=3216652511&perks=1047830412,509074078,791862061,957782887
+dimwishlist:item=3216652511&perks=1047830412,1428297954,4082225868,791862061
+dimwishlist:item=3216652511&perks=1047830412,4082225868,509074078,791862061
+
 // Herod-C
 //notes:pandapaxxy (PvP / M+KB): "Taking their slower rate of fire, as well as crit to body damage, and adding in the requirement of having constant line of sight leaves a lot to be desired. But you can make this weapon work for you if you bring up some of its low points. The recoil has to be 100 through Arrowhead Brake to make your life easier. Taking the combination of perpetual motion and tap the trigger also makes shots easier for you. The final bit to add is extra flinch for your enemies via high-caliber rounds.". Recommended MW - Range or Handling.|tags:pvp,mkb
 dimwishlist:item=1788603939&perks=1428297954,1561002382,1890422124,839105230
@@ -7796,6 +7814,51 @@ dimwishlist:item=1141547457&perks=1840239774,2946784966,3142289711,591790007
 dimwishlist:item=1141547457&perks=2946784966,3142289711,3250034553,591790007
 dimwishlist:item=1141547457&perks=106909392,1840239774,2946784966,591790007
 dimwishlist:item=1141547457&perks=106909392,2946784966,3250034553,591790007
+
+// Edge of Action
+//notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
+dimwishlist:item=2535142413&perks=1067908860,2379536009,2713678205,3721627275
+dimwishlist:item=2535142413&perks=1067908860,2379536009,3721627275,594346985
+dimwishlist:item=2535142413&perks=1067908860,1087426260,2379536009,2713678205
+dimwishlist:item=2535142413&perks=1067908860,1087426260,2379536009,594346985
+dimwishlist:item=2535142413&perks=1067908860,1431678320,2379536009,2713678205
+dimwishlist:item=2535142413&perks=1067908860,1431678320,2379536009,594346985
+dimwishlist:item=2535142413&perks=2379536009,2713678205,3465198467,3721627275
+dimwishlist:item=2535142413&perks=2379536009,3465198467,3721627275,594346985
+dimwishlist:item=2535142413&perks=1087426260,2379536009,2713678205,3465198467
+dimwishlist:item=2535142413&perks=1087426260,2379536009,3465198467,594346985
+dimwishlist:item=2535142413&perks=1431678320,2379536009,2713678205,3465198467
+dimwishlist:item=2535142413&perks=1431678320,2379536009,3465198467,594346985
+
+// Edge of Concurrence
+//notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
+dimwishlist:item=542203595&perks=1067908860,2713678205,3721627275,844190854
+dimwishlist:item=542203595&perks=1067908860,3721627275,594346985,844190854
+dimwishlist:item=542203595&perks=1067908860,1087426260,2713678205,844190854
+dimwishlist:item=542203595&perks=1067908860,1087426260,594346985,844190854
+dimwishlist:item=542203595&perks=1067908860,1431678320,2713678205,844190854
+dimwishlist:item=542203595&perks=1067908860,1431678320,594346985,844190854
+dimwishlist:item=542203595&perks=2713678205,3465198467,3721627275,844190854
+dimwishlist:item=542203595&perks=3465198467,3721627275,594346985,844190854
+dimwishlist:item=542203595&perks=1087426260,2713678205,3465198467,844190854
+dimwishlist:item=542203595&perks=1087426260,3465198467,594346985,844190854
+dimwishlist:item=542203595&perks=1431678320,2713678205,3465198467,844190854
+dimwishlist:item=542203595&perks=1431678320,3465198467,594346985,844190854
+
+// Edge of Intent
+//notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
+dimwishlist:item=14194600&perks=1067908860,2713678205,3492337375,3721627275
+dimwishlist:item=14194600&perks=1067908860,3492337375,3721627275,594346985
+dimwishlist:item=14194600&perks=1067908860,1087426260,2713678205,3492337375
+dimwishlist:item=14194600&perks=1067908860,1087426260,3492337375,594346985
+dimwishlist:item=14194600&perks=1067908860,1431678320,2713678205,3492337375
+dimwishlist:item=14194600&perks=1067908860,1431678320,3492337375,594346985
+dimwishlist:item=14194600&perks=2713678205,3465198467,3492337375,3721627275
+dimwishlist:item=14194600&perks=3465198467,3492337375,3721627275,594346985
+dimwishlist:item=14194600&perks=1087426260,2713678205,3465198467,3492337375
+dimwishlist:item=14194600&perks=1087426260,3465198467,3492337375,594346985
+dimwishlist:item=14194600&perks=1431678320,2713678205,3465198467,3492337375
+dimwishlist:item=14194600&perks=1431678320,3465198467,3492337375,594346985
 
 // Empirical Evidence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
