@@ -168,13 +168,7 @@ def get_perk_types(roll_id, perk_hashes, keys: "Keys"):
 
 
 def remove_duplicates(perk_list):
-    seen = set()
-    no_dupes_list = []
-    for item in perk_list:
-        if item not in seen:
-            no_dupes_list.append(item)
-            seen.add(item)
-    return no_dupes_list
+    return list(dict.fromkeys(perk_list))
 
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
