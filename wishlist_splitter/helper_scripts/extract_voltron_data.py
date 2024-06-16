@@ -230,41 +230,51 @@ def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys") -> 
         if not weapon_roll.get(keys.WEAPON_HASH_KEY):
             continue
 
+        # Remove duplicates from perk list and core perk list for perks and trimmed perks
+        remove_duplicates(weapon_roll[keys.PERKS_KEY], weapon_roll[keys.CORE_PERKS_KEY])
+        remove_duplicates(
+            weapon_roll[keys.TRIMMED_PERKS_KEY],
+            weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
+        )
+
         # Weapon doesn't appear min count times, invalid for roll dupe check
         if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]] < keys.MIN_ROLL_COUNT:
-            perks = remove_duplicates(weapon_roll[keys.PERKS_KEY])
-            trimmed_perks = remove_duplicates(weapon_roll[keys.TRIMMED_PERKS_KEY])
-            weapon_roll[keys.PERKS_KEY] = perks
-            weapon_roll[keys.PERKS_DUPES_KEY] = perks
-            weapon_roll[keys.TRIMMED_PERKS_KEY] = trimmed_perks
-            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = trimmed_perks
+            weapon_roll[keys.PERKS_DUPES_KEY] = weapon_roll[keys.PERKS_KEY]
+            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = weapon_roll[
+                keys.TRIMMED_PERKS_KEY
+            ]
 
         # Weapon is valid for getting dupe rolls
         else:
-            perks_dupes = []
-            trimmed_perks_dupes = []
+            weapon_roll[keys.PERKS_DUPES_KEY] = [
+                weapon_roll[keys.PERKS_KEY][index]
+                for index, core_perks in enumerate(weapon_roll[keys.CORE_PERKS_KEY])
+                if keys.CORE_COUNTER[core_perks] >= keys.MIN_ROLL_COUNT
+            ]
 
-            for index, core_perks in enumerate(weapon_roll[keys.CORE_PERKS_KEY]):
-                if keys.CORE_COUNTER[core_perks] >= keys.MIN_ROLL_COUNT:
-                    perks_dupes.append(weapon_roll[keys.PERKS_KEY][index])
-
-            for index, core_trimmed_perks in enumerate(
-                weapon_roll[keys.CORE_TRIMMED_PERKS_KEY]
-            ):
-                if keys.TRIMMED_COUNTER[core_trimmed_perks] >= keys.MIN_ROLL_COUNT:
-                    trimmed_perks_dupes.append(
-                        weapon_roll[keys.TRIMMED_PERKS_KEY][index]
-                    )
-
-            weapon_roll[keys.PERKS_KEY] = remove_duplicates(weapon_roll[keys.PERKS_KEY])
-            weapon_roll[keys.PERKS_DUPES_KEY] = remove_duplicates(perks_dupes)
-            weapon_roll[keys.TRIMMED_PERKS_KEY] = remove_duplicates(
-                weapon_roll[keys.TRIMMED_PERKS_KEY]
-            )
-            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = remove_duplicates(
-                trimmed_perks_dupes
-            )
+            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = [
+                weapon_roll[keys.TRIMMED_PERKS_KEY][index]
+                for index, core_trimmed_perks in enumerate(
+                    weapon_roll[keys.CORE_TRIMMED_PERKS_KEY]
+                )
+                if keys.TRIMMED_COUNTER[core_trimmed_perks] >= keys.MIN_ROLL_COUNT
+            ]
 
 
-def remove_duplicates(perk_list: List[str]) -> List[str]:
-    return list(dict.fromkeys(perk_list))
+def remove_duplicates(perk_list: List[str], core_perk_list: List[str]) -> None:
+    seen = set()
+    unique_perk_list = []
+    unique_core_perk_list = []
+
+    for perk, core_perk in zip(perk_list, core_perk_list):
+        if perk not in seen:
+            seen.add(perk)
+            unique_perk_list.append(perk)
+            unique_core_perk_list.append(core_perk)
+
+    # Set unique lists to base lists
+    perk_list.clear()
+    perk_list.extend(unique_perk_list)
+
+    core_perk_list.clear()
+    core_perk_list.extend(unique_core_perk_list)
