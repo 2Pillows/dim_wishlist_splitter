@@ -62,14 +62,15 @@ class Keys:
 
     DESCRIPTION_KEY = "description"  # Holds description for weapon rolls
 
-    PERKS_KEY = "perks"  # Holds perks for weapon rolls
+    # Keys for perk types for weapon rolls
+    PERKS_KEY = "perks"
     TRIMMED_PERKS_KEY = "trimmed_perks"
-
-    CORE_PERKS_KEY = "core_perks"
-    CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
-
     PERKS_DUPES_KEY = "perks_dupes"
     TRIMMED_PERKS_DUPES_KEY = "trimmed_perks_dupes"
+
+    # Core perks for counters
+    CORE_PERKS_KEY = "core_perks"
+    CORE_TRIMMED_PERKS_KEY = "core_trimmed_perks"
 
     # Flags for wishlist requirements
     REQ_TRIMMED_PERKS = "req_trimmed_perks"  # 3rd, 4th, origin traits
@@ -81,7 +82,7 @@ class Keys:
 
     # Counters for perks and weapons
     CORE_COUNTER = Counter()  # Counter of core perks
-    TRIMMED_COUNTER = Counter()  # Counter for trimmed perks
+    TRIMMED_COUNTER = Counter()  # Counter for core trimmed perks
     WEAPON_COUNTER = Counter()  # Counter for appearences of weapons
 
 
@@ -103,6 +104,7 @@ def main():
     # Collect data from voltron to keys
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
+    # Timer to see main script performance before writing
     # end_time = time.time()
     # runtime = end_time - start_time
     # print(f"Runtime before write: {runtime} seconds")
