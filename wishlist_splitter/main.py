@@ -10,9 +10,9 @@ from helper_scripts.extract_voltron_data import extract_voltron_data
 from helper_scripts.write_to_wishlists import write_to_wishlists
 
 # Timer to test script performance
-import time
+# import time
 
-start_time = time.time()
+# start_time = time.time()
 
 
 def main() -> None:
@@ -30,9 +30,9 @@ def main() -> None:
     extract_voltron_data(keys)
 
     # Timer for script performance before writing
-    end_time = time.time()
-    runtime = end_time - start_time
-    print(f"Runtime before write: {runtime} seconds")
+    # end_time = time.time()
+    # runtime = end_time - start_time
+    # print(f"Runtime before write: {runtime} seconds")
 
     # Write voltron data to wishlist files
     write_to_wishlists(keys)
@@ -42,6 +42,6 @@ if __name__ == "__main__":
     main()
 
     # Timer for script performance
-    end_time = time.time()
-    runtime = end_time - start_time
-    print(f"Runtime: {runtime} seconds")
+    # end_time = time.time()
+    # runtime = end_time - start_time
+    # print(f"Runtime: {runtime} seconds")
