@@ -181,10 +181,8 @@ def process_tags(
     # If no "tags:" found, find text between "(...)" or "[...]"
     else:
         # All text between '(...)'
-        if "(" in line_lower:
-            valuable_text += "".join(find_outer_content(line_lower, "(", ")"))
-        if "[" in line_lower:
-            valuable_text += "".join(find_outer_content(line_lower, "[", "]"))
+        valuable_text += "".join(find_outer_content(line_lower, "(", ")"))
+        valuable_text += "".join(find_outer_content(line_lower, "[", "]"))
 
     # Return if no valuable text
     if not valuable_text:
@@ -213,14 +211,13 @@ def find_outer_content(line: str, open_delim: str, close_delim: str) -> List[str
                 content_start = i
             # Open delim but inside content
             stack.append(char)
-        elif char == close_delim:
+        elif char == close_delim and stack and stack[-1] == open_delim:
             # Close delim and last delim was open, then pop to close
-            if stack and stack[-1] == open_delim:
-                stack.pop()
-                # If pop removed last stack open and starting index present outer content found, add to content
-                if not stack and content_start != -1:
-                    content.append(line[content_start + 1 : i])
-                    content_start = -1
+            stack.pop()
+            # If pop removed last stack open and starting index present outer content found, add to content
+            if not stack and content_start != -1:
+                content.append(line[content_start + 1 : i])
+                content_start = -1
 
     return content
 
