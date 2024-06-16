@@ -42,7 +42,9 @@ def extract_voltron_data(keys: "Keys") -> None:
                     current_roll[keys.DESCRIPTION_KEY].append(line)
 
                     line_lower = line.lower()
-                    process_author(current_roll, line_lower, keys)
+                    process_author(
+                        current_roll[keys.AUTHORS_KEY], line_lower, keys.AUTHORS
+                    )
                     process_tags(current_roll, line_lower, keys)
 
         # Add last roll to voltron data when reach end of file
@@ -76,18 +78,18 @@ def initialize_roll(keys: "Keys") -> Dict[str, object]:
 
 def process_weapon_roll(weapon_roll: Dict[str, object], keys: "Keys") -> None:
     # Add tags if none present
-    add_default_tags(weapon_roll, keys)
+    add_default_tags(weapon_roll[keys.INC_TAGS_KEY], keys)
 
     # Update counters with perks
     get_weapon_and_perk_counters(weapon_roll, keys)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
-def add_default_tags(weapon_roll: Dict[str, object], keys: "Keys") -> None:
-    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"mkb", "controller"}):
-        weapon_roll[keys.INC_TAGS_KEY].add("mkb")
-    if not weapon_roll[keys.INC_TAGS_KEY].intersection({"pve", "pvp"}):
-        weapon_roll[keys.INC_TAGS_KEY].add("pve")
+def add_default_tags(roll_tags: Set[str], keys: "Keys") -> None:
+    if not roll_tags.intersection({"mkb", "controller"}):
+        roll_tags.add("mkb")
+    if not roll_tags.intersection({"pve", "pvp"}):
+        roll_tags.add("pve")
 
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
@@ -164,12 +166,10 @@ def hashes_to_string(roll_id: str, perk_hashes: List[str]) -> str:
 
 # Check each author present in wishlist configs
 # If any found in line, add to current roll
-def process_author(
-    current_roll: Dict[str, object], line_lower: str, keys: "Keys"
-) -> None:
-    for author in keys.AUTHORS:
+def process_author(roll_authors: Set[str], line_lower: str, authors: Set[str]) -> None:
+    for author in authors:
         if author in line_lower:
-            current_roll[keys.AUTHORS_KEY].add(author)
+            roll_authors.add(author)
 
 
 # Checks if any tags in wishlist are in given line
@@ -195,17 +195,15 @@ def process_tags(
         return
 
     # Collect tags if any present
-    add_tags(current_roll, keys.INC_TAGS, keys.INC_TAGS_KEY, valuable_text)
-    add_tags(current_roll, keys.EXC_TAGS, keys.EXC_TAGS_KEY, valuable_text)
+    add_tags(keys.INC_TAGS, current_roll[keys.INC_TAGS_KEY], valuable_text)
+    add_tags(keys.EXC_TAGS, current_roll[keys.EXC_TAGS_KEY], valuable_text)
 
 
 # Add tags found in valuable text to roll
-def add_tags(
-    weapon_roll: Dict[str, object], tags: Set[str], tag_key: str, valuable_text: str
-) -> None:
+def add_tags(tags: Set[str], roll_tags: Set[str], valuable_text: str) -> None:
     for tag in tags:
         if tag in valuable_text:
-            weapon_roll[tag_key].add(tag)
+            roll_tags.add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters
