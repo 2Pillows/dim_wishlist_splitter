@@ -105,9 +105,9 @@ def main():
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
     # Timer for script performance before writing
-    end_time = time.time()
-    runtime = end_time - start_time
-    print(f"Runtime before write: {runtime} seconds")
+    # end_time = time.time()
+    # runtime = end_time - start_time
+    # print(f"Runtime before write: {runtime} seconds")
 
     # Write voltron data to wishlist files
     write_to_wishlists(keys)
@@ -117,6 +117,6 @@ if __name__ == "__main__":
     main()
 
     # Timer for script performance
-    end_time = time.time()
-    runtime = end_time - start_time
-    print(f"Runtime: {runtime} seconds")
+    # end_time = time.time()
+    # runtime = end_time - start_time
+    # print(f"Runtime: {runtime} seconds")
