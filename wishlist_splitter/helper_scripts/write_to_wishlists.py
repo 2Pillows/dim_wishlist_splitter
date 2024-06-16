@@ -94,39 +94,54 @@ def check_tags(
 ) -> bool:
 
     return (
-        # Must contain authors and inc tags
-        must_contain_check(
+        # Must contain an author in authors
+        contains_authors(
             weapon_roll.get(keys.AUTHORS_KEY), wishlist.get(keys.AUTHORS_KEY)
         )
-        and must_contain_check(
+        # Must contain all inc tags
+        and contains_inc_tags(
             weapon_roll.get(keys.INC_TAGS_KEY), wishlist.get(keys.INC_TAGS_KEY)
         )
         # Cant contain exc tags
-        and not cannot_contain_check(
+        and not contains_exc_tags(
             weapon_roll.get(keys.EXC_TAGS_KEY), wishlist.get(keys.EXC_TAGS_KEY)
         )
     )
 
 
-# Weapon must contain wishlist pref
-def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]) -> bool:
-    # If wishlist doesn't have pref, then pass
-    if not wishlist_prefs:
+# Weapon must contain an author in wishlist
+def contains_authors(weapon_authors: Set[str], wishlist_authors: Set[str]) -> bool:
+    # If wishlist doesn't have authors, then pass
+    if not wishlist_authors:
         return True
 
-    # If weapon doesn't have pref, then fails
-    if not weapon_prefs:
+    # If weapon doesn't have authors, then fails
+    if not weapon_authors:
         return False
 
-    # Wishlist must be subset of weapon
-    return wishlist_prefs.issubset(weapon_prefs)
+    # Weapon needs a single matching author
+    return wishlist_authors.intersection(weapon_authors)
+
+
+# Weapon must contain wishlist pref
+def contains_inc_tags(weapon_tags: Set[str], wishlist_tags: Set[str]) -> bool:
+    # If wishlist doesn't have inc tags, then pass
+    if not wishlist_tags:
+        return True
+
+    # If weapon doesn't have inc tags, then fails
+    if not weapon_tags:
+        return False
+
+    # Wishlist inc tags must be subset of weapon inc tags
+    return wishlist_tags.issubset(weapon_tags)
 
 
 # Weapon cannot contain weapon check
-def cannot_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]) -> bool:
-    # If either wishlist or weapon don't have pref, then can't contain
-    if not wishlist_pref or not weapon_pref:
+def contains_exc_tags(weapon_tags: Set[str], wishlist_tags: Set[str]) -> bool:
+    # If either wishlist or weapon don't have exc tags, then can't contain
+    if not wishlist_tags or not weapon_tags:
         return False
 
-    # Check if wistlist and weapon share any in common
-    return wishlist_pref.intersection(weapon_pref)
+    # Check if wistlist and weapon share any in common exc tags
+    return wishlist_tags.intersection(weapon_tags)
