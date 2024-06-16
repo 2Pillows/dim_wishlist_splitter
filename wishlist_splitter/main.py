@@ -15,7 +15,7 @@ from helper_scripts.write_to_wishlists import write_to_wishlists
 # start_time = time.time()
 
 
-def main():
+def main() -> None:
     # Create object for Keys
     keys = Keys()
 
