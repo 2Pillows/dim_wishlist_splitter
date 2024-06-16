@@ -1,15 +1,14 @@
 # write_to_wishlists.py
 
 import concurrent.futures
-from typing import TYPE_CHECKING, Dict, Set
+from typing import Dict, Set
 
-# Load Keys class without importing to avoid cyclic import
-if TYPE_CHECKING:
-    from main import Keys
+# Import keys
+from helper_scripts.keys import Keys
 
 
 # Main function called from main.py
-def write_to_wishlists(keys: "Keys"):
+def write_to_wishlists(keys: "Keys") -> None:
     # Non threaded option
     # for wishlist in keys.WISHLIST_CONFIGS:
     #     write_to_wishlist(wishlist, keys)
@@ -27,7 +26,7 @@ def write_to_wishlists(keys: "Keys"):
 def write_to_wishlist(
     wishlist: Dict[str, object],
     keys: "Keys",
-):
+) -> None:
     # Determine what perks wishlist wants
     PREF_PERKS = get_wishlist_perk_prefs(wishlist, keys)
 
@@ -73,7 +72,7 @@ def write_to_wishlist(
 
 # Determine what perks the given wishlist wants
 # Returns key for weapon roll's perks that wishlist wants
-def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
+def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys") -> str:
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
             # wishlist wants trimmed perks and dupes
@@ -92,7 +91,7 @@ def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
 # Checks author, inc, and exc tags to see if given roll is meets conditions
 def check_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
-):
+) -> bool:
 
     return (
         # Must contain authors and inc tags
@@ -110,7 +109,7 @@ def check_tags(
 
 
 # Weapon must contain wishlist pref
-def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]):
+def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]) -> bool:
     # If wishlist doesn't have pref, then pass
     if not wishlist_prefs:
         return True
@@ -124,7 +123,7 @@ def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]):
 
 
 # Weapon cannot contain weapon check
-def cannot_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]):
+def cannot_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]) -> bool:
     # If either wishlist or weapon don't have pref, then can't contain
     if not wishlist_pref or not weapon_pref:
         return False
