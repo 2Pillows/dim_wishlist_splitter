@@ -8,7 +8,7 @@ Collects 3rd and 4th column perks and origin traits from Destiny Data Explorer: 
 
 #### Filter Descriptions
 
-For more details about available filters and how they work: https://github.com/2Pillows/dim_wishlist_splitter/blob/main/wishlists/README.md
+For more details about filters and how they work: https://github.com/2Pillows/dim_wishlist_splitter/blob/main/wishlists/README.md
 
 #### Adding a Wishlist to DIM
 
@@ -24,4 +24,4 @@ DIM needs the URL for the raw version of a wishlist file. There are two ways to 
 
 Create an issue using the Wishlist Request template, edit the template to configure the wishlist.
 
-If you want a filter that isn't on the Wishlist Request template, create an issue using the Filter Request template.
+If you want a filter that isn't in the Wishlist Request template, create an issue using the Filter Request template.
