@@ -5,8 +5,11 @@ import json
 # Import keys
 from helper_scripts.keys import Keys
 
+keys = Keys()
 
-def get_wishlist_config(keys: "Keys"):
+
+def get_wishlist_config():
+
     wishlist_configs = [
         # -------------------------------------------
         # All Rolls

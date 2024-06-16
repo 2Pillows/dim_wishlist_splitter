@@ -5,14 +5,16 @@ from typing import Dict, List
 # Import keys
 from helper_scripts.keys import Keys
 
+keys = Keys()
+
 
 # Read voltron file and collect roll information
-def extract_voltron_data(keys: "Keys"):
+def extract_voltron_data():
     # Array for dictionaries for weapon roll in Voltron
     voltron_data = []
 
     # Dict to hold roll information
-    current_roll = initialize_roll(keys)
+    current_roll = initialize_roll()
 
     with open(keys.VOLTRON_PATH, mode="r", encoding="utf-8") as voltron_file:
         for line_num, line in enumerate(voltron_file):
@@ -25,41 +27,41 @@ def extract_voltron_data(keys: "Keys"):
                 # Check if current roll should be added to voltron data
                 if line_num == 2 or current_roll.get(keys.PERKS_KEY):
                     if line_num != 2:  # Isn't the haeding, add tags and update counters
-                        add_default_tags(current_roll, keys)
-                        get_weapon_and_perk_counters(current_roll, keys)
+                        add_default_tags(current_roll)
+                        get_weapon_and_perk_counters(current_roll)
 
                     voltron_data.append(current_roll)
 
                 # Start new roll
-                current_roll = initialize_roll(keys)
+                current_roll = initialize_roll()
             else:
                 # Collect perk information
                 if "dimwishlist:item=" in line:
                     # Collect different perk lines for current perk line
-                    set_perk_types(current_roll, line, keys)
+                    set_perk_types(current_roll, line)
 
                 # Add description and collect tags and authors
                 else:
                     current_roll[keys.DESCRIPTION_KEY].append(line)
 
                     line_lower = line.lower()
-                    process_author(current_roll, line_lower, keys)
-                    process_tags(current_roll, line_lower, keys)
+                    process_author(current_roll, line_lower)
+                    process_tags(current_roll, line_lower)
 
         # Add last roll to voltron data when reach end of file
         if current_roll.get(keys.ROLL_ID_KEY):
-            add_default_tags(current_roll, keys)
-            get_weapon_and_perk_counters(current_roll, keys)
+            add_default_tags(current_roll)
+            get_weapon_and_perk_counters(current_roll)
             voltron_data.append(current_roll)
 
     # Process perks more, get dupe lists and remove duplicate lines from perks and trimmed
-    process_perks_dupes(voltron_data, keys)
+    process_perks_dupes(voltron_data)
 
     return voltron_data
 
 
 # Returns empty dict for current roll
-def initialize_roll(keys: "Keys"):
+def initialize_roll():
     return {
         keys.AUTHORS_KEY: set(),
         keys.INC_TAGS_KEY: set(),
@@ -77,7 +79,7 @@ def initialize_roll(keys: "Keys"):
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
-def add_default_tags(weapon_roll: Dict[str, object], keys: "Keys"):
+def add_default_tags(weapon_roll: Dict[str, object]):
     if not weapon_roll[keys.INC_TAGS_KEY].intersection({"mkb", "controller"}):
         weapon_roll[keys.INC_TAGS_KEY].add("mkb")
     if not weapon_roll[keys.INC_TAGS_KEY].intersection({"pve", "pvp"}):
@@ -85,7 +87,7 @@ def add_default_tags(weapon_roll: Dict[str, object], keys: "Keys"):
 
 
 # Creates Counter to track number of mentions for each set of perk and weapon hashes
-def get_weapon_and_perk_counters(weapon_roll: Dict[str, object], keys: "Keys"):
+def get_weapon_and_perk_counters(weapon_roll: Dict[str, object]):
     weapon_hash = weapon_roll[keys.ROLL_ID_KEY].split("item=")[1].split("&perks=")[0]
     weapon_roll[keys.WEAPON_HASH_KEY] = weapon_hash
     # Update counter for each rolls hashes. Only one set of hashes per roll will count
@@ -95,7 +97,7 @@ def get_weapon_and_perk_counters(weapon_roll: Dict[str, object], keys: "Keys"):
 
 
 # Sets perk line string for each type of perk in current roll
-def set_perk_types(weapon_roll: List[Dict[str, object]], line: str, keys: "Keys"):
+def set_perk_types(weapon_roll: List[Dict[str, object]], line: str):
     # Get roll id if none present
     if not weapon_roll.get(keys.ROLL_ID_KEY):
         weapon_roll[keys.ROLL_ID_KEY] = line[: line.find("&perks") + 7]
@@ -156,14 +158,14 @@ def hashes_to_string(roll_id: str, perk_hashes: List[str]):
 
 # Check each author present in wishlist configs
 # If any found in line, add to current roll
-def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
+def process_author(current_roll: Dict[str, object], line_lower: str):
     for author in keys.AUTHORS:
         if author in line_lower:
             current_roll[keys.AUTHORS_KEY].add(author)
 
 
 # Checks if any tags in wishlist are in given line
-def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
+def process_tags(current_roll: Dict[str, object], line_lower: str):
     # Fix MKB formatting
     line_lower = line_lower.replace("m+kb", "mkb")
 
@@ -221,7 +223,7 @@ def find_outer_content(line: str, open_delim: str, close_delim: str):
 
 # Adds dupe perks for perks and trimmed perks. Also removes duplicates from
 # perks and trimmed perks
-def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys"):
+def process_perks_dupes(voltron_data: List[Dict[str, object]]):
     for weapon_roll in voltron_data:
         # Needs hash to check perks
         if not weapon_roll.get(keys.WEAPON_HASH_KEY):
