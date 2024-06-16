@@ -1,10 +1,9 @@
 # extract_voltron_data.py
 
-from typing import TYPE_CHECKING, Dict, List
+from typing import Dict, List
 
-# Load Keys class without importing to avoid cyclic import
-if TYPE_CHECKING:
-    from main import Keys
+# Import keys
+from helper_scripts.keys import Keys
 
 
 # Read voltron file and collect roll information

@@ -2,11 +2,8 @@
 
 import json
 
-from typing import TYPE_CHECKING
-
-# Load Keys class without importing to avoid cyclic import
-if TYPE_CHECKING:
-    from main import Keys
+# Import keys
+from helper_scripts.keys import Keys
 
 
 def get_weapon_mods(keys: "Keys") -> set:

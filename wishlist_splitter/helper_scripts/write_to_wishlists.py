@@ -1,11 +1,10 @@
 # write_to_wishlists.py
 
 import concurrent.futures
-from typing import TYPE_CHECKING, Dict, Set
+from typing import Dict, Set
 
-# Load Keys class without importing to avoid cyclic import
-if TYPE_CHECKING:
-    from main import Keys
+# Import keys
+from helper_scripts.keys import Keys
 
 
 # Main function called from main.py
