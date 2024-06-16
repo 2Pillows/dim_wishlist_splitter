@@ -28,7 +28,7 @@ def write_to_wishlist(
     wishlist: Dict[str, object],
     keys: "Keys",
 ):
-    # Determine what perks wishlist wants, avoid repeated calcs
+    # Determine what perks wishlist wants
     PREF_PERKS = get_wishlist_perk_prefs(wishlist, keys)
 
     with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
@@ -72,8 +72,7 @@ def write_to_wishlist(
 
 
 # Determine what perks the given wishlist wants
-# Returns keys for perks and core perks as well as the counter for perks
-# If wishlist doesn't want dupes, no core perks or counter is returned
+# Returns key for weapon roll's perks that wishlist wants
 def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
@@ -94,51 +93,36 @@ def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
 def check_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
+    def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]):
+        # If wishlist doesn't have pref, then pass
+        if not wishlist_prefs:
+            return True
+
+        # If weapon doesn't have pref, then fails
+        if not weapon_prefs:
+            return False
+
+        # Wishlist must be subset of weapon
+        return wishlist_prefs.issubset(weapon_prefs)
+
+    def cant_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]):
+        # If either wishlist or weapon don't have pref, then can't contain
+        if not wishlist_pref or not weapon_pref:
+            return False
+
+        # Check if wistlist and weapon share any in common
+        return wishlist_pref.intersection(weapon_pref)
+
     return (
-        contains_author_names(
+        # Must contain authors and inc tags
+        must_contain_check(
             weapon_roll.get(keys.AUTHORS_KEY), wishlist.get(keys.AUTHORS_KEY)
         )
-        and contains_inc_tags(
+        and must_contain_check(
             weapon_roll.get(keys.INC_TAGS_KEY), wishlist.get(keys.INC_TAGS_KEY)
         )
-        and not contains_exc_tags(
+        # Cant contain exc tags
+        and not cant_contain_check(
             weapon_roll.get(keys.EXC_TAGS_KEY), wishlist.get(keys.EXC_TAGS_KEY)
         )
     )
-
-
-def contains_author_names(weapon_authors: Set[str], wishlist_authors: Set[str]):
-    # If wishlist doesn't specify author then all rolls pass
-    if not wishlist_authors:
-        return True
-
-    # If weapon doesn't have author then fails
-    if not weapon_authors:
-        return False
-
-    # Author for wishlist and weapon need to share an author
-    return wishlist_authors.intersection(weapon_authors)
-
-
-def contains_inc_tags(weapon_inc: Set[str], wishlist_inc: Set[str]):
-    # If wishlist doesn't have inc tags, then passes
-    if not wishlist_inc:
-        return True
-
-    # If roll doesn't have any include tags but wishlist does, it doesn't pass
-    if not weapon_inc:
-        return False
-
-    # Return if all include tags in wishlist are in roll include tags
-    # the tags needed for the wishlist need to be subset of tags for roll
-    return wishlist_inc.issubset(weapon_inc)
-
-
-def contains_exc_tags(weapon_exc: Set[str], wishlist_exc: Set[str]):
-    # If wishlist doesn't have any exlcude tags then roll can't have any exclude tags
-    # Or if roll doesn't have any exclude tags then it passes
-    if not wishlist_exc or not weapon_exc:
-        return False
-
-    # Return if any wishlist exclude tag is in roll exlude tags
-    return wishlist_exc.intersection(weapon_exc)
