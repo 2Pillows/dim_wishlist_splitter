@@ -12,7 +12,7 @@ Each weapon roll in Voltron is given tags based on its valuable text. Valuable t
 
 **Author** - The name(s) of the author(s) for the roll. Wishlists can filter by multiple authors.
 
-**God** - Shows rolls tagged as "God". Extremely strict and relies on Voltron to tag rolls as "God".
+**God** - Shows rolls tagged as "God". Extremely strict and relies on rolls being properly tagged as "God".
 
 **!Backup** - Removes rolls tagged as "Backup Roll". Less strict version of "God".
 
