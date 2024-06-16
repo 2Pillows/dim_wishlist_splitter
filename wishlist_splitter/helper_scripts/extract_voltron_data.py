@@ -1,6 +1,6 @@
 # extract_voltron_data.py
 
-from typing import Dict, List
+from typing import Counter, Dict, List, Set
 
 # Import keys
 from helper_scripts.keys import Keys
@@ -25,8 +25,7 @@ def extract_voltron_data(keys: "Keys") -> None:
                 # Check if current roll should be added to voltron data
                 if line_num == 2 or current_roll.get(keys.PERKS_KEY):
                     if line_num != 2:  # Isn't the haeding, add tags and update counters
-                        add_default_tags(current_roll, keys)
-                        get_weapon_and_perk_counters(current_roll, keys)
+                        process_weapon_roll(current_roll, keys)
 
                     voltron_data.append(current_roll)
 
@@ -48,8 +47,7 @@ def extract_voltron_data(keys: "Keys") -> None:
 
         # Add last roll to voltron data when reach end of file
         if current_roll.get(keys.ROLL_ID_KEY):
-            add_default_tags(current_roll, keys)
-            get_weapon_and_perk_counters(current_roll, keys)
+            process_weapon_roll(current_roll, keys)
             voltron_data.append(current_roll)
 
     # Process perks more, get dupe lists and remove duplicate lines from perks and trimmed
@@ -74,6 +72,14 @@ def initialize_roll(keys: "Keys") -> Dict[str, object]:
         keys.PERKS_DUPES_KEY: [],
         keys.TRIMMED_PERKS_DUPES_KEY: [],
     }
+
+
+def process_weapon_roll(weapon_roll: Dict[str, object], keys: "Keys") -> None:
+    # Add tags if none present
+    add_default_tags(weapon_roll, keys)
+
+    # Update counters with perks
+    get_weapon_and_perk_counters(weapon_roll, keys)
 
 
 # Adds mouse and pve tag if no input or gamemode tag present
@@ -189,13 +195,17 @@ def process_tags(
         return
 
     # Collect tags if any present
-    for tag in keys.INC_TAGS:
-        if tag in valuable_text:
-            current_roll[keys.INC_TAGS_KEY].add(tag)
+    add_tags(current_roll, keys.INC_TAGS, keys.INC_TAGS_KEY, valuable_text)
+    add_tags(current_roll, keys.EXC_TAGS, keys.EXC_TAGS_KEY, valuable_text)
 
-    for tag in keys.EXC_TAGS:
+
+# Add tags found in valuable text to roll
+def add_tags(
+    weapon_roll: Dict[str, object], tags: Set[str], tag_key: str, valuable_text: str
+) -> None:
+    for tag in tags:
         if tag in valuable_text:
-            current_roll[keys.EXC_TAGS_KEY].add(tag)
+            weapon_roll[tag_key].add(tag)
 
 
 # Find outer content of a line given the open and closing delimiters
@@ -230,51 +240,52 @@ def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys") -> 
         if not weapon_roll.get(keys.WEAPON_HASH_KEY):
             continue
 
-        # Remove duplicates from perk list and core perk list for perks and trimmed perks
-        remove_duplicates(weapon_roll[keys.PERKS_KEY], weapon_roll[keys.CORE_PERKS_KEY])
-        remove_duplicates(
-            weapon_roll[keys.TRIMMED_PERKS_KEY],
-            weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
+        # Get min count needed for rolls, assume 1 unless weapon appears min_count times
+        roll_count = (
+            keys.MIN_ROLL_COUNT
+            if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]]
+            >= keys.MIN_ROLL_COUNT
+            else 1
         )
 
-        # Weapon doesn't appear min count times, invalid for roll dupe check
-        if keys.WEAPON_COUNTER[weapon_roll[keys.WEAPON_HASH_KEY]] < keys.MIN_ROLL_COUNT:
-            weapon_roll[keys.PERKS_DUPES_KEY] = weapon_roll[keys.PERKS_KEY]
-            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = weapon_roll[
-                keys.TRIMMED_PERKS_KEY
-            ]
-
-        # Weapon is valid for getting dupe rolls
-        else:
-            weapon_roll[keys.PERKS_DUPES_KEY] = [
-                weapon_roll[keys.PERKS_KEY][index]
-                for index, core_perks in enumerate(weapon_roll[keys.CORE_PERKS_KEY])
-                if keys.CORE_COUNTER[core_perks] >= keys.MIN_ROLL_COUNT
-            ]
-
-            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = [
-                weapon_roll[keys.TRIMMED_PERKS_KEY][index]
-                for index, core_trimmed_perks in enumerate(
-                    weapon_roll[keys.CORE_TRIMMED_PERKS_KEY]
-                )
-                if keys.TRIMMED_COUNTER[core_trimmed_perks] >= keys.MIN_ROLL_COUNT
-            ]
+        set_unique_perk_lists(
+            weapon_roll[keys.PERKS_KEY],
+            weapon_roll[keys.CORE_PERKS_KEY],
+            weapon_roll[keys.PERKS_DUPES_KEY],
+            keys.CORE_COUNTER,
+            roll_count,
+        )
+        set_unique_perk_lists(
+            weapon_roll[keys.TRIMMED_PERKS_KEY],
+            weapon_roll[keys.CORE_TRIMMED_PERKS_KEY],
+            weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY],
+            keys.TRIMMED_COUNTER,
+            roll_count,
+        )
 
 
-def remove_duplicates(perk_list: List[str], core_perk_list: List[str]) -> None:
+# Set perk list and perk dupes list to unique perks
+def set_unique_perk_lists(
+    perk_list: List[str],
+    core_perk_list: List[str],
+    perk_dupe_list: List[str],
+    perk_counter: Counter,
+    min_count: int,
+) -> None:
     seen = set()
+
     unique_perk_list = []
-    unique_core_perk_list = []
+    unique_perk_dupe_list = []
 
     for perk, core_perk in zip(perk_list, core_perk_list):
         if perk not in seen:
             seen.add(perk)
             unique_perk_list.append(perk)
-            unique_core_perk_list.append(core_perk)
+            if perk_counter[core_perk] >= min_count:
+                unique_perk_dupe_list.append(perk)
 
     # Set unique lists to base lists
     perk_list.clear()
     perk_list.extend(unique_perk_list)
 
-    core_perk_list.clear()
-    core_perk_list.extend(unique_core_perk_list)
+    perk_dupe_list.extend(unique_perk_dupe_list)
