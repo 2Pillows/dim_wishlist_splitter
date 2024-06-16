@@ -93,25 +93,6 @@ def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
 def check_tags(
     weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
 ):
-    def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]):
-        # If wishlist doesn't have pref, then pass
-        if not wishlist_prefs:
-            return True
-
-        # If weapon doesn't have pref, then fails
-        if not weapon_prefs:
-            return False
-
-        # Wishlist must be subset of weapon
-        return wishlist_prefs.issubset(weapon_prefs)
-
-    def cant_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]):
-        # If either wishlist or weapon don't have pref, then can't contain
-        if not wishlist_pref or not weapon_pref:
-            return False
-
-        # Check if wistlist and weapon share any in common
-        return wishlist_pref.intersection(weapon_pref)
 
     return (
         # Must contain authors and inc tags
@@ -122,7 +103,31 @@ def check_tags(
             weapon_roll.get(keys.INC_TAGS_KEY), wishlist.get(keys.INC_TAGS_KEY)
         )
         # Cant contain exc tags
-        and not cant_contain_check(
+        and not cannot_contain_check(
             weapon_roll.get(keys.EXC_TAGS_KEY), wishlist.get(keys.EXC_TAGS_KEY)
         )
     )
+
+
+# Weapon must contain wishlist pref
+def must_contain_check(weapon_prefs: Set[str], wishlist_prefs: Set[str]):
+    # If wishlist doesn't have pref, then pass
+    if not wishlist_prefs:
+        return True
+
+    # If weapon doesn't have pref, then fails
+    if not weapon_prefs:
+        return False
+
+    # Wishlist must be subset of weapon
+    return wishlist_prefs.issubset(weapon_prefs)
+
+
+# Weapon cannot contain weapon check
+def cannot_contain_check(weapon_pref: Set[str], wishlist_pref: Set[str]):
+    # If either wishlist or weapon don't have pref, then can't contain
+    if not wishlist_pref or not weapon_pref:
+        return False
+
+    # Check if wistlist and weapon share any in common
+    return wishlist_pref.intersection(weapon_pref)

@@ -97,27 +97,6 @@ def get_weapon_and_perk_counters(weapon_roll: Dict[str, object], keys: "Keys"):
 
 # Sets perk line string for each type of perk in current roll
 def set_perk_types(weapon_roll: List[Dict[str, object]], line: str, keys: "Keys"):
-    # Returns sorted array of perk hashes in given line
-    def get_perk_hashes(perk_line: str):
-        # Convert perk lines into arrays with hashes
-        perks_substring = perk_line[perk_line.find("&perks=") + 7 :]
-
-        # Normal ending for substring
-        perks_end = perks_substring.find("\n")
-        if perks_end != -1:
-            perks_substring = perks_substring[:perks_end]
-
-        # Handle edge case for perks#perk_descriptions
-        perks_end = perks_substring.find("#")
-        if perks_end != -1:
-            perks_substring = perks_substring[:perks_end]
-
-        # Sorted required to ensure consistent comparing for counters
-        return sorted(perks_substring.split(","))
-
-    def hashes_to_string(roll_id: str, perk_hashes: List[str]):
-        return roll_id + ",".join(perk_hashes) + "\n"
-
     # Get roll id if none present
     if not weapon_roll.get(keys.ROLL_ID_KEY):
         weapon_roll[keys.ROLL_ID_KEY] = line[: line.find("&perks") + 7]
@@ -153,6 +132,29 @@ def set_perk_types(weapon_roll: List[Dict[str, object]], line: str, keys: "Keys"
     )
 
 
+# Returns sorted array of perk hashes in given line
+def get_perk_hashes(perk_line: str):
+    # Convert perk lines into arrays with hashes
+    perks_substring = perk_line[perk_line.find("&perks=") + 7 :]
+
+    # Normal ending for substring
+    perks_end = perks_substring.find("\n")
+    if perks_end != -1:
+        perks_substring = perks_substring[:perks_end]
+
+    # Handle edge case for perks#perk_descriptions
+    perks_end = perks_substring.find("#")
+    if perks_end != -1:
+        perks_substring = perks_substring[:perks_end]
+
+    # Sorted required to ensure consistent comparing for counters
+    return sorted(perks_substring.split(","))
+
+
+def hashes_to_string(roll_id: str, perk_hashes: List[str]):
+    return roll_id + ",".join(perk_hashes) + "\n"
+
+
 # Check each author present in wishlist configs
 # If any found in line, add to current roll
 def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
@@ -163,30 +165,6 @@ def process_author(current_roll: Dict[str, object], line_lower: str, keys: "Keys
 
 # Checks if any tags in wishlist are in given line
 def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys"):
-    # Find outer content of a line given the open and closing delimiters
-    def find_outer_content(line: str, open_delim: str, close_delim: str):
-        stack = []
-        content = []
-        content_start = -1
-
-        for i, char in enumerate(line):
-            if char == open_delim:
-                # If open delim and no stack present, new content
-                if not stack:
-                    content_start = i
-                # Open delim but inside content
-                stack.append(char)
-            elif char == close_delim:
-                # Close delim and last delim was open, then pop to close
-                if stack and stack[-1] == open_delim:
-                    stack.pop()
-                    # If pop removed last stack open and starting index present outer content found, add to content
-                    if not stack and content_start != -1:
-                        content.append(line[content_start + 1 : i])
-                        content_start = -1
-
-        return content
-
     # Fix MKB formatting
     line_lower = line_lower.replace("m+kb", "mkb")
 
@@ -217,12 +195,34 @@ def process_tags(current_roll: Dict[str, object], line_lower: str, keys: "Keys")
             current_roll[keys.EXC_TAGS_KEY].add(tag)
 
 
+# Find outer content of a line given the open and closing delimiters
+def find_outer_content(line: str, open_delim: str, close_delim: str):
+    stack = []
+    content = []
+    content_start = -1
+
+    for i, char in enumerate(line):
+        if char == open_delim:
+            # If open delim and no stack present, new content
+            if not stack:
+                content_start = i
+            # Open delim but inside content
+            stack.append(char)
+        elif char == close_delim:
+            # Close delim and last delim was open, then pop to close
+            if stack and stack[-1] == open_delim:
+                stack.pop()
+                # If pop removed last stack open and starting index present outer content found, add to content
+                if not stack and content_start != -1:
+                    content.append(line[content_start + 1 : i])
+                    content_start = -1
+
+    return content
+
+
 # Adds dupe perks for perks and trimmed perks. Also removes duplicates from
 # perks and trimmed perks
 def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys"):
-    def remove_duplicates(perk_list: List[str]):
-        return list(dict.fromkeys(perk_list))
-
     for weapon_roll in voltron_data:
         # Needs hash to check perks
         if not weapon_roll.get(keys.WEAPON_HASH_KEY):
@@ -262,3 +262,7 @@ def process_perks_dupes(voltron_data: List[Dict[str, object]], keys: "Keys"):
             weapon_roll[keys.TRIMMED_PERKS_DUPES_KEY] = remove_duplicates(
                 trimmed_perks_dupes
             )
+
+
+def remove_duplicates(perk_list: List[str]):
+    return list(dict.fromkeys(perk_list))
