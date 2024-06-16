@@ -7,7 +7,7 @@ from helper_scripts.keys import Keys
 
 
 # Read voltron file and collect roll information
-def extract_voltron_data(keys: "Keys") -> List[Dict[str, object]]:
+def extract_voltron_data(keys: "Keys") -> None:
     # Array for dictionaries for weapon roll in Voltron
     voltron_data = []
 
@@ -55,7 +55,7 @@ def extract_voltron_data(keys: "Keys") -> List[Dict[str, object]]:
     # Process perks more, get dupe lists and remove duplicate lines from perks and trimmed
     process_perks_dupes(voltron_data, keys)
 
-    return voltron_data
+    keys.VOLTRON_DATA = voltron_data
 
 
 # Returns empty dict for current roll

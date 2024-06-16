@@ -6,7 +6,7 @@ import json
 from helper_scripts.keys import Keys
 
 
-def get_weapon_mods(keys: "Keys") -> tuple[set, set]:
+def get_weapon_mods(keys: "Keys") -> None:
     # Empty set to hold file data
     origin_traits = set()
     frame_mods = set()
@@ -19,4 +19,5 @@ def get_weapon_mods(keys: "Keys") -> tuple[set, set]:
     with open(keys.FRAME_MODS_PATH, "r", encoding="utf-8") as frame_mods_file:
         frame_mods = set(json.load(frame_mods_file))
 
-    return origin_traits, frame_mods
+    keys.ORIGIN_TRAITS = origin_traits
+    keys.FRAME_MODS = frame_mods

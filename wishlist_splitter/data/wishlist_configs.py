@@ -6,7 +6,7 @@ import json
 from helper_scripts.keys import Keys
 
 
-def get_wishlist_config(keys: "Keys"):
+def get_wishlist_config(keys: "Keys") -> None:
     wishlist_configs = [
         # -------------------------------------------
         # All Rolls
@@ -214,9 +214,7 @@ def get_wishlist_config(keys: "Keys"):
     with open(keys.WISHLIST_NAMES_PATH, "w") as file:
         json.dump(wishlist_paths, file)
 
-    return {
-        keys.WISHLIST_CONFIGS_KEY: wishlist_configs,
-        keys.AUTHORS_KEY: author_names,
-        keys.INC_TAGS_KEY: inc_tags,
-        keys.EXC_TAGS_KEY: exc_tags,
-    }
+    keys.WISHLIST_CONFIGS = wishlist_configs
+    keys.AUTHORS = author_names
+    keys.INC_TAGS = inc_tags
+    keys.EXC_TAGS = exc_tags
