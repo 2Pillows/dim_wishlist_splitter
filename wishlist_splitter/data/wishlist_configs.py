@@ -190,7 +190,7 @@ def get_wishlist_config(keys: "Keys"):
         wishlist_paths.append(wishlist_path)  # Add full path to array for website
 
         # Update abreviated wishlist tags
-        if keys.INC_TAGS_KEY in wishlist and wishlist.get(keys.INC_TAGS_KEY):
+        if keys.INC_TAGS_KEY in wishlist:
             # Update tags
             if "ctr" in wishlist[keys.INC_TAGS_KEY]:
                 wishlist[keys.INC_TAGS_KEY].remove("ctr")
