@@ -1,7 +1,6 @@
 # wishlist_configs.py
 
 import json
-from typing import TYPE_CHECKING
 
 # Import keys
 from helper_scripts.keys import Keys
