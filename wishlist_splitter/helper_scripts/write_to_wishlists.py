@@ -6,19 +6,17 @@ from typing import Dict, Set
 # Import keys
 from helper_scripts.keys import Keys
 
-keys = Keys()
-
 
 # Main function called from main.py
-def write_to_wishlists():
+def write_to_wishlists(keys: "Keys"):
     # Non threaded option
     # for wishlist in keys.WISHLIST_CONFIGS:
-    #     write_to_wishlist(wishlist)
+    #     write_to_wishlist(wishlist, keys)
 
     # Write to each wishlist in a thread
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = [
-            executor.submit(write_to_wishlist, wishlist)
+            executor.submit(write_to_wishlist, wishlist, keys)
             for wishlist in keys.WISHLIST_CONFIGS
         ]
         concurrent.futures.wait(futures)
@@ -27,9 +25,10 @@ def write_to_wishlists():
 # Writes data to given wishlist file
 def write_to_wishlist(
     wishlist: Dict[str, object],
+    keys: "Keys",
 ):
     # Determine what perks wishlist wants
-    PREF_PERKS = get_wishlist_perk_prefs(wishlist)
+    PREF_PERKS = get_wishlist_perk_prefs(wishlist, keys)
 
     with open(wishlist[keys.PATH_KEY], mode="w", encoding="utf-8") as wishlist_file:
         # Write file name to start of file
@@ -53,7 +52,9 @@ def write_to_wishlist(
                 batch.append("\n")
 
             # Check there are perks to write and roll tags match wishlist tags
-            elif weapon_roll.get(PREF_PERKS) and check_tags(weapon_roll, wishlist):
+            elif weapon_roll.get(PREF_PERKS) and check_tags(
+                weapon_roll, wishlist, keys
+            ):
                 # Add description and correct perks to batch
                 batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
                 batch.extend(weapon_roll[PREF_PERKS])
@@ -71,9 +72,7 @@ def write_to_wishlist(
 
 # Determine what perks the given wishlist wants
 # Returns key for weapon roll's perks that wishlist wants
-def get_wishlist_perk_prefs(
-    wishlist: Dict[str, object],
-):
+def get_wishlist_perk_prefs(wishlist: Dict[str, object], keys: "Keys"):
     if wishlist.get(keys.REQ_TRIMMED_PERKS):
         if wishlist.get(keys.REQ_DUPES):
             # wishlist wants trimmed perks and dupes
@@ -90,7 +89,9 @@ def get_wishlist_perk_prefs(
 
 
 # Checks author, inc, and exc tags to see if given roll is meets conditions
-def check_tags(weapon_roll: Dict[str, object], wishlist: Dict[str, object]):
+def check_tags(
+    weapon_roll: Dict[str, object], wishlist: Dict[str, object], keys: "Keys"
+):
 
     return (
         # Must contain authors and inc tags

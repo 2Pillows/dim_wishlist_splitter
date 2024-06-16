@@ -5,10 +5,8 @@ import json
 # Import keys
 from helper_scripts.keys import Keys
 
-keys = Keys()
 
-
-def get_weapon_mods() -> set:
+def get_weapon_mods(keys: "Keys") -> set:
     # Empty set to hold file data
     origin_traits = set()
     frame_mods = set()

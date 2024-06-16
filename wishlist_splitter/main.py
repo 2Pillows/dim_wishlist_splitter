@@ -21,17 +21,17 @@ def main():
 
     # Get wishlist data and save to keys
     # Wishlist names are exported as well
-    config_results = get_wishlist_config()
+    config_results = get_wishlist_config(keys)
     keys.WISHLIST_CONFIGS = config_results[keys.WISHLIST_CONFIGS_KEY]
     keys.AUTHORS = config_results[keys.AUTHORS_KEY]
     keys.INC_TAGS = config_results[keys.INC_TAGS_KEY]
     keys.EXC_TAGS = config_results[keys.EXC_TAGS_KEY]
 
     # Collect origin trait and frame mod hashes to keys
-    keys.ORIGIN_TRAITS, keys.FRAME_MODS = get_weapon_mods()
+    keys.ORIGIN_TRAITS, keys.FRAME_MODS = get_weapon_mods(keys)
 
     # Collect data from voltron to keys
-    keys.VOLTRON_DATA = extract_voltron_data()
+    keys.VOLTRON_DATA = extract_voltron_data(keys)
 
     # Timer for script performance before writing
     end_time = time.time()
@@ -39,7 +39,7 @@ def main():
     print(f"Runtime before write: {runtime} seconds")
 
     # Write voltron data to wishlist files
-    write_to_wishlists()
+    write_to_wishlists(keys)
 
 
 if __name__ == "__main__":
