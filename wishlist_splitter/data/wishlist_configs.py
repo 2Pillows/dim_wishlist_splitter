@@ -196,7 +196,7 @@ def get_wishlist_config(keys: "Keys"):
                 wishlist[keys.INC_TAGS_KEY].remove("ctr")
                 wishlist[keys.INC_TAGS_KEY].update({"controller"})
 
-            inc_tags.update(wishlist.get(keys.INC_TAGS_KEY, []))  # Add to all inc tags
+            inc_tags.update(wishlist[keys.INC_TAGS_KEY])  # Add to all inc tags
 
         if keys.EXC_TAGS_KEY in wishlist:
             # Update tags
@@ -206,11 +206,11 @@ def get_wishlist_config(keys: "Keys"):
                     {"backup roll", "backup choice roll"}
                 )
 
-            exc_tags.update(wishlist.get(keys.EXC_TAGS_KEY, []))  # Add to all exc tags
+            exc_tags.update(wishlist[keys.EXC_TAGS_KEY])  # Add to all exc tags
 
         # Add wishlist preferences to set with all preferences
         if keys.AUTHORS_KEY in wishlist:
-            author_names.update(wishlist.get(keys.AUTHORS_KEY, []))
+            author_names.update(wishlist[keys.AUTHORS_KEY])
 
     # Write wishlist paths to file for website
     with open(keys.WISHLIST_NAMES_PATH, "w") as file:
