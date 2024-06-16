@@ -11,9 +11,9 @@ from helper_scripts.extract_voltron_data import extract_voltron_data
 from helper_scripts.write_to_wishlists import write_to_wishlists
 
 # Timer to test script performance
-import time
+# import time
 
-start_time = time.time()
+# start_time = time.time()
 
 
 # Class to store constants that reference keys or values
@@ -33,7 +33,7 @@ class Keys:
     ORIGIN_TRAITS_PATH = "./wishlist_splitter/data/weapon_mods/origin_traits.txt"
     ORIGIN_TRAITS: Set[str] = None
 
-    # Frame mods from Destiny Data Explorer,  3rd and 4th column
+    # Frame mods from Destiny Data Explorer, 3rd and 4th column
     FRAME_MODS_PATH = "./wishlist_splitter/data/weapon_mods/frame_mods.txt"
     FRAME_MODS: Set[str] = None
 
@@ -104,7 +104,7 @@ def main():
     # Collect data from voltron to keys
     keys.VOLTRON_DATA = extract_voltron_data(keys)
 
-    # Timer to see main script performance before writing
+    # Timer for script performance before writing
     end_time = time.time()
     runtime = end_time - start_time
     print(f"Runtime before write: {runtime} seconds")
@@ -116,7 +116,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # Timer to see main script performance
+    # Timer for script performance
     end_time = time.time()
     runtime = end_time - start_time
     print(f"Runtime: {runtime} seconds")
