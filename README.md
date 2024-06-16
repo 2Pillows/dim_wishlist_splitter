@@ -6,7 +6,7 @@ Uses the voltron.txt file from dim-wish-list-sources by 48klocs: https://github.
 
 Collects 3rd and 4th column perks and origin traits from Destiny Data Explorer: https://data.destinysets.com
 
-#### Filter Descriptions
+#### Filter Details
 
 For more details about filters and how they work: https://github.com/2Pillows/dim_wishlist_splitter/blob/main/wishlists/README.md
 

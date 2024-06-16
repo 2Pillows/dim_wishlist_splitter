@@ -1,4 +1,4 @@
-# Wishlist Filter Descriptions
+# Wishlist Filter Details
 
 ## How Filters Work
 
