@@ -16,7 +16,7 @@ For more information on filters and how they work, refer to the wishlist [README
 
 ### Adding a Wishlist to DIM:
 
-To add a wishlist to DIM, you'll need the URL for the raw version of the wishlist file. There are two ways to get this URL:
+DIM needs the URL for the raw version of the wishlist file. There are two ways to get this URL:
 
 - Visit the [GitHub Pages](https://2pillows.github.io/dim_wishlist_splitter).
 
