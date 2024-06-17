@@ -2,6 +2,8 @@
 
 Creates filtered wishlists from DIM's default wishlist, Voltron, using roll descriptions and tags.
 
+Checks for updates every 6 hours to keep wishlists up to date.
+
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs: https://github.com/48klocs/dim-wish-list-sources
 
 Collects 3rd and 4th column perks and origin traits from Destiny Data Explorer: https://data.destinysets.com
