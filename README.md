@@ -1,6 +1,6 @@
 # DIM Wishlist Splitter
 
-Creates filtered wishlists based on DIM's default wishlist, Voltron, using roll descriptions, perk columns, and recommendation count.
+Creates filtered wishlists based on DIM's default wishlist, Voltron, using roll descriptions, perk columns, and number of recommendations.
 
 Automatically checks sources for updates every 6 hours.
 
