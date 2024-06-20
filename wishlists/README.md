@@ -1,14 +1,14 @@
 ## How Filters Work
 
-### Tag Filters
+### Tags Filter
 
 When weapon rolls are collected from Voltron, any tags found in their valuable text are collected. Valuable text is all text after "tags:" or text inside "(...)" and "[...]" if no "tags:" is present. Wishlists use these collected tags to determine which weapon rolls should be included.
 
-### Perks Filters
+### Perks Filter
 
 Perks are filtered by comparing each perk hash to a collection of all 3rd column, 4th column, and origin trait hashes. These hashes are unique strings of numbers that represent specific perks.
 
-### Dupes Filters
+### Dupes Filter
 
 Dupes are filtered based on the frequency of each perk recommendation. Before counting, each recommendation has its perk hashes sorted and origin traits removed for consistency. If a weapon roll has multiple instances of the same perk recommendation, it is counted once.
 
