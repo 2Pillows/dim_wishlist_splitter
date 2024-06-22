@@ -18,9 +18,6 @@ dimwishlist:item=568611922&perks=2822142346,3300816228,3525010810,469285294
 dimwishlist:item=568611922&perks=2822142346,3300816228,3798852852,469285294
 dimwishlist:item=568611922&perks=1441682018,2822142346,3300816228,469285294
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=568611923&perks=1,1,1,1
-
 // The Recluse
 //notes: pandapaxxy (PvP / M+KB / Controller): "Recluse’s defining trait, Master of Arms, being brought down to a 15% damage buff makes it more manageable as a weapon and less dominant in PvE and PvP. Instead you could opt for consistency perks like Dynamic Sway Reduction, or Tap the Trigger. Threat Detector and Hip-Fire Grip are both excellent but have more limiting use cases; distance and non-ADS respectively. Desperate Measures is a better lethality perk as it can activate while stowed, so once you get a grenade or melee kill it lets you relive the 20% damage bonus of pre-nerf Master of Arms." Recommended MW: Range.|tags:pvp,controller,mkb
 dimwishlist:item=1050806815&perks=1482024992,1885400500,2109543898,4071163871
@@ -33,9 +30,6 @@ dimwishlist:item=1453235079&perks=1840239774,247725512,3038247973,3177308360
 dimwishlist:item=1453235079&perks=1840239774,3038247973,3177308360,3828510309
 dimwishlist:item=1453235079&perks=1840239774,247725512,3038247973,3230963543
 dimwishlist:item=1453235079&perks=1840239774,3038247973,3230963543,3828510309
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1815105249&perks=1,1,1,1
 
 // Hammerhead
 //notes: pandapaxxy (PvP / Controller): "Over on the PvP side, machine guns haven't been high meta but they have always felt good. Hammerhead with Rewind Rounds and High-Impact Reserves will synergize well with the low ammo from the wall, and refund itself to get you a few more kills. If you wanted to really show some players their own ghosts you could instead opt for Onslaught to delete them at a blistering pace. Over-Under is another good shout here to get rid of most players in rifts. I wouldn't mind hearing more Hammerheads in the crucible. At least I'd know where they are." Recommended MW: Stability.|tags:pvp,controller
@@ -51,9 +45,6 @@ dimwishlist:item=1896309757&perks=1482024992,1561002382,2213355989,3418782618
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,95528736
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,557221067
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,2213355989
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1983149589&perks=1,1,1,1
 
 // Blast Furnace
 //notes: pandapaxxy (PvP / Controller): "Over in the Crucible Blast Furnace has yet to make its mark. It has some stiff competition in the form of both Belisarius-D and Disparity. Both of which come with some incredible rolls. Outside of its frame you have some other strong pulses like the new Relentless or Messenger (Adept). Blast Furnace does have a leg up over recent additions with the combination of Zen Moment and Kill Clip for easy follow-up two burst kills. Outside of S16 Messenger (which might not be possible due to the perk updates) no other aggressive frame pulse has that combination. (Elsie's Rifle also gets this combo but we will talk about that later). Another lethal combo is Headseeker and Kill Clip which allows for double damage, the only other pulse to get this combination is Chattering Bone." Recommended MW: Stability.|tags:controller,pvp
@@ -94,9 +85,6 @@ dimwishlist:item=2372514508&perks=1015611457,1482024992,3177308360,460017080
 dimwishlist:item=2372514508&perks=1482024992,247725512,3177308360,460017080
 dimwishlist:item=2372514508&perks=1482024992,2109543898,3177308360,460017080
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2372514509&perks=1,1,1,1
-
 // Midnight Coup
 //notes: pandapaxxy (PvP / Controller): "If you were to take a roll into the Crucible, I would recommend Moving Target or Explosive Payload in the third column. Especially now that Explosive Payload has been brought back up to not have a resilience check. Moving Target will bring Midnight Coup to a nice even 100 aim assist, the only other gun to achieve this is Eyasluna with Moving Target, any sight, and a targeting adjustor. Pair this with Zen Moment or Opening Shot and you'll have an incredibly strong dueling weapon. Zen Moment makes subsequent shots easier by increasing your flinch resistance, and Opening Shot starting the duel out on the best possible foot. Midnight Coup suffers from below average range, so I would recommend Hammer-Forged Rifling to bring that up, with Zen Moment you won't need to worry about stability as much, but I would stay away from dropping any stats with Full Bore." Recommended MW: Range or Stability.|tags:pvp,controller
 dimwishlist:item=2763843898&perks=1482024992,2387244414,3142289711,588594999
@@ -117,12 +105,6 @@ dimwishlist:item=2763843898&perks=2109543898,3038247973,3142289711,3250034553
 dimwishlist:item=2763843898&perks=2387244414,3142289711,3250034553,3824105627
 dimwishlist:item=2763843898&perks=3142289711,3250034553,3824105627,47981717
 dimwishlist:item=2763843898&perks=2109543898,3142289711,3250034553,3824105627
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2763843899&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3612338554&perks=1,1,1,1
 
 // Outbreak Perfected
 //notes: pandapaxxy (PvP / Controller): "If you would like to bring the nanites into PvP I would opt for one of two ways. Arrowhead Brake at the front end for added recoil direction, Accurized Rounds for the extra range. Headseeker or Rapid Hit depending on what you value, and your choice of Short-Action Stock for more handling or Hand-Laid Stock for the most stability. The alternative way is with Fitted Stock to bring you right up to 100 recoil direction meaning you can slot in Smallbore or even Hammer-Forged Rifling for more range. You drop some handling unless you make that up in your barrel."|tags:pvp,controller
@@ -154,9 +136,6 @@ dimwishlist:item=4043921923&perks=2822142346,3300816228,3525010810,469285294
 dimwishlist:item=4043921923&perks=2822142346,3300816228,3798852852,469285294
 dimwishlist:item=4043921923&perks=1441682018,2822142346,3300816228,469285294
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2228325504&perks=1,1,1,1
-
 // The Recluse (Holofoil)
 //notes: pandapaxxy (PvP / M+KB / Controller): "Recluse’s defining trait, Master of Arms, being brought down to a 15% damage buff makes it more manageable as a weapon and less dominant in PvE and PvP. Instead you could opt for consistency perks like Dynamic Sway Reduction, or Tap the Trigger. Threat Detector and Hip-Fire Grip are both excellent but have more limiting use cases; distance and non-ADS respectively. Desperate Measures is a better lethality perk as it can activate while stowed, so once you get a grenade or melee kill it lets you relive the 20% damage bonus of pre-nerf Master of Arms." Recommended MW: Range.|tags:pvp,controller,mkb
 dimwishlist:item=3098328572&perks=1482024992,1885400500,2109543898,4071163871
@@ -169,9 +148,6 @@ dimwishlist:item=205225492&perks=1840239774,247725512,3038247973,3177308360
 dimwishlist:item=205225492&perks=1840239774,3038247973,3177308360,3828510309
 dimwishlist:item=205225492&perks=1840239774,247725512,3038247973,3230963543
 dimwishlist:item=205225492&perks=1840239774,3038247973,3230963543,3828510309
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=243425374&perks=1,1,1,1
 
 // Hammerhead (Holofoil)
 //notes: pandapaxxy (PvP / Controller): "Over on the PvP side, machine guns haven't been high meta but they have always felt good. Hammerhead with Rewind Rounds and High-Impact Reserves will synergize well with the low ammo from the wall, and refund itself to get you a few more kills. If you wanted to really show some players their own ghosts you could instead opt for Onslaught to delete them at a blistering pace. Over-Under is another good shout here to get rid of most players in rifts. I wouldn't mind hearing more Hammerheads in the crucible. At least I'd know where they are." Recommended MW: Stability.|tags:pvp,controller
@@ -227,9 +203,6 @@ dimwishlist:item=2533990645&perks=1015611457,1482024992,3177308360,460017080
 dimwishlist:item=2533990645&perks=1482024992,247725512,3177308360,460017080
 dimwishlist:item=2533990645&perks=1482024992,2109543898,3177308360,460017080
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3851176026&perks=1,1,1,1
-
 // Midnight Coup (Holofoil)
 //notes: pandapaxxy (PvP / Controller): "If you were to take a roll into the Crucible, I would recommend Moving Target or Explosive Payload in the third column. Especially now that Explosive Payload has been brought back up to not have a resilience check. Moving Target will bring Midnight Coup to a nice even 100 aim assist, the only other gun to achieve this is Eyasluna with Moving Target, any sight, and a targeting adjustor. Pair this with Zen Moment or Opening Shot and you'll have an incredibly strong dueling weapon. Zen Moment makes subsequent shots easier by increasing your flinch resistance, and Opening Shot starting the duel out on the best possible foot. Midnight Coup suffers from below average range, so I would recommend Hammer-Forged Rifling to bring that up, with Zen Moment you won't need to worry about stability as much, but I would stay away from dropping any stats with Full Bore." Recommended MW: Range or Stability.|tags:pvp,controller
 dimwishlist:item=2499720827&perks=1482024992,2387244414,3142289711,588594999
@@ -250,12 +223,6 @@ dimwishlist:item=2499720827&perks=2109543898,3038247973,3142289711,3250034553
 dimwishlist:item=2499720827&perks=2387244414,3142289711,3250034553,3824105627
 dimwishlist:item=2499720827&perks=3142289711,3250034553,3824105627,47981717
 dimwishlist:item=2499720827&perks=2109543898,3142289711,3250034553,3824105627
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3757612024&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=570866107&perks=1,1,1,1
 
 // Darkest Before
 //notes: pandapaxxy (PvP / Controller): "Darkest Before in PvP lost a little bit of arc shenanigans, but gained a better perk pool. Elemental Capacitor and Headseeker will make for an extremely consistent or snappy pulse on void or solar, respectively. Kill Clip and Heal Clip together make for a lethal and synergistic build. I don’t foresee Darkest Before becoming the king of pulses, but definitely a top contender for those rapid-fires." Recommended MW: Stability.|tags:pvp,controller
@@ -334,15 +301,6 @@ dimwishlist:item=1013434963&perks=1482024992,2451262963,2846385770,3142289711
 dimwishlist:item=1013434963&perks=1428297954,1482024992,3142289711,365154968
 dimwishlist:item=1013434963&perks=1428297954,1482024992,3142289711,95528736
 dimwishlist:item=1013434963&perks=1428297954,1482024992,2451262963,3142289711
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1218113510&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1332123064&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=959037361&perks=1,1,1,1
 
 // The Summoner
 //notes: pandapaxxy (PvP / Controller): "PvP has far less options but still some solid options. Instead of different niches within the grand scheme of PvE content, we really have consistency or lethality 2x. Within both you’ll find a healthy scoop of stability perks, either Zen Moment, Dynamic Sway Reduction, or Perpetual Motion. Pick your poison there. If you want more consistency on top of your consistency sundae, go for Tap the Trigger. For lethality you can opt for Target Lock, Onslaught, or the tried and true Kill Clip. All options are great but work in different ways, your best option might not be the same as others so give them a try." Recommended MW: Range.|tags:pvp,controller
@@ -558,12 +516,6 @@ dimwishlist:item=3211624072&perks=1015611457,2846385770,3142289711,4090651448
 dimwishlist:item=3211624072&perks=3142289711,4090651448,588594999,591790007
 dimwishlist:item=3211624072&perks=1015611457,3142289711,4090651448,588594999
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3483591058&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4097972038&perks=1,1,1,1
-
 // Taraxippos
 //notes:pandapaxxy (PvP / Controller): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3007479950&perks=1015611457,2387244414,3177308360,839105230
@@ -577,9 +529,6 @@ dimwishlist:item=3007479950&perks=1015611457,3230963543,699525795,839105230
 //notes:pandapaxxy (PvP / M+KB / Controller): "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there’s also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it’s less than stellar." Recommended MW: Range (M+KB) / Stability (Controller).|tags:pvp,mkb,controller
 dimwishlist:item=655712834&perks=1359896290,1482024992,1885400500,4082225868
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=655712834&perks=1,1,1,1
-
 // Hullabaloo
 //notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=657927352&perks=1683379515,2822142346,3525010810,951095735
@@ -588,30 +537,12 @@ dimwishlist:item=657927352&perks=1683379515,2822142346,3525010810,951095735
 //notes:SirStallion (PvP / M+KB / Controller): "This weapon for PvP is tricky.. Wave frames are fun, but a heavy wave frame? Who knows, it might be a blast. And I intend to find out, by creating additional blasts and trying to utilise Chain Reaction to net some fun triple kills.. Or more. Imagine more.. It seems that Blast Radius really doesn't bring much to the table for wave frames, and I would assume that the heavy variant is much the same, so Im focusing on velocity to get my nades where they need to be ASAP." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=657927352&perks=2396489472,2822142346,3525010810,951095735
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2465372924&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=871900124&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1874424704&perks=1,1,1,1
-
 // Vouchsafe
 //notes:pandapaxxy (PvP / Controller): "Lightweight frames in PvP are in an interesting spot. They don’t kill fast enough to be competitive, and any boosts don’t really elevate the weapon further. Golden Tricorn 2x does allow you to 3 shot any guardian at any resilience at a 0.60 TtK, but it requires two whole kills to get rolling and without additional ability kills you’ll be back at square one before you know it. Taraxippos and Eternal Blazon with Kill Clip or even Tarnished Mettle with Swashbuckler allow you to 3 crit after just one kill." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=355922321&perks=247725512,3038247973,3177308360,839105230
 dimwishlist:item=355922321&perks=247725512,3038247973,3177308360,3661387068
 dimwishlist:item=355922321&perks=247725512,3038247973,3230963543,839105230
 dimwishlist:item=355922321&perks=247725512,3038247973,3230963543,3661387068
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3723679465&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=250721843&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2140635451&perks=1,1,1,1
 
 // Appentence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Taking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn’t advise it." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -654,12 +585,6 @@ dimwishlist:item=2045811635&perks=1840239774,3038247973,3177308360,3523296417
 dimwishlist:item=2045811635&perks=1482024992,3038247973,3177308360,3523296417
 dimwishlist:item=2045811635&perks=1840239774,3038247973,3230963543,3523296417
 dimwishlist:item=2045811635&perks=1482024992,3038247973,3230963543,3523296417
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2558925366&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=92459755&perks=1,1,1,1
 
 // Adhortative
 //notes:pandapaxxy (PvP / Controller): "With such a similar pulse existing in PvP it comes down to perks. Forge’s Pledge gets access to Accurized and Steady Rounds, while Adhortative comes with High-Caliber and Ricochet Rounds. Forge’s Pledge comes with Zen Moment and Elemental Capacitor for big bonuses in stats, while Adhortative has Headseeker or Incandescent for better neutrality or some AoE. Depending on your preferred play style you might prefer one over the other, but I cannot emphasize this enough: both can work wonders." Recommended MW: Stability.|tags:pvp,controller
@@ -744,9 +669,6 @@ dimwishlist:item=1447836603&perks=1482024992,3142289711,3871884143,4071163871
 dimwishlist:item=1447836603&perks=1482024992,1866048759,3142289711,3871884143
 dimwishlist:item=1447836603&perks=1482024992,1645158859,3142289711,3871884143
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1501688142&perks=1,1,1,1
-
 // Breakneck
 //notes:pandapaxxy (PvP / Controller): "Breakneck is one of those weapons where if you like it, you’ll use it everywhere no matter what. It isn’t incredible in the crucible, but it can hold its own as a precision frame auto rifle. Breakneck gets a touch of SUROS Regime by either speeding up the RPM post kill with Onslaught or slowing it down with Adagio. Depending on how you play, one might feel better than the other. If you’re not looking for a legendary SUROS I’d recommend consistency perks to have a reliable precision frame from gunfight to gunfight." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=2026755633&perks=1359896290,1885400500,1890422124,3250034553
@@ -797,25 +719,10 @@ dimwishlist:item=3926811686&perks=1359896290,3142289711,3250034553,3828510309
 //notes:pandapaxxy (PvP / Controller): "Over in the crucible it is slightly better and slightly worse than Gnawing Hunger. Instead of getting bonus damage through Kill Clip you can decrease your time to kill via Onslaught. With arguably a better accuracy perk in Dynamic Sway Reduction over Zen Moment. It ultimately will depend on which model you prefer as well as which version you’d like. Both technically have time to kill reducing post-kill perks as well as accuracy boosting perks." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=3583275737&perks=1359896290,3142289711,839105230,95528736
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1719687748&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4233375372&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2313726158&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1612781792&perks=1,1,1,1
-
 // Chivalric Fire
 //notes:pandapaxxy (PvP / Controller / M+KB): "I would not recommend using these swords in PvP. They have utility as a legendary Black Talon, but the tracking is horrendous comparatively." Recommended MW: Impact.|tags:pvp,controller,mkb
 dimwishlist:item=3438139008&perks=1749209109,2048641572,52780822,938542991
 dimwishlist:item=3438139008&perks=2048641572,52780822,776531651,938542991
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=105164264&perks=1,1,1,1
 
 // Lethal Abundance
 //notes:pandapaxxy (PvP / Controller): "Lethal Abundance might have a better place in PvP with great neutral buffs like Tap the Trigger paired with Keep Away. Dynamic Sway Reduction can also tighten up the firing pattern. Slice is looking like the best option for most players in the third column, so having a bit of added stability or better lethality will depend on the players." Recommended MW: Stability.|tags:pvp,controller
@@ -844,9 +751,6 @@ dimwishlist:item=2189073092&perks=1359896290,1482024992,1885400500,95528736
 dimwishlist:item=2189073092&perks=1359896290,1561002382,839105230,95528736
 dimwishlist:item=2189073092&perks=1359896290,1482024992,1561002382,95528736
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1764868900&perks=1,1,1,1
-
 // Undercurrent
 //notes:pandapaxxy (PvP / M+KB / Controller): "Undercurrent in the crucible is a bit under where we need it to be. Explosive Personality is far better as a primer and other grenade launchers will be better for clean ups. Demolitionist and Adrenaline Junkie have synergy together but aren’t the best combination to see." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=1151688091&perks=11612903,2822142346,3523296417,3525010810
@@ -858,27 +762,6 @@ dimwishlist:item=1151688091&perks=11612903,1441682018,2822142346,3523296417
 dimwishlist:item=672957262&perks=11612903,2822142346,3523296417,3525010810
 dimwishlist:item=672957262&perks=11612903,2822142346,3523296417,3798852852
 dimwishlist:item=672957262&perks=11612903,1441682018,2822142346,3523296417
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2450917538&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1891996599&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1401300690&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2059255495&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4248997900&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2421180981&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2806569825&perks=1,1,1,1
 
 // Vengeful Whisper
 //notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible I don’t think you’ll find as much success. Vengeful Whisper does have Explosive Head for better flinch and AoE but I find bow swapping a bit easier with a handling perk like Shot Swap or even Perpetual Motion. If you’re not bow swapping I prefer Archer’s Tempo or Rapid Hit for better follow up shots. Successful Warm-Up is great but only works after your first kill." Recommended MW: Draw Time.|tags:pvp,mkb,controller
@@ -905,71 +788,17 @@ dimwishlist:item=3381450498&perks=2822142346,3525010810,3673922083,951095735
 dimwishlist:item=3381450498&perks=2822142346,3673922083,3798852852,951095735
 dimwishlist:item=3381450498&perks=1441682018,2822142346,3673922083,951095735
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3668817296&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1891321753&perks=1,1,1,1
-
 // Stay Frosty
 //notes:Stallion (PvP / Controller): "I never got this roll last year, so I will be going for it again. I do not think this roll needs explaining, you kill 1 person (pretty easily because 450s feel great imo) then use that momentum to carry you through the rest of the match with a nice range and handling bump from Killing Wind and a nice damage bump from Kill Clip. This is my favourite combo in PvP. I needs it." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1891321753&perks=1015611457,2450788523,3230963543,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1911078836&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1911078836&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2680976411&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2680976411&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2728851518&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2728851518&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3206190066&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3206190066&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4220529694&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4220529694&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=177568179&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=177568179&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=177568179&perks=1,1,1,1
 
 // Jurassic Green
 //notes:pandapaxxy (PvP / Controller): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3103255595&perks=2610012052,3230963543,3619207468,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3103255595&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3103255595&perks=1,1,1,1
-
 // Mechabre
 //notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
 dimwishlist:item=3871226707&perks=1840239774,3142289711,47981717,957782887
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3871226707&perks=1,1,1,1
 
 // Mechabre
 //notes:Clegmir (PvP / M+KB / Controller): "For PvP, if you didn’t score the Snapshot/Opening Shot last go-around, you do have another chance at getting one! You also have the options of getting one with Keep Away and Discord as options. Ammo being refunded on takedowns is a very nice reward to deal with the potential lack of special ammo drops." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -978,9 +807,6 @@ dimwishlist:item=3871226707&perks=1840239774,3142289711,47981717,957782887
 // Acosmic GSp
 //notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=413901114&perks=3194351027,3525010810,409831596,951095735
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=413901114&perks=1,1,1,1
 
 // Acosmic GSp
 //notes:Clegmir (PvP / M+KB / Controller): "Thankfully for PvP you do have access to Proximity Grenades. Explosive Light is handy given the ease at which you can generate orbs in the current sandbox, and the same holds true for elemental pickups with Collective Action." Recommended MW: Velocity.|tags:pvp,mkb,controller
@@ -1829,29 +1655,11 @@ dimwishlist:item=120706239&perks=1482024992,2450788523,3142289711,639190697
 dimwishlist:item=120706239&perks=1482024992,31345821,3142289711,4207509907
 dimwishlist:item=120706239&perks=1482024992,3142289711,4207509907,639190697
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2290416&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2290416&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2290416&perks=1,1,1,1
-
 // Iterative Loop - PvP Arc/Void/Stasis/Solar (god-pvp,pvp,controller)
 //notes: Recommended MW: Range
 Recommended Mod: Counterbalance tags:god-pvp,pvp,controller
 dimwishlist:item=1289796511&perks=1645158859,1754714824,2969185026,839105230
 dimwishlist:item=1289796511&perks=1645158859,2969185026,3511092054,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1289796511&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1289796511&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1389546626&perks=1,1,1,1
 
 // Royal Executioner - PvP (pvp,god-pvp,controller)
 //notes: Recommended MW: Range
@@ -2726,25 +2534,13 @@ dimwishlist:item=2883484461&perks=11612903,1300023272,3142289711,744594675
 dimwishlist:item=2883484461&perks=11612903,3142289711,4090651448,744594675
 dimwishlist:item=2883484461&perks=11612903,1482024992,3142289711,744594675
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3559361670&perks=1,1,1,1
-
 // The Title
 //notes:SirStallion_ (PvP / Controller): "I don't like Rangefinder. [...] BUT there's no denying that people like it, and they should. So it's very easily swapped in, in place of Vorpal. Now then, why Vorpal? Well, it just feels like the best of the bunch for passive PvP usage. More damage on supers good. As for Flared Magwell over Ricochet or Hi-Cal, I like my stability bumped up when possible and there's nothing worse than being caught mid reload on something as heavy as a 750. Loader mods will help, but Flared is worth the investment for me." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3559361670&perks=1359896290,1546637391,3230963543,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3559361670&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1389546626&perks=1,1,1,1
-
 // Taraxippos
 //notes:SirStallion_ (PvP / Controller): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1389546626&perks=2387244414,3038247973,3230963543,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1389546626&perks=1,1,1,1
 
 // Acasia's Dejection
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(1000) Solar Trace Rifle Special Ammo.  "In PvP there’s a lot less to talk about. Trace rifles are beefed up auto rifles but lack ammo. Target Lock will melt your enemies as long as you're accurate. The one bonus is perfect hip-fire accuracy as you are looking at the trace." |tags:pvp,controller
@@ -4931,12 +4727,6 @@ dimwishlist:item=3920882229&perks=2846385770,3142289711,3250034553,699525795
 dimwishlist:item=3920882229&perks=1482024992,2450788523,3142289711,699525795
 dimwishlist:item=3920882229&perks=2450788523,3142289711,3250034553,699525795
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3624844116&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2759251821&perks=1,1,1,1
-
 // Rose
 //notes:pandapaxxy (PvP / Controller): "Rose is the hotness if you’re into using hand cannons in the crucible. Being a stand-alone archetype of a relic long thought lost. Rose has the intrinsic lightweight bonus (+20 mobility) and it also has access to grips over an origin trait. The unique archetype will feel right at home with crucible affectionados and the grips can make up for some extra stats. Rose will excel if you bump up handling, stability and, most importantly, range. I would still not sacrifice other stats to make up for range, but if you happen to get more range I would take it." Recommended Grips - Grip: Smooth Grip, Polymer Grip, Combat Grip. Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=882778888&perks=1840239774,247725512,3142289711,699525795
@@ -4961,50 +4751,17 @@ dimwishlist:item=396910433&perks=2590710093,269888150,354401740,3666208348
 //notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=2814093983&perks=1482024992,1890422124,2846385770,3142289711
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2812100428&perks=1,1,1,1
-
 // Glacioclasm
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
 dimwishlist:item=3573686365&perks=1645158859,2213355989,689005463,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=495940989&perks=1,1,1,1
 
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=2590710093,269888150,354401740,3666208348
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2814093983&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2812100428&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3573686365&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=495940989&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=396910433&perks=1,1,1,1
-
 // Cold Front
 //notes:/u/SirStallion_ (PvP / M+KB / Controller): While the main traits are obvious picks as far as this weapon is concerned, the rest is a little confusing. With a base 7 stability, will full sending into the stat actually make a meaningful difference? Will losing it entirely via Full Bore make a difference? I honestly don't know. I will be looking for these rolls because they're a great middle ground with a little extra stability for controllers. I do believe the rolls are interchangeable though, since it's just a MW difference. Recommended MW: Range (M+KB), Stability (Controller)|tags:pvp,mkb,controller
 dimwishlist:item=2814093983&perks=1482024992,1890422124,2846385770,3142289711
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2812100428&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3573686365&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=495940989&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=396910433&perks=1,1,1,1
 
 // Jurassic Green (PvE first-choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Perpetual Motion, Frenzy
@@ -5012,9 +4769,6 @@ dimwishlist:item=396910433&perks=1,1,1,1
 dimwishlist:item=2603335652&perks=1428297954,1885400500,4104185692,839105230
 dimwishlist:item=2603335652&perks=1428297954,1885400500,3661387068,4104185692
 dimwishlist:item=2603335652&perks=1392496348,1428297954,1885400500,4104185692
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2603335652&perks=1,1,1,1
 
 // BrayTech Werewolf (PvP first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
@@ -5044,21 +4798,6 @@ dimwishlist:item=2603335652&perks=1428297954,1840239774,1885400500,2610012052
 dimwishlist:item=2603335652&perks=1885400500,2610012052,2846385770,839105230
 dimwishlist:item=2603335652&perks=1482024992,1885400500,2610012052,2846385770
 dimwishlist:item=2603335652&perks=1840239774,1885400500,2610012052,2846385770
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1280894514&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1280894514&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1280894514&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1280894514&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1280894514&perks=1,1,1,1
 
 // Eyasluna (PvP first-choice roll)
 // (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Rangefinder, Snapshot Sights
@@ -5107,9 +4846,6 @@ dimwishlist:item=2708806099&perks=1015611457,1392496348,1428297954,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1482024992,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1840239774,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1885400500,4090651448
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2708806099&perks=1,1,1,1
 
 // BxR-55 Battler (PvP first-choice roll)
 // (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
@@ -5179,9 +4915,6 @@ dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=3142289711,3161816588,4090651448,47981717
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1679868061&perks=1,1,1,1
-
 // Matador 64 (PvP first-choice roll)
 // (Barrel Shroud, Full Choke), Accurized Rounds, (Perpetual Motion, Threat Detector), Opening Shot
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. This is a precision pellet (not slug) shotgun with decent baseline stats, but the subfamily is weaker than lightweights, still needing 11 out of 12 pellets to hit for a guaranteed kill, but with a slower fire rate. Barrel Shroud improves the handling, or Full Choke keeps the pellets a little tighter, Accurized Rounds and Opening Shot together boost range to 100 for a 7m damage falloff distance, and in the first trait column either Threat Detector or Perpetual Motion passively boost handling. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
@@ -5212,25 +4945,10 @@ dimwishlist:item=3849810018&perks=1844523823,3300816228,3523296417,409831596
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag, and it's hard to look past the tried and trusted combination of Quickdraw and Snapshot Sights in your two trait columns. Recommended MW: Handling or Blast Radius, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4164201232&perks=1,1,1,1
-
 // Retraced Path (PvP first-choice roll)
 // Smallbore, Tactical Battery, (Well-Rounded, Perpetual Motion), Golden Tricorn
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for kill-chaining, particularly with a solar subclass. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Golden Tricorn x1 or Radiant get you to 0.73s TTK in 5 crits and 7 bodies, and if you can get Golden Tricorn x2 up (and have enough battery charge left), you can get an Accuracy-Adjusted TTK of 0.53s with 5 crits and 4 bodies. Choose a barrel that doesn't have any penalties and Tactical Battery provides a range of small gunfeel stat boosts. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Golden Tricorn is the best damage boost for PvP. This could be very good with a Hunter Caliban's Hand build... Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=548958835&perks=1428297954,1482024992,2610012052,732557052
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=548958835&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1937552980&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1184692845&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2221264583&perks=1,1,1,1
 
 // Smite of Merain (PvP first-choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
@@ -5244,9 +4962,6 @@ dimwishlist:item=2221264583&perks=106909392,4082225868,691659142,839105230
 dimwishlist:item=2221264583&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=2221264583&perks=106909392,11612903,3523296417,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3407395594&perks=1,1,1,1
-
 // Smite of Merain (Harrowed) (PvP first-choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel is Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Swashbuckler x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Pugilist boosts melee energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
@@ -5259,39 +4974,15 @@ dimwishlist:item=3407395594&perks=106909392,4082225868,691659142,839105230
 dimwishlist:item=3407395594&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=3407395594&perks=106909392,11612903,3523296417,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=431721920&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=431721920&perks=1,1,1,1
-
 // Zaouli's Bane (PvP first-choice roll)
 // Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
 //notes:Inspired by DMB Podcast 277 with @illPhysics. (???  ???): First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
 dimwishlist:item=431721920&perks=106909392,1482024992,2621346526,4293542123
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=431721920&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=291092617&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=291092617&perks=1,1,1,1
-
 // Zaouli's Bane (Harrowed) (PvP first-choice roll)
 // Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
 //notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
 dimwishlist:item=291092617&perks=106909392,1482024992,2621346526,4293542123
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=291092617&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3969066556&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3904516037&perks=1,1,1,1
 
 // Defiance of Yasmin (PvP first-choice roll)
 // Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
@@ -5312,9 +5003,6 @@ dimwishlist:item=2671639706&perks=1428297954,1840239774,1885400500,699525795
 // Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Elemental Capacitor
 //notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling with arc or void builds. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are kill-chaining, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for duelling, Well-Rounded, Ensemble or Perpetual Motion fill out the stats nicely, and using Elemental Capacitor with either an Arc subclass for Handling to make this super snappy, or Void to boost Stability for landing the third shot. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=2671639706&perks=1428297954,1840239774,1885400500,3511092054
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2671639706&perks=1,1,1,1
 
 // Yesteryear (PvP first-choice roll)
 // Arrowhead Brake, (Ricochet Rounds, Flared Magwell), Perpetual Motion, Eye of the Storm
@@ -5342,21 +5030,6 @@ dimwishlist:item=1141927949&perks=1570042021,1840239774,3230963543,3425386926
 // (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Tap the Trigger
 //notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, it's not really necessary to look further than Dynamic Sway Reduction in the first trait column - pair this with the Omolon origin trait and Tap the Trigger and you'll end up with a precision bullet hose no matter where you are in the magazine. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=2988121501&perks=1359896290,1840239774,1885400500,1890422124
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2988121501&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2988121501&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4281371574&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=681067419&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=4019668921&perks=1,1,1,1
 
 // Servant Leader (PvP first-choice roll)
 // (Fluted Barrel, Polygonal Rifling), Steady Rounds, (Tunnel Vision, Rapid Hit), Kill Clip
@@ -6747,9 +6420,6 @@ dimwishlist:item=2531963421&perks=124408337,3142289711,3250034553,691659142
 //notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Shapeable. First choice for a slug-shottie, and the perks can make this into a kill-chaining monster if you can find the ammo. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first train column, and then a fully-procced Swashbuckler or Enhanced Surrounded (when Bungie rolls the boost from the mod into the perk) in the second column brings the damage up to one-shot body levels. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod.|tags: PvP, PvP-God, PvP-Chain, Controller, MKB
 dimwishlist:item=2531963421&perks=3142289711,3250034553,4082225868,691659142
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2026087437&perks=1,1,1,1
-
 // New Purpose
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP it’s really close. Rapid hit and the adept mods to give a small edge to messenger, but needing only arrowhead brake to clean up the recoil and have a perfectly vertical recoil direction is really hard to pass up. It completely frees up your mod slot for radar tuner, targeting, or whatever else tickles your fancy." Recommended MW - Range (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
 dimwishlist:item=1780464822&perks=1428297954,1561002382,3047969693,839105230
@@ -6824,9 +6494,6 @@ dimwishlist:item=2194955522&perks=1840239774,2846385770,2866798147,3142289711
 dimwishlist:item=2194955522&perks=106909392,2846385770,2866798147,839105230
 dimwishlist:item=2194955522&perks=106909392,1840239774,2846385770,2866798147
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3652506829&perks=1,1,1,1
-
 // Austringer
 //notes:pandapaxxy (PvP / Controller): "You can either go for Eyasluna with rangefinder and moving target for max aim assist and incredible range. Or Austringer with eye of the storm and rangefinder for better aim assist at low health. Neither one is objectively better than the other, but how you play will determine which hand cannon is better for you. Having enhanced perks is a definite favor for Austringer, but it does not make Austringer blow Eyasluna right out of the water." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=3055790362&perks=1840239774,1885400500,2846385770,699525795
@@ -6899,9 +6566,6 @@ dimwishlist:item=1366394399&perks=106909392,2866798147,47981717,839105230
 dimwishlist:item=1366394399&perks=1428297954,3177308360,47981717,839105230
 dimwishlist:item=1366394399&perks=106909392,1428297954,47981717,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3107853529&perks=1,1,1,1
-
 // CALUS Mini-Tool
 //notes:pandapaxxy (PvP / Controller): "CALUS Mini-Tool does not stand as strong in PvP as other possible smgs. The 14 zoom and lack of rangefinder or other heavy range increasing perks makes it fall off in terms of usefulness. It can be usable when paired with MIDA Multi-Tool. MIDA covering the longer ranges and CALUS covering the tight CQC rolls. Not necessarily the most lethal combination, but it works." Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=2490988246&perks=1840239774,3142289711,4071163871,699525795
@@ -6944,9 +6608,6 @@ dimwishlist:item=2323544076&perks=1570042021,3108830275,3250034553,732557052
 dimwishlist:item=2323544076&perks=2969185026,3108830275,3250034553,3436462433
 dimwishlist:item=2323544076&perks=3108830275,3250034553,3436462433,732557052
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=254636484&perks=1,1,1,1
-
 // Bump in the Night
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP Bump in the Night is also outclassed. Having access to both demolitionist for more grenades and chain reaction for potential multi-kills is cool, but the low velocity and lower blast radius really hold it back." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
 dimwishlist:item=1959650777&perks=1478423395,1996142143,2396489472,3977735242
@@ -6985,9 +6646,6 @@ dimwishlist:item=2715240478&perks=1645158859,3868766766,438098033,839105230
 dimwishlist:item=2715240478&perks=438098033,689005463,744594675,839105230
 dimwishlist:item=2715240478&perks=3868766766,438098033,744594675,839105230
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3738678140&perks=1,1,1,1
-
 // Strident Whistle
 //notes:pandapaxxy (PvP / M+KB / Controller): "Precision frames are some of the better choices for bows in PvP. Strident Whistle would need to have the lowest charge time of 576 to even compete in PvP. Fiberglass arrow shaft brings the accuracy back up after elastic string lowers it. Archer’s tempo is still great here, as is explosive head for double flinch. Moving target is a great pick if you feel you use your bow for follow up shots instead of bow-swap. Successful warm-up paired with archer’s tempo is incredible for some really fast draw times, but it feels almost “kill clip-esque” with successful warm-up needing a kill to activate." Recommended MW - Accuracy or Draw Time.|tags:pvp,mkb,controller
 dimwishlist:item=2591241074&perks=201365942,2801223209,3365897133,3429800428
@@ -7014,9 +6672,6 @@ dimwishlist:item=2591241074&perks=201365942,2652708987,2801223209,3827198035
 dimwishlist:item=2591241074&perks=201365942,2652708987,3827198035,852209214
 dimwishlist:item=2591241074&perks=201365942,2652708987,2801223209,3311977193
 dimwishlist:item=2591241074&perks=201365942,2652708987,3311977193,852209214
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2488587246&perks=1,1,1,1
 
 // The Wizened Rebuke
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP you’ll also want to increase the recoil direction while also increasing the stability. The two most important factors for deep OHK on a fusion are zoom followed by stability. Because the Wizened Rebuke cannot roll rangefinder, the next best thing is to invest into stability to make sure that all the bolts hit. Under pressure also ensures that the little ammo you do get has the best benefits for each shot. Successful warm-up is one of my favorite perks for fusions to really make that second kill super easy to secure." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -7056,15 +6711,6 @@ dimwishlist:item=2006308129&perks=1840239774,1954620775,2451262963,3142289711
 dimwishlist:item=2006308129&perks=1954620775,2451262963,3142289711,3250034553
 dimwishlist:item=2006308129&perks=1840239774,1954620775,3142289711,509074078
 dimwishlist:item=2006308129&perks=1954620775,3142289711,3250034553,509074078
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1924276978&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=216983039&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2002522739&perks=1,1,1,1
 
 // Burden of Guilt
 //notes:pandapaxxy (PvP / M+KB / Controller): "PvP is where I think Burden of Guilt will be able to really show its metaphorical stuff. Having both elemental capacitor to max out handling, or stability, or increase your strafe speed; and high-impact reserves to make the damage profile similar to precisions is incredibly strong." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -7153,9 +6799,6 @@ dimwishlist:item=2513965917&perks=124408337,1784898267,3827198035,509074078
 dimwishlist:item=2513965917&perks=124408337,3311977193,509074078,852209214
 dimwishlist:item=2513965917&perks=124408337,1784898267,3311977193,509074078
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=617501162&perks=1,1,1,1
-
 // Staccato-46
 //notes:pandapaxxy (PvP / Controller): "Similar to Tears of Contrition, Staccato-46 will not see a lot of PvP time. You can make this scout feel better through a mix of stability and recoil direction, but ultimately 180 scouts just aren’t as strong as they need to be." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=4019668921&perks=3038247973,3177308360,744594675,839105230
@@ -7173,9 +6816,6 @@ dimwishlist:item=2778013407&perks=1561002382,3511092054,4071163871,839105230
 dimwishlist:item=2778013407&perks=1885400500,3511092054,4071163871,839105230
 dimwishlist:item=2778013407&perks=1561002382,1866048759,3511092054,839105230
 dimwishlist:item=2778013407&perks=1866048759,1885400500,3511092054,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1478986057&perks=1,1,1,1
 
 // Shayura's Wrath (PvP first-choice roll)
 // Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
@@ -7219,50 +6859,17 @@ dimwishlist:item=4023807721&perks=1359896290,1890422124,202670084,3142289711
 dimwishlist:item=4023807721&perks=1359896290,1890422124,3142289711,3250034553
 dimwishlist:item=4023807721&perks=1359896290,1482024992,1890422124,3142289711
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=875848769&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=875848769&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=875848769&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=875848769&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=875848769&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3886416794&perks=1,1,1,1
-
 // Submission (PvP first-choice roll)
 // (Hammer-Forged Rifling, Smallbore), Overflow, (Swashbuckler, Harmony)
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
 dimwishlist:item=3886416794&perks=3142289711,3250034553,3643424744,4082225868
 dimwishlist:item=3886416794&perks=1482024992,3142289711,3643424744,4082225868
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3886416794&perks=1,1,1,1
-
 // Submission (PvP first-choice roll)
 // (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller
 dimwishlist:item=3886416794&perks=1428297954,3142289711,3250034553,4082225868
 dimwishlist:item=3886416794&perks=1428297954,1482024992,3142289711,4082225868
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1941816543&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1941816543&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1941816543&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1941816543&perks=1,1,1,1
 
 // Multimach CCX (PvP first-choice roll)
 // Model 8 Red, Accurized Ronds, (Dynamic Sway Reducation, Threat Detector), Iron Reach
@@ -7279,60 +6886,6 @@ dimwishlist:item=3717177717&perks=1015611457,2450788523,3142289711,663495154
 // Model 8 Red, Accurized Ronds, Threat Detector, Kill Clip
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Threat Detector helps with both stability and reload speed in CQC, and Kill Clip makes chaining easier. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
 dimwishlist:item=3717177717&perks=1015611457,3142289711,4071163871,663495154
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1513993763&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1513993763&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1513993763&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1601177201&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1601177201&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2488587246&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2595497736&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2595497736&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
 
 // Nezarec's Whisper (PvP first-choice roll)
 // (Ballistic Tuning, Supercooled Accelerator), Accurized Rounds, Impulse Amplifier, Unstoppable Force
@@ -7373,9 +6926,6 @@ dimwishlist:item=768621510&perks=2652708987,3523296417,3868766766,839105230
 dimwishlist:item=768621510&perks=1428297954,2652708987,689005463,839105230
 dimwishlist:item=768621510&perks=1428297954,2652708987,3868766766,839105230
 dimwishlist:item=768621510&perks=3523296417,438098033,689005463,839105230
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1941816543&perks=1,1,1,1
 
 // Submission
 //notes:pandapaxxy (PvP / M+KB / Controller): "Multimach CCX is straight up better than Submission in a direct head to head. Submission has slightly better base stats in stability, reload, and aim assist. But the largest difference is ±6 points in stability. Which Multimach CCX immediately destroys with iron reach. Nevertheless, Submission is not the pick for PvP.". Recommended MW - Range.|tags:pvp,mkb,controller
@@ -7431,18 +6981,6 @@ dimwishlist:item=3428521585&perks=1546637391,3142289711,3523296417,839105230
 dimwishlist:item=3428521585&perks=1482024992,1546637391,3142289711,3523296417
 dimwishlist:item=3428521585&perks=106909392,1546637391,3523296417,839105230
 dimwishlist:item=3428521585&perks=106909392,1482024992,1546637391,3523296417
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1466006054&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2534546147&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2886339027&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=999767358&perks=1,1,1,1
 
 // Piece of Mind
 //notes:pandapaxxy (PvP / Controller): "Time-Worn Spire has better range and consistency perks, while you really need arrowhead break to clean up the recoil direction to a usable degree. It does allow for other consistency in the form of perpetual motion and moving target or elemental capacitor; it falls just a little short compared to the zoom of Time-Worn Spire. Both are equally good options." Recommended MW: Stability.|tags:pvp,controller
@@ -7719,9 +7257,6 @@ dimwishlist:item=3341893443&perks=1840239774,2450788523,3142289711,3511092054
 dimwishlist:item=3341893443&perks=2450788523,3142289711,3250034553,3511092054
 dimwishlist:item=3341893443&perks=1428297954,1840239774,3142289711,3511092054
 dimwishlist:item=3341893443&perks=1428297954,3142289711,3250034553,3511092054
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1687353095&perks=1,1,1,1
 
 // Snorri-FR5
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP Snorri-FR5’s main competition is the Main Ingredient. [...] Likely Suspect just doesn’t do enough to make me swap from my old rolls to this. Crafting does make it easier to get what you want, and Snorri-FR5 does have a better lethality perk in successful warm-up, but that is more of a 6v6 perk, which anything can work in 6s." Recommended MW: Handling.|tags:pvp,mkb,controller
@@ -8070,9 +7605,6 @@ dimwishlist:item=1141547457&perks=2946784966,3142289711,3250034553,591790007
 dimwishlist:item=1141547457&perks=106909392,1840239774,2946784966,591790007
 dimwishlist:item=1141547457&perks=106909392,2946784966,3250034553,591790007
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=1796949035&perks=1,1,1,1
-
 // Edge of Action
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
 dimwishlist:item=2535142413&perks=1067908860,2379536009,2713678205,3721627275
@@ -8118,9 +7650,6 @@ dimwishlist:item=14194600&perks=1087426260,3465198467,3492337375,594346985
 dimwishlist:item=14194600&perks=1431678320,2713678205,3465198467,3492337375
 dimwishlist:item=14194600&perks=1431678320,3465198467,3492337375,594346985
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=46524085&perks=1,1,1,1
-
 // Empirical Evidence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
 dimwishlist:item=2607304614&perks=1428297954,1482024992,1561002382,4082225868
@@ -8165,9 +7694,6 @@ dimwishlist:item=2856514843&perks=1561002382,1840239774,1866048759,460017080
 dimwishlist:item=2856514843&perks=1866048759,1885400500,460017080,839105230
 dimwishlist:item=2856514843&perks=1840239774,1866048759,1885400500,460017080
 
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2595497736&perks=1,1,1,1
-
 // Likely Suspect
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP Likely Suspect falls off in comparison to Cartesian Coordinate. The two most important stats on fusions as of this current sandbox is zoom, followed by stability. Ideally stability through perks so you can also bump up things like charge time and handling. Likely Suspect does not have the zoom to compete with Cartesian Coordinate, but does have consistency through perks. Bumping that up can give you a leg on Cartesian Coordinate but don’t expect those deep voops like Main Ingredient.". Recommended MW - Stability.|tags:pvp,mkb,controller
 dimwishlist:item=1994645182&perks=1482024992,2652708987,280464955,689005463
@@ -8186,12 +7712,6 @@ dimwishlist:item=297296830&perks=1561002382,1840239774,280464955,3523296417
 dimwishlist:item=297296830&perks=1392496348,1561002382,280464955,3523296417
 dimwishlist:item=297296830&perks=1840239774,1885400500,280464955,3523296417
 dimwishlist:item=297296830&perks=1392496348,1885400500,280464955,3523296417
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3489657138&perks=1,1,1,1
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=3175851496&perks=1,1,1,1
 
 // Fel Taradiddle
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP most people would opt for the higher damage archetype, especially now that Under Your Skin can have an almost immediate draw time. But Under Your Skin is also energy, so you have a kinetic option, again if you don’t have a Whispering Slab. The same perks can work in PvP as they do in PvE. Archer’s tempo for faster follow up shots and explosive head for the double flinch can mess up your opponents as they try to combat you.". Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -8267,9 +7787,6 @@ dimwishlist:item=3865728990&perks=2866798147,3142289711,3250034553,699525795
 dimwishlist:item=3865728990&perks=106909392,1840239774,2866798147,699525795
 dimwishlist:item=3865728990&perks=106909392,2866798147,699525795,839105230
 dimwishlist:item=3865728990&perks=106909392,2866798147,3250034553,699525795
-
-//notes: No rolls passed dupe filtering
-dimwishlist:item=2721157927&perks=1,1,1,1
 
 // Pardon Our Dust
 //notes:pandapaxxy (Controller / PvP): "The downside to this is it is worse than last season’s Ignition Code. Both in farming and rolls you can get. If you already have a good Ignition code there is very little reason to get another one of these." Recommended MW: Blast Radius or Velocity.|tags:controller,pvp

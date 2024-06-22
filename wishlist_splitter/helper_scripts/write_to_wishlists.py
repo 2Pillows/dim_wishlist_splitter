@@ -52,17 +52,12 @@ def write_to_wishlist(
                 batch.append("\n")
 
             # Check there are perks to write and roll tags match wishlist tags
-            elif check_tags(weapon_roll, wishlist, keys):
-
-                # Weapon roll doesn't have any perks to show, give empty perks
-                if not weapon_roll.get(PREF_PERKS):
-                    batch.extend("//notes: No rolls passed dupe filtering\n")
-                    batch.extend(f"{weapon_roll['roll_id']}1,1,1,1\n")
-                else:
-                    # Add description and correct perks to batch
-                    batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
-                    batch.extend(weapon_roll[PREF_PERKS])
-
+            elif weapon_roll.get(PREF_PERKS) and check_tags(
+                weapon_roll, wishlist, keys
+            ):
+                # Add description and correct perks to batch
+                batch.extend(weapon_roll[keys.DESCRIPTION_KEY])
+                batch.extend(weapon_roll[PREF_PERKS])
                 batch.append("\n")
 
             # Write to file if batch size reached
