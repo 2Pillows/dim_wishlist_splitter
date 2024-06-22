@@ -44,6 +44,12 @@ def get_wishlist_config(keys: "Keys") -> None:
         {
             keys.INC_TAGS_KEY: {"mkb"},
             keys.EXC_TAGS_KEY: {"backups"},
+            keys.REQ_DUPES: True,
+            keys.PATH_KEY: "MKB_!Backups_Dupes.txt",
+        },
+        {
+            keys.INC_TAGS_KEY: {"mkb"},
+            keys.EXC_TAGS_KEY: {"backups"},
             keys.REQ_TRIMMED_PERKS: True,
             keys.PATH_KEY: "MKB_!Backups_Perks.txt",
         },
