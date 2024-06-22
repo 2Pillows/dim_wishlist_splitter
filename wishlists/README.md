@@ -22,7 +22,7 @@ Dupes are filtered based on the frequency of each perk recommendation. Before co
 
 **God** - Shows rolls tagged as "God". Extremely strict, not all top-tier rolls may be tagged as "God".
 
-**!Backup** - Removes rolls tagged as "Backup Roll". Less strict version of "God".
+**!Backup** - Removes rolls tagged as "Backup Roll".
 
 **Perks** - Limits perks to 3rd column, 4th column, and origin traits. Removes perks in 1st and 2nd columns.
 
@@ -32,8 +32,9 @@ Dupes are filtered based on the frequency of each perk recommendation. Before co
 
 **Input / Gamemode / Author / Perks** - All preference, use whatever best fits your needs.
 
-**Only High Quality Rolls** - Here are the options from most to least strict. 
-* God
-* !Backups_Dupes - Recommended
+**Only High Quality Rolls** - Here are the options from most to least strict.
+* God - Extremely strict, many weapons may not have any recommendations.
+* !Backups_Dupes - Recommended, less strict but may not contain niche god rolls.
+* God + !Backups_Dupes - Recommended, using both wishlists helps catch any rolls missed in either.
 * Dupes
 * !Backups
