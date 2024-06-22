@@ -18,6 +18,10 @@ dimwishlist:item=568611922&perks=2822142346,3300816228,3525010810,469285294
 dimwishlist:item=568611922&perks=2822142346,3300816228,3798852852,469285294
 dimwishlist:item=568611922&perks=1441682018,2822142346,3300816228,469285294
 
+// Edge Transit
+//notes: pandapaxxy (PvP / M+KB / Controller): "The extra health added with the 7.3.5 update made a big switch to heavy grenade launcher perks. Now you'll need to invest heavier into Blast Radius to hit around 65+ in order to reliably OHK a guardian of all resilience levels. Volatile Launch with a Blast Radius MW gets us to 75, High-Explosive Ordinance brings that up to 85 and evens out the hit to velocity from Volatile Launch. Paired up with Impulse Amplifier and you'll hardly notice a difference compared to a max velocity roll without Impulse Amplifier. With the perk shake up I'd personally take Explosive Light in the fourth column to bring the blast radius up to 100 and get some extra explosion damage but Destabilizing Rounds is also good if you're looking for a pseudo-Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=568611923&perks=1,1,1,1
+
 // The Recluse
 //notes: pandapaxxy (PvP / M+KB / Controller): "Recluse’s defining trait, Master of Arms, being brought down to a 15% damage buff makes it more manageable as a weapon and less dominant in PvE and PvP. Instead you could opt for consistency perks like Dynamic Sway Reduction, or Tap the Trigger. Threat Detector and Hip-Fire Grip are both excellent but have more limiting use cases; distance and non-ADS respectively. Desperate Measures is a better lethality perk as it can activate while stowed, so once you get a grenade or melee kill it lets you relive the 20% damage bonus of pre-nerf Master of Arms." Recommended MW: Range.|tags:pvp,controller,mkb
 dimwishlist:item=1050806815&perks=1482024992,1885400500,2109543898,4071163871
@@ -30,6 +34,10 @@ dimwishlist:item=1453235079&perks=1840239774,247725512,3038247973,3177308360
 dimwishlist:item=1453235079&perks=1840239774,3038247973,3177308360,3828510309
 dimwishlist:item=1453235079&perks=1840239774,247725512,3038247973,3230963543
 dimwishlist:item=1453235079&perks=1840239774,3038247973,3230963543,3828510309
+
+// Falling Guillotine
+//notes: pandapaxxy (PvP / M+KB / Controller): "In PvP we could see an uptick in sword usage. Falling Guillotine is the only sword in the game to get both Eager Edge and Chain Reaction, for you to zoom in and get a multikill off of one sword swing. I don't think there will be a better sword for PvP. Potentially the Half-Truths with the unique combination of Eager Edge and Tireless Blades for the best ammo efficiency." Recommended MW: Impact.|tags:pvp,controller,mkb
+dimwishlist:item=1815105249&perks=1,1,1,1
 
 // Hammerhead
 //notes: pandapaxxy (PvP / Controller): "Over on the PvP side, machine guns haven't been high meta but they have always felt good. Hammerhead with Rewind Rounds and High-Impact Reserves will synergize well with the low ammo from the wall, and refund itself to get you a few more kills. If you wanted to really show some players their own ghosts you could instead opt for Onslaught to delete them at a blistering pace. Over-Under is another good shout here to get rid of most players in rifts. I wouldn't mind hearing more Hammerheads in the crucible. At least I'd know where they are." Recommended MW: Stability.|tags:pvp,controller
@@ -45,6 +53,10 @@ dimwishlist:item=1896309757&perks=1482024992,1561002382,2213355989,3418782618
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,95528736
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,557221067
 dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,2213355989
+
+// Whisper of the Worm
+//notes: pandapaxxy (PvP / M+KB / Controller): "If you wanted to take Whisper into PvP bump up the handling via Fluted Barrel and Short-Action Stock. Field Prep also gives a handling bonus when crouched and Accurized Rounds will also bump up your range."|tags:pvp,controller,mkb
+dimwishlist:item=1983149589&perks=1,1,1,1
 
 // Blast Furnace
 //notes: pandapaxxy (PvP / Controller): "Over in the Crucible Blast Furnace has yet to make its mark. It has some stiff competition in the form of both Belisarius-D and Disparity. Both of which come with some incredible rolls. Outside of its frame you have some other strong pulses like the new Relentless or Messenger (Adept). Blast Furnace does have a leg up over recent additions with the combination of Zen Moment and Kill Clip for easy follow-up two burst kills. Outside of S16 Messenger (which might not be possible due to the perk updates) no other aggressive frame pulse has that combination. (Elsie's Rifle also gets this combo but we will talk about that later). Another lethal combo is Headseeker and Kill Clip which allows for double damage, the only other pulse to get this combination is Chattering Bone." Recommended MW: Stability.|tags:controller,pvp
@@ -85,6 +97,10 @@ dimwishlist:item=2372514508&perks=1015611457,1482024992,3177308360,460017080
 dimwishlist:item=2372514508&perks=1482024992,247725512,3177308360,460017080
 dimwishlist:item=2372514508&perks=1482024992,2109543898,3177308360,460017080
 
+// Elsie's Rifle
+//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=2372514509&perks=1,1,1,1
+
 // Midnight Coup
 //notes: pandapaxxy (PvP / Controller): "If you were to take a roll into the Crucible, I would recommend Moving Target or Explosive Payload in the third column. Especially now that Explosive Payload has been brought back up to not have a resilience check. Moving Target will bring Midnight Coup to a nice even 100 aim assist, the only other gun to achieve this is Eyasluna with Moving Target, any sight, and a targeting adjustor. Pair this with Zen Moment or Opening Shot and you'll have an incredibly strong dueling weapon. Zen Moment makes subsequent shots easier by increasing your flinch resistance, and Opening Shot starting the duel out on the best possible foot. Midnight Coup suffers from below average range, so I would recommend Hammer-Forged Rifling to bring that up, with Zen Moment you won't need to worry about stability as much, but I would stay away from dropping any stats with Full Bore." Recommended MW: Range or Stability.|tags:pvp,controller
 dimwishlist:item=2763843898&perks=1482024992,2387244414,3142289711,588594999
@@ -105,6 +121,14 @@ dimwishlist:item=2763843898&perks=2109543898,3038247973,3142289711,3250034553
 dimwishlist:item=2763843898&perks=2387244414,3142289711,3250034553,3824105627
 dimwishlist:item=2763843898&perks=3142289711,3250034553,3824105627,47981717
 dimwishlist:item=2763843898&perks=2109543898,3142289711,3250034553,3824105627
+
+// Luna's Howl
+//notes: pandapaxxy (PvP / M+KB / Controller): "I am most excited to use Luna's Howl in the crucible. Precision Instrument doesn't allow you to 2c1b 10 resilience but will allow you to get some lower resilience players. You will want to invest some points into range to really help out the low base range. Magnificent Howl does allow for some fun two taps and blinting moments to keep the chaining going." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=2763843899&perks=1,1,1,1
+
+// Succession
+//notes: pandapaxxy (PvP / M+KB / Controller): "Over in the crucible snipers have taken a hit. Not only did they get harder to use with an aim assist nerf, but the ammo economy shifting makes it feel as if you're never getting ammo. In order to make the most use of Succession you'll need high handling alongside Snapshot Sights. Then you can choose your column 3 perk from Moving Target for added aim assist and strafe speed when ADS, or Firmly Planted for better accuracy and a slight handling bump when crouched." Recommended MW: Handling.|tags:pvp,controller,mkb
+dimwishlist:item=3612338554&perks=1,1,1,1
 
 // Outbreak Perfected
 //notes: pandapaxxy (PvP / Controller): "If you would like to bring the nanites into PvP I would opt for one of two ways. Arrowhead Brake at the front end for added recoil direction, Accurized Rounds for the extra range. Headseeker or Rapid Hit depending on what you value, and your choice of Short-Action Stock for more handling or Hand-Laid Stock for the most stability. The alternative way is with Fitted Stock to bring you right up to 100 recoil direction meaning you can slot in Smallbore or even Hammer-Forged Rifling for more range. You drop some handling unless you make that up in your barrel."|tags:pvp,controller
@@ -136,6 +160,10 @@ dimwishlist:item=4043921923&perks=2822142346,3300816228,3525010810,469285294
 dimwishlist:item=4043921923&perks=2822142346,3300816228,3798852852,469285294
 dimwishlist:item=4043921923&perks=1441682018,2822142346,3300816228,469285294
 
+// Edge Transit (Holofoil)
+//notes: pandapaxxy (PvP / M+KB / Controller): "The extra health added with the 7.3.5 update made a big switch to heavy grenade launcher perks. Now you'll need to invest heavier into Blast Radius to hit around 65+ in order to reliably OHK a guardian of all resilience levels. Volatile Launch with a Blast Radius MW gets us to 75, High-Explosive Ordinance brings that up to 85 and evens out the hit to velocity from Volatile Launch. Paired up with Impulse Amplifier and you'll hardly notice a difference compared to a max velocity roll without Impulse Amplifier. With the perk shake up I'd personally take Explosive Light in the fourth column to bring the blast radius up to 100 and get some extra explosion damage but Destabilizing Rounds is also good if you're looking for a pseudo-Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=2228325504&perks=1,1,1,1
+
 // The Recluse (Holofoil)
 //notes: pandapaxxy (PvP / M+KB / Controller): "Recluse’s defining trait, Master of Arms, being brought down to a 15% damage buff makes it more manageable as a weapon and less dominant in PvE and PvP. Instead you could opt for consistency perks like Dynamic Sway Reduction, or Tap the Trigger. Threat Detector and Hip-Fire Grip are both excellent but have more limiting use cases; distance and non-ADS respectively. Desperate Measures is a better lethality perk as it can activate while stowed, so once you get a grenade or melee kill it lets you relive the 20% damage bonus of pre-nerf Master of Arms." Recommended MW: Range.|tags:pvp,controller,mkb
 dimwishlist:item=3098328572&perks=1482024992,1885400500,2109543898,4071163871
@@ -148,6 +176,10 @@ dimwishlist:item=205225492&perks=1840239774,247725512,3038247973,3177308360
 dimwishlist:item=205225492&perks=1840239774,3038247973,3177308360,3828510309
 dimwishlist:item=205225492&perks=1840239774,247725512,3038247973,3230963543
 dimwishlist:item=205225492&perks=1840239774,3038247973,3230963543,3828510309
+
+// Falling Guillotine (Holofoil)
+//notes: pandapaxxy (PvP / M+KB / Controller): "In PvP we could see an uptick in sword usage. Falling Guillotine is the only sword in the game to get both Eager Edge and Chain Reaction, for you to zoom in and get a multikill off of one sword swing. I don't think there will be a better sword for PvP. Potentially the Half-Truths with the unique combination of Eager Edge and Tireless Blades for the best ammo efficiency." Recommended MW: Impact.|tags:pvp,controller,mkb
+dimwishlist:item=243425374&perks=1,1,1,1
 
 // Hammerhead (Holofoil)
 //notes: pandapaxxy (PvP / Controller): "Over on the PvP side, machine guns haven't been high meta but they have always felt good. Hammerhead with Rewind Rounds and High-Impact Reserves will synergize well with the low ammo from the wall, and refund itself to get you a few more kills. If you wanted to really show some players their own ghosts you could instead opt for Onslaught to delete them at a blistering pace. Over-Under is another good shout here to get rid of most players in rifts. I wouldn't mind hearing more Hammerheads in the crucible. At least I'd know where they are." Recommended MW: Stability.|tags:pvp,controller
@@ -203,6 +235,10 @@ dimwishlist:item=2533990645&perks=1015611457,1482024992,3177308360,460017080
 dimwishlist:item=2533990645&perks=1482024992,247725512,3177308360,460017080
 dimwishlist:item=2533990645&perks=1482024992,2109543898,3177308360,460017080
 
+// Elsie's Rifle (Holofoil)
+//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=3851176026&perks=1,1,1,1
+
 // Midnight Coup (Holofoil)
 //notes: pandapaxxy (PvP / Controller): "If you were to take a roll into the Crucible, I would recommend Moving Target or Explosive Payload in the third column. Especially now that Explosive Payload has been brought back up to not have a resilience check. Moving Target will bring Midnight Coup to a nice even 100 aim assist, the only other gun to achieve this is Eyasluna with Moving Target, any sight, and a targeting adjustor. Pair this with Zen Moment or Opening Shot and you'll have an incredibly strong dueling weapon. Zen Moment makes subsequent shots easier by increasing your flinch resistance, and Opening Shot starting the duel out on the best possible foot. Midnight Coup suffers from below average range, so I would recommend Hammer-Forged Rifling to bring that up, with Zen Moment you won't need to worry about stability as much, but I would stay away from dropping any stats with Full Bore." Recommended MW: Range or Stability.|tags:pvp,controller
 dimwishlist:item=2499720827&perks=1482024992,2387244414,3142289711,588594999
@@ -223,6 +259,14 @@ dimwishlist:item=2499720827&perks=2109543898,3038247973,3142289711,3250034553
 dimwishlist:item=2499720827&perks=2387244414,3142289711,3250034553,3824105627
 dimwishlist:item=2499720827&perks=3142289711,3250034553,3824105627,47981717
 dimwishlist:item=2499720827&perks=2109543898,3142289711,3250034553,3824105627
+
+// Luna's Howl (Holofoil)
+//notes: pandapaxxy (PvP / M+KB / Controller): "I am most excited to use Luna's Howl in the crucible. Precision Instrument doesn't allow you to 2c1b 10 resilience but will allow you to get some lower resilience players. You will want to invest some points into range to really help out the low base range. Magnificent Howl does allow for some fun two taps and blinting moments to keep the chaining going." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=3757612024&perks=1,1,1,1
+
+// Succession (Holofoil)
+//notes: pandapaxxy (PvP / M+KB / Controller): "Over in the crucible snipers have taken a hit. Not only did they get harder to use with an aim assist nerf, but the ammo economy shifting makes it feel as if you're never getting ammo. In order to make the most use of Succession you'll need high handling alongside Snapshot Sights. Then you can choose your column 3 perk from Moving Target for added aim assist and strafe speed when ADS, or Firmly Planted for better accuracy and a slight handling bump when crouched." Recommended MW: Handling.|tags:pvp,controller,mkb
+dimwishlist:item=570866107&perks=1,1,1,1
 
 // Darkest Before
 //notes: pandapaxxy (PvP / Controller): "Darkest Before in PvP lost a little bit of arc shenanigans, but gained a better perk pool. Elemental Capacitor and Headseeker will make for an extremely consistent or snappy pulse on void or solar, respectively. Kill Clip and Heal Clip together make for a lethal and synergistic build. I don’t foresee Darkest Before becoming the king of pulses, but definitely a top contender for those rapid-fires." Recommended MW: Stability.|tags:pvp,controller
@@ -301,6 +345,18 @@ dimwishlist:item=1013434963&perks=1482024992,2451262963,2846385770,3142289711
 dimwishlist:item=1013434963&perks=1428297954,1482024992,3142289711,365154968
 dimwishlist:item=1013434963&perks=1428297954,1482024992,3142289711,95528736
 dimwishlist:item=1013434963&perks=1428297954,1482024992,2451262963,3142289711
+
+// Tusk of the Boar
+//notes: pandapaxxy (PvP / M+KB / Controller): "In PvP, Tusk of the Boar doesn’t have anything incredible that sets it apart from any other grenade launcher and being Strand limits it from the best grenade launcher perk: Disruption Break. Without Disruption Break I don’t see any great use outside of more niche Strand builds." Recommended MW: Velocity.|tags:controller,pvp,mkb
+dimwishlist:item=1218113510&perks=1,1,1,1
+
+// Wild Style
+//notes: pandapaxxy (PvP / M+KB / Controller): "Wild Style and by extension all double-fire grenade launchers have one limiting factor, and that is that it fires two shots at once. If your one grenade bounces away you lose half your damage. With Bungie’s architecture it happens more often than not. Disorienting Grenades will allow you to still blind even if one goes away, and High-Velocity Rounds will keep your arc tighter to make bounces less punishing (if you’re not purposefully bouncing shots)." Recommended MW: Blast Radius.|tags:pvp,controller,mkb
+dimwishlist:item=1332123064&perks=1,1,1,1
+
+// Wild Style (Adept)
+//notes: pandapaxxy (PvP / M+KB / Controller): "Wild Style and by extension all double-fire grenade launchers have one limiting factor, and that is that it fires two shots at once. If your one grenade bounces away you lose half your damage. With Bungie’s architecture it happens more often than not. Disorienting Grenades will allow you to still blind even if one goes away, and High-Velocity Rounds will keep your arc tighter to make bounces less punishing (if you’re not purposefully bouncing shots)." Recommended MW: Blast Radius.|tags:pvp,controller,mkb
+dimwishlist:item=959037361&perks=1,1,1,1
 
 // The Summoner
 //notes: pandapaxxy (PvP / Controller): "PvP has far less options but still some solid options. Instead of different niches within the grand scheme of PvE content, we really have consistency or lethality 2x. Within both you’ll find a healthy scoop of stability perks, either Zen Moment, Dynamic Sway Reduction, or Perpetual Motion. Pick your poison there. If you want more consistency on top of your consistency sundae, go for Tap the Trigger. For lethality you can opt for Target Lock, Onslaught, or the tried and true Kill Clip. All options are great but work in different ways, your best option might not be the same as others so give them a try." Recommended MW: Range.|tags:pvp,controller
@@ -516,6 +572,14 @@ dimwishlist:item=3211624072&perks=1015611457,2846385770,3142289711,4090651448
 dimwishlist:item=3211624072&perks=3142289711,4090651448,588594999,591790007
 dimwishlist:item=3211624072&perks=1015611457,3142289711,4090651448,588594999
 
+// Prosecutor
+//notes: pandapaxxy (PvP / M+KB / Controller): "We’re in an auto rifle meta. Prosecutor is leading part of the charge. Target Lock in combination with Keep Away or Zen Moment makes for an extremely lethal and consistent weapon. You can almost ignore everything else if you have these two perks." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=3483591058&perks=1,1,1,1
+
+// A Sudden Death
+//notes: pandapaxxy (PvP / M+KB / Controller): "I used all my “creator” luck on my own personal Sudden Death, which I am very happy with. Threat Detector and Opening Shot are going to be the tried and true combinations. If you rock exotics like Ophidians, Dragon’s Shadow, or even Speedloader Slacks you can go with Slideshot, and those who love arc will love Elemental Capacitor. Opening Shot regardless of third column perk is still your best bet." Recommended MW: Range or Handling.|tags:pvp,controller,mkb
+dimwishlist:item=4097972038&perks=1,1,1,1
+
 // Taraxippos
 //notes:pandapaxxy (PvP / Controller): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3007479950&perks=1015611457,2387244414,3177308360,839105230
@@ -529,6 +593,10 @@ dimwishlist:item=3007479950&perks=1015611457,3230963543,699525795,839105230
 //notes:pandapaxxy (PvP / M+KB / Controller): "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there’s also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it’s less than stellar." Recommended MW: Range (M+KB) / Stability (Controller).|tags:pvp,mkb,controller
 dimwishlist:item=655712834&perks=1359896290,1482024992,1885400500,4082225868
 
+// The Title
+//notes:SirStallion (PvP / M+KB / Controller): "Cards on the table, I picked rangefinder because it was the best "neutral" perk in that 4th column, but it can absolutely be any other perk there you want. The rest of the roll is all about making your weapon a stat monster for 1v1s. I like 720s for 3v3 gamemodes, I think they're fun as heck. So giving my weapon a stat package that would make Banshee blush is always my goal. With 85 base Recoil Direction, the bonus handling and stability felt like a no brainer for me, Perp Motion is gonna bump that stab even further and anything else is just icing on the cake." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1,1,1,1
+
 // Hullabaloo
 //notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=657927352&perks=1683379515,2822142346,3525010810,951095735
@@ -537,12 +605,36 @@ dimwishlist:item=657927352&perks=1683379515,2822142346,3525010810,951095735
 //notes:SirStallion (PvP / M+KB / Controller): "This weapon for PvP is tricky.. Wave frames are fun, but a heavy wave frame? Who knows, it might be a blast. And I intend to find out, by creating additional blasts and trying to utilise Chain Reaction to net some fun triple kills.. Or more. Imagine more.. It seems that Blast Radius really doesn't bring much to the table for wave frames, and I would assume that the heavy variant is much the same, so Im focusing on velocity to get my nades where they need to be ASAP." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=657927352&perks=2396489472,2822142346,3525010810,951095735
 
+// Tigerspite
+//notes:pandapaxxy (PvP / M+KB / Controller): "Tigerspite now has a better glow-up for PvP. Fragile Focus is great for starting an engagement but will quickly lose its value the longer you’re in a gunfight. Moving Target is neutrally good for providing a better strafe speed and some much needed aim assist. I prefer Kill Clip in the final column to lower my TtK requirements in subsequent kills, but if you’re going to take this into Trials or 3v3 game modes, Eye of the Storm might be better for its consistency duel to duel." Recommened MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2465372924&perks=1,1,1,1
+
+// Retold Tale
+//notes:pandapaxxy (PvP / M+KB / Controller): "Retold Tale was and still is one of my favorite shotguns. I used it a ton before getting my best Mindbender’s Ambition. I still prefer the U shaped sights on Retold. I grinded out a decent Compass Rose with QuickDraw and Snapshot Sights, so we will see if Retold will be better. I think most players will still opt for a Matador but having a super snappy shotgun won’t hurt your vault space too much (though seeing the state of your vault it might be a tough squeeze /s)." Recommended MW: Handling or Range.|tags:pvp,mkb,controller
+dimwishlist:item=871900124&perks=1,1,1,1
+
+// Twilight Oath
+//notes:pandapaxxy (PvP / M+KB / Controller): "All of the Dreaming City weapons have a special place in my heart. Twilight Oath is no exception, it was the sniper I mained until Revoker came out. I never used a Snapshot Sights and Opening Shot roll, but I think it would be fun. You’re going to need to split your stat investments between handling and range to make sure you can feel that 70 aim assist on those longer sightlines." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1874424704&perks=1,1,1,1
+
 // Vouchsafe
 //notes:pandapaxxy (PvP / Controller): "Lightweight frames in PvP are in an interesting spot. They don’t kill fast enough to be competitive, and any boosts don’t really elevate the weapon further. Golden Tricorn 2x does allow you to 3 shot any guardian at any resilience at a 0.60 TtK, but it requires two whole kills to get rolling and without additional ability kills you’ll be back at square one before you know it. Taraxippos and Eternal Blazon with Kill Clip or even Tarnished Mettle with Swashbuckler allow you to 3 crit after just one kill." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=355922321&perks=247725512,3038247973,3177308360,839105230
 dimwishlist:item=355922321&perks=247725512,3038247973,3177308360,3661387068
 dimwishlist:item=355922321&perks=247725512,3038247973,3230963543,839105230
 dimwishlist:item=355922321&perks=247725512,3038247973,3230963543,3661387068
+
+// Waking Vigil
+//notes:pandapaxxy (PvP / M+KB / Controller): "Waking Vigil used to be one of the most coveted energy hand cannons. A slimline model, access to Rangefinder and Opening Shot together to have an energy Dire Promise. Current form is a little less than stellar due to the lack of Slideshot, but it still retains the OG roll if you still care about Rangefinder." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3723679465&perks=1,1,1,1
+
+// Abide the Return
+//notes:pandapaxxy (PvP / M+KB / Controller): "As with most adaptive frame swords, they’re not great in PvP. At least not this one. Valiant Charge is great for closing the distance but it’s not incredible" Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=250721843&perks=1,1,1,1
+
+// Sleepless
+//notes:pandapaxxy (PvP / M+KB / Controller): "Crucible rockets need one thing, a great blast radius. Sleepless has that in droves. With a blast radius masterwork you’ll sit at 100 even, that way you can invest your other perks into velocity and handling, bringing up some of its lower stats. With Quick Launch and High-Velocity Rounds you’re looking at a nice 60 velocity. It won’t beat Impulse Amplifier for the quickest rocket but it will move. Chain Reaction then becomes great for dealing with multiple guardians in every gamemode." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=2140635451&perks=1,1,1,1
 
 // Appentence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Taking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn’t advise it." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -585,6 +677,14 @@ dimwishlist:item=2045811635&perks=1840239774,3038247973,3177308360,3523296417
 dimwishlist:item=2045811635&perks=1482024992,3038247973,3177308360,3523296417
 dimwishlist:item=2045811635&perks=1840239774,3038247973,3230963543,3523296417
 dimwishlist:item=2045811635&perks=1482024992,3038247973,3230963543,3523296417
+
+// Scatter Signal
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there’s not a lot that can convince me that rapid-fire frame fusion rifles are anything other than anti-shotgun weapons. The “Uno Reverse” of the Destiny weapons. Scatter Signal doesn’t really lean into the anti-ape role but it does have a few tricks up its metaphorical sleeve in Kickstart for the most ape fusion we can get. Lower the charge time as low as it can go or just throw on Kickstart for extra damage and speedier shots. I’d pair that with Perpetual Motion for the bonuses to stability and handling. This way the rest of your perks can be invested into range." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2558925366&perks=1,1,1,1
+
+// Supercluster
+//notes:pandapaxxy (PvP / M+KB / Controller): "Slug shotguns are not nearly as dominant as they used to be. They used to be a high skill, high reward weapon that prioritized good aim for in return a deep OHK. Threat Detector and Fragile Focus both boost your already good range and handling. That’s really all you’re going to need. Invest the rest of your stats into whatever you feel like you’ll need more. Handling outside of Threat Detector range or range for when your shields are broken." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=92459755&perks=1,1,1,1
 
 // Adhortative
 //notes:pandapaxxy (PvP / Controller): "With such a similar pulse existing in PvP it comes down to perks. Forge’s Pledge gets access to Accurized and Steady Rounds, while Adhortative comes with High-Caliber and Ricochet Rounds. Forge’s Pledge comes with Zen Moment and Elemental Capacitor for big bonuses in stats, while Adhortative has Headseeker or Incandescent for better neutrality or some AoE. Depending on your preferred play style you might prefer one over the other, but I cannot emphasize this enough: both can work wonders." Recommended MW: Stability.|tags:pvp,controller
@@ -669,6 +769,10 @@ dimwishlist:item=1447836603&perks=1482024992,3142289711,3871884143,4071163871
 dimwishlist:item=1447836603&perks=1482024992,1866048759,3142289711,3871884143
 dimwishlist:item=1447836603&perks=1482024992,1645158859,3142289711,3871884143
 
+// Doomed Petitioner
+//notes:pandapaxxy (PvP / M+KB / Controller): "I adore these fusions for PvP, they just feel nice. Unfortunately they’re only slightly outclassed by grenade launchers in our current meta and swords are way more mobile. This doesn’t leave a lot of room for them to shine. Keep Away and Moving Target will buff your accuracy and aim assist while also giving a nice bonus to range and movement, respectfully. You’ll want to lower the charge time as low as you can and the origin trait will also help with that." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=1501688142&perks=1,1,1,1
+
 // Breakneck
 //notes:pandapaxxy (PvP / Controller): "Breakneck is one of those weapons where if you like it, you’ll use it everywhere no matter what. It isn’t incredible in the crucible, but it can hold its own as a precision frame auto rifle. Breakneck gets a touch of SUROS Regime by either speeding up the RPM post kill with Onslaught or slowing it down with Adagio. Depending on how you play, one might feel better than the other. If you’re not looking for a legendary SUROS I’d recommend consistency perks to have a reliable precision frame from gunfight to gunfight." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=2026755633&perks=1359896290,1885400500,1890422124,3250034553
@@ -719,10 +823,30 @@ dimwishlist:item=3926811686&perks=1359896290,3142289711,3250034553,3828510309
 //notes:pandapaxxy (PvP / Controller): "Over in the crucible it is slightly better and slightly worse than Gnawing Hunger. Instead of getting bonus damage through Kill Clip you can decrease your time to kill via Onslaught. With arguably a better accuracy perk in Dynamic Sway Reduction over Zen Moment. It ultimately will depend on which model you prefer as well as which version you’d like. Both technically have time to kill reducing post-kill perks as well as accuracy boosting perks." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=3583275737&perks=1359896290,3142289711,839105230,95528736
 
+// Crux Termination IV
+//notes:pandapaxxy (PvP / Controller / M+KB): "Slideshot on a rocket is certainly interesting. I wouldn’t recommend it as a meta choice but more of a novelty. Is it niche? For sure. Will you pick up ammo, and be able to slide to reload back to back shots? Not outside of Mayhem. Would it be cool? I think this gun speaks for itself." Recommended MW: Velocity.|tags:pvp,controller,mkb
+dimwishlist:item=1719687748&perks=1,1,1,1
+
+// Marcato-45
+//notes:pandapaxxy (PvP / Controller / M+KB): "In PvP the added damage from Golden Tricorn 1x will allow for some blistering fast kills, Threat Detector will make this machine gun feel more like a submachine gun in CQC but will not have those added benefits in its intended ranges. Demolitionist and Slice both offer unique benefits." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=4233375372&perks=1,1,1,1
+
+// Belisarius-D
+//notes:pandapaxxy (PvP / Controller): "Belisarius-D comes from the crucible, and it belongs in the crucible. Rapid Hit and Headseeker are fantastic neutral perks that no one would argue belong together. Keep Away and Moving Target can substitute as well for a very strong neutral weapon. Eye of the Storm is conditional in that you will have to take damage, but the benefits far outweigh the drawbacks. In the crucible you will be taking damage, so getting some extra benefits alongside that is all upsides. Kill Clip doesn’t change the time to kill enough to be noticeable unless you hit nothing but headshots. In which case you’ll drop down to a 0.60 TtK with 6 crits on Tier 8 Resilience or below. Without Kill Clip on those higher tiered resilience levels you’ll need 1 extra bullet, either way it still remains a two-burst as you won’t stop the burst mid-burst." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=2313726158&perks=1,1,1,1
+
+// Retrofuturist
+//notes:pandapaxxy (PvP / Controller / M+KB): "If you like snappy shotguns you will be happy to learn that Retrofuturist gets access to Quickdraw and Snapshot Sights. I prefer Slickdraw as shotgun aim assist doesn’t feel incredibly strong to me, but I also don’t mind lower AA weapons in general. Having a fast shotgun is more important to me, your mileage may vary with that. I think most players will opt for the tried and true Quickdraw and Snapshot Sights." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=1612781792&perks=1,1,1,1
+
 // Chivalric Fire
 //notes:pandapaxxy (PvP / Controller / M+KB): "I would not recommend using these swords in PvP. They have utility as a legendary Black Talon, but the tracking is horrendous comparatively." Recommended MW: Impact.|tags:pvp,controller,mkb
 dimwishlist:item=3438139008&perks=1749209109,2048641572,52780822,938542991
 dimwishlist:item=3438139008&perks=2048641572,52780822,776531651,938542991
+
+// Double-Edged Answer
+//notes:pandapaxxy (PvP / Controller / M+KB): "I wouldn’t use this sword over a zoom sword in PvP." Recommended MW: Impact.|tags:pvp,controller,mkb
+dimwishlist:item=105164264&perks=1,1,1,1
 
 // Lethal Abundance
 //notes:pandapaxxy (PvP / Controller): "Lethal Abundance might have a better place in PvP with great neutral buffs like Tap the Trigger paired with Keep Away. Dynamic Sway Reduction can also tighten up the firing pattern. Slice is looking like the best option for most players in the third column, so having a bit of added stability or better lethality will depend on the players." Recommended MW: Stability.|tags:pvp,controller
@@ -751,6 +875,10 @@ dimwishlist:item=2189073092&perks=1359896290,1482024992,1885400500,95528736
 dimwishlist:item=2189073092&perks=1359896290,1561002382,839105230,95528736
 dimwishlist:item=2189073092&perks=1359896290,1482024992,1561002382,95528736
 
+// Riiswalker
+//notes:pandapaxxy (PvP / M+KB / Controller): "If you never grinded out your Wastelander patterns like me, this could be your next best option. Riiswalker was always my favorite lightweight shotgun and this version comes with the same great stat package with a potential 100 range. The one thing that separated it from Wastelander was the lack of Opening Shot, this version comes with Opening Shot, and Slideshot for the coveted 100 range. With all the investments into range your barrel and masterwork should be geared towards handling." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1764868900&perks=1,1,1,1
+
 // Undercurrent
 //notes:pandapaxxy (PvP / M+KB / Controller): "Undercurrent in the crucible is a bit under where we need it to be. Explosive Personality is far better as a primer and other grenade launchers will be better for clean ups. Demolitionist and Adrenaline Junkie have synergy together but aren’t the best combination to see." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=1151688091&perks=11612903,2822142346,3523296417,3525010810
@@ -762,6 +890,34 @@ dimwishlist:item=1151688091&perks=11612903,1441682018,2822142346,3523296417
 dimwishlist:item=672957262&perks=11612903,2822142346,3523296417,3525010810
 dimwishlist:item=672957262&perks=11612903,2822142346,3523296417,3798852852
 dimwishlist:item=672957262&perks=11612903,1441682018,2822142346,3523296417
+
+// Uzume RR4
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP things have shifted a bit, Explosive Payload feels like you have a better hitbox, but doesn’t actually provide any benefits other than shooting the floor for some splash damage. Vorpal Weapon allows you to one shot any super, which is helpful for Trials rounds or general PvP super fights. Snapshot Sights and as much handling as you can invest will make this sniper feel extremely strong." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2450917538&perks=1,1,1,1
+
+// Uzume RR4 (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP things have shifted a bit, Explosive Payload feels like you have a better hitbox, but doesn’t actually provide any benefits other than shooting the floor for some splash damage. Vorpal Weapon allows you to one shot any super, which is helpful for Trials rounds or general PvP super fights. Snapshot Sights and as much handling as you can invest will make this sniper feel extremely strong." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1891996599&perks=1,1,1,1
+
+// Eye of Sol
+//notes:pandapaxxy (PvP / M+KB / Controller): "I am glad Eye of Sol is back but if it is better than before will depend on how you view it. Snapshot Sights and Opening Shot in the same column still means those with the OG Eye of Sol are still winning. Moving Target is a great secondary, but there’s one version I am really interested in." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1401300690&perks=1,1,1,1
+
+// Eye of Sol (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "I am glad Eye of Sol is back but if it is better than before will depend on how you view it. Snapshot Sights and Opening Shot in the same column still means those with the OG Eye of Sol are still winning. Moving Target is a great secondary, but there’s one version I am really interested in." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2059255495&perks=1,1,1,1
+
+// Incisor
+//notes:pandapaxxy (PvP / M+KB / Controller): "Trace rifles in general are not the strongest picks for PvP. Dynamic Sway Reduction and Tap the Trigger double dip in consistency perks, which you will need as the ammo economy is incredibly unforgiving. If you can manage to scrounge enough ammo for sprees then I would love to see the blistering 0.6s time to kill with Kill Clip." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=4248997900&perks=1,1,1,1
+
+// Incisor (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Trace rifles in general are not the strongest picks for PvP. Dynamic Sway Reduction and Tap the Trigger double dip in consistency perks, which you will need as the ammo economy is incredibly unforgiving. If you can manage to scrounge enough ammo for sprees then I would love to see the blistering 0.6s time to kill with Kill Clip." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2421180981&perks=1,1,1,1
+
+// Naeem's Lance
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible it also lags behind without two of the most important perks. Opening Shot or Snapshot Sights, and while you can get away without either of those perks and still see success, you’ll have to find handling and accuracy perks elsewhere. Keep Away is fantastic for reducing your accuracy cone, and Elemental Capacitor could bump you up to 100 handling with an arc subclass. I don’t think many players will opt for this sniper but you can make it work." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2806569825&perks=1,1,1,1
 
 // Vengeful Whisper
 //notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible I don’t think you’ll find as much success. Vengeful Whisper does have Explosive Head for better flinch and AoE but I find bow swapping a bit easier with a handling perk like Shot Swap or even Perpetual Motion. If you’re not bow swapping I prefer Archer’s Tempo or Rapid Hit for better follow up shots. Successful Warm-Up is great but only works after your first kill." Recommended MW: Draw Time.|tags:pvp,mkb,controller
@@ -788,17 +944,89 @@ dimwishlist:item=3381450498&perks=2822142346,3525010810,3673922083,951095735
 dimwishlist:item=3381450498&perks=2822142346,3673922083,3798852852,951095735
 dimwishlist:item=3381450498&perks=1441682018,2822142346,3673922083,951095735
 
+// Dragoncult Sickle
+//notes:pandapaxxy (PvP / M+KB / Controller): "Dragoncult Sickle might have some utility in PvE but PvP is not as forgiving. Assassin’s Blade allows you to run a bit faster when you get a kill, and chain reaction will allow you to get some cheeky double kills or team wipes. I like the idea of caster frames in PvP but in practice you’re better of using another sword." Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=3668817296&perks=1,1,1,1
+
+// Stay Frosty
+//notes:Panda (PvP / Controller): "There are two versions of this weapon you can get. Don't take into MnK or controller as seriously. The MnK roll is better for 6v6 or slaying play styles. The controller roll is better for 3v3 or more neutral play styles. Both will feel great but have different utilities." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1891321753&perks=1,1,1,1
+
 // Stay Frosty
 //notes:Stallion (PvP / Controller): "I never got this roll last year, so I will be going for it again. I do not think this roll needs explaining, you kill 1 person (pretty easily because 450s feel great imo) then use that momentum to carry you through the rest of the match with a nice range and handling bump from Killing Wind and a nice damage bump from Kill Clip. This is my favourite combo in PvP. I needs it." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1891321753&perks=1015611457,2450788523,3230963543,839105230
+
+// Zephyr
+//notes:Panda (PvP / M+KB / Controller): "Zephyr was one of my favorite swords when it was introduced in season 2. I still think it looks incredible. In PvP you'll want some good guard resistance so you can get close and if you happen to have multiple enemies stacked up you can get Chain Reaction kills. More booms equals better, no?" Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1911078836&perks=1,1,1,1
+
+// Zephyr
+//notes:Stallion (PvP / M+KB / Controller): "Unfortunately, Zephyr would not be my first pick for PvP swords. Its not craftable, Cold Steel is pointless and its not an interesting frame. BUT. This would be what I'd take into PvP if I had to. Duelist benefits the player after a kill until you put the sword away, but since heavy is not very frequent in PvP, you're likely gonna commit to using all your ammo up. So Duelist gives the best benefit in slot imo. Vorpal is a nice safety net incase your heavy spawn gets assaulted by a super (I've seen it happen, it's terrifying), you might be able to fight back a little easier." Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1911078836&perks=1,1,1,1
+
+// Albedo Wing
+//notes:Panda (PvP / M+KB / Controller): "With Auxiliary Reserves you get some great shield duration. With Light Mag and Keep Away you negate the reload speed loss from Auxiliary Reserves. All the range gives you a velocity of 130 m/s which is 1.11x times faster than the base 117 m/s. This extra speed will make the hit registration feel better. If you can manage to get Golden Tricorn 2x with one surge mod you can one hit kill any guardian 6 resilience or below. As you add one surge mod you can down an additional resilience tier. It scales 1:1." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2680976411&perks=1,1,1,1
+
+// Albedo Wing
+//notes:Stallion (PvP / M+KB / Controller): "Okay so.. Glaives in PvP. Not my favourite thing. But here's what I'm thinking: Max Range for max projectile speed, bonus handling to make it less hefty to switch to, Beacon Rounds because auto-aim potentially gooder, demo simply because there's nothing else I feel is worth using in that slot. High Impact Reserves is only a 6% damage boost, Golden Tricorn might be tricky to keep active in PvP, Lead From Gold serves no purpose in PvP.. It's just tricky. I'm sorry I can't provide more, I'm really not a glaive in PvP kinda fella." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2680976411&perks=1,1,1,1
+
+// Glacioclasm
+//notes:Panda (PvP / M+KB / Controller): "Slideshot makes this roll. With Slideshot you can invest the rest of your stats into a mix of range and stability to still hit 100 range and have a whopping 76 stability. If you can somehow wrangle up full ammo you'll only sit 4 points less than 100 stability. High-Impact Reserves helps those long shots keep their damage at range." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2728851518&perks=1,1,1,1
+
+// Glacioclasm
+//notes:Stallion (PvP / M+KB / Controller): "This archetype is tricky for PvP, the long charge time is going to leave you vulnerable, the low handling is going to make it feel sluggish and the reload speed is gonna leave you without a functioning weapon many times a match. This roll should help all of those problems at least a little bit. Slideshot, so reloading is as easy as scraping your knees. Eye of the Storm to help you combat missing bolts due to being shot while charging. Charge Time reductions.. because charge time reductions. This thing take a year to charge, might as well cut some time down." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=2728851518&perks=1,1,1,1
+
+// Cold Front
+//notes:Panda (PvP / Controller): "Now I know what you're saying, Rangefinder was nerfed. I know it was. But having lower range for the SMG class you'll feel some of the forgiveness factors from Rangefinder coupled with Tap the Trigger bringing you better accuracy and stability." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3206190066&perks=1,1,1,1
+
+// Cold Front
+//notes:Stallion (PvP / M+KB / Controller): "Okay wait, hear me out. This weapon has bad stats. The difference between minimum range and maximum range is like 3.5m, and while that might be significant if this weapon is your primary, it is not significant in my use case. A secondary. A sidearm, with a substantial heft boost. As much handling as I can squeeze out without losing a usable amount of stability, then Perpetual Motion to help those stats even further. But the main thing, the thing that really makes this roll a backup weapon is Cascade Point. Switching into Cascade to burn someone down like you've got a pocket Tarrabah just sounds fun.. Niche. But fun." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3206190066&perks=1,1,1,1
+
+// Avalanche
+//notes:Panda (PvP / Controller): "While you don't see many machine guns running around in the crucible, you can with Avalanche. Arrowhead Brake brings up the recoil direction to 100. Adding in either range or stability (or both) with Dynamic Sway Reduction will make the shooting experience enjoyable. Incandescent is a bit of an odd choice but being able to apply some Scorch and make the second kill easier will allow you to go on a nice spree." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=4220529694&perks=1,1,1,1
+
+// Avalanche
+//notes:Stallion (PvP / Controller / M+KB): "This weapon is strange in that it doesn't have much for PvP, but the small pool of options is pretty good. Using a heavy weapon against a super is pretty common, so Vorpal is nice. DSR and stability buffs to help you not lose a gunfight due to flinch. Are they the best perks? Maybe not. But they are certainly nice." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=4220529694&perks=1,1,1,1
+
+// Horror Story
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=1,1,1,1
+
+// Horror Story
+//notes:SirStallion_ (PvP / M+KB / Controller): "As a primarily controller player, I believe 450s are some of the easiest guns to control. Stability is not as necessary, but preference is a thing and you should absolutely commit to whichever stat you feel is best. But the trait combo remains the same for my ideal. I will never just be using one gun, chances are if I get special ammo I'm going to be trying to use that special ammo and discord benefits me when I inevitably succeed. OR.. more likely.. When I use my 450/450 combo and bust out a Harmony suros sidearm, this gun will support a flip flop swip swap playstyle that I enjoy very very much." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=1,1,1,1
+
+// Horror Story
+//notes:Clegmir (PvP / Controller): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=177568179&perks=1,1,1,1
 
 // Jurassic Green
 //notes:pandapaxxy (PvP / Controller): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3103255595&perks=2610012052,3230963543,3619207468,839105230
 
+// Jurassic Green
+//notes:SirStallion_ (PvP / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=1,1,1,1
+
+// Jurassic Green
+//notes:Clegmir (PvP / M+KB / Controller): "On the PvP side, with the changes to Rangefinder and damage falloff, Killing Wind and Keep Away will be your stars, I think. The former is a “next kill” perk while the latter is to help you secure that first kill. There are a lot of viable rolls for this gun, so if you get one, try it out! I’ll be looking for Killing Wind/Encore and Keep Away/Headseeker, personally." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=1,1,1,1
+
 // Mechabre
 //notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
 dimwishlist:item=3871226707&perks=1840239774,3142289711,47981717,957782887
+
+// Mechabre
+//notes:SirStallion_ (PvP / M+KB / Controller): "It's a PvP sniper rifle in Destiny. Of COURSE you want snapshot/opening shot. You want to hit the headshots as quickly and cleanly as you can, this is the combo that will do that for you, it is tried and true. However, if you're a sniper that likes to find tricky lanes and make people say "Wha.. from THERE?" and maybe you don't mind a little extra ADS time, I'd give Keep Away a shot." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1,1,1,1
 
 // Mechabre
 //notes:Clegmir (PvP / M+KB / Controller): "For PvP, if you didn’t score the Snapshot/Opening Shot last go-around, you do have another chance at getting one! You also have the options of getting one with Keep Away and Discord as options. Ammo being refunded on takedowns is a very nice reward to deal with the potential lack of special ammo drops." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -807,6 +1035,10 @@ dimwishlist:item=3871226707&perks=1840239774,3142289711,47981717,957782887
 // Acosmic GSp
 //notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=413901114&perks=3194351027,3525010810,409831596,951095735
+
+// Acosmic GSp
+//notes:SirStallion_ (PvP / M+KB / Controller): "What do you want from a heavy GL in PvP? You wanna kill people fast and you wanna get back to slaying with your regularly scheduled arsenal. What is a core part of that arsenal? Abilities. Picture this.. You pick up heavy, you snag a cute little triple kill on B thanks to Proxy rounds and then you sprint to C so you can grenade the ding dongs you just slaughtered right as they spawn." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=1,1,1,1
 
 // Acosmic GSp
 //notes:Clegmir (PvP / M+KB / Controller): "Thankfully for PvP you do have access to Proximity Grenades. Explosive Light is handy given the ease at which you can generate orbs in the current sandbox, and the same holds true for elemental pickups with Collective Action." Recommended MW: Velocity.|tags:pvp,mkb,controller
@@ -1655,11 +1887,41 @@ dimwishlist:item=120706239&perks=1482024992,2450788523,3142289711,639190697
 dimwishlist:item=120706239&perks=1482024992,31345821,3142289711,4207509907
 dimwishlist:item=120706239&perks=1482024992,3142289711,4207509907,639190697
 
+// The Wizened Rebuke - PvP (god-pvp,pvp,controller)
+//notes: Recommended MW: Range
+Recommended Mod: Targeting tags:god-pvp,pvp,controller
+dimwishlist:item=2290416&perks=1,1,1,1
+
+// The Wizened Rebuke - PvP (god-pvp,pvp,controller)
+//notes: Recommended MW: Charge Time Recommended Mod: Targeting. Use with a Cascade Point or Harmony weapon. The idea here is to quickly swap to this and secure a Backup Plan kill, then you'll have 100 handling to swap back to your primary and have 100 handling there as well. Should fire extremely fast with all the charge time perks, and you'll still 4 bolt any resil. tags:god-pvp,pvp,controller
+dimwishlist:item=2290416&perks=1,1,1,1
+
+// The Wizened Rebuke - PvP (pvp,controller,mnk)
+//notes: Recommended MW: Range/Charge Time/Stability
+Recommended Mod: Targeting
+Feel free to substitute range perks for stability if you need, but DO NOT run charge time stuff unless you have High Impact Reserves in the 4th column or are using the quick swap build tags:pvp,controller,mnk
+dimwishlist:item=2290416&perks=1,1,1,1
+
 // Iterative Loop - PvP Arc/Void/Stasis/Solar (god-pvp,pvp,controller)
 //notes: Recommended MW: Range
 Recommended Mod: Counterbalance tags:god-pvp,pvp,controller
 dimwishlist:item=1289796511&perks=1645158859,1754714824,2969185026,839105230
 dimwishlist:item=1289796511&perks=1645158859,2969185026,3511092054,839105230
+
+// Iterative Loop - PvP Strand (god-pvp,pvp,controller)
+//notes: Recommended MW: Range
+Recommended Mod: Targeting tags:god-pvp,pvp,controller
+dimwishlist:item=1289796511&perks=1,1,1,1
+
+// Iterative Loop - PvP "Go Fast" (pvp,controller)
+//notes: Recommended MW: Charge Time
+Recommended Mod: Counterbalance tags:pvp,controller
+dimwishlist:item=1289796511&perks=1,1,1,1
+
+// Taraxippos - PvP (controller,god-pvp,pvp)
+//notes: Recommended MW: Stability
+Turns the gun into a sidearm effectively. Cascade point significantly reduces the ttk. Gutshot Straight increases this effect on the body shot ttk. tags:controller,god-pvp,pvp
+dimwishlist:item=1389546626&perks=1,1,1,1
 
 // Royal Executioner - PvP (pvp,god-pvp,controller)
 //notes: Recommended MW: Range
@@ -2535,12 +2797,28 @@ dimwishlist:item=2883484461&perks=11612903,3142289711,4090651448,744594675
 dimwishlist:item=2883484461&perks=11612903,1482024992,3142289711,744594675
 
 // The Title
+//notes:pandapaxxy (PvP / Controller): "This is the best version of the title we have seen. This almost competes with the like of Shayura's Tarrabah, IKELOS and Immortal. No adept mods, not the best range, but having rangefinder is an incredible bonus. Dynamic Sway Reduction is icing on the Title's cake for allowing a smooth shooting experience." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3559361670&perks=1,1,1,1
+
+// The Title
 //notes:SirStallion_ (PvP / Controller): "I don't like Rangefinder. [...] BUT there's no denying that people like it, and they should. So it's very easily swapped in, in place of Vorpal. Now then, why Vorpal? Well, it just feels like the best of the bunch for passive PvP usage. More damage on supers good. As for Flared Magwell over Ricochet or Hi-Cal, I like my stability bumped up when possible and there's nothing worse than being caught mid reload on something as heavy as a 750. Loader mods will help, but Flared is worth the investment for me." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3559361670&perks=1359896290,1546637391,3230963543,839105230
+
+// The Title
+//notes:Sneecher (PvP / Controller): "For those hoping for/dreading an energy slot version of The Immortal, Target Lock is nowhere to be found. Despite that, the gun still has the same strong combo of Dynamic Sway and Rangefinder. Perpetual Motion is also a great choice for people who prefer that. I don’t love Threat Detector on aggressive frame SMGs, since the base ADS range is outside of Threat Detector’s activation range, but if you love it, go nuts." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3559361670&perks=1,1,1,1
+
+// Taraxippos
+//notes:pandapaxxy (PvP / Controller): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons." Recommended MW: Handling.|tags:pvp,controller
+dimwishlist:item=1389546626&perks=1,1,1,1
 
 // Taraxippos
 //notes:SirStallion_ (PvP / Controller): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1389546626&perks=2387244414,3038247973,3230963543,839105230
+
+// Taraxippos
+//notes:Sneecher (PvP / Controller): "There are a lot of options for PVP on this weapon, which took me a bit by surprise. If you like scouts at all, I am sure there is a roll for you somewhere in here. As a console player myself, I thoroughly enjoy high stability rolls. Scouts have such good coverage that they can handle a slight hit to range in favor of landing more shots quickly. Encore is a perk I think a lot of people sleep on, but after the rework it can be very effective in 6v6 modes. Add No Distractions and the Omolon origin trait, and you’ve got a workhorse ready to excel in all stats." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1389546626&perks=1,1,1,1
 
 // Acasia's Dejection
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(1000) Solar Trace Rifle Special Ammo.  "In PvP there’s a lot less to talk about. Trace rifles are beefed up auto rifles but lack ammo. Target Lock will melt your enemies as long as you're accurate. The one bonus is perfect hip-fire accuracy as you are looking at the trace." |tags:pvp,controller
@@ -4727,6 +5005,14 @@ dimwishlist:item=3920882229&perks=2846385770,3142289711,3250034553,699525795
 dimwishlist:item=3920882229&perks=1482024992,2450788523,3142289711,699525795
 dimwishlist:item=3920882229&perks=2450788523,3142289711,3250034553,699525795
 
+// Unwavering Duty
+//notes:pandapaxxy (PvP / Controller): "Unwavering Duty will also feel right at home in the crucible. Dynamic sway reduction or killing wind are the best in slot perks. Either will depend on your input and if you want a neutral perk or a lethality perk. While Unwavering Duty isn’t able to take advantage of damage perks like rampage or high-impact reserves, it will be able to slot adept mods and take advantage of free stats. Having already pretty similar stats to our favorite sunset machine gun, it will make sense that this machine gun will find a nice home in PvP." Recommended MW - Stability.|tags:pvp,controller
+dimwishlist:item=3624844116&perks=1,1,1,1
+
+// Unwavering Duty (Adept)
+//notes:pandapaxxy (PvP / Controller): "Unwavering Duty will also feel right at home in the crucible. Dynamic sway reduction or killing wind are the best in slot perks. Either will depend on your input and if you want a neutral perk or a lethality perk. While Unwavering Duty isn’t able to take advantage of damage perks like rampage or high-impact reserves, it will be able to slot adept mods and take advantage of free stats. Having already pretty similar stats to our favorite sunset machine gun, it will make sense that this machine gun will find a nice home in PvP." Recommended MW - Stability.|tags:pvp,controller
+dimwishlist:item=2759251821&perks=1,1,1,1
+
 // Rose
 //notes:pandapaxxy (PvP / Controller): "Rose is the hotness if you’re into using hand cannons in the crucible. Being a stand-alone archetype of a relic long thought lost. Rose has the intrinsic lightweight bonus (+20 mobility) and it also has access to grips over an origin trait. The unique archetype will feel right at home with crucible affectionados and the grips can make up for some extra stats. Rose will excel if you bump up handling, stability and, most importantly, range. I would still not sacrifice other stats to make up for range, but if you happen to get more range I would take it." Recommended Grips - Grip: Smooth Grip, Polymer Grip, Combat Grip. Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=882778888&perks=1840239774,247725512,3142289711,699525795
@@ -4751,17 +5037,61 @@ dimwishlist:item=396910433&perks=2590710093,269888150,354401740,3666208348
 //notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=2814093983&perks=1482024992,1890422124,2846385770,3142289711
 
+// Stay Frosty
+//notes:pandapaxxy (PvP / Controller): "Over in the crucible 450 pulses just aren’t anything important. Messenger exists, and the new hotness is Disparity. Stay Frosty has a lot to build up in order to compete. Arrowhead brake is a must, but smallbore is a decent alternative if you’re fine with the lower recoil direction. Ricochet rounds brings up the stability and bumps up the range a smidge. [...]  On Controller I would recommend something slightly different. Moving target is the only perk I would change. Moving target gives you aim assist and movement speed neutrally. That extra aim assist will help a ton to ensure a crit kill in order to get desperado going in the first place." Recommended MW - Stability.|tags:pvp,controller
+dimwishlist:item=2812100428&perks=1,1,1,1
+
 // Glacioclasm
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
 dimwishlist:item=3573686365&perks=1645158859,2213355989,689005463,839105230
+
+// Avalanche
+//notes:pandapaxxy (PvP / Controller): "Adaptive machine guns have always been my favorite for PvP. Being able to have decent damage at range, good chip damage, and a pretty manageable recoil are all great things to have. Avalanche does bring some good things to the table, like maxing out recoil direction with arrowhead brake. Ricochet rounds gives you some much needed stability. Dynamic sway reduction will reduce your bloom on extended gunfights. [...] On Controller I would recommend tap the trigger for even more stability. Not all of it is needed, but having a gun you don’t have to fight will make your job easier and you can focus on your opponent." Recommended MW - Range.|tags:pvp,controller
+dimwishlist:item=495940989&perks=1,1,1,1
 
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=2590710093,269888150,354401740,3666208348
 
 // Cold Front
+//notes:WarlockMaggie (PvP / M+KB / Controller): Similar to my PvP recommendation, stability needs to be your priority but you can mix in range to get a bit more accuracy. Steady Rounds plus a Range MW provides that mix with a little extra Airborne Effectiveness to help you get the jump on your opponents. Combine that with a tried and true consistency combo of Tap the Trigger and Rangefinder, this will work for you if you put in the work of finding this roll. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1,1,1,1
+
+// Stay Frosty
+//notes:WarlockMaggie (PvP / M+KB / Controller): Encore got a rework this season and it works well with Desperado as any missed precision final blows will still increase the range, stability and accuracy of the weapon (5, 8, and 1.25% / stack, up to 4 stacks). With the classic combo of Arrowhead Brake and Ricochet Rounds, Stay Frosty will perform. Another possible fourth column perk would be Headseeker as it also got a rework that increases damage and aim assist. Either way, the lightweight frame will additionally give you a little boost in movement speed which may help you take cover from that Chaos Reach that just showed up. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=1,1,1,1
+
+// Glacioclasm
+//notes:WarlockMaggie (PvP / M+KB / Controller): I’m not going to dissuade anyone from taking this into the Crucible, but bear in mind that pre-charging your shot is crucial to success with this archetype. Due to your starting ammo count of 2, Under Pressure and HIR will be already online, giving you a little extra stats and punch to dissolve that charging Guardian holding a Wastelander… Recommended MW: Charge Time|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=1,1,1,1
+
+// Avalanche
+//notes:WarlockMaggie (PvP / M+KB / Controller): Adaptives are my favorite LMG archetype and this extends to use within Crucible. With a requirement of 5 crits to achieve the coveted .53s TTK, accuracy is going to be vital: enter DSR + Tap the Trigger. With DSR taking 0.6 seconds to fully ramp up, you will likely be near maximum benefit by that 5th shot. Like Hammerhead and other 450 rpm LMGs after it, this can catch many a Guardian by surprise and melt them quickly! Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=495940989&perks=1,1,1,1
+
+// Zephyr
+//notes:WarlockMaggie (PvP / M+KB / Controller): Okay, hear me out on this combo. It’s a unique one to the Adaptive frame sword archetype and what it allows is the ability to steal the overshield of a supering Guardian and apply it to yourself while dealing increased damage. This could mean you can easily shut down roaming, ground-based supers and survive the opposing team’s retribution. Otherwise, it’s just like any other sword in the Crucible (that doesn’t have Eager Edge). Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=1,1,1,1
+
+// Cold Front
 //notes:/u/SirStallion_ (PvP / M+KB / Controller): While the main traits are obvious picks as far as this weapon is concerned, the rest is a little confusing. With a base 7 stability, will full sending into the stat actually make a meaningful difference? Will losing it entirely via Full Bore make a difference? I honestly don't know. I will be looking for these rolls because they're a great middle ground with a little extra stability for controllers. I do believe the rolls are interchangeable though, since it's just a MW difference. Recommended MW: Range (M+KB), Stability (Controller)|tags:pvp,mkb,controller
 dimwishlist:item=2814093983&perks=1482024992,1890422124,2846385770,3142289711
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): Lightweight pulses are feeling a lot better in PvP these days and for me, Killing Wind and Kill Clip are perks that perfectly compliment each other and provide so many benefits to the gun it becomes a no brainer. With 55 Recoil Direction, Arrowhead Brake is a must on Stay Frosty and High-Caliber should assist in opening duels to get KW/KC rolling. Omolon Fluid Dynamics will make up for any stability or reload speed losses meaning you can get the extra little bit of range from the MW. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=1,1,1,1
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): This weapon is a High-Impact. You can try to skirt that fact with lower charge times, but it will still charge slow and hit hard as long as you're accurate. I say embrace it and full send into consistency. Corrected recoil direction, higher stability, better accuracy while under fire. Which you inevitably will be with a High-Impact. Unlike PvE, I don't feel the attempt at lowering charge time is worth it. Recommended MW: Stability|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=1,1,1,1
+
+// Avalanche
+//notes:/u/SirStallion_ (PvP / Controller): As a 450, Avalanche falls into a very controllable category in PvP which means you can fairly comfortably commit to more range for short bursts of damage (like the time it might take to drop a guardian) instead of long term consistent shots. So, range range range. A little extra stability for the controller players and once you get a kill and trigger Encore, all subsequent kills should be a lot easier to manage. DSR is also an option, but only if going for multi-kills, in my opinion. If the kills are a little more spread out, I'd rather have Encore. Recommended MW: Range|tags:pvp,controller
+dimwishlist:item=495940989&perks=1,1,1,1
+
+// Zephyr
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): I got nothing. I personally would never take this sword into PvP, but if I absolutely had to I'd likely end up using my heavy to fight supers, which would never result in me escaping unscathed so unrelenting might help? Maybe? In any case, Cold Steel is doing nothing for you in PvP, which is the only thing that makes this sword unique. Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=1,1,1,1
 
 // Jurassic Green (PvE first-choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Perpetual Motion, Frenzy
@@ -4769,6 +5099,11 @@ dimwishlist:item=2814093983&perks=1482024992,1890422124,2846385770,3142289711
 dimwishlist:item=2603335652&perks=1428297954,1885400500,4104185692,839105230
 dimwishlist:item=2603335652&perks=1428297954,1885400500,3661387068,4104185692
 dimwishlist:item=2603335652&perks=1392496348,1428297954,1885400500,4104185692
+
+// Jurassic Green (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), Armor-Piercing Rounds, Perpetual Motion, Adaptive Munitions
+//notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for Barrier Champions and match game endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Dreadful stats compared to any other energy rapid-fire pulse rifle as at v6.2.5.1, but it's the only solar one currently available. Wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction barrel, Stability Barrel or a bit of both. Armor-Piercing Rounds adds 5% damage to shields in your mag slot. Perpetual Motion boosts gunfeel stats passively and, if you don't already have a better solar pulse rifle with Adaptive Munitions, then you should always have one in your vault to both deal with Barrier Champions, when the mod's around, or for dealing with shields in match game activities. Recommended MW: Handling or Stability, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvP-EndGame, Controller, MKB|tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvP-EndGame, Controller, MKB
+dimwishlist:item=2603335652&perks=1,1,1,1
 
 // BrayTech Werewolf (PvP first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
@@ -4798,6 +5133,31 @@ dimwishlist:item=2603335652&perks=1428297954,1840239774,1885400500,2610012052
 dimwishlist:item=2603335652&perks=1885400500,2610012052,2846385770,839105230
 dimwishlist:item=2603335652&perks=1482024992,1885400500,2610012052,2846385770
 dimwishlist:item=2603335652&perks=1840239774,1885400500,2610012052,2846385770
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For most people Snapshot Sights and Opening Shot is the best trait combination, getting you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1,1,1,1
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, No Distractions, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for lane control while duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. In the first trait column, No Distractions gives you flinch reduction, so you can hold a lane against primary fire more easily, and Opening Shot in the second gives you 20 Aim Assistance, and accuracy boosts. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1,1,1,1
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For kill-chaining Snapshot Sights gets you into the very reasonable ADS zoom of 45 quickly, and if you can proc Swashbuckler x5, you can one-shot body at any resilience, so keep going for as long as you've got ammo. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1,1,1,1
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, and Snapshot Sights and Opening Shot together gets you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1,1,1,1
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Auto-Loading Holster, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, Auto-Loading Holster bypasses the reload speed penalty and Opening Shot adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1,1,1,1
 
 // Eyasluna (PvP first-choice roll)
 // (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Rangefinder, Snapshot Sights
@@ -4846,6 +5206,11 @@ dimwishlist:item=2708806099&perks=1015611457,1392496348,1428297954,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1482024992,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1840239774,1885400500
 dimwishlist:item=2708806099&perks=1015611457,1428297954,1885400500,4090651448
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For kill-chaining, Killing Wind or Perpetual Motion all provide boosts so that you can take advantage of the scorch spread by an ignition kill. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=1,1,1,1
 
 // BxR-55 Battler (PvP first-choice roll)
 // (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
@@ -4915,6 +5280,11 @@ dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=3142289711,3161816588,4090651448,47981717
 
+// Wastelander M5 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke, Smallbore, Corkscrew Rifling), Extended Mag, Air Assault, Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for airborne duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. The Lightweight frame suits aggressive, mobile playstyles, boosting sprint speed by 6.25% and passively adding 20 mobility to help close gaps quickly - you'll need to hit 11 out of 12 pellets for a kill at any resilience. Good all-round stats within the subfamily. For Push out the range or boost your handling with your barrel, then maximise your Airbourne Effectiveness with Extended Mag and Air Assault. In the second trait column, Opening Shot boosts your range by 25 to push out damage drop-off distance. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1679868061&perks=1,1,1,1
+
 // Matador 64 (PvP first-choice roll)
 // (Barrel Shroud, Full Choke), Accurized Rounds, (Perpetual Motion, Threat Detector), Opening Shot
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. This is a precision pellet (not slug) shotgun with decent baseline stats, but the subfamily is weaker than lightweights, still needing 11 out of 12 pellets to hit for a guaranteed kill, but with a slower fire rate. Barrel Shroud improves the handling, or Full Choke keeps the pellets a little tighter, Accurized Rounds and Opening Shot together boost range to 100 for a 7m damage falloff distance, and in the first trait column either Threat Detector or Perpetual Motion passively boost handling. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
@@ -4945,10 +5315,35 @@ dimwishlist:item=3849810018&perks=1844523823,3300816228,3523296417,409831596
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag, and it's hard to look past the tried and trusted combination of Quickdraw and Snapshot Sights in your two trait columns. Recommended MW: Handling or Blast Radius, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887
 
+// 1000 Yard Stare (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, No Distractions, Moving Target
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for land control while duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag. For lane control, No Distractions reduces flinch by 35% once you've ADSed for 1s, and Moving Target improves your Aim Assistance. Recommended MW: Handling or Stability, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=4164201232&perks=1,1,1,1
+
 // Retraced Path (PvP first-choice roll)
 // Smallbore, Tactical Battery, (Well-Rounded, Perpetual Motion), Golden Tricorn
 //notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for kill-chaining, particularly with a solar subclass. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Golden Tricorn x1 or Radiant get you to 0.73s TTK in 5 crits and 7 bodies, and if you can get Golden Tricorn x2 up (and have enough battery charge left), you can get an Accuracy-Adjusted TTK of 0.53s with 5 crits and 4 bodies. Choose a barrel that doesn't have any penalties and Tactical Battery provides a range of small gunfeel stat boosts. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Golden Tricorn is the best damage boost for PvP. This could be very good with a Hunter Caliban's Hand build... Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=548958835&perks=1428297954,1482024992,2610012052,732557052
+
+// Retraced Path (PvP first-choice roll)
+// Smallbore, Tactical Battery, (Well-Rounded, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for kill-chaining. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Radiant gets you to 0.73s TTK in 5 crits and 7 bodies. Choose a barrel that doesn't have any penalties and Tactical Battery provides a range of small gunfeel stat boosts. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Incandescent's ignite can catch groups of opponents to make follow-up kills easier. Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=548958835&perks=1,1,1,1
+
+// Doom of Chelchis (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1937552980&perks=1,1,1,1
+
+// Doom of Chelchis (Harrowed) (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1184692845&perks=1,1,1,1
+
+// Smite of Merain (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Moving Target, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for duelling. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel is Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for duelling Moving Target and Eye Of The Storm make hitting those crits easier in a gunfight. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2221264583&perks=1,1,1,1
 
 // Smite of Merain (PvP first-choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
@@ -4963,6 +5358,11 @@ dimwishlist:item=2221264583&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=2221264583&perks=106909392,11612903,3523296417,839105230
 
 // Smite of Merain (Harrowed) (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Moving Target, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for duelling. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel is Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for duelling Moving Target and Eye Of The Storm make hitting those crits easier in a gunfight. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=3407395594&perks=1,1,1,1
+
+// Smite of Merain (Harrowed) (PvP first-choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel is Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Swashbuckler x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Pugilist boosts melee energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
 dimwishlist:item=3407395594&perks=3230963543,4082225868,691659142,839105230
@@ -4975,14 +5375,54 @@ dimwishlist:item=3407395594&perks=11612903,3230963543,3523296417,839105230
 dimwishlist:item=3407395594&perks=106909392,11612903,3523296417,839105230
 
 // Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1,1,1,1
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1,1,1,1
+
+// Zaouli's Bane (PvP first-choice roll)
 // Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
 //notes:Inspired by DMB Podcast 277 with @illPhysics. (???  ???): First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
 dimwishlist:item=431721920&perks=106909392,1482024992,2621346526,4293542123
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1,1,1,1
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1,1,1,1
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1,1,1,1
 
 // Zaouli's Bane (Harrowed) (PvP first-choice roll)
 // Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
 //notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
 dimwishlist:item=291092617&perks=106909392,1482024992,2621346526,4293542123
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod.|tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1,1,1,1
+
+// Midha's Reckoning (PvP first-choice roll)
+// (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
+//notes:Inspired by DMB Podcast 277 with @illPhysics (and thanks to @Legoleflash). First-choice PvP pick - one of those rare weapons that works for both duelling and kill-chaining. Shapeable. Definitely not meta out of the box as at v6.2.0.7 with a base TTK of 1.09s with four bolts, but there's a perk combination that helps with that. Most stats are okayish, with Aim Assistance a standout highest in class - add in some targeting mods on the weapon and helmet if you want to build into this weapon. You're only firing five bolts, so you can spec into range with your barrel, as controlling the recoil should be easier. With the battery perk, you might be tempted by Accelerated Coils for an even faster charge time, but you'll probably get more use from Projection Fuse's extra range for consistency. The real fun is in the two trait columns - Backup Plan gets you to 100 Handling on swapping, and brings the TTK for your first shot down to 0.81s. After your first kill, Successful Warm-Up kicks into reduce it still further to 0.73s. You still need to hit 4 out of 5 bolts, but the targeting mods make that much easier to achieve, and the TTK is faster than an out-of-the-box Rapid Fire Fusion Rifle. Recommended MW: Range, with a Targeting Adjustor mod.|tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3969066556&perks=1,1,1,1
+
+// Midha's Reckoning (Harrowed) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
+//notes:Inspired by DMB Podcast 277 with @illPhysics (and thanks to @Legoleflash). First-choice PvP pick - one of those rare weapons that works for both duelling and kill-chaining. Shapeable. Definitely not meta out of the box as at v6.2.0.7 with a base TTK of 1.09s with four bolts, but there's a perk combination that helps with that. Most stats are okayish, with Aim Assistance a standout highest in class - add in some targeting mods on the weapon and helmet if you want to build into this weapon. You're only firing five bolts, so you can spec into range with your barrel, as controlling the recoil should be easier. With the battery perk, you might be tempted by Accelerated Coils for an even faster charge time, but you'll probably get more use from Projection Fuse's extra range for consistency. The real fun is in the two trait columns - Backup Plan gets you to 100 Handling on swapping, and brings the TTK for your first shot down to 0.81s. After your first kill, Successful Warm-Up kicks into reduce it still further to 0.73s. You still need to hit 4 out of 5 bolts, but the targeting mods make that much easier to achieve, and the TTK is faster than an out-of-the-box Rapid Fire Fusion Rifle. Recommended MW: Range, with a Targeting Adjustor mod.|tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3904516037&perks=1,1,1,1
 
 // Defiance of Yasmin (PvP first-choice roll)
 // Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
@@ -5003,6 +5443,11 @@ dimwishlist:item=2671639706&perks=1428297954,1840239774,1885400500,699525795
 // Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Elemental Capacitor
 //notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling with arc or void builds. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are kill-chaining, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for duelling, Well-Rounded, Ensemble or Perpetual Motion fill out the stats nicely, and using Elemental Capacitor with either an Arc subclass for Handling to make this super snappy, or Void to boost Stability for landing the third shot. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=2671639706&perks=1428297954,1840239774,1885400500,3511092054
+
+/ Pure Poetry (PvP first-choice roll)
+// Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Swashbuckler
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill-chaining with melee builds. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are kill-chaining, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for kill-chaining, Well-Rounded, Ensemble or Perpetual Motion fill out the stats nicely, and using a melee build - Shadowbinder Warlock or Striker Titan, say - to proc Swashbuckler x5 will get you to a TTK with two crits. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2671639706&perks=1,1,1,1
 
 // Yesteryear (PvP first-choice roll)
 // Arrowhead Brake, (Ricochet Rounds, Flared Magwell), Perpetual Motion, Eye of the Storm
@@ -5030,6 +5475,31 @@ dimwishlist:item=1141927949&perks=1570042021,1840239774,3230963543,3425386926
 // (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Tap the Trigger
 //notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, it's not really necessary to look further than Dynamic Sway Reduction in the first trait column - pair this with the Omolon origin trait and Tap the Trigger and you'll end up with a precision bullet hose no matter where you are in the magazine. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=2988121501&perks=1359896290,1840239774,1885400500,1890422124
+
+// Out of Bounds (PvP first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Threat Detector, Tap the Trigger
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you  can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, Threat Detector adds in more stability, and acts as a reminder that someone's in range. If you can keep the action in the top half of the magazine, the Omolon origin trait and Tap the Trigger together should keep everything on target. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2988121501&perks=1,1,1,1
+
+// Out of Bounds (PvP first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reduction, Golden Tricorn
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill chaining. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. It's not really necessary to look further than Dynamic Sway Reduction in the first trait column, which pairs with the Omolon origin trait to keep your bullets on target through the magazine, and Golden Tricorn is the best damage perk - one stack gets you to the 0.6s TTK and two stacks to 0.47s with 6 crits and 2 body shots. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2988121501&perks=1,1,1,1
+
+// Hung Jury SR4 (PvP first-choice roll)
+// Fluted Barrel, Steady Roads, Rapid Hit, Box Breathing
+//notes:First choice PvP roll for duelling. Inspired by DMB Podcast 275 conversation with @DefyFly. The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (2 Crit + 1 Body of a 0.67s TTK) and two tap tap lower resiliences, as at Season 18 v6.2.0.6. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost) Recommended MW: Handling, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=4281371574&perks=1,1,1,1
+
+// Hung Jury SR4 (Adept) (PvP first-choice roll)
+// Fluted Barrel, Steady Roads, Rapid Hit, Box Breathing
+//notes:First choice PvP roll for duelling. Inspired by DMB Podcast 275 conversation with @DefyFly. The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (2 Crit + 1 Body of a 0.67s TTK) and two tap tap lower resiliences, as at Season 18 v6.2.0.6. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost) Recommended MW: Handling, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=681067419&perks=1,1,1,1
+
+// Staccato-46 (PvP first-choice roll)
+// Fluted Barrel, Steady Rounds, Outlaw, Rampage
+//notes:Inspired by DMB Podcast 275 conversation with @DefyFly. First choice PvP roll for kill-chaining. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Outlaw is probably your best first trait column perk, but it does stack well with Rampage anyway, one stack of which with Radiant or in an Empowering Rift (sorry Titans), gets you a 0.67s TTK against any resilience, with two crits and a body, as at Season 18 v6.2.0.6, on anyone within a 70m radius of you. Recommended MW: Stability, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=4019668921&perks=1,1,1,1
 
 // Servant Leader (PvP first-choice roll)
 // (Fluted Barrel, Polygonal Rifling), Steady Rounds, (Tunnel Vision, Rapid Hit), Kill Clip
@@ -6420,6 +6890,10 @@ dimwishlist:item=2531963421&perks=124408337,3142289711,3250034553,691659142
 //notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Shapeable. First choice for a slug-shottie, and the perks can make this into a kill-chaining monster if you can find the ammo. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first train column, and then a fully-procced Swashbuckler or Enhanced Surrounded (when Bungie rolls the boost from the mod into the perk) in the second column brings the damage up to one-shot body levels. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod.|tags: PvP, PvP-God, PvP-Chain, Controller, MKB
 dimwishlist:item=2531963421&perks=3142289711,3250034553,4082225868,691659142
 
+// Lingering Dread
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could try for chill clip but I think the utility of demolitionist for potentially shooting twice in quick succession is better. You’ll also need to have good aim to get those direct hits. Whereas with demolitionist if you do happen to get a kill with Lingering Dread you’ll just get some of your grenade cooldown knocked off. Proximity grenades are the best in slot for demoltionist, but if you wanted the alternative high-velocity rounds for getting the grenade to targets with chill clip is the way to go." Recommended MW - Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=2026087437&perks=1,1,1,1
+
 // New Purpose
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP it’s really close. Rapid hit and the adept mods to give a small edge to messenger, but needing only arrowhead brake to clean up the recoil and have a perfectly vertical recoil direction is really hard to pass up. It completely frees up your mod slot for radar tuner, targeting, or whatever else tickles your fancy." Recommended MW - Range (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
 dimwishlist:item=1780464822&perks=1428297954,1561002382,3047969693,839105230
@@ -6494,6 +6968,10 @@ dimwishlist:item=2194955522&perks=1840239774,2846385770,2866798147,3142289711
 dimwishlist:item=2194955522&perks=106909392,2846385770,2866798147,839105230
 dimwishlist:item=2194955522&perks=106909392,1840239774,2846385770,2866798147
 
+// Stormchaser
+//notes:pandapaxxy (PvP / M+KB / Controller): "I think Stormchaser is a weird weapon for the crucible. It does do enough to body shot with the whole burst, but you’re better off going for a crit with just a regular linear fusion rifle or body shot with adagio. Stormchaser is cool and I think it will see some use, but I don’t think it will be anyone’s first pick." Recommended MW - Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3652506829&perks=1,1,1,1
+
 // Austringer
 //notes:pandapaxxy (PvP / Controller): "You can either go for Eyasluna with rangefinder and moving target for max aim assist and incredible range. Or Austringer with eye of the storm and rangefinder for better aim assist at low health. Neither one is objectively better than the other, but how you play will determine which hand cannon is better for you. Having enhanced perks is a definite favor for Austringer, but it does not make Austringer blow Eyasluna right out of the water." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=3055790362&perks=1840239774,1885400500,2846385770,699525795
@@ -6566,6 +7044,10 @@ dimwishlist:item=1366394399&perks=106909392,2866798147,47981717,839105230
 dimwishlist:item=1366394399&perks=1428297954,3177308360,47981717,839105230
 dimwishlist:item=1366394399&perks=106909392,1428297954,47981717,839105230
 
+// Beloved
+//notes:pandapaxxy (PvP / M+KB / Controller): "Beloved was made for the crucible. [...] Instead of going all into range like previously, the recent sandbox changes have made handling more important than ever. Both quickdraw and snapshot are still incredible on Beloved, but now you can go for surplus, moving target, or firmly planted and still have a smashing good time." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3107853529&perks=1,1,1,1
+
 // CALUS Mini-Tool
 //notes:pandapaxxy (PvP / Controller): "CALUS Mini-Tool does not stand as strong in PvP as other possible smgs. The 14 zoom and lack of rangefinder or other heavy range increasing perks makes it fall off in terms of usefulness. It can be usable when paired with MIDA Multi-Tool. MIDA covering the longer ranges and CALUS covering the tight CQC rolls. Not necessarily the most lethal combination, but it works." Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=2490988246&perks=1840239774,3142289711,4071163871,699525795
@@ -6608,6 +7090,10 @@ dimwishlist:item=2323544076&perks=1570042021,3108830275,3250034553,732557052
 dimwishlist:item=2323544076&perks=2969185026,3108830275,3250034553,3436462433
 dimwishlist:item=2323544076&perks=3108830275,3250034553,3436462433,732557052
 
+// Nezarec's Whisper
+//notes:pandapaxxy (PvP / M+KB / Controller): "Glaives in PvP are still not my favorite choice, especially now with the scavenger nerf. Non-OHK special weapons struggle to keep up, and the three melee hit kill is extremely underwhelming." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=254636484&perks=1,1,1,1
+
 // Bump in the Night
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP Bump in the Night is also outclassed. Having access to both demolitionist for more grenades and chain reaction for potential multi-kills is cool, but the low velocity and lower blast radius really hold it back." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
 dimwishlist:item=1959650777&perks=1478423395,1996142143,2396489472,3977735242
@@ -6646,6 +7132,10 @@ dimwishlist:item=2715240478&perks=1645158859,3868766766,438098033,839105230
 dimwishlist:item=2715240478&perks=438098033,689005463,744594675,839105230
 dimwishlist:item=2715240478&perks=3868766766,438098033,744594675,839105230
 
+// Dead Weight
+//notes:pandapaxxy (PvP / M+KB / Controller): "Rapid-fire shotguns do not fare so well in PvP compared to PvE. Full choke is still mandatory to secure the best possibility for a two-tap kill. Accurized rounds pushes out the fall off so you’d still be able to do that solid 1 damage at 3m and beyond. Perpetual motion brings up the already healthy handling. Where Dead Weight falls off hard is in the final column. Not having access to some of the top tier perks like opening shot or even elemental capacitor to max out the range adds to the downfall of this shotgun. Just don’t use rapid-fire shotguns in PvP." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3738678140&perks=1,1,1,1
+
 // Strident Whistle
 //notes:pandapaxxy (PvP / M+KB / Controller): "Precision frames are some of the better choices for bows in PvP. Strident Whistle would need to have the lowest charge time of 576 to even compete in PvP. Fiberglass arrow shaft brings the accuracy back up after elastic string lowers it. Archer’s tempo is still great here, as is explosive head for double flinch. Moving target is a great pick if you feel you use your bow for follow up shots instead of bow-swap. Successful warm-up paired with archer’s tempo is incredible for some really fast draw times, but it feels almost “kill clip-esque” with successful warm-up needing a kill to activate." Recommended MW - Accuracy or Draw Time.|tags:pvp,mkb,controller
 dimwishlist:item=2591241074&perks=201365942,2801223209,3365897133,3429800428
@@ -6672,6 +7162,10 @@ dimwishlist:item=2591241074&perks=201365942,2652708987,2801223209,3827198035
 dimwishlist:item=2591241074&perks=201365942,2652708987,3827198035,852209214
 dimwishlist:item=2591241074&perks=201365942,2652708987,2801223209,3311977193
 dimwishlist:item=2591241074&perks=201365942,2652708987,3311977193,852209214
+
+// The Hero's Burden
+//notes:pandapaxxy (PvP / M+KB / Controller): "PvP is where this weapon will sing. Kill clip and feeding frenzy are still both great for Crucible purposes. I know a decent number of players will go for iron reach to hit that coveted 20-21m effective range. Neither are bad options but I would rate ricochet rounds higher over high-caliber rounds when using iron reach for that touch of stability. On the other hand high-caliber rounds will help you win those 1v1 situations to proc kill clip." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=2488587246&perks=1,1,1,1
 
 // The Wizened Rebuke
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP you’ll also want to increase the recoil direction while also increasing the stability. The two most important factors for deep OHK on a fusion are zoom followed by stability. Because the Wizened Rebuke cannot roll rangefinder, the next best thing is to invest into stability to make sure that all the bolts hit. Under pressure also ensures that the little ammo you do get has the best benefits for each shot. Successful warm-up is one of my favorite perks for fusions to really make that second kill super easy to secure." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -6711,6 +7205,18 @@ dimwishlist:item=2006308129&perks=1840239774,1954620775,2451262963,3142289711
 dimwishlist:item=2006308129&perks=1954620775,2451262963,3142289711,3250034553
 dimwishlist:item=2006308129&perks=1840239774,1954620775,3142289711,509074078
 dimwishlist:item=2006308129&perks=1954620775,3142289711,3250034553,509074078
+
+// Horror's Least (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP the best perk to look for is kill clip. Absolutely no competition. This takes the crit damage from 24 (72 per burst) to 31.92 (95.76 per burst) which gives you an incredibly easy three burst kill. Either way you’ll need all three bursts to kill but anything to make kills easier is a bonus. The 540 RPM makes firing at the full RPM incredibly difficult without the full auto retrofit. The issue is that even with arrowhead brake you’ll still want to slot a counterbalance mod to take the recoil direction to 100, which means manually pulling that trigger at 540 RPM." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=1924276978&perks=1,1,1,1
+
+// Horror's Least
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP the best perk to look for is kill clip. Absolutely no competition. This takes the crit damage from 24 (72 per burst) to 31.92 (95.76 per burst) which gives you an incredibly easy three burst kill. Either way you’ll need all three bursts to kill but anything to make kills easier is a bonus. The 540 RPM makes firing at the full RPM incredibly difficult without the full auto retrofit. The issue is that even with arrowhead brake you’ll still want to slot a counterbalance mod to take the recoil direction to 100, which means manually pulling that trigger at 540 RPM." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=216983039&perks=1,1,1,1
+
+// Burden of Guilt (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "PvP is where I think Burden of Guilt will be able to really show its metaphorical stuff. Having both elemental capacitor to max out handling, or stability, or increase your strafe speed; and high-impact reserves to make the damage profile similar to precisions is incredibly strong." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=2002522739&perks=1,1,1,1
 
 // Burden of Guilt
 //notes:pandapaxxy (PvP / M+KB / Controller): "PvP is where I think Burden of Guilt will be able to really show its metaphorical stuff. Having both elemental capacitor to max out handling, or stability, or increase your strafe speed; and high-impact reserves to make the damage profile similar to precisions is incredibly strong." Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -6799,6 +7305,10 @@ dimwishlist:item=2513965917&perks=124408337,1784898267,3827198035,509074078
 dimwishlist:item=2513965917&perks=124408337,3311977193,509074078,852209214
 dimwishlist:item=2513965917&perks=124408337,1784898267,3311977193,509074078
 
+// Gallu RR3
+//notes:pandapaxxy (PvP / M+KB / Controller): "Snipers in PvP are incredibly personal, so if you find yourself looking for a lower zoom sniper and don’t have a Beloved, 1000 Yard Stare, Fugue-55, or any other archetype of sniper you like, the Gallu RR3 is here to try. It does have a low 40 zoom. But I know a lot of players have already moved back to 50 zoom and will be staying there for the foreseeable future." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=617501162&perks=1,1,1,1
+
 // Staccato-46
 //notes:pandapaxxy (PvP / Controller): "Similar to Tears of Contrition, Staccato-46 will not see a lot of PvP time. You can make this scout feel better through a mix of stability and recoil direction, but ultimately 180 scouts just aren’t as strong as they need to be." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=4019668921&perks=3038247973,3177308360,744594675,839105230
@@ -6816,6 +7326,10 @@ dimwishlist:item=2778013407&perks=1561002382,3511092054,4071163871,839105230
 dimwishlist:item=2778013407&perks=1885400500,3511092054,4071163871,839105230
 dimwishlist:item=2778013407&perks=1561002382,1866048759,3511092054,839105230
 dimwishlist:item=2778013407&perks=1866048759,1885400500,3511092054,839105230
+
+// Without Remorse
+//notes:pandapaxxy (PvP / M+KB / Controller): "Where things get a lot closer is in the crucible. A very common perk combo to run in order to max out handling is via threat detector and elemental capacitor on arc. The Seventh Seraph CQC-12 has a different but equally effective max handling combination in snapshot and quickdraw. Depending on how you play I think the winner will be decided that way. If you enjoy arc subclasses, Without Remorse is the reigning champion. If you play almost any other subclass, the Seventh Seraph CQC-12 is the best in slot." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=1478986057&perks=1,1,1,1
 
 // Shayura's Wrath (PvP first-choice roll)
 // Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
@@ -6859,6 +7373,36 @@ dimwishlist:item=4023807721&perks=1359896290,1890422124,202670084,3142289711
 dimwishlist:item=4023807721&perks=1359896290,1890422124,3142289711,3250034553
 dimwishlist:item=4023807721&perks=1359896290,1482024992,1890422124,3142289711
 
+// Borrowed Time (PvP first-choice roll)
+// Full Bore, Ricochet Rounds, Rangefinder, (Rampage, Swashbuckler)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options, before focusing engrams. Push out the range as far as you can with barrel, mag and Masterwork. Rangefinder is the best trait to both push range out further, and constrain bullet spread. A damage-boosting trait in the last column helps with chaining in 6s. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=875848769&perks=1,1,1,1
+
+// Borrowed Time (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, (Rampage, Swashbuckler)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options, before focusing engrams. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. A damage-boosting trait in the last column helps with chaining in 6s. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=875848769&perks=1,1,1,1
+
+// Borrowed Time (PvP first-choice roll)
+// Full Bore, Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options, before focusing engrams. Push out the range as far as you can with barrel, mag and Masterwork. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Snapshot Sights get you into ADS faster to help get the first shots of an engagement off. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=875848769&perks=1,1,1,1
+
+// Borrowed Time (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options, before focusing engrams. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Snapshot Sights get you into ADS faster to help get the first shots of an engagement off. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=875848769&perks=1,1,1,1
+
+// Borrowed Time (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options, before focusing engrams. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Tap the Trigger helps out with extra stability and aim assist at the start of engagement, which is usually where a duel is won or lost. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=875848769&perks=1,1,1,1
+
+// Submission (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=3886416794&perks=1,1,1,1
+
 // Submission (PvP first-choice roll)
 // (Hammer-Forged Rifling, Smallbore), Overflow, (Swashbuckler, Harmony)
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
@@ -6866,10 +7410,35 @@ dimwishlist:item=3886416794&perks=3142289711,3250034553,3643424744,4082225868
 dimwishlist:item=3886416794&perks=1482024992,3142289711,3643424744,4082225868
 
 // Submission (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=3886416794&perks=1,1,1,1
+
+// Submission (PvP first-choice roll)
 // (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller
 dimwishlist:item=3886416794&perks=1428297954,3142289711,3250034553,4082225868
 dimwishlist:item=3886416794&perks=1428297954,1482024992,3142289711,4082225868
+
+// Submission (Adept) (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1941816543&perks=1,1,1,1
+
+// Submission (Adept) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range or Stability, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1941816543&perks=1,1,1,1
+
+// Submission (Adept) (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1941816543&perks=1,1,1,1
+
+// Submission (Adept) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Airborne Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range or Stability, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=1941816543&perks=1,1,1,1
 
 // Multimach CCX (PvP first-choice roll)
 // Model 8 Red, Accurized Ronds, (Dynamic Sway Reducation, Threat Detector), Iron Reach
@@ -6886,6 +7455,96 @@ dimwishlist:item=3717177717&perks=1015611457,2450788523,3142289711,663495154
 // Model 8 Red, Accurized Ronds, Threat Detector, Kill Clip
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Threat Detector helps with both stability and reload speed in CQC, and Kill Clip makes chaining easier. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
 dimwishlist:item=3717177717&perks=1015611457,3142289711,4071163871,663495154
+
+// Friction Fire (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Killing Wind, Rampage
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 16 Zoom constrains bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork. Killing Wind adds useful stat boosts after a kill, and Rampage is probably the most useful second trait, to help out with chaining kills. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1513993763&perks=1,1,1,1
+
+// Friction Fire (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Killing Wind, Rampage
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 16 Zoom constrains bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Killing Wind adds useful stat boosts after a kill, and Rampage is probably the most useful second trait, to help out with chaining kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1513993763&perks=1,1,1,1
+
+// Friction Fire (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Threat Detector, Rampage
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but we can hope it's reprised at some point. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 16 Zoom constrains bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Threat Detector boosts Stability and Reload Speed in CQC which pairs with Rampage, to help out with chaining kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1513993763&perks=1,1,1,1
+
+// Enyo-D (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Fragile Focus, (Rampage, Multikill Clip)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 15 Zoom helps constrain bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork. Fragile Focus can help boost initial range in an engagement, until you take damage, and Rampage or Multikill Clip are solid damage boosts for damage chaining. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1601177201&perks=1,1,1,1
+
+// Enyo-D (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Fragile Focus, (Rampage, Multikill Clip)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 15 Zoom helps constrain bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Fragile Focus can help boost initial range in an engagement, until you take damage, and Rampage or Multikill Clip are solid damage boosts for damage chaining. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1601177201&perks=1,1,1,1
+
+// The Hero's Burden (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Fragile Focus, Eye of the Storm
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for duelling. The reprised version rolls with barrels rather than sights, which limits your maximum range, but this has new perks than can help make that back up. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Fragile Focus can help boost initial range in an engagement, until you take damage, and Eye of the Storm will kick in as you take damage to improve accuracy. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=2488587246&perks=1,1,1,1
+
+// The Enigma (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Impulse Amplifier, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2595497736&perks=1,1,1,1
+
+// The Enigma (PvP first-choice roll)
+// Supercooled Accelerator, Accurized Rounds, Impulse Amplifier, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Handling, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2595497736&perks=1,1,1,1
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1,1,1,1
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1466006054&perks=1,1,1,1
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1,1,1,1
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1466006054&perks=1,1,1,1
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1,1,1,1
 
 // Nezarec's Whisper (PvP first-choice roll)
 // (Ballistic Tuning, Supercooled Accelerator), Accurized Rounds, Impulse Amplifier, Unstoppable Force
@@ -6926,6 +7585,10 @@ dimwishlist:item=768621510&perks=2652708987,3523296417,3868766766,839105230
 dimwishlist:item=768621510&perks=1428297954,2652708987,689005463,839105230
 dimwishlist:item=768621510&perks=1428297954,2652708987,3868766766,839105230
 dimwishlist:item=768621510&perks=3523296417,438098033,689005463,839105230
+
+// Submission (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Multimach CCX is straight up better than Submission in a direct head to head. Submission has slightly better base stats in stability, reload, and aim assist. But the largest difference is ±6 points in stability. Which Multimach CCX immediately destroys with iron reach. Nevertheless, Submission is not the pick for PvP.". Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=1941816543&perks=1,1,1,1
 
 // Submission
 //notes:pandapaxxy (PvP / M+KB / Controller): "Multimach CCX is straight up better than Submission in a direct head to head. Submission has slightly better base stats in stability, reload, and aim assist. But the largest difference is ±6 points in stability. Which Multimach CCX immediately destroys with iron reach. Nevertheless, Submission is not the pick for PvP.". Recommended MW - Range.|tags:pvp,mkb,controller
@@ -6981,6 +7644,22 @@ dimwishlist:item=3428521585&perks=1546637391,3142289711,3523296417,839105230
 dimwishlist:item=3428521585&perks=1482024992,1546637391,3142289711,3523296417
 dimwishlist:item=3428521585&perks=106909392,1546637391,3523296417,839105230
 dimwishlist:item=3428521585&perks=106909392,1482024992,1546637391,3523296417
+
+// Lubrae's Ruin (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Please don’t use glaives in PvP.". Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1466006054&perks=1,1,1,1
+
+// Lubrae's Ruin
+//notes:pandapaxxy (PvP / M+KB / Controller): "Please don’t use glaives in PvP.". Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2534546147&perks=1,1,1,1
+
+// Cataclysmic (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP linear fusions can be hit or miss (zing), they require either set up for OHK, or to lower the charge time to treat it more like a sniper. Cataclysm can get the latter to a very strong degree. Accelerated coils, charge time MW, and successful warm up will net you such a fast charge time. And with linear fusion rifles being one shot kills to the head you can have a linear that is basically a sniper rifle after that first kill. You know what? Just use a sniper rifle.". Recommended MW - Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=2886339027&perks=1,1,1,1
+
+// Cataclysmic
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP linear fusions can be hit or miss (zing), they require either set up for OHK, or to lower the charge time to treat it more like a sniper. Cataclysm can get the latter to a very strong degree. Accelerated coils, charge time MW, and successful warm up will net you such a fast charge time. And with linear fusion rifles being one shot kills to the head you can have a linear that is basically a sniper rifle after that first kill. You know what? Just use a sniper rifle.". Recommended MW - Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=999767358&perks=1,1,1,1
 
 // Piece of Mind
 //notes:pandapaxxy (PvP / Controller): "Time-Worn Spire has better range and consistency perks, while you really need arrowhead break to clean up the recoil direction to a usable degree. It does allow for other consistency in the form of perpetual motion and moving target or elemental capacitor; it falls just a little short compared to the zoom of Time-Worn Spire. Both are equally good options." Recommended MW: Stability.|tags:pvp,controller
@@ -7257,6 +7936,10 @@ dimwishlist:item=3341893443&perks=1840239774,2450788523,3142289711,3511092054
 dimwishlist:item=3341893443&perks=2450788523,3142289711,3250034553,3511092054
 dimwishlist:item=3341893443&perks=1428297954,1840239774,3142289711,3511092054
 dimwishlist:item=3341893443&perks=1428297954,3142289711,3250034553,3511092054
+
+// Redback-5si
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I love this archetype for PvP, I just cannot bring myself to like Redback-5si. Veist weapons feel good, I enjoy the archetype. But something about this sidearm just doesn’t feel right. It could be the lack of power behind its shots, hit registration being wonky, or just the sound not sitting well with me. But ultimately Redback-5si is an alright sidearm. Not having high-lethality perks is a downer, but I can get past that with better neutral perks. You want to push out its range without sacrificing other stats to try and edge yourself into submachine gun territory to find the best success." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=1687353095&perks=1,1,1,1
 
 // Snorri-FR5
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP Snorri-FR5’s main competition is the Main Ingredient. [...] Likely Suspect just doesn’t do enough to make me swap from my old rolls to this. Crafting does make it easier to get what you want, and Snorri-FR5 does have a better lethality perk in successful warm-up, but that is more of a 6v6 perk, which anything can work in 6s." Recommended MW: Handling.|tags:pvp,mkb,controller
@@ -7605,6 +8288,10 @@ dimwishlist:item=1141547457&perks=2946784966,3142289711,3250034553,591790007
 dimwishlist:item=1141547457&perks=106909392,1840239774,2946784966,591790007
 dimwishlist:item=1141547457&perks=106909392,2946784966,3250034553,591790007
 
+// Razor's Edge
+//notes:pandapaxxy (PvP / M+KB / Controller): "The Iron Banner origin trait looks really strong, but it fell on two weapons that really can’t take advantage of it. If Razor’s Edge also got eager edge you can really be a menace being removed from radar and flying around. But being a standard vortex frame hinders its ability to perform in all aspects of PvP.". Recommended MW - Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1796949035&perks=1,1,1,1
+
 // Edge of Action
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
 dimwishlist:item=2535142413&perks=1067908860,2379536009,2713678205,3721627275
@@ -7650,6 +8337,10 @@ dimwishlist:item=14194600&perks=1087426260,3465198467,3492337375,594346985
 dimwishlist:item=14194600&perks=1431678320,2713678205,3465198467,3492337375
 dimwishlist:item=14194600&perks=1431678320,3465198467,3492337375,594346985
 
+// Osteo Striga
+//notes:pandapaxxy (PvP / M+KB / Controller)|tags:pvp,mkb,controller
+dimwishlist:item=46524085&perks=1,1,1,1
+
 // Empirical Evidence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
 dimwishlist:item=2607304614&perks=1428297954,1482024992,1561002382,4082225868
@@ -7694,6 +8385,10 @@ dimwishlist:item=2856514843&perks=1561002382,1840239774,1866048759,460017080
 dimwishlist:item=2856514843&perks=1866048759,1885400500,460017080,839105230
 dimwishlist:item=2856514843&perks=1840239774,1866048759,1885400500,460017080
 
+// The Enigma
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there are just far better options. The powered shot requires special ammo and has travel time. The melee requires 3 hits to kill. It’s not like Forerunner where there’s a niche with it, you will catch someone off guard with it once. But good players will just not allow you the space to utilize the glaive and average players will just beat you with any other special weapon." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2595497736&perks=1,1,1,1
+
 // Likely Suspect
 //notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP Likely Suspect falls off in comparison to Cartesian Coordinate. The two most important stats on fusions as of this current sandbox is zoom, followed by stability. Ideally stability through perks so you can also bump up things like charge time and handling. Likely Suspect does not have the zoom to compete with Cartesian Coordinate, but does have consistency through perks. Bumping that up can give you a leg on Cartesian Coordinate but don’t expect those deep voops like Main Ingredient.". Recommended MW - Stability.|tags:pvp,mkb,controller
 dimwishlist:item=1994645182&perks=1482024992,2652708987,280464955,689005463
@@ -7712,6 +8407,14 @@ dimwishlist:item=297296830&perks=1561002382,1840239774,280464955,3523296417
 dimwishlist:item=297296830&perks=1392496348,1561002382,280464955,3523296417
 dimwishlist:item=297296830&perks=1840239774,1885400500,280464955,3523296417
 dimwishlist:item=297296830&perks=1392496348,1885400500,280464955,3523296417
+
+// Palmyra-B
+//notes:pandapaxxy (PvP / M+KB / Controller): "In terms of PvP the tracking is a nice feature but I wouldn’t count on it 100% of the time. It will either not track, track into a wall, lock onto the wrong person, or go right where you want it. [...] Having unrelenting and chain reaction can allow you to fire the rocket one way, get into a fight and get “random” healing when the rocket lands. Niche but it would be really funny to see it happen.". Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3489657138&perks=1,1,1,1
+
+// Red Herring
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP you’re almost better off using an inherent tracking rocket launcher because then you don’t have to slot a perk in for it. But then again exotic rockets are just even better at killing le dude(tm).". Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3175851496&perks=1,1,1,1
 
 // Fel Taradiddle
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP most people would opt for the higher damage archetype, especially now that Under Your Skin can have an almost immediate draw time. But Under Your Skin is also energy, so you have a kinetic option, again if you don’t have a Whispering Slab. The same perks can work in PvP as they do in PvE. Archer’s tempo for faster follow up shots and explosive head for the double flinch can mess up your opponents as they try to combat you.". Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -7787,6 +8490,10 @@ dimwishlist:item=3865728990&perks=2866798147,3142289711,3250034553,699525795
 dimwishlist:item=3865728990&perks=106909392,1840239774,2866798147,699525795
 dimwishlist:item=3865728990&perks=106909392,2866798147,699525795,839105230
 dimwishlist:item=3865728990&perks=106909392,2866798147,3250034553,699525795
+
+// Tarnation
+//notes:pandapaxxy (PvP / M+KB / Controller): "Tarnation is underwhelming. [...] Similarly, adaptive frame grenade launcher’s higher base blast radius lends them to being the better pick in PvP as well.". Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=2721157927&perks=1,1,1,1
 
 // Pardon Our Dust
 //notes:pandapaxxy (Controller / PvP): "The downside to this is it is worse than last season’s Ignition Code. Both in farming and rolls you can get. If you already have a good Ignition code there is very little reason to get another one of these." Recommended MW: Blast Radius or Velocity.|tags:controller,pvp
