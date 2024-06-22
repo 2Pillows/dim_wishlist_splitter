@@ -33,8 +33,8 @@ Dupes are filtered based on the frequency of each perk recommendation. Before co
 **Input / Gamemode / Author / Perks** - All preference, use whatever best fits your needs.
 
 **Only High Quality Rolls** - Here are the options from most to least strict.
-* God - Extremely strict, many weapons may not have any recommendations.
-* !Backups_Dupes - Recommended, less strict but may not contain niche god rolls.
+* God - Extremely strict, many weapons won't have any recommendations.
+* !Backups_Dupes - Recommended, less strict but won't contain niche rolls.
 * God + !Backups_Dupes - Recommended, using both wishlists helps catch any rolls missed in either.
 * Dupes
 * !Backups
