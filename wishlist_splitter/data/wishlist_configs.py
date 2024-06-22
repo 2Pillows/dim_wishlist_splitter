@@ -104,11 +104,6 @@ def get_wishlist_config(keys: "Keys") -> None:
         },
         {keys.INC_TAGS_KEY: {"ctr", "god"}, keys.PATH_KEY: "CTR_God.txt"},
         {
-            keys.INC_TAGS_KEY: {"ctr", "god"},
-            keys.REQ_TRIMMED_PERKS: True,
-            keys.PATH_KEY: "CTR_God_Perks.txt",
-        },
-        {
             keys.INC_TAGS_KEY: {"ctr"},
             keys.EXC_TAGS_KEY: {"backups"},
             keys.PATH_KEY: "CTR_!Backups.txt",
