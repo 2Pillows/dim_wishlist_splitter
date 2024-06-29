@@ -1,297 +1,796 @@
 title:CTR God - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
-// Midnight Coup (PvE first-choice roll)
+// No Hesitation (First-choice PvE)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Physic, Circle of Life
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies and fireteam support in end-game content, particularly with solar/prismatic fragments that boost healing. Shapeable. A new Support frame auto-rifle subtype that builds healing charges on enemy hits (there's a semi-circle below the reticule that fills up) which you can then hip fire at allies to heal them. Hitting six hipfire shots on an ally heals 12 health per hit, and starts x1 Restoration for 4s after 6 rapid hits. This also grants both Guardians a +10% "Support Frame boost" to damage for 5s, which stacks with every other damage buff source. No Hesitation is probably the strongest solar primary currently in the game, if you're in a fireteam. It's a bit weird to fire as it's not hitscan - but if you can get used to Osteo Striga's tracking shots, you'll do fine. First off, controller players might benefit from a bit of extra stability from the barrel and mag perks. The first and second trait column perks can double down on the frame intrinsic perks through Physic which grants x1 Restoration (x2 when enhanced) for 5s to both you and allies when procced, and Circle of Life which boosts damage on healing by an additional +25% for 10s (+37.5% total for the first 5s with the Support Frame Boost) for both you and the healed Guardian. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Stability, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-Utility, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1801007332&perks=106909392,1482024992,2298656195,2980589453
+dimwishlist:item=1801007332&perks=106909392,1392496348,2298656195,2980589453
+dimwishlist:item=1801007332&perks=106909392,2298656195,2980589453,4090651448
+dimwishlist:item=1801007332&perks=1482024992,2298656195,2980589453,3230963543
+dimwishlist:item=1801007332&perks=1392496348,2298656195,2980589453,3230963543
+dimwishlist:item=1801007332&perks=2298656195,2980589453,3230963543,4090651448
+
+// No Hesitation (First-choice PvE)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Physic, (Attrition Orbs, Surrounded)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies and fireteam support in end-game content, particularly with solar/prismatic fragments that boost healing. Shapeable. A new Support frame auto-rifle subtype that builds healing charges on enemy hits (there's a semi-circle below the reticule that fills up) which you can then hip fire at allies to heal them. Hitting six hipfire shots on an ally heals 12 health per hit, and starts x1 Restoration for 4s after 6 rapid hits. This also grants both Guardians a +10% "Support Frame boost" to damage for 5s, which stacks with every other damage buff source. No Hesitation is probably the strongest solar primary currently in the game, if you're in a fireteam. It's a bit weird to fire as it's not hitscan - but if you can get used to Osteo Striga's tracking shots, you'll do fine. First off, controller players might benefit from a bit of extra stability from the barrel and mag perks. In the first trait column Physic grants x1 Restoration (x2 when enhanced) for 5s to both you and allies while, in the second, either Attrition Orbs can proc on healing shots, which makes orbs easier to pick up in endgame when they're next to an ally, or Surrounded massively boosts damage when procced with the frame intrinsic by +54%, or 61% with enhanced Surrounded. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Stability, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-Utility, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1801007332&perks=106909392,1482024992,243981275,2980589453
+dimwishlist:item=1801007332&perks=106909392,1392496348,243981275,2980589453
+dimwishlist:item=1801007332&perks=106909392,243981275,2980589453,4090651448
+dimwishlist:item=1801007332&perks=1482024992,243981275,2980589453,3230963543
+dimwishlist:item=1801007332&perks=1392496348,243981275,2980589453,3230963543
+dimwishlist:item=1801007332&perks=243981275,2980589453,3230963543,4090651448
+dimwishlist:item=1801007332&perks=106909392,1482024992,2980589453,3708227201
+dimwishlist:item=1801007332&perks=106909392,1392496348,2980589453,3708227201
+dimwishlist:item=1801007332&perks=106909392,2980589453,3708227201,4090651448
+dimwishlist:item=1801007332&perks=1482024992,2980589453,3230963543,3708227201
+dimwishlist:item=1801007332&perks=1392496348,2980589453,3230963543,3708227201
+dimwishlist:item=1801007332&perks=2980589453,3230963543,3708227201,4090651448
+
+// No Hesitation (First-choice PvE)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Physic, (Incandescent, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies and fireteam support in end-game content, particularly with complementary solar/prismatic fragments. Shapeable. A new Support frame auto-rifle subtype that builds healing charges on enemy hits (there's a semi-circle below the reticule that fills up) which you can then hip fire at allies to heal them. Hitting six hipfire shots on an ally heals 12 health per hit, and starts x1 Restoration for 4s after 6 rapid hits. This also grants both Guardians a +10% "Support Frame boost" to damage for 5s, which stacks with every other damage buff source. No Hesitation is probably the strongest solar primary currently in the game, if you're in a fireteam. It's a bit weird to fire as it's not hitscan - but if you can get used to Osteo Striga's tracking shots, you'll do fine. First off, controller players might benefit from a bit of extra stability from the barrel and mag perks. In the first trait column Physic grants x1 Restoration (x2 when enhanced) for 5s to both you and allies while, in the second, Incandescent is great for red bar add crowd control or Frenzy is great for all-round utility, boosting damage by +26.5% when procced with the frame intrinsic, along with maxxed-out handling and reload. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Stability, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-Utility, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1801007332&perks=106909392,1482024992,2980589453,4293542123
+dimwishlist:item=1801007332&perks=106909392,1392496348,2980589453,4293542123
+dimwishlist:item=1801007332&perks=106909392,2980589453,4090651448,4293542123
+dimwishlist:item=1801007332&perks=1482024992,2980589453,3230963543,4293542123
+dimwishlist:item=1801007332&perks=1392496348,2980589453,3230963543,4293542123
+dimwishlist:item=1801007332&perks=2980589453,3230963543,4090651448,4293542123
+dimwishlist:item=1801007332&perks=106909392,1482024992,2980589453,4104185692
+dimwishlist:item=1801007332&perks=106909392,1392496348,2980589453,4104185692
+dimwishlist:item=1801007332&perks=106909392,2980589453,4090651448,4104185692
+dimwishlist:item=1801007332&perks=1482024992,2980589453,3230963543,4104185692
+dimwishlist:item=1801007332&perks=1392496348,2980589453,3230963543,4104185692
+dimwishlist:item=1801007332&perks=2980589453,3230963543,4090651448,4104185692
+
+// No Hesitation (First-choice PvE)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Demolitionist, Desperate Measures
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies and fireteam support in end-game content. Shapeable. A new Support frame auto-rifle subtype that builds healing charges on enemy hits (there's a semi-circle below the reticule that fills up) which you can then hip fire at allies to heal them. Hitting six hipfire shots on an ally heals 12 health per hit, and starts x1 Restoration for 4s after 6 rapid hits. This also grants both Guardians a +10% "Support Frame boost" to damage for 5s, which stacks with every other damage buff source. No Hesitation is probably the strongest solar primary currently in the game, if you're in a fireteam. It's a bit weird to fire as it's not hitscan - but if you can get used to Osteo Striga's tracking shots, you'll do fine. First off, controller players might benefit from a bit of extra stability from the barrel and mag perks. Demolitionist is great in the first trait column, but for grenade energy and instant reloads on a grenade throw, while Desperate Measures is very easy to proc with intrinsic for +10, +20 or +30% damage (+21, +32 or +43% when the frame intrinsic is also procced). The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Stability, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-Utility, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1801007332&perks=106909392,1482024992,2109543898,3523296417
+dimwishlist:item=1801007332&perks=106909392,1392496348,2109543898,3523296417
+dimwishlist:item=1801007332&perks=106909392,2109543898,3523296417,4090651448
+dimwishlist:item=1801007332&perks=1482024992,2109543898,3230963543,3523296417
+dimwishlist:item=1801007332&perks=1392496348,2109543898,3230963543,3523296417
+dimwishlist:item=1801007332&perks=2109543898,3230963543,3523296417,4090651448
+
+// Bold Endings (First-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Rapid Hit, Desperate Measures
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. Shapeable. There aren't many comparators for Bold Endings - the good news is that the base stats are great, but the bad news is that they're still not very good, with stability, handling and reload speed all low so, although it's hard-hitting, it feels a bit clunky. Use the barrel and magazine perks to fill in the gaps. To help further, you can quickly get to the maximum stacks of Rapid Hit as the first trait perk, and you have ways of getting to three stacks of Desperate Measures using Transcendent melee and grenade for up to +30% damage. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Reload Speed, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=496728945&perks=106909392,1840239774,2109543898,247725512
+dimwishlist:item=496728945&perks=106909392,2109543898,247725512,4090651448
+dimwishlist:item=496728945&perks=1840239774,2109543898,247725512,3230963543
+dimwishlist:item=496728945&perks=2109543898,247725512,3230963543,4090651448
+
+// Bold Endings (First-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Headstone, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly when using Stasis fragments. Shapeable. There aren't many comparators for Bold Endings - the good news is that the base stats are great, but the bad news is that they're still not very good, with stability, handling and reload speed all low so, although it's hard-hitting, it feels a bit clunky. Use the barrel and magazine perks to fill in the gaps. If you're using Stasis-friendly subclass fragments to support your build, you should be able to create plenty of crystals with Headstone in the first trait column and generate shards that you can use to proc Collective Action's +20% damage boost. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Reload Speed, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=496728945&perks=106909392,124408337,1840239774,3324494224
+dimwishlist:item=496728945&perks=106909392,124408337,3324494224,4090651448
+dimwishlist:item=496728945&perks=124408337,1840239774,3230963543,3324494224
+dimwishlist:item=496728945&perks=124408337,3230963543,3324494224,4090651448
+
+// Bold Endings (First-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Headstone, Demolitionist
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly when using Stasis fragments. Shapeable. There aren't many comparators for Bold Endings - the good news is that the base stats are great, but the bad news is that they're still not very good, with stability, handling and reload speed all low so, although it's hard-hitting, it feels a bit clunky. Use the barrel and magazine perks to fill in the gaps. This roll is a speculative one, if you drop one, If you're using Stasis-friendly subclass fragments to support your build, you should be able to create plenty of crystals with Headstone in the first trait column to work with to proc fragments, and Demolitionist in the second column is always handy on a primary weapon to keep your grenade ability charged. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Reload Speed, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=496728945&perks=106909392,124408337,1840239774,3523296417
+dimwishlist:item=496728945&perks=106909392,124408337,3523296417,4090651448
+dimwishlist:item=496728945&perks=124408337,1840239774,3230963543,3523296417
+dimwishlist:item=496728945&perks=124408337,3230963543,3523296417,4090651448
+
+// Embraced Identity (First-choice PvE)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for burst damage against major and bosses in end-game content. Shapeable. If you already have a good backup DPS sniper then you can safely pass on Embraced Identity. Decent base stats so, as ever, handling is the stat to boost with the barrel perk. Tactical Mag plus a Backup Mag mod gets you to 6 shots, or Appended Mag + Backup Mag gets you to 7. In the first trait column, Rewind Rounds or Reconstruction are both excellent. In the second column, Precision Instrument or High Ground both boost damage via different proc mechanisms, depending on whether you have a big crit spot to aim for, or can get your feet at least one metre higher than the feet of what you're shooting at (so, weirdly, you can have it procced and still be shooting up at a taller enemy's head). The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Reload Speed, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2821677368&perks=106909392,1523832109,555281244,839105230
+dimwishlist:item=2821677368&perks=106909392,1523832109,1840239774,555281244
+dimwishlist:item=2821677368&perks=1087426260,1523832109,555281244,839105230
+dimwishlist:item=2821677368&perks=1087426260,1523832109,1840239774,555281244
+dimwishlist:item=2821677368&perks=106909392,3418782618,555281244,839105230
+dimwishlist:item=2821677368&perks=106909392,1840239774,3418782618,555281244
+dimwishlist:item=2821677368&perks=1087426260,3418782618,555281244,839105230
+dimwishlist:item=2821677368&perks=1087426260,1840239774,3418782618,555281244
+dimwishlist:item=2821677368&perks=106909392,1523832109,2319119708,839105230
+dimwishlist:item=2821677368&perks=106909392,1523832109,1840239774,2319119708
+dimwishlist:item=2821677368&perks=1087426260,1523832109,2319119708,839105230
+dimwishlist:item=2821677368&perks=1087426260,1523832109,1840239774,2319119708
+dimwishlist:item=2821677368&perks=106909392,2319119708,3418782618,839105230
+dimwishlist:item=2821677368&perks=106909392,1840239774,2319119708,3418782618
+dimwishlist:item=2821677368&perks=1087426260,2319119708,3418782618,839105230
+dimwishlist:item=2821677368&perks=1087426260,1840239774,2319119708,3418782618
+
+// The Call (First-choice PvE)
+// (Quick Launch, Volatile Launch, Linear Compensator), (Tactical Mag, High-Velocity Rounds, High-Explosive Ordnance), (Subsistence, Lead from Gold), One for All
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for Minor and Major add clearing in end-game content. Shapeable. The Call is the best weapon to come from the Pale Heart weapon set. There's only one other rocket-assisted frame, so there's not much to compare against, but the stats don't honestly matter. You'd normally look for velocity in a non-hitscan weapon, but there's an argument to be made for blast radius too so the barrel and mag perk choices depend on your preference (although be aware that High-Explosive Ordnance will reduce the base mag size to 9). This is going to one-hit kill red bars in most content, so Subsistence is a good choice to bypass reloading entirely, or Lead from Gold will help with the already good ammo economy in the first trait perk column. In the second, One for All can proc from AoE damage ticks - which is why you might want to focus on blast radius - for +35% bonus damage for 10s. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3947966653&perks=106909392,1556840489,3525010810,4049631843
+dimwishlist:item=3947966653&perks=106909392,1478423395,1556840489,4049631843
+dimwishlist:item=3947966653&perks=106909392,1441682018,1556840489,4049631843
+dimwishlist:item=3947966653&perks=1556840489,2822142346,3525010810,4049631843
+dimwishlist:item=3947966653&perks=1478423395,1556840489,2822142346,4049631843
+dimwishlist:item=3947966653&perks=1441682018,1556840489,2822142346,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1556840489,3525010810,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1478423395,1556840489,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1441682018,1556840489,4049631843
+dimwishlist:item=3947966653&perks=106909392,1820235745,3525010810,4049631843
+dimwishlist:item=3947966653&perks=106909392,1478423395,1820235745,4049631843
+dimwishlist:item=3947966653&perks=106909392,1441682018,1820235745,4049631843
+dimwishlist:item=3947966653&perks=1820235745,2822142346,3525010810,4049631843
+dimwishlist:item=3947966653&perks=1478423395,1820235745,2822142346,4049631843
+dimwishlist:item=3947966653&perks=1441682018,1820235745,2822142346,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1820235745,3525010810,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1478423395,1820235745,4049631843
+dimwishlist:item=3947966653&perks=1380253176,1441682018,1820235745,4049631843
+
+// The Call (First-choice PvE)
+// (Quick Launch, Volatile Launch, Linear Compensator), (Tactical Mag, High-Velocity Rounds), Demolitionist, (Adrenaline Junkie, Desperate Measures)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for Minor and Major add clearing in end-game content. Shapeable. The Call is the best weapon to come from the Pale Heart weapon set. There's only one other rocket-assisted frame, so there's not much to compare against, but the stats don't honestly matter. You'd normally look for velocity in a non-hitscan weapon, but there's an argument to be made for blast radius too so the barrel and mag perk choices depend on your preference. In the first trait perk column, Demolitionist boosts grenade energy on kills, which you can pair with the traditional Adrenaline Junkie for +33% damage or Desperate Measures (which is easy to proc with Prismatic) for up to +30% in the second column. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3947966653&perks=106909392,11612903,3523296417,3525010810
+dimwishlist:item=3947966653&perks=106909392,11612903,1478423395,3523296417
+dimwishlist:item=3947966653&perks=106909392,11612903,1441682018,3523296417
+dimwishlist:item=3947966653&perks=11612903,2822142346,3523296417,3525010810
+dimwishlist:item=3947966653&perks=11612903,1478423395,2822142346,3523296417
+dimwishlist:item=3947966653&perks=11612903,1441682018,2822142346,3523296417
+dimwishlist:item=3947966653&perks=106909392,2109543898,3523296417,3525010810
+dimwishlist:item=3947966653&perks=106909392,1478423395,2109543898,3523296417
+dimwishlist:item=3947966653&perks=106909392,1441682018,2109543898,3523296417
+dimwishlist:item=3947966653&perks=2109543898,2822142346,3523296417,3525010810
+dimwishlist:item=3947966653&perks=1478423395,2109543898,2822142346,3523296417
+dimwishlist:item=3947966653&perks=1441682018,2109543898,2822142346,3523296417
+
+// The Call (First-choice PvE)
+// (Quick Launch, Volatile Launch, Linear Compensator), (Tactical Mag, High-Velocity Rounds), Slice, Vorpal Weapon
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for a Bait and Switch rotation for sustained boss DPS in end-game content. Shapeable. The Call is the best weapon to come from the Pale Heart weapon set. There's only one other rocket-assisted frame, so there's not much to compare against, but the stats don't honestly matter. You'd normally look for velocity in a non-hitscan weapon, but there's an argument to be made for blast radius too so the barrel and mag perk choices depend on your preference. As a niche roll in a boss fight, a Hunter could include this in a Bait and Switch weapon rotation, dodging to reload a power weapon, swapping and then applying Slice as the first trait column perk to reduce boss damage output. You're not going to be getting a damage boost from any other source in the middle of a damage phase, so Vorpal Weapon in the second column at least gives you +15% damage just for firing at a boss. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3947966653&perks=106909392,1546637391,3525010810,923806249
+dimwishlist:item=3947966653&perks=106909392,1478423395,1546637391,923806249
+dimwishlist:item=3947966653&perks=106909392,1441682018,1546637391,923806249
+dimwishlist:item=3947966653&perks=1546637391,2822142346,3525010810,923806249
+dimwishlist:item=3947966653&perks=1478423395,1546637391,2822142346,923806249
+dimwishlist:item=3947966653&perks=1441682018,1546637391,2822142346,923806249
+
+// Someday (First-choice PvE)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, TacticalMag), (Threat Detector, Lead from Gold, Threat Remover), Reconstruction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for burst DPS against Majors and Champions in end-game content. Shapeable. Someday has in-band stats and is the only kinetic precision frame shotgun currently available. As per usual, Look for handling, or a touch of extra range (without any penalties) in the barrel pwek, and Assault Mag (or maybe Tactical Mag) in the magazine slot. As the support perk in the first trait column, Threat Detector and Lead for Gold are viable options, or the new Threat Remover looks interesting. Then in the second column, this is the only non-Raid shotgun, and the first pellet shotgun, that can roll with Reconstruction, which adds up to +100% damage to the next shot, ideal for tanky enemies. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Handling, with a Backup Mag or Quick Access Sling mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3232203524&perks=1300023272,4071163871,469285294,791862061
+dimwishlist:item=3232203524&perks=4071163871,4090651448,469285294,791862061
+dimwishlist:item=3232203524&perks=1482024992,4071163871,469285294,791862061
+dimwishlist:item=3232203524&perks=106909392,1300023272,4071163871,469285294
+dimwishlist:item=3232203524&perks=106909392,4071163871,4090651448,469285294
+dimwishlist:item=3232203524&perks=106909392,1482024992,4071163871,469285294
+dimwishlist:item=3232203524&perks=1300023272,1556840489,469285294,791862061
+dimwishlist:item=3232203524&perks=1556840489,4090651448,469285294,791862061
+dimwishlist:item=3232203524&perks=1482024992,1556840489,469285294,791862061
+dimwishlist:item=3232203524&perks=106909392,1300023272,1556840489,469285294
+dimwishlist:item=3232203524&perks=106909392,1556840489,4090651448,469285294
+dimwishlist:item=3232203524&perks=106909392,1482024992,1556840489,469285294
+dimwishlist:item=3232203524&perks=1126264488,1300023272,469285294,791862061
+dimwishlist:item=3232203524&perks=1126264488,4090651448,469285294,791862061
+dimwishlist:item=3232203524&perks=1126264488,1482024992,469285294,791862061
+dimwishlist:item=3232203524&perks=106909392,1126264488,1300023272,469285294
+dimwishlist:item=3232203524&perks=106909392,1126264488,4090651448,469285294
+dimwishlist:item=3232203524&perks=106909392,1126264488,1482024992,469285294
+
+// Axial Lacuna (First-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Accelerated Coils, Enhanced Battery), Reconstruction, Controlled Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for backup DPS against Majors and Bosses in end-game content. Shapeable. If you don't already have a fusion rifle for backup DPS, Axial Lacuna is available and shapeable. If you're interested, a lacuna is a gap or blank space, so the name refers to something missing in the direction of an axis. Improve your handling with your barrel perk, and then with your battery, Accelerated Coils is probably the top choice, but there's also something to be said for the extra shots you'll get from Enhanced Battery. there's nothing better than Reconstruction in the first trait perk slot, doubling your battery's capacity for a damage phase. In the second trait slot, Controlled Burst is the go-to trait for bonus damage, both adding +20% damage and reducing charge time for just landing all your bolts. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Charge Time, with a Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3867373351&perks=1523832109,1840239774,2594592626,689005463
+dimwishlist:item=3867373351&perks=1523832109,2594592626,689005463,839105230
+dimwishlist:item=3867373351&perks=1523832109,2594592626,4090651448,689005463
+dimwishlist:item=3867373351&perks=1482024992,1523832109,2594592626,689005463
+dimwishlist:item=3867373351&perks=1523832109,1840239774,2594592626,2680121939
+dimwishlist:item=3867373351&perks=1523832109,2594592626,2680121939,839105230
+dimwishlist:item=3867373351&perks=1523832109,2594592626,2680121939,4090651448
+dimwishlist:item=3867373351&perks=1482024992,1523832109,2594592626,2680121939
+
+// Pro Memoria (First-choice PvE)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore), (Extended mag, Appended Mag, Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Envious Assassin, Reconstruction), (Target Lock, Bait and Switch)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for sustained DPS against Bosses in end-game content. Shapeable. Pro Memoria - which means "for memory" in Latin, and is also the name for a formal note embodying the written record of a diplomatic discussion - is the first in a new aggressive frame LMG subtype. It's described as "high damage", so should be good in a few different roles but with high recoil, look to the barrel perk to provide help with control and a little extra handling. As the magazine perk, for sustained boss damage, you'll want a perk that increases mag size or possibly helps a little more with recoil control. For sustained damage, in the first trait perk column, choose between Reconstruction for an effortless overflowed mag or Envious Assassin for a potentially bigger overflowed mag that needs add kills. In the second column, Target Lock or Bait and Switch (although the swap speed isn't great) make the most of your bullets in a sustained boss DPS phase. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Handling or Stability, with a Backup Mag mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3605603507&perks=2420895100,365154968,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,2420895100,365154968,968510818
+dimwishlist:item=3605603507&perks=2420895100,365154968,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,2420895100,365154968,968510818
+dimwishlist:item=3605603507&perks=1392496348,2420895100,365154968,968510818
+dimwishlist:item=3605603507&perks=1087426260,365154968,839105230,968510818
+dimwishlist:item=3605603507&perks=1087426260,1840239774,365154968,968510818
+dimwishlist:item=3605603507&perks=1087426260,365154968,4090651448,968510818
+dimwishlist:item=3605603507&perks=1087426260,1482024992,365154968,968510818
+dimwishlist:item=3605603507&perks=1087426260,1392496348,365154968,968510818
+dimwishlist:item=3605603507&perks=1885400500,365154968,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1885400500,365154968,968510818
+dimwishlist:item=3605603507&perks=1885400500,365154968,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1885400500,365154968,968510818
+dimwishlist:item=3605603507&perks=1392496348,1885400500,365154968,968510818
+dimwishlist:item=3605603507&perks=1561002382,365154968,839105230,968510818
+dimwishlist:item=3605603507&perks=1561002382,1840239774,365154968,968510818
+dimwishlist:item=3605603507&perks=1561002382,365154968,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1561002382,365154968,968510818
+dimwishlist:item=3605603507&perks=1392496348,1561002382,365154968,968510818
+dimwishlist:item=3605603507&perks=1968497646,365154968,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1968497646,365154968,968510818
+dimwishlist:item=3605603507&perks=1968497646,365154968,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1968497646,365154968,968510818
+dimwishlist:item=3605603507&perks=1392496348,1968497646,365154968,968510818
+dimwishlist:item=3605603507&perks=1523832109,2420895100,365154968,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,2420895100,365154968
+dimwishlist:item=3605603507&perks=1523832109,2420895100,365154968,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,2420895100,365154968
+dimwishlist:item=3605603507&perks=1392496348,1523832109,2420895100,365154968
+dimwishlist:item=3605603507&perks=1087426260,1523832109,365154968,839105230
+dimwishlist:item=3605603507&perks=1087426260,1523832109,1840239774,365154968
+dimwishlist:item=3605603507&perks=1087426260,1523832109,365154968,4090651448
+dimwishlist:item=3605603507&perks=1087426260,1482024992,1523832109,365154968
+dimwishlist:item=3605603507&perks=1087426260,1392496348,1523832109,365154968
+dimwishlist:item=3605603507&perks=1523832109,1885400500,365154968,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1885400500,365154968
+dimwishlist:item=3605603507&perks=1523832109,1885400500,365154968,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1885400500,365154968
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1885400500,365154968
+dimwishlist:item=3605603507&perks=1523832109,1561002382,365154968,839105230
+dimwishlist:item=3605603507&perks=1523832109,1561002382,1840239774,365154968
+dimwishlist:item=3605603507&perks=1523832109,1561002382,365154968,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1561002382,365154968
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1561002382,365154968
+dimwishlist:item=3605603507&perks=1523832109,1968497646,365154968,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1968497646,365154968
+dimwishlist:item=3605603507&perks=1523832109,1968497646,365154968,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1968497646,365154968
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1968497646,365154968
+dimwishlist:item=3605603507&perks=2420895100,3078487919,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,2420895100,3078487919,968510818
+dimwishlist:item=3605603507&perks=2420895100,3078487919,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,2420895100,3078487919,968510818
+dimwishlist:item=3605603507&perks=1392496348,2420895100,3078487919,968510818
+dimwishlist:item=3605603507&perks=1087426260,3078487919,839105230,968510818
+dimwishlist:item=3605603507&perks=1087426260,1840239774,3078487919,968510818
+dimwishlist:item=3605603507&perks=1087426260,3078487919,4090651448,968510818
+dimwishlist:item=3605603507&perks=1087426260,1482024992,3078487919,968510818
+dimwishlist:item=3605603507&perks=1087426260,1392496348,3078487919,968510818
+dimwishlist:item=3605603507&perks=1885400500,3078487919,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3078487919,968510818
+dimwishlist:item=3605603507&perks=1885400500,3078487919,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1885400500,3078487919,968510818
+dimwishlist:item=3605603507&perks=1392496348,1885400500,3078487919,968510818
+dimwishlist:item=3605603507&perks=1561002382,3078487919,839105230,968510818
+dimwishlist:item=3605603507&perks=1561002382,1840239774,3078487919,968510818
+dimwishlist:item=3605603507&perks=1561002382,3078487919,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1561002382,3078487919,968510818
+dimwishlist:item=3605603507&perks=1392496348,1561002382,3078487919,968510818
+dimwishlist:item=3605603507&perks=1968497646,3078487919,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1968497646,3078487919,968510818
+dimwishlist:item=3605603507&perks=1968497646,3078487919,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1968497646,3078487919,968510818
+dimwishlist:item=3605603507&perks=1392496348,1968497646,3078487919,968510818
+dimwishlist:item=3605603507&perks=1523832109,2420895100,3078487919,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,2420895100,3078487919
+dimwishlist:item=3605603507&perks=1523832109,2420895100,3078487919,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,2420895100,3078487919
+dimwishlist:item=3605603507&perks=1392496348,1523832109,2420895100,3078487919
+dimwishlist:item=3605603507&perks=1087426260,1523832109,3078487919,839105230
+dimwishlist:item=3605603507&perks=1087426260,1523832109,1840239774,3078487919
+dimwishlist:item=3605603507&perks=1087426260,1523832109,3078487919,4090651448
+dimwishlist:item=3605603507&perks=1087426260,1482024992,1523832109,3078487919
+dimwishlist:item=3605603507&perks=1087426260,1392496348,1523832109,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1885400500,3078487919,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1885400500,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1885400500,3078487919,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1885400500,3078487919
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1885400500,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1561002382,3078487919,839105230
+dimwishlist:item=3605603507&perks=1523832109,1561002382,1840239774,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1561002382,3078487919,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1561002382,3078487919
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1561002382,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1968497646,3078487919,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1968497646,3078487919
+dimwishlist:item=3605603507&perks=1523832109,1968497646,3078487919,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1968497646,3078487919
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1968497646,3078487919
+
+// Pro Memoria (First-choice PvE)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Envious Assassin, Reconstruction, Demolitionist), (Desperate Measures, Collective Action, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing in end-game content. Shapeable. Pro Memoria - which means "for memory" in Latin, and is also the name for a formal note embodying the written record of a diplomatic discussion - is the first in a new aggressive frame LMG subtype. It's described as "high damage", so should be good in a few different roles but with high recoil, look to the 	 to provide help with control and a little extra handling. As the magazine perk, Ricichet Rounds helps a little more with recoil control, or you can use High-Caliber or Armor-Piercing Rounds for additional combat effects. As a "heavy scout rifle" for add clearing, it never hurts to have a bigger mag, so you can use Reconstruction or Envious Assassin in the first trait slot, and then Desperate Measures is easy to proc with Transcendent for up to +30% damage, you should be creating plenty of strand tangles to proc Collective Action's +20% damage, or Frenzy is a reliable +15% plus maxxed handling and reload speed. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Handling or Stability, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3605603507&perks=1523832109,1885400500,2109543898,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1885400500,2109543898
+dimwishlist:item=3605603507&perks=1523832109,1885400500,2109543898,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1885400500,2109543898
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1885400500,2109543898
+dimwishlist:item=3605603507&perks=1523832109,1561002382,2109543898,839105230
+dimwishlist:item=3605603507&perks=1523832109,1561002382,1840239774,2109543898
+dimwishlist:item=3605603507&perks=1523832109,1561002382,2109543898,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1561002382,2109543898
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1561002382,2109543898
+dimwishlist:item=3605603507&perks=1523832109,1968497646,2109543898,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1968497646,2109543898
+dimwishlist:item=3605603507&perks=1523832109,1968497646,2109543898,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1968497646,2109543898
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1968497646,2109543898
+dimwishlist:item=3605603507&perks=1885400500,2109543898,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1885400500,2109543898,968510818
+dimwishlist:item=3605603507&perks=1885400500,2109543898,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1885400500,2109543898,968510818
+dimwishlist:item=3605603507&perks=1392496348,1885400500,2109543898,968510818
+dimwishlist:item=3605603507&perks=1561002382,2109543898,839105230,968510818
+dimwishlist:item=3605603507&perks=1561002382,1840239774,2109543898,968510818
+dimwishlist:item=3605603507&perks=1561002382,2109543898,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1561002382,2109543898,968510818
+dimwishlist:item=3605603507&perks=1392496348,1561002382,2109543898,968510818
+dimwishlist:item=3605603507&perks=1968497646,2109543898,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1968497646,2109543898,968510818
+dimwishlist:item=3605603507&perks=1968497646,2109543898,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1968497646,2109543898,968510818
+dimwishlist:item=3605603507&perks=1392496348,1968497646,2109543898,968510818
+dimwishlist:item=3605603507&perks=1885400500,2109543898,3523296417,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1885400500,2109543898,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1885400500,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1885400500,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1561002382,2109543898,3523296417,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1561002382,2109543898,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1561002382,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1561002382,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1968497646,2109543898,3523296417,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1968497646,2109543898,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1968497646,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1968497646,2109543898,3523296417
+dimwishlist:item=3605603507&perks=1523832109,1885400500,4104185692,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1885400500,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1885400500,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1885400500,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1885400500,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1561002382,4104185692,839105230
+dimwishlist:item=3605603507&perks=1523832109,1561002382,1840239774,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1561002382,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1561002382,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1561002382,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1968497646,4104185692,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1968497646,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1968497646,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1968497646,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1968497646,4104185692
+dimwishlist:item=3605603507&perks=1885400500,4104185692,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1885400500,4104185692,968510818
+dimwishlist:item=3605603507&perks=1885400500,4090651448,4104185692,968510818
+dimwishlist:item=3605603507&perks=1482024992,1885400500,4104185692,968510818
+dimwishlist:item=3605603507&perks=1392496348,1885400500,4104185692,968510818
+dimwishlist:item=3605603507&perks=1561002382,4104185692,839105230,968510818
+dimwishlist:item=3605603507&perks=1561002382,1840239774,4104185692,968510818
+dimwishlist:item=3605603507&perks=1561002382,4090651448,4104185692,968510818
+dimwishlist:item=3605603507&perks=1482024992,1561002382,4104185692,968510818
+dimwishlist:item=3605603507&perks=1392496348,1561002382,4104185692,968510818
+dimwishlist:item=3605603507&perks=1968497646,4104185692,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1968497646,4104185692,968510818
+dimwishlist:item=3605603507&perks=1968497646,4090651448,4104185692,968510818
+dimwishlist:item=3605603507&perks=1482024992,1968497646,4104185692,968510818
+dimwishlist:item=3605603507&perks=1392496348,1968497646,4104185692,968510818
+dimwishlist:item=3605603507&perks=1885400500,3523296417,4104185692,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1885400500,3523296417,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1885400500,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1885400500,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1561002382,3523296417,4104185692,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1561002382,3523296417,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1561002382,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1561002382,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1968497646,3523296417,4104185692,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1968497646,3523296417,4090651448,4104185692
+dimwishlist:item=3605603507&perks=1482024992,1968497646,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1392496348,1968497646,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1523832109,1885400500,3324494224,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1885400500,3324494224
+dimwishlist:item=3605603507&perks=1523832109,1885400500,3324494224,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1885400500,3324494224
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1885400500,3324494224
+dimwishlist:item=3605603507&perks=1523832109,1561002382,3324494224,839105230
+dimwishlist:item=3605603507&perks=1523832109,1561002382,1840239774,3324494224
+dimwishlist:item=3605603507&perks=1523832109,1561002382,3324494224,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1561002382,3324494224
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1561002382,3324494224
+dimwishlist:item=3605603507&perks=1523832109,1968497646,3324494224,839105230
+dimwishlist:item=3605603507&perks=1523832109,1840239774,1968497646,3324494224
+dimwishlist:item=3605603507&perks=1523832109,1968497646,3324494224,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1523832109,1968497646,3324494224
+dimwishlist:item=3605603507&perks=1392496348,1523832109,1968497646,3324494224
+dimwishlist:item=3605603507&perks=1885400500,3324494224,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3324494224,968510818
+dimwishlist:item=3605603507&perks=1885400500,3324494224,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1885400500,3324494224,968510818
+dimwishlist:item=3605603507&perks=1392496348,1885400500,3324494224,968510818
+dimwishlist:item=3605603507&perks=1561002382,3324494224,839105230,968510818
+dimwishlist:item=3605603507&perks=1561002382,1840239774,3324494224,968510818
+dimwishlist:item=3605603507&perks=1561002382,3324494224,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1561002382,3324494224,968510818
+dimwishlist:item=3605603507&perks=1392496348,1561002382,3324494224,968510818
+dimwishlist:item=3605603507&perks=1968497646,3324494224,839105230,968510818
+dimwishlist:item=3605603507&perks=1840239774,1968497646,3324494224,968510818
+dimwishlist:item=3605603507&perks=1968497646,3324494224,4090651448,968510818
+dimwishlist:item=3605603507&perks=1482024992,1968497646,3324494224,968510818
+dimwishlist:item=3605603507&perks=1392496348,1968497646,3324494224,968510818
+dimwishlist:item=3605603507&perks=1885400500,3324494224,3523296417,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1885400500,3324494224,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1885400500,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1885400500,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1561002382,3324494224,3523296417,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1561002382,3324494224,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1561002382,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1561002382,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1968497646,3324494224,3523296417,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1968497646,3324494224,3523296417,4090651448
+dimwishlist:item=3605603507&perks=1482024992,1968497646,3324494224,3523296417
+dimwishlist:item=3605603507&perks=1392496348,1968497646,3324494224,3523296417
+
+// Pro Memoria (First-choice PvE)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), Hatchling, (Desperate Measures, Collective Action, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add-clearing in end-game content, particularly with Strand fragments. Shapeable. Pro Memoria - which means "for memory" in Latin, and is also the name for a formal note embodying the written record of a diplomatic discussion - is the first in a new aggressive frame LMG subtype. It's described as "high damage", so should be good in a few different roles but with high recoil, look to the barrel perk to provide help with control and a little extra handling. As the magazine perk, for sustained boss damage, you'll want a perk that increases mag size or possibly helps a little more with recoil control. As a "heavy scout rifle" to use with Strand fragments, you should be getting easy headshot add kills to spawn threadlings with the Hatchling trait perk in the first column. Then Desperate Measures is easy to proc with Transcendent for up to +30% damage, you should be creating plenty of strand tangles to proc Collective Action's +20% damage, or Frenzy is a reliable +15% plus maxxed handling and reload speed. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Stability or Handling, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3605603507&perks=1885400500,2109543898,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,2109543898,831391274
+dimwishlist:item=3605603507&perks=1885400500,2109543898,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1885400500,2109543898,831391274
+dimwishlist:item=3605603507&perks=1392496348,1885400500,2109543898,831391274
+dimwishlist:item=3605603507&perks=1561002382,2109543898,831391274,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,2109543898,831391274
+dimwishlist:item=3605603507&perks=1561002382,2109543898,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1561002382,2109543898,831391274
+dimwishlist:item=3605603507&perks=1392496348,1561002382,2109543898,831391274
+dimwishlist:item=3605603507&perks=1968497646,2109543898,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,2109543898,831391274
+dimwishlist:item=3605603507&perks=1968497646,2109543898,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1968497646,2109543898,831391274
+dimwishlist:item=3605603507&perks=1392496348,1968497646,2109543898,831391274
+dimwishlist:item=3605603507&perks=1885400500,4104185692,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,4104185692,831391274
+dimwishlist:item=3605603507&perks=1885400500,4090651448,4104185692,831391274
+dimwishlist:item=3605603507&perks=1482024992,1885400500,4104185692,831391274
+dimwishlist:item=3605603507&perks=1392496348,1885400500,4104185692,831391274
+dimwishlist:item=3605603507&perks=1561002382,4104185692,831391274,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,4104185692,831391274
+dimwishlist:item=3605603507&perks=1561002382,4090651448,4104185692,831391274
+dimwishlist:item=3605603507&perks=1482024992,1561002382,4104185692,831391274
+dimwishlist:item=3605603507&perks=1392496348,1561002382,4104185692,831391274
+dimwishlist:item=3605603507&perks=1968497646,4104185692,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,4104185692,831391274
+dimwishlist:item=3605603507&perks=1968497646,4090651448,4104185692,831391274
+dimwishlist:item=3605603507&perks=1482024992,1968497646,4104185692,831391274
+dimwishlist:item=3605603507&perks=1392496348,1968497646,4104185692,831391274
+dimwishlist:item=3605603507&perks=1885400500,3324494224,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3324494224,831391274
+dimwishlist:item=3605603507&perks=1885400500,3324494224,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1885400500,3324494224,831391274
+dimwishlist:item=3605603507&perks=1392496348,1885400500,3324494224,831391274
+dimwishlist:item=3605603507&perks=1561002382,3324494224,831391274,839105230
+dimwishlist:item=3605603507&perks=1561002382,1840239774,3324494224,831391274
+dimwishlist:item=3605603507&perks=1561002382,3324494224,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1561002382,3324494224,831391274
+dimwishlist:item=3605603507&perks=1392496348,1561002382,3324494224,831391274
+dimwishlist:item=3605603507&perks=1968497646,3324494224,831391274,839105230
+dimwishlist:item=3605603507&perks=1840239774,1968497646,3324494224,831391274
+dimwishlist:item=3605603507&perks=1968497646,3324494224,4090651448,831391274
+dimwishlist:item=3605603507&perks=1482024992,1968497646,3324494224,831391274
+dimwishlist:item=3605603507&perks=1392496348,1968497646,3324494224,831391274
+
+// False Idols (First-choice PvE)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, (Bait and Switch, Surrounded)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for sustained Boss damage in end-game content. Shapeable. False Idols is the latest vortex frame sword, and as all swords have pretty much the same stats, this is definitely in-band. Like all vortex frames, it's not currently good for boss damage with the cost/benefit of the spin-to-win heavy attack but if you want to save one for a possible future buff, start with a blade perk that boosts damage. In the guard perk slot, Swordmaster's Guard just buffs a little bit of everything. Then, in the first trait perk slot, Relentless Strikes passively returns ammo on hits while, in the second, Bait and Switch adds +30% damage when procced, or in the right circumstances, Surrounded adds +35% damage (+41.75% when enhanced). The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Impact, with a Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4207120603&perks=1749209109,269888150,3078487919,3666208348
+dimwishlist:item=4207120603&perks=1749209109,269888150,2827049491,3078487919
+dimwishlist:item=4207120603&perks=1749209109,269888150,3078487919,938542991
+dimwishlist:item=4207120603&perks=1749209109,269888150,3666208348,3708227201
+dimwishlist:item=4207120603&perks=1749209109,269888150,2827049491,3708227201
+dimwishlist:item=4207120603&perks=1749209109,269888150,3708227201,938542991
+
+// False Idols (First-choice PvE)
+// (Enduring Blade, Hungry Edge, Tempered Edge), Swordmaster's Guard, Incandescent, (Chain Reaction, One for All)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add clearing in end-game content, particularly with solar fragments. False Idols is the latest vortex frame sword, and as all swords have pretty much the same stats, this is definitely in-band. Shapeable. Like all vortex frames, it's not currently good for boss damage with the cost/benefit of the spin-to-win heavy attack but if you want to save one for a possible future buff, start with a blade perk that boosts ammo count. In the guard perk slot, Swordmaster's Guard just buffs a little bit of everything. Then, in the first trait perk slot, Incandescent is very good a clearing crowds, particularly with solar fragments that use scorch or ignite, and then Chain Reaction, while not great for damage with the poor sword damage multiplier, can spread scorch and soften up add-dense crowds, or One for All can boost damage by +35% for dealing with a smaller number of beefier enemies. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Impact, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4207120603&perks=1261178282,2396489472,269888150,4293542123
+dimwishlist:item=4207120603&perks=2396489472,269888150,4293542123,436053704
+dimwishlist:item=4207120603&perks=2396489472,269888150,4293542123,938542991
+dimwishlist:item=4207120603&perks=1261178282,269888150,4049631843,4293542123
+dimwishlist:item=4207120603&perks=269888150,4049631843,4293542123,436053704
+dimwishlist:item=4207120603&perks=269888150,4049631843,4293542123,938542991
+
+// False Idols (First-choice PvE)
+// (Enduring Blade, Hungry Edge, Tempered Edge), Swordmaster's Guard, Relentless, (Chain Reaction, One for All)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 106 from 18 June 2024 (https://open.spotify.com/episode/0GYlriUxhFqNHGLqb84C1G?si=bb5a2c9b339d4c35) with @ImpetusAlways, @CourtProjects and @Saint_Kabr. First-choice PvE pick for add clearing in end-game content, particularly with solar fragments. False Idols is the latest vortex frame sword, and as all swords have pretty much the same stats, this is definitely in-band. Shapeable. Like all vortex frames, it's not currently good for boss damage with the cost/benefit of the spin-to-win heavy attack but if you want to save one for a possible future buff, start with a blade perk that boosts ammo count. In the guard perk slot, Swordmaster's Guard just buffs a little bit of everything. In the first trait perk slot Relentless, particularly with solar fragments that bolster restoration, can keep you alive in CQC fight. Then, in the second slot, Chain Reaction, while not great for damage with the poor sword damage multiplier, can soften up add-dense crowds, or One for All can boost damage by +35% for dealing with a smaller number of beefier enemies. The Dealer's Choice origin trait is nice to have (who doesn't love more super energy?) - with two or three Pale Heart weapons, you'll notice the difference! Recommended MW: Impact, with a Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4207120603&perks=1261178282,2396489472,269888150,3108830275
+dimwishlist:item=4207120603&perks=2396489472,269888150,3108830275,436053704
+dimwishlist:item=4207120603&perks=2396489472,269888150,3108830275,938542991
+dimwishlist:item=4207120603&perks=1261178282,269888150,3108830275,4049631843
+dimwishlist:item=4207120603&perks=269888150,3108830275,4049631843,436053704
+dimwishlist:item=4207120603&perks=269888150,3108830275,4049631843,938542991
+
+// Midnight Coup (Shiny) (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Explosive Payload, (Kinetic Tremors, One for All, Frenzy, Desperate Measures)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. It's not often you get access to two damage boost traits that don't need a weapon kill to proc, so take advantage of Explosive Payload in the first column, and then Kinetic Tremors (which is strong on hand cannons against majors and minors), One for All, Frenzy or Desperate Measures to help tear through adds. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=2763843898&perks=106909392,3038247973,3891536761,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3038247973,3891536761
-dimwishlist:item=2763843898&perks=106909392,1392496348,3038247973,3891536761
-dimwishlist:item=2763843898&perks=106909392,1840239774,3038247973,3891536761
-dimwishlist:item=2763843898&perks=3038247973,3230963543,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3230963543,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3230963543,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3230963543,3891536761
-dimwishlist:item=2763843898&perks=3038247973,3177308360,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3177308360,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3177308360,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3177308360,3891536761
-dimwishlist:item=2763843898&perks=106909392,3038247973,4049631843,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3038247973,4049631843
-dimwishlist:item=2763843898&perks=106909392,1392496348,3038247973,4049631843
-dimwishlist:item=2763843898&perks=106909392,1840239774,3038247973,4049631843
-dimwishlist:item=2763843898&perks=3038247973,3230963543,4049631843,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3230963543,4049631843
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3230963543,4049631843
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3230963543,4049631843
-dimwishlist:item=2763843898&perks=3038247973,3177308360,4049631843,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3177308360,4049631843
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3177308360,4049631843
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3177308360,4049631843
-dimwishlist:item=2763843898&perks=106909392,3038247973,4104185692,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3038247973,4104185692
-dimwishlist:item=2763843898&perks=106909392,1392496348,3038247973,4104185692
-dimwishlist:item=2763843898&perks=106909392,1840239774,3038247973,4104185692
-dimwishlist:item=2763843898&perks=3038247973,3230963543,4104185692,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3230963543,4104185692
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3230963543,4104185692
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3230963543,4104185692
-dimwishlist:item=2763843898&perks=3038247973,3177308360,4104185692,839105230
-dimwishlist:item=2763843898&perks=1482024992,3038247973,3177308360,4104185692
-dimwishlist:item=2763843898&perks=1392496348,3038247973,3177308360,4104185692
-dimwishlist:item=2763843898&perks=1840239774,3038247973,3177308360,4104185692
-dimwishlist:item=2763843898&perks=106909392,2109543898,3038247973,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,2109543898,3038247973
-dimwishlist:item=2763843898&perks=106909392,1392496348,2109543898,3038247973
-dimwishlist:item=2763843898&perks=106909392,1840239774,2109543898,3038247973
-dimwishlist:item=2763843898&perks=2109543898,3038247973,3230963543,839105230
-dimwishlist:item=2763843898&perks=1482024992,2109543898,3038247973,3230963543
-dimwishlist:item=2763843898&perks=1392496348,2109543898,3038247973,3230963543
-dimwishlist:item=2763843898&perks=1840239774,2109543898,3038247973,3230963543
-dimwishlist:item=2763843898&perks=2109543898,3038247973,3177308360,839105230
-dimwishlist:item=2763843898&perks=1482024992,2109543898,3038247973,3177308360
-dimwishlist:item=2763843898&perks=1392496348,2109543898,3038247973,3177308360
-dimwishlist:item=2763843898&perks=1840239774,2109543898,3038247973,3177308360
+dimwishlist:item=2499720827&perks=106909392,3038247973,3891536761,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3038247973,3891536761
+dimwishlist:item=2499720827&perks=106909392,1392496348,3038247973,3891536761
+dimwishlist:item=2499720827&perks=106909392,1840239774,3038247973,3891536761
+dimwishlist:item=2499720827&perks=3038247973,3230963543,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3230963543,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3230963543,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3230963543,3891536761
+dimwishlist:item=2499720827&perks=3038247973,3177308360,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3177308360,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3177308360,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3177308360,3891536761
+dimwishlist:item=2499720827&perks=106909392,3038247973,4049631843,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3038247973,4049631843
+dimwishlist:item=2499720827&perks=106909392,1392496348,3038247973,4049631843
+dimwishlist:item=2499720827&perks=106909392,1840239774,3038247973,4049631843
+dimwishlist:item=2499720827&perks=3038247973,3230963543,4049631843,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3230963543,4049631843
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3230963543,4049631843
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3230963543,4049631843
+dimwishlist:item=2499720827&perks=3038247973,3177308360,4049631843,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3177308360,4049631843
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3177308360,4049631843
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3177308360,4049631843
+dimwishlist:item=2499720827&perks=106909392,3038247973,4104185692,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3038247973,4104185692
+dimwishlist:item=2499720827&perks=106909392,1392496348,3038247973,4104185692
+dimwishlist:item=2499720827&perks=106909392,1840239774,3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,3230963543,4104185692,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3230963543,4104185692
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3230963543,4104185692
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3230963543,4104185692
+dimwishlist:item=2499720827&perks=3038247973,3177308360,4104185692,839105230
+dimwishlist:item=2499720827&perks=1482024992,3038247973,3177308360,4104185692
+dimwishlist:item=2499720827&perks=1392496348,3038247973,3177308360,4104185692
+dimwishlist:item=2499720827&perks=1840239774,3038247973,3177308360,4104185692
+dimwishlist:item=2499720827&perks=106909392,2109543898,3038247973,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,2109543898,3038247973
+dimwishlist:item=2499720827&perks=106909392,1392496348,2109543898,3038247973
+dimwishlist:item=2499720827&perks=106909392,1840239774,2109543898,3038247973
+dimwishlist:item=2499720827&perks=2109543898,3038247973,3230963543,839105230
+dimwishlist:item=2499720827&perks=1482024992,2109543898,3038247973,3230963543
+dimwishlist:item=2499720827&perks=1392496348,2109543898,3038247973,3230963543
+dimwishlist:item=2499720827&perks=1840239774,2109543898,3038247973,3230963543
+dimwishlist:item=2499720827&perks=2109543898,3038247973,3177308360,839105230
+dimwishlist:item=2499720827&perks=1482024992,2109543898,3038247973,3177308360
+dimwishlist:item=2499720827&perks=1392496348,2109543898,3038247973,3177308360
+dimwishlist:item=2499720827&perks=1840239774,2109543898,3038247973,3177308360
 
-// Midnight Coup (PvE first-choice roll)
+// Midnight Coup (Shiny) (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Shoot to Loot, Kinetic Tremors
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For end-game content, where running out to pick up ammo could be a death sentence, Shoot to Loot can be a godsend, particularly when paired with Kinetic Tremors, which will pick up blocks and orbs in its AoE radius when procced, and is strong on hand cannons against majors and minors anyway. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=2763843898&perks=106909392,3700496672,3891536761,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3700496672,3891536761
-dimwishlist:item=2763843898&perks=106909392,1392496348,3700496672,3891536761
-dimwishlist:item=2763843898&perks=106909392,1840239774,3700496672,3891536761
-dimwishlist:item=2763843898&perks=3230963543,3700496672,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3230963543,3700496672,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3230963543,3700496672,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3230963543,3700496672,3891536761
-dimwishlist:item=2763843898&perks=3177308360,3700496672,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3177308360,3700496672,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3177308360,3700496672,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3177308360,3700496672,3891536761
+dimwishlist:item=2499720827&perks=106909392,3700496672,3891536761,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3700496672,3891536761
+dimwishlist:item=2499720827&perks=106909392,1392496348,3700496672,3891536761
+dimwishlist:item=2499720827&perks=106909392,1840239774,3700496672,3891536761
+dimwishlist:item=2499720827&perks=3230963543,3700496672,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2499720827&perks=3177308360,3700496672,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3177308360,3700496672,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3177308360,3700496672,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3177308360,3700496672,3891536761
 
-// Midnight Coup (PvE first-choice roll)
+// Midnight Coup (Shiny) (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Dragonfly, One for All
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in general content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For general content, you can get access to two damage traits - Firefly in the first column for the AoE crit kill explosion (and a reload speed boost). The AoE damage against nearby adds will help proc One for All in the second column to help tear through adds. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
-dimwishlist:item=2763843898&perks=106909392,3824105627,4049631843,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3824105627,4049631843
-dimwishlist:item=2763843898&perks=106909392,1392496348,3824105627,4049631843
-dimwishlist:item=2763843898&perks=106909392,1840239774,3824105627,4049631843
-dimwishlist:item=2763843898&perks=3230963543,3824105627,4049631843,839105230
-dimwishlist:item=2763843898&perks=1482024992,3230963543,3824105627,4049631843
-dimwishlist:item=2763843898&perks=1392496348,3230963543,3824105627,4049631843
-dimwishlist:item=2763843898&perks=1840239774,3230963543,3824105627,4049631843
-dimwishlist:item=2763843898&perks=3177308360,3824105627,4049631843,839105230
-dimwishlist:item=2763843898&perks=1482024992,3177308360,3824105627,4049631843
-dimwishlist:item=2763843898&perks=1392496348,3177308360,3824105627,4049631843
-dimwishlist:item=2763843898&perks=1840239774,3177308360,3824105627,4049631843
-dimwishlist:item=2763843898&perks=106909392,3824105627,3891536761,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3824105627,3891536761
-dimwishlist:item=2763843898&perks=106909392,1392496348,3824105627,3891536761
-dimwishlist:item=2763843898&perks=106909392,1840239774,3824105627,3891536761
-dimwishlist:item=2763843898&perks=3230963543,3824105627,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3230963543,3824105627,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3230963543,3824105627,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3230963543,3824105627,3891536761
-dimwishlist:item=2763843898&perks=3177308360,3824105627,3891536761,839105230
-dimwishlist:item=2763843898&perks=1482024992,3177308360,3824105627,3891536761
-dimwishlist:item=2763843898&perks=1392496348,3177308360,3824105627,3891536761
-dimwishlist:item=2763843898&perks=1840239774,3177308360,3824105627,3891536761
-dimwishlist:item=2763843898&perks=106909392,3824105627,4104185692,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,3824105627,4104185692
-dimwishlist:item=2763843898&perks=106909392,1392496348,3824105627,4104185692
-dimwishlist:item=2763843898&perks=106909392,1840239774,3824105627,4104185692
-dimwishlist:item=2763843898&perks=3230963543,3824105627,4104185692,839105230
-dimwishlist:item=2763843898&perks=1482024992,3230963543,3824105627,4104185692
-dimwishlist:item=2763843898&perks=1392496348,3230963543,3824105627,4104185692
-dimwishlist:item=2763843898&perks=1840239774,3230963543,3824105627,4104185692
-dimwishlist:item=2763843898&perks=3177308360,3824105627,4104185692,839105230
-dimwishlist:item=2763843898&perks=1482024992,3177308360,3824105627,4104185692
-dimwishlist:item=2763843898&perks=1392496348,3177308360,3824105627,4104185692
-dimwishlist:item=2763843898&perks=1840239774,3177308360,3824105627,4104185692
-dimwishlist:item=2763843898&perks=106909392,2109543898,3824105627,839105230
-dimwishlist:item=2763843898&perks=106909392,1482024992,2109543898,3824105627
-dimwishlist:item=2763843898&perks=106909392,1392496348,2109543898,3824105627
-dimwishlist:item=2763843898&perks=106909392,1840239774,2109543898,3824105627
-dimwishlist:item=2763843898&perks=2109543898,3230963543,3824105627,839105230
-dimwishlist:item=2763843898&perks=1482024992,2109543898,3230963543,3824105627
-dimwishlist:item=2763843898&perks=1392496348,2109543898,3230963543,3824105627
-dimwishlist:item=2763843898&perks=1840239774,2109543898,3230963543,3824105627
-dimwishlist:item=2763843898&perks=2109543898,3177308360,3824105627,839105230
-dimwishlist:item=2763843898&perks=1482024992,2109543898,3177308360,3824105627
-dimwishlist:item=2763843898&perks=1392496348,2109543898,3177308360,3824105627
-dimwishlist:item=2763843898&perks=1840239774,2109543898,3177308360,3824105627
+dimwishlist:item=2499720827&perks=106909392,3824105627,4049631843,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3824105627,4049631843
+dimwishlist:item=2499720827&perks=106909392,1392496348,3824105627,4049631843
+dimwishlist:item=2499720827&perks=106909392,1840239774,3824105627,4049631843
+dimwishlist:item=2499720827&perks=3230963543,3824105627,4049631843,839105230
+dimwishlist:item=2499720827&perks=1482024992,3230963543,3824105627,4049631843
+dimwishlist:item=2499720827&perks=1392496348,3230963543,3824105627,4049631843
+dimwishlist:item=2499720827&perks=1840239774,3230963543,3824105627,4049631843
+dimwishlist:item=2499720827&perks=3177308360,3824105627,4049631843,839105230
+dimwishlist:item=2499720827&perks=1482024992,3177308360,3824105627,4049631843
+dimwishlist:item=2499720827&perks=1392496348,3177308360,3824105627,4049631843
+dimwishlist:item=2499720827&perks=1840239774,3177308360,3824105627,4049631843
+dimwishlist:item=2499720827&perks=106909392,3824105627,3891536761,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3824105627,3891536761
+dimwishlist:item=2499720827&perks=106909392,1392496348,3824105627,3891536761
+dimwishlist:item=2499720827&perks=106909392,1840239774,3824105627,3891536761
+dimwishlist:item=2499720827&perks=3230963543,3824105627,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3230963543,3824105627,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3230963543,3824105627,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3230963543,3824105627,3891536761
+dimwishlist:item=2499720827&perks=3177308360,3824105627,3891536761,839105230
+dimwishlist:item=2499720827&perks=1482024992,3177308360,3824105627,3891536761
+dimwishlist:item=2499720827&perks=1392496348,3177308360,3824105627,3891536761
+dimwishlist:item=2499720827&perks=1840239774,3177308360,3824105627,3891536761
+dimwishlist:item=2499720827&perks=106909392,3824105627,4104185692,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,3824105627,4104185692
+dimwishlist:item=2499720827&perks=106909392,1392496348,3824105627,4104185692
+dimwishlist:item=2499720827&perks=106909392,1840239774,3824105627,4104185692
+dimwishlist:item=2499720827&perks=3230963543,3824105627,4104185692,839105230
+dimwishlist:item=2499720827&perks=1482024992,3230963543,3824105627,4104185692
+dimwishlist:item=2499720827&perks=1392496348,3230963543,3824105627,4104185692
+dimwishlist:item=2499720827&perks=1840239774,3230963543,3824105627,4104185692
+dimwishlist:item=2499720827&perks=3177308360,3824105627,4104185692,839105230
+dimwishlist:item=2499720827&perks=1482024992,3177308360,3824105627,4104185692
+dimwishlist:item=2499720827&perks=1392496348,3177308360,3824105627,4104185692
+dimwishlist:item=2499720827&perks=1840239774,3177308360,3824105627,4104185692
+dimwishlist:item=2499720827&perks=106909392,2109543898,3824105627,839105230
+dimwishlist:item=2499720827&perks=106909392,1482024992,2109543898,3824105627
+dimwishlist:item=2499720827&perks=106909392,1392496348,2109543898,3824105627
+dimwishlist:item=2499720827&perks=106909392,1840239774,2109543898,3824105627
+dimwishlist:item=2499720827&perks=2109543898,3230963543,3824105627,839105230
+dimwishlist:item=2499720827&perks=1482024992,2109543898,3230963543,3824105627
+dimwishlist:item=2499720827&perks=1392496348,2109543898,3230963543,3824105627
+dimwishlist:item=2499720827&perks=1840239774,2109543898,3230963543,3824105627
+dimwishlist:item=2499720827&perks=2109543898,3177308360,3824105627,839105230
+dimwishlist:item=2499720827&perks=1482024992,2109543898,3177308360,3824105627
+dimwishlist:item=2499720827&perks=1392496348,2109543898,3177308360,3824105627
+dimwishlist:item=2499720827&perks=1840239774,2109543898,3177308360,3824105627
 
-// Blast Furnace (PvE first-choice roll)
+// Blast Furnace (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), Kinetic Tremors, (Frenzy, One For All, Desperate Measures)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Blast Furnace reappears with great stats as a well-rounded example of what is a pretty rare subfamily of Aggressive Burst frame pulse rifles, with a choice of barrels rather than the original's sights. The Rasmussen sight is decent (although you don't get any of the stat bonuses). The recoil is 65 at base, so vertical if a bit ragged - Handling is probably where to invest barrel park stats through Fluted Barrel or Arrowhead Brake. In the mag perk slot, Flared Magwell and Tactical Mag are both solid. It's not often you get the option of two damage traits - Kinetic Tremors takes 11 hits to proc - one less when enhanced - for AoE damage in the first column. In the second, you can't really go wrong with Frenzy, One For All or Desperate Measures for a more direct passive damage boost, that doesn't need a weapon kill. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=2372514508&perks=1840239774,3230963543,3891536761,4049631843
-dimwishlist:item=2372514508&perks=3230963543,3891536761,4049631843,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,3891536761,4049631843
-dimwishlist:item=2372514508&perks=106909392,3891536761,4049631843,839105230
-dimwishlist:item=2372514508&perks=1840239774,3230963543,3891536761,4104185692
-dimwishlist:item=2372514508&perks=3230963543,3891536761,4104185692,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,3891536761,4104185692
-dimwishlist:item=2372514508&perks=106909392,3891536761,4104185692,839105230
-dimwishlist:item=2372514508&perks=1840239774,2109543898,3230963543,3891536761
-dimwishlist:item=2372514508&perks=2109543898,3230963543,3891536761,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,2109543898,3891536761
-dimwishlist:item=2372514508&perks=106909392,2109543898,3891536761,839105230
+dimwishlist:item=2533990645&perks=1840239774,3230963543,3891536761,4049631843
+dimwishlist:item=2533990645&perks=3230963543,3891536761,4049631843,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,3891536761,4049631843
+dimwishlist:item=2533990645&perks=106909392,3891536761,4049631843,839105230
+dimwishlist:item=2533990645&perks=1840239774,3230963543,3891536761,4104185692
+dimwishlist:item=2533990645&perks=3230963543,3891536761,4104185692,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,3891536761,4104185692
+dimwishlist:item=2533990645&perks=106909392,3891536761,4104185692,839105230
+dimwishlist:item=2533990645&perks=1840239774,2109543898,3230963543,3891536761
+dimwishlist:item=2533990645&perks=2109543898,3230963543,3891536761,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,2109543898,3891536761
+dimwishlist:item=2533990645&perks=106909392,2109543898,3891536761,839105230
 
-// Blast Furnace (PvE first-choice roll)
+// Blast Furnace (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), Kinetic Tremors, Dragonfly
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in general content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Blast Furnace reappears with great stats as a well-rounded example of what is a pretty rare subfamily of Aggressive Burst frame pulse rifles, with a choice of barrels rather than the original's sights. The Rasmussen sight is decent (although you don't get any of the stat bonuses). The recoil is 65 at base, so vertical if a bit ragged - Handling is probably where to invest barrel park stats through Fluted Barrel or Arrowhead Brake. In the mag perk slot, Flared Magwell and Tactical Mag are both solid. It's not often you get the option of two AoE damage traits - Kinetic Tremors takes 11 hits to proc - one less when enhanced - and Dragonfly adds to the fun with a solar explosion and a reload boost on a crit kill. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
-dimwishlist:item=2372514508&perks=1840239774,3230963543,3824105627,3891536761
-dimwishlist:item=2372514508&perks=3230963543,3824105627,3891536761,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,3824105627,3891536761
-dimwishlist:item=2372514508&perks=106909392,3824105627,3891536761,839105230
+dimwishlist:item=2533990645&perks=1840239774,3230963543,3824105627,3891536761
+dimwishlist:item=2533990645&perks=3230963543,3824105627,3891536761,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,3824105627,3891536761
+dimwishlist:item=2533990645&perks=106909392,3824105627,3891536761,839105230
 
-// Blast Furnace (PvE backup roll)
+// Blast Furnace (Shiny) (PvE backup roll)
 // (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), Kinetic Tremors, Rapid Hit
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. Backup PvE pick for add-clearing Minor Spec enemies in general content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Blast Furnace reappears with great stats as a well-rounded example of what is a pretty rare subfamily of Aggressive Burst frame pulse rifles, with a choice of barrels rather than the original's sights. The Rasmussen sight is decent (although you don't get any of the stat bonuses). The recoil is 65 at base, so vertical if a bit ragged - Handling is probably where to invest barrel park stats through Fluted Barrel or Arrowhead Brake. In the mag perk slot, Flared Magwell and Tactical Mag are both solid. If you've not already got a Kinetic Tremors pulse rifle, this is your chance - and will take one hit less to proc when enhanced. Rapid Hit in the second trait perk column adds useful stability and reload speed to improve overall gunfeel. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
-dimwishlist:item=2372514508&perks=1840239774,247725512,3230963543,3891536761
-dimwishlist:item=2372514508&perks=247725512,3230963543,3891536761,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,247725512,3891536761
-dimwishlist:item=2372514508&perks=106909392,247725512,3891536761,839105230
+dimwishlist:item=2533990645&perks=1840239774,247725512,3230963543,3891536761
+dimwishlist:item=2533990645&perks=247725512,3230963543,3891536761,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,247725512,3891536761
+dimwishlist:item=2533990645&perks=106909392,247725512,3891536761,839105230
 
-// Blast Furnace (PvE first-choice roll)
+// Blast Furnace (Shiny) (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Shoot to Loot, (Frenzy, One For All, Desperate Measures)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Blast Furnace reappears with great stats as a well-rounded example of what is a pretty rare subfamily of Aggressive Burst frame pulse rifles, with a choice of barrels rather than the original's sights. The Rasmussen sight is decent (although you don't get any of the stat bonuses). The recoil is 65 at base, so vertical if a bit ragged - Handling is probably where to invest barrel park stats through Fluted Barrel or Arrowhead Brake. In the mag perk slot, Flared Magwell and Tactical Mag are both solid. For end-game content, Shoot to Loot can be very useful to collect ammo and orbs without putting yourself at risk. Pair that with Frenzy, One For All or Desperate Measures for a passive damage boost that doesn't need a weapon kill to proc, and you've got a solid pulse rifle option. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=2372514508&perks=1840239774,3230963543,3700496672,4049631843
-dimwishlist:item=2372514508&perks=3230963543,3700496672,4049631843,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,3700496672,4049631843
-dimwishlist:item=2372514508&perks=106909392,3700496672,4049631843,839105230
-dimwishlist:item=2372514508&perks=1840239774,3230963543,3700496672,4104185692
-dimwishlist:item=2372514508&perks=3230963543,3700496672,4104185692,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,3700496672,4104185692
-dimwishlist:item=2372514508&perks=106909392,3700496672,4104185692,839105230
-dimwishlist:item=2372514508&perks=1840239774,2109543898,3230963543,3700496672
-dimwishlist:item=2372514508&perks=2109543898,3230963543,3700496672,839105230
-dimwishlist:item=2372514508&perks=106909392,1840239774,2109543898,3700496672
-dimwishlist:item=2372514508&perks=106909392,2109543898,3700496672,839105230
+dimwishlist:item=2533990645&perks=1840239774,3230963543,3700496672,4049631843
+dimwishlist:item=2533990645&perks=3230963543,3700496672,4049631843,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,3700496672,4049631843
+dimwishlist:item=2533990645&perks=106909392,3700496672,4049631843,839105230
+dimwishlist:item=2533990645&perks=1840239774,3230963543,3700496672,4104185692
+dimwishlist:item=2533990645&perks=3230963543,3700496672,4104185692,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,3700496672,4104185692
+dimwishlist:item=2533990645&perks=106909392,3700496672,4104185692,839105230
+dimwishlist:item=2533990645&perks=1840239774,2109543898,3230963543,3700496672
+dimwishlist:item=2533990645&perks=2109543898,3230963543,3700496672,839105230
+dimwishlist:item=2533990645&perks=106909392,1840239774,2109543898,3700496672
+dimwishlist:item=2533990645&perks=106909392,2109543898,3700496672,839105230
 
-// Luna's Howl (PvE first-choice roll)
+// Luna's Howl (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Corkscrew Rifling, Smallbore), (Flared Magwell, Light Mag), Heal Clip, Incandescent
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with a solar subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Luna's Howl was changed from a Precision to an Adaptive back in the day, so the stats do look weird in comparison to its peers - it's stable and easy to use, but might feel strange if you're used to traditional 140 HCs. Take a barrel perk that gives you a little bit of everything to round things out - Corkscrew, Smallbore or Fluted. For the mag perk, you want the reload as snappy as possible - Flared Magwell has the biggest boost, with Light Mag a close second. There's really only one trait perk combination to search for - Heal Clip (hence the need for reload speed) and Incandescent. Great anyway, but even better when synergising with solar fragments. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=2763843899&perks=1840239774,3017780555,3230963543,4293542123
-dimwishlist:item=2763843899&perks=3017780555,3230963543,4090651448,4293542123
-dimwishlist:item=2763843899&perks=1482024992,3017780555,3230963543,4293542123
-dimwishlist:item=2763843899&perks=1840239774,3017780555,4293542123,679225683
-dimwishlist:item=2763843899&perks=3017780555,4090651448,4293542123,679225683
-dimwishlist:item=2763843899&perks=1482024992,3017780555,4293542123,679225683
+dimwishlist:item=3757612024&perks=1840239774,3017780555,3230963543,4293542123
+dimwishlist:item=3757612024&perks=3017780555,3230963543,4090651448,4293542123
+dimwishlist:item=3757612024&perks=1482024992,3017780555,3230963543,4293542123
+dimwishlist:item=3757612024&perks=1840239774,3017780555,4293542123,679225683
+dimwishlist:item=3757612024&perks=3017780555,4090651448,4293542123,679225683
+dimwishlist:item=3757612024&perks=1482024992,3017780555,4293542123,679225683
 
-// Forbearance (PvE first-choice roll)
+// Forbearance (Shiny) (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Countermass), High-Velocity Rounds, Ambitious Assassin, Chain Reaction
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. If you already have a shaped Forbearance from Vow of the Disciple, you can move along. If not, it's the current best-in-subfamily for stats. The most popular roll of a barrel perk that boosts handling and velocity, with High-Velocity Rounds in the magazine paired with Ambitious Assassin and Chain Reaction has been the add-clearing wave-frame of choice for the last few seasons, and should still be good even after the planned CR nerf. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611921&perks=2010801679,2396489472,2822142346,3525010810
-dimwishlist:item=568611921&perks=2010801679,2396489472,2822142346,3798852852
-dimwishlist:item=568611921&perks=2010801679,2396489472,2822142346,3809316345
+dimwishlist:item=2480074702&perks=2010801679,2396489472,2822142346,3525010810
+dimwishlist:item=2480074702&perks=2010801679,2396489472,2822142346,3798852852
+dimwishlist:item=2480074702&perks=2010801679,2396489472,2822142346,3809316345
 
-// Forbearance (PvE first-choice roll)
+// Forbearance (Shiny) (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Countermass), High-Velocity Rounds, Unrelenting, Chain Reaction
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. If you already have a shaped Forbearance from Vow of the Disciple, you can move along. If not, it's the current best-in-subfamily for stats. As with most wave-frames, you're looking for a barrel perk that boosts handling and velocity, with High-Velocity Rounds in the magazine. For CQC survivability, Unrelenting paired with Chain Reaction will help keep your health topped up in a crowd of adds, and should still be good even after the planned CR nerf. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611921&perks=2396489472,2822142346,3108830275,3525010810
-dimwishlist:item=568611921&perks=2396489472,2822142346,3108830275,3798852852
-dimwishlist:item=568611921&perks=2396489472,2822142346,3108830275,3809316345
+dimwishlist:item=2480074702&perks=2396489472,2822142346,3108830275,3525010810
+dimwishlist:item=2480074702&perks=2396489472,2822142346,3108830275,3798852852
+dimwishlist:item=2480074702&perks=2396489472,2822142346,3108830275,3809316345
 
-// Forbearance (PvE first-choice roll)
+// Forbearance (Shiny) (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Countermass), High-Velocity Rounds, Demolitionist, Wellspring
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with an arc subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Forbearance is the current best-in-subfamily for stats, and has a few new tricks with the revised trait perks. As with most wave-frames, you're looking for a barrel perk that boosts handling and velocity, with High-Velocity Rounds in the magazine. For CQC survivability, For the traits, Demolitionist and Wellspring together with the Indomitability origin trait all work together to generate grenade energy, but particularly with an arc subclass, so you can Jolt targets with a grenade, start collecting Ionic Traces to become amplified and then blind crowds, using a combination of Sparks of Shock, Ions/Discharge and Beacons. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611921&perks=2822142346,3523296417,3525010810,3592538738
-dimwishlist:item=568611921&perks=2822142346,3523296417,3592538738,3798852852
-dimwishlist:item=568611921&perks=2822142346,3523296417,3592538738,3809316345
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3525010810,3592538738
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3592538738,3798852852
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3592538738,3809316345
 
-// Forbearance (PvE first-choice roll)
+// Forbearance (Shiny) (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Countermass), High-Velocity Rounds, (Ambitious Assassin, Unrelenting, Demolitionist), One for All
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. If you already have a shaped Forbearance from Vow of the Disciple, you can move along. If not, it's the current best-in-subfamily for stats. As with most wave-frames, you're looking for a barrel perk that boosts handling and velocity, with High-Velocity Rounds in the magazine. With one eye on the upcoming nerf to Chain Reaction, you might want to pair one of the useful first column support traits - Ambitious Assassine, Unrelenting or Demolitionist - with One for All in the second column for a damage boost to help clear groups of adds. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611921&perks=2010801679,2822142346,3525010810,4049631843
-dimwishlist:item=568611921&perks=2010801679,2822142346,3798852852,4049631843
-dimwishlist:item=568611921&perks=2010801679,2822142346,3809316345,4049631843
-dimwishlist:item=568611921&perks=2822142346,3108830275,3525010810,4049631843
-dimwishlist:item=568611921&perks=2822142346,3108830275,3798852852,4049631843
-dimwishlist:item=568611921&perks=2822142346,3108830275,3809316345,4049631843
-dimwishlist:item=568611921&perks=2822142346,3523296417,3525010810,4049631843
-dimwishlist:item=568611921&perks=2822142346,3523296417,3798852852,4049631843
-dimwishlist:item=568611921&perks=2822142346,3523296417,3809316345,4049631843
+dimwishlist:item=2480074702&perks=2010801679,2822142346,3525010810,4049631843
+dimwishlist:item=2480074702&perks=2010801679,2822142346,3798852852,4049631843
+dimwishlist:item=2480074702&perks=2010801679,2822142346,3809316345,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3108830275,3525010810,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3108830275,3798852852,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3108830275,3809316345,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3525010810,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3798852852,4049631843
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3809316345,4049631843
 
-// The Mountaintop (PvE first-choice roll)
+// The Mountaintop (Shiny) (PvE first-choice roll)
 // Hard Launch, (Implosion Rounds, Spike Grenades), Auto-Loading Holster, (Recombination, Frenzy, Vorpal Weapon)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for sustained Boss Spec damage as part of a Bait and Switch weapon rotation in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. To maximise damage, you need to minimise the Blast Radius - there's only one barrel perk that does that, so Hard Launch is the only god-roll option. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, Auto-Loading Holster just works - reloading in your pocket while you're doing dame with your heavy. To boost damage, Recombination provides a huge 100% bonus damage on your first shot when fully procced, but if you're firing eight or more shots over the course of a longer damage phase, you'll get more bonus damage from Frenzy or Vorpal Weapon, which also needs no setting up. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611922&perks=3300816228,3492396210,469285294,981914802
-dimwishlist:item=568611922&perks=3300816228,3301904089,469285294,981914802
-dimwishlist:item=568611922&perks=3300816228,3492396210,4104185692,981914802
-dimwishlist:item=568611922&perks=3300816228,3301904089,4104185692,981914802
-dimwishlist:item=568611922&perks=1546637391,3300816228,3492396210,981914802
-dimwishlist:item=568611922&perks=1546637391,3300816228,3301904089,981914802
+dimwishlist:item=4043921923&perks=3300816228,3492396210,469285294,981914802
+dimwishlist:item=4043921923&perks=3300816228,3301904089,469285294,981914802
+dimwishlist:item=4043921923&perks=3300816228,3492396210,4104185692,981914802
+dimwishlist:item=4043921923&perks=3300816228,3301904089,4104185692,981914802
+dimwishlist:item=4043921923&perks=1546637391,3300816228,3492396210,981914802
+dimwishlist:item=4043921923&perks=1546637391,3300816228,3301904089,981914802
 
-// The Mountaintop (PvE first-choice roll)
+// The Mountaintop (Shiny) (PvE first-choice roll)
 // Hard Launch, (Implosion Rounds, Spike Grenades), (Overflow, Ambitious Assassin), (Recombination, Frenzy, Vorpal Weapon)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for burst Boss or Major Spec damage in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. To maximise damage, you need to minimise the Blast Radius - there's only one barrel perk that does that, so Hard Launch is the only god-roll option. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, Overflow puts two in the mag just for running over an ammo brick, or Ambitious Assassin does the same after a kill. To boost damage, Recombination provides a huge 100% bonus damage on your first shot when fully procced, but Frenzy or Vorpal Weapon provide a reliable +15%, with Frenzy also boosting your reload speed and handling. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Boss, Major or Taken Spec) mod.|tags: PvE, PvE-Boss, OvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611922&perks=3300816228,3492396210,469285294,981914802
-dimwishlist:item=568611922&perks=3300816228,3301904089,469285294,981914802
-dimwishlist:item=568611922&perks=3300816228,3492396210,4104185692,981914802
-dimwishlist:item=568611922&perks=3300816228,3301904089,4104185692,981914802
-dimwishlist:item=568611922&perks=1546637391,3300816228,3492396210,981914802
-dimwishlist:item=568611922&perks=1546637391,3300816228,3301904089,981914802
+dimwishlist:item=4043921923&perks=3300816228,3492396210,469285294,981914802
+dimwishlist:item=4043921923&perks=3300816228,3301904089,469285294,981914802
+dimwishlist:item=4043921923&perks=3300816228,3492396210,4104185692,981914802
+dimwishlist:item=4043921923&perks=3300816228,3301904089,4104185692,981914802
+dimwishlist:item=4043921923&perks=1546637391,3300816228,3492396210,981914802
+dimwishlist:item=4043921923&perks=1546637391,3300816228,3301904089,981914802
 
-// The Mountaintop (PvE first-choice roll)
+// The Mountaintop (Shiny) (PvE first-choice roll)
 // (Hard Launch, Quick Launch, Smart Drift Control, Countermass), (Implosion Rounds, Spike Grenades), Demolitionist, Adrenaline Junkie
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for bulkier add clearing in end-game content, particularly for grenade builds. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. You're looking for Hard Launch ideally, but any barrel that boosts handling still works, to speed up swap speed. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, to support a grenade build, the trait combination of Demolitionist (together with the origin trait on light subclasses) and Adrenaline Junkie is available for a very decent +33% damage boost when fully procced. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611922&perks=11612903,3301904089,3523296417,981914802
-dimwishlist:item=568611922&perks=11612903,3301904089,3523296417,3525010810
-dimwishlist:item=568611922&perks=11612903,3301904089,3523296417,3798852852
-dimwishlist:item=568611922&perks=11612903,3301904089,3523296417,3809316345
-dimwishlist:item=568611922&perks=11612903,3492396210,3523296417,981914802
-dimwishlist:item=568611922&perks=11612903,3492396210,3523296417,3525010810
-dimwishlist:item=568611922&perks=11612903,3492396210,3523296417,3798852852
-dimwishlist:item=568611922&perks=11612903,3492396210,3523296417,3809316345
+dimwishlist:item=4043921923&perks=11612903,3301904089,3523296417,981914802
+dimwishlist:item=4043921923&perks=11612903,3301904089,3523296417,3525010810
+dimwishlist:item=4043921923&perks=11612903,3301904089,3523296417,3798852852
+dimwishlist:item=4043921923&perks=11612903,3301904089,3523296417,3809316345
+dimwishlist:item=4043921923&perks=11612903,3492396210,3523296417,981914802
+dimwishlist:item=4043921923&perks=11612903,3492396210,3523296417,3525010810
+dimwishlist:item=4043921923&perks=11612903,3492396210,3523296417,3798852852
+dimwishlist:item=4043921923&perks=11612903,3492396210,3523296417,3809316345
 
-// Hammerhead (PvE first-choice roll)
+// Hammerhead (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Extended Mag), Rewind Rounds, (Killing Tally, Surrounded)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for sustained Boss damage in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Hammerhead has lots of competition in the void Adaptive-frame LMG subfamily. It mostly has decent stats except for it's inventory size - at base you'll have 315 shots as opposed to Commemoration's 351. With three reserve mods, you'll have 427 compared to 453. You're best choice of barrel perk is something that helps with the low handling and, as a bigger magazine means more ammo from bricks, Appended or Extended are the mag perks for choice. As trait perks, Rewind Rounds delays your need to reload, so keeping you in a fight for longer while Killing Tally's persistent +30% damage for as long as you don't swap or reload is the standout damage perk. Or, alternatively, Surrounded will add +47% damage when enhanced after Last Shape. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling, with a damage boosting (Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=1896309757&perks=1087426260,1840239774,3418782618,557221067
-dimwishlist:item=1896309757&perks=1087426260,3418782618,557221067,839105230
-dimwishlist:item=1896309757&perks=1087426260,3418782618,4090651448,557221067
-dimwishlist:item=1896309757&perks=1840239774,2420895100,3418782618,557221067
-dimwishlist:item=1896309757&perks=2420895100,3418782618,557221067,839105230
-dimwishlist:item=1896309757&perks=2420895100,3418782618,4090651448,557221067
-dimwishlist:item=1896309757&perks=1087426260,1840239774,3418782618,3708227201
-dimwishlist:item=1896309757&perks=1087426260,3418782618,3708227201,839105230
-dimwishlist:item=1896309757&perks=1087426260,3418782618,3708227201,4090651448
-dimwishlist:item=1896309757&perks=1840239774,2420895100,3418782618,3708227201
-dimwishlist:item=1896309757&perks=2420895100,3418782618,3708227201,839105230
-dimwishlist:item=1896309757&perks=2420895100,3418782618,3708227201,4090651448
+dimwishlist:item=211732170&perks=1087426260,1840239774,3418782618,557221067
+dimwishlist:item=211732170&perks=1087426260,3418782618,557221067,839105230
+dimwishlist:item=211732170&perks=1087426260,3418782618,4090651448,557221067
+dimwishlist:item=211732170&perks=1840239774,2420895100,3418782618,557221067
+dimwishlist:item=211732170&perks=2420895100,3418782618,557221067,839105230
+dimwishlist:item=211732170&perks=2420895100,3418782618,4090651448,557221067
+dimwishlist:item=211732170&perks=1087426260,1840239774,3418782618,3708227201
+dimwishlist:item=211732170&perks=1087426260,3418782618,3708227201,839105230
+dimwishlist:item=211732170&perks=1087426260,3418782618,3708227201,4090651448
+dimwishlist:item=211732170&perks=1840239774,2420895100,3418782618,3708227201
+dimwishlist:item=211732170&perks=2420895100,3418782618,3708227201,839105230
+dimwishlist:item=211732170&perks=2420895100,3418782618,3708227201,4090651448
 
-// Hammerhead (PvE first-choice roll)
+// Hammerhead (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Extended Mag), Rampage, (Killing Tally, Surrounded)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for bulkier add clearing in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Hammerhead has lots of competition in the void Adaptive-frame LMG subfamily. It mostly has decent stats except for it's inventory size - at base you'll have 315 shots as opposed to Commemoration's 351. With three reserve mods, you'll have 427 compared to 453. You're best choice of barrel perk is something that helps with the low handling and, as a bigger magazine means more ammo from bricks, Appended or Extended are the mag perks for choice. As trait perks, who can turn down double damage perks? If you use this as a heavy scout rifle, Rampage and Killing Tally add up to +73% damage when fully procced, while Rampage x3 and Surrounded boost damage by +86% (+96%% when Surrounded is enhanced after Final Shape). The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling, with a damage boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=1896309757&perks=1087426260,1840239774,3425386926,557221067
-dimwishlist:item=1896309757&perks=1087426260,3425386926,557221067,839105230
-dimwishlist:item=1896309757&perks=1087426260,3425386926,4090651448,557221067
-dimwishlist:item=1896309757&perks=1840239774,2420895100,3425386926,557221067
-dimwishlist:item=1896309757&perks=2420895100,3425386926,557221067,839105230
-dimwishlist:item=1896309757&perks=2420895100,3425386926,4090651448,557221067
-dimwishlist:item=1896309757&perks=1087426260,1840239774,3425386926,3708227201
-dimwishlist:item=1896309757&perks=1087426260,3425386926,3708227201,839105230
-dimwishlist:item=1896309757&perks=1087426260,3425386926,3708227201,4090651448
-dimwishlist:item=1896309757&perks=1840239774,2420895100,3425386926,3708227201
-dimwishlist:item=1896309757&perks=2420895100,3425386926,3708227201,839105230
-dimwishlist:item=1896309757&perks=2420895100,3425386926,3708227201,4090651448
+dimwishlist:item=211732170&perks=1087426260,1840239774,3425386926,557221067
+dimwishlist:item=211732170&perks=1087426260,3425386926,557221067,839105230
+dimwishlist:item=211732170&perks=1087426260,3425386926,4090651448,557221067
+dimwishlist:item=211732170&perks=1840239774,2420895100,3425386926,557221067
+dimwishlist:item=211732170&perks=2420895100,3425386926,557221067,839105230
+dimwishlist:item=211732170&perks=2420895100,3425386926,4090651448,557221067
+dimwishlist:item=211732170&perks=1087426260,1840239774,3425386926,3708227201
+dimwishlist:item=211732170&perks=1087426260,3425386926,3708227201,839105230
+dimwishlist:item=211732170&perks=1087426260,3425386926,3708227201,4090651448
+dimwishlist:item=211732170&perks=1840239774,2420895100,3425386926,3708227201
+dimwishlist:item=211732170&perks=2420895100,3425386926,3708227201,839105230
+dimwishlist:item=211732170&perks=2420895100,3425386926,3708227201,4090651448
 
-// Hammerhead (PvE first-choice roll)
+// Hammerhead (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Extended Mag), Destabilizing Rounds, (Killing Tally, Surrounded)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for bulkier add clearing in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Hammerhead has lots of competition in the void Adaptive-frame LMG subfamily. It mostly has decent stats except for it's inventory size - at base you'll have 315 shots as opposed to Commemoration's 351. With three reserve mods, you'll have 427 compared to 453. You're best choice of barrel perk is something that helps with the low handling and, as a bigger magazine means more ammo from bricks, Appended or Extended are the mag perks for choice. As trait perks, who can turn down double damage perks? For clearing crowds of adds, the combination of Destabilizing Rounds and Killing Tally's +30% persistent damage bonus (until reloading or swapping) should make short work of even tough crowds of adds, and the occasional Major. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling, with a damage boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=1896309757&perks=1087426260,1840239774,2048641572,557221067
-dimwishlist:item=1896309757&perks=1087426260,2048641572,557221067,839105230
-dimwishlist:item=1896309757&perks=1087426260,2048641572,4090651448,557221067
-dimwishlist:item=1896309757&perks=1840239774,2048641572,2420895100,557221067
-dimwishlist:item=1896309757&perks=2048641572,2420895100,557221067,839105230
-dimwishlist:item=1896309757&perks=2048641572,2420895100,4090651448,557221067
-dimwishlist:item=1896309757&perks=1087426260,1840239774,2048641572,3708227201
-dimwishlist:item=1896309757&perks=1087426260,2048641572,3708227201,839105230
-dimwishlist:item=1896309757&perks=1087426260,2048641572,3708227201,4090651448
-dimwishlist:item=1896309757&perks=1840239774,2048641572,2420895100,3708227201
-dimwishlist:item=1896309757&perks=2048641572,2420895100,3708227201,839105230
-dimwishlist:item=1896309757&perks=2048641572,2420895100,3708227201,4090651448
+dimwishlist:item=211732170&perks=1087426260,1840239774,2048641572,557221067
+dimwishlist:item=211732170&perks=1087426260,2048641572,557221067,839105230
+dimwishlist:item=211732170&perks=1087426260,2048641572,4090651448,557221067
+dimwishlist:item=211732170&perks=1840239774,2048641572,2420895100,557221067
+dimwishlist:item=211732170&perks=2048641572,2420895100,557221067,839105230
+dimwishlist:item=211732170&perks=2048641572,2420895100,4090651448,557221067
+dimwishlist:item=211732170&perks=1087426260,1840239774,2048641572,3708227201
+dimwishlist:item=211732170&perks=1087426260,2048641572,3708227201,839105230
+dimwishlist:item=211732170&perks=1087426260,2048641572,3708227201,4090651448
+dimwishlist:item=211732170&perks=1840239774,2048641572,2420895100,3708227201
+dimwishlist:item=211732170&perks=2048641572,2420895100,3708227201,839105230
+dimwishlist:item=211732170&perks=2048641572,2420895100,3708227201,4090651448
 
 // Hung Jury SR4 (Shiny) (PvE first-choice roll)
 // (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Kinetic Tremors, (Explosive Payload, One For All)

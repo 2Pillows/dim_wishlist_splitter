@@ -3,10 +3,8 @@ description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/
 
 // Forbearance
 //notes: pandapaxxy (PvP / M+KB / Controller): "Hitting 3 targets in PvE is certainly easier than hitting multiple targets in PvP. If you can make Stats for All work in PvP I will be impressed. A better perk would be Demolitionist for a total of 15% ability energy back on kills (10% paired with 5% from the origin trait), or Disruption Break to give your kinetic weapons a nice 50% damage boost. There isn't a lot to be said in column 4 for PvP as most Disruption Break grenade launchers are paired with Auto-Loading Holster in the third column. Wellspring could pair well with Demolitionist for even more ability energy, or Desperate Measures for a damage bonus without needing a weapon kill to start." Recommended MW: Velocity.|tags:pvp,mkb,controller
-dimwishlist:item=568611921&perks=2822142346,3523296417,3525010810,3592538738
 dimwishlist:item=568611921&perks=1683379515,2109543898,2822142346,3525010810
 dimwishlist:item=568611921&perks=1683379515,2396489472,2822142346,3525010810
-dimwishlist:item=568611921&perks=2822142346,3523296417,3592538738,3798852852
 dimwishlist:item=568611921&perks=1683379515,2109543898,2822142346,3798852852
 dimwishlist:item=568611921&perks=1683379515,2396489472,2822142346,3798852852
 dimwishlist:item=568611921&perks=1441682018,1683379515,2109543898,2822142346
@@ -123,8 +121,10 @@ dimwishlist:item=3824673936&perks=2578928835,3142289711,3242533954,4135406211,83
 
 // Forbearance (Holofoil)
 //notes: pandapaxxy (PvP / M+KB / Controller): "Hitting 3 targets in PvE is certainly easier than hitting multiple targets in PvP. If you can make Stats for All work in PvP I will be impressed. A better perk would be Demolitionist for a total of 15% ability energy back on kills (10% paired with 5% from the origin trait), or Disruption Break to give your kinetic weapons a nice 50% damage boost. There isn't a lot to be said in column 4 for PvP as most Disruption Break grenade launchers are paired with Auto-Loading Holster in the third column. Wellspring could pair well with Demolitionist for even more ability energy, or Desperate Measures for a damage bonus without needing a weapon kill to start." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3525010810,3592538738
 dimwishlist:item=2480074702&perks=1683379515,2109543898,2822142346,3525010810
 dimwishlist:item=2480074702&perks=1683379515,2396489472,2822142346,3525010810
+dimwishlist:item=2480074702&perks=2822142346,3523296417,3592538738,3798852852
 dimwishlist:item=2480074702&perks=1683379515,2109543898,2822142346,3798852852
 dimwishlist:item=2480074702&perks=1683379515,2396489472,2822142346,3798852852
 dimwishlist:item=2480074702&perks=1441682018,1683379515,2109543898,2822142346
