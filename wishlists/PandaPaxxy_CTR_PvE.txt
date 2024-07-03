@@ -3968,7 +3968,7 @@ dimwishlist:item=4233375372&perks=1482024992,243981275,2610012052,3230963543
 dimwishlist:item=4233375372&perks=243981275,2610012052,3230963543,4090651448
 
 // Belisarius-D
-//notes:pandapaxxy (PvE / M+KB / Controller): "This season’s Competitive weapon. Belisarius-D is already making waves as one of the strongest pulse rifles with a ton of combinations. It might not be as good as pre-nerf No Time to Explain, but it certainly holds its own in our current Meta. Arrowhead isn’t necessary with our deterministic recoil, but I found the bursts a bit tighter and easier to control. I like that Vorpal Weapon can be paired with Kill Clip for extra damage against majors and champions. Rapid Hit is a better neutral perk for cleaning up the burst and adding much needed reload speed." Recommended MW: Stability.|tags:pve,mkb,controller
+//notes:pandapaxxy (PvE / M+KB / Controller): "Belisarius-D is already making waves as one of the strongest pulse rifles with a ton of combinations. It might not be as good as pre-nerf No Time to Explain, but it certainly holds its own in our current Meta. Arrowhead isn’t necessary with our deterministic recoil, but I found the bursts a bit tighter and easier to control. I like that Vorpal Weapon can be paired with Kill Clip for extra damage against majors and champions. Rapid Hit is a better neutral perk for cleaning up the burst and adding much needed reload speed." Recommended MW - Stability.|tags:pve,mkb,controller
 dimwishlist:item=2313726158&perks=1015611457,1067908860,1087426260,1546637391,839105230
 dimwishlist:item=2313726158&perks=1015611457,1067908860,1087426260,1546637391,1840239774
 dimwishlist:item=2313726158&perks=1015611457,1067908860,1087426260,1482024992,1546637391
