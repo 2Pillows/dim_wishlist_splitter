@@ -1,6 +1,922 @@
 title:MKB PvE !Backups Perks - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Bold Endings
+//notes:pandapaxxy (PvE / M+KB / Controller): "The first in a nice long list of new weapons is Bold Endings. A newish archetype being the heavy burst archetype, only occupied by Warden's Law. Bold Endings has the unique combination of Headstone and Dragonfly to immediately blow up those crystals. Great for add clear. Other solid options include Rapid Hit for reload speed and a tighter burst at max stacks, Strategist for immediate stability on class ability usage, and getting your class ability faster. Alongside Desperate Measures for great damage. Headstone with a damage perk or more AoE is probably going to be the play." Recommended MW: Stability or Handling.|tags:pve,mkb,controller
+dimwishlist:item=496728945&perks=124408337,2109543898
+dimwishlist:item=496728945&perks=124408337,2848615171
+dimwishlist:item=496728945&perks=2109543898,247725512
+dimwishlist:item=496728945&perks=247725512,2848615171
+dimwishlist:item=496728945&perks=2109543898,880644845
+dimwishlist:item=496728945&perks=2848615171,880644845
+
+// Khvostov 7G-02
+//notes:pandapaxxy (PvE / M+KB / Controller): "The legendary Khvostov allows you some customizability like the exotic version of Destiny 1. The best version is still yet to come but this has every ability regeneration perk and some good damage on top." Recommended MW: Range, Stability, Handling, Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4209476803&perks=2458213969,880644845
+dimwishlist:item=4209476803&perks=243981275,880644845
+dimwishlist:item=4209476803&perks=2458213969,691659142
+dimwishlist:item=4209476803&perks=243981275,691659142
+dimwishlist:item=4209476803&perks=2458213969,3523296417
+dimwishlist:item=4209476803&perks=243981275,3523296417
+
+// Someday
+//notes:pandapaxxy (PvE / M+KB / Controller): "The PvE section of Someday is gonna be pretty short. There's a lot of good craftable shotguns utilizing One-Two Punch, Trench Barrel, or even Cascade Point. Someday is fine if you don't have better shotguns but it isn't the best." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3232203524&perks=1556840489,469285294
+dimwishlist:item=3232203524&perks=1556840489,3751912585
+dimwishlist:item=3232203524&perks=1546637391,1556840489
+dimwishlist:item=3232203524&perks=25606670,469285294
+dimwishlist:item=3232203524&perks=25606670,3751912585
+dimwishlist:item=3232203524&perks=1546637391,25606670
+dimwishlist:item=3232203524&perks=1126264488,469285294
+dimwishlist:item=3232203524&perks=1126264488,3751912585
+dimwishlist:item=3232203524&perks=1126264488,1546637391
+
+// The Call
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arguably the best weapon in this DLC, The Call is only the second Rocket-Assisted Frame. The benefit is that The Call is craftable. If you never got your toes into Warlord's Ruin or haven't gotten a good drop, The Call allows you to mix and match. Lead from Gold or Subsistence are going to allow you to use The Call more like a primary weapon, paired with Hatchling for Strand synergy. One for All is not only the best damage perk in slot, it is incredibly easy to proc with the AoE from the rocket shots." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=3947966653&perks=1820235745,4049631843
+dimwishlist:item=3947966653&perks=1546637391,1820235745
+dimwishlist:item=3947966653&perks=1820235745,831391274
+dimwishlist:item=3947966653&perks=1556840489,4049631843
+dimwishlist:item=3947966653&perks=1546637391,1556840489
+dimwishlist:item=3947966653&perks=1556840489,831391274
+dimwishlist:item=3947966653&perks=2859149211,4049631843
+dimwishlist:item=3947966653&perks=1546637391,2859149211
+dimwishlist:item=3947966653&perks=2859149211,831391274
+
+// Axial Lacuna
+//notes:pandapaxxy (PvE / M+KB / Controller): "I enjoy the sights on this fusion, does that make it the best? Not really. There's a lot of good options in PvE; Reconstruction, Keep Away, and even Demolitionist are all good in slot. Controlled Burst with Reconstruction will be the best for pure damage. Opt for Incandescent and instead you've got a great room clearing weapon. Incandescent Vs Reservoir Burst is a discussion for another time." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=3867373351&perks=1523832109,2594592626
+dimwishlist:item=3867373351&perks=1523832109,4293542123
+dimwishlist:item=3867373351&perks=1523832109,3708227201
+dimwishlist:item=3867373351&perks=2594592626,3619207468
+dimwishlist:item=3867373351&perks=3619207468,4293542123
+dimwishlist:item=3867373351&perks=3619207468,3708227201
+dimwishlist:item=3867373351&perks=2594592626,3523296417
+dimwishlist:item=3867373351&perks=3523296417,4293542123
+dimwishlist:item=3867373351&perks=3523296417,3708227201
+
+// Embraced Identity
+//notes:pandapaxxy (PvE / M+KB / Controller): "Maybe not the best sniper in the game for damage. Being craftable makes the barrier for entry into getting those great snipers easier. Reconstruction or Rewind Rounds and Fourth time's the Charm allow you to fire for what feels like forever. The Supremacy can roll something similar and it can shoot for over 50 shots. Precision Instrument gives you some great damage over your larger mag but isn't the same instant bonus like Firing Line or Vorpal Weapon. Not the worst weapon to craft even if you do have your tried and true DPS weapon." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2821677368&perks=1354429876,1523832109
+dimwishlist:item=2821677368&perks=1523832109,555281244
+dimwishlist:item=2821677368&perks=1354429876,3418782618
+dimwishlist:item=2821677368&perks=3418782618,555281244
+dimwishlist:item=2821677368&perks=1354429876,3523296417
+dimwishlist:item=2821677368&perks=3523296417,555281244
+
+// No Hesitation
+//notes:pandapaxxy (PvE / M+KB / Controller): "Rooty tooty gun go ... Healy? Our very first legendary support weapon. Subsistence and Incandescent will allow you to build up charges while still being able to clear rooms with ease. Leaning more into support you have new perks Physic and Circle of Life. One giving you better healing, while the latter giving you bonus damage after healing allies. Depending on how you expect to use No Hesitations combinations of those four perks could be very strong. Leaning more into healing your team, explosions, doing better damage, EXPLOSIONS. The choice is yours." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1801007332&perks=1820235745,4293542123
+dimwishlist:item=1801007332&perks=1820235745,4104185692
+dimwishlist:item=1801007332&perks=1820235745,2298656195
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+dimwishlist:item=1801007332&perks=2980589453,4104185692
+dimwishlist:item=1801007332&perks=2298656195,2980589453
+dimwishlist:item=1801007332&perks=4293542123,880644845
+dimwishlist:item=1801007332&perks=4104185692,880644845
+dimwishlist:item=1801007332&perks=2298656195,880644845
+
+// False Idols
+//notes:pandapaxxy (PvE / M+KB / Controller): "Incandescent and Chain Reaction, need I say more? Oh, I do? Okay. Bait and Switch or Vorpal gives you some respectable damage. Relentless Strikes giving you slightly better ammo economy on beefier targets, and to clear rooms with ease I'd use Unrelenting for health back on kills." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=4207120603&perks=2396489472,4293542123
+dimwishlist:item=4207120603&perks=3078487919,4293542123
+dimwishlist:item=4207120603&perks=1546637391,4293542123
+dimwishlist:item=4207120603&perks=1749209109,2396489472
+dimwishlist:item=4207120603&perks=1749209109,3078487919
+dimwishlist:item=4207120603&perks=1546637391,1749209109
+dimwishlist:item=4207120603&perks=2396489472,3108830275
+dimwishlist:item=4207120603&perks=3078487919,3108830275
+dimwishlist:item=4207120603&perks=1546637391,3108830275
+
+// Pro Memoria
+//notes:pandapaxxy (PvE / M+KB / Controller): "A new frame approaches. Pro Memoria is an interesting weapon slotting next to Adaptive frames for the best add clear weapon, and Rapid-Fire frames for damage. Reconstruction or Envious Assassin are both great for using Pro Memoria as your main weapon. Coupled with Bait and Switch or Target Lock for damage. Frenzy and Hatchling are both great for neutral add clear potential." Recommended MW: Handling.|tags:pve,mkb,controller
+dimwishlist:item=3605603507&perks=1523832109,3078487919
+dimwishlist:item=3605603507&perks=1523832109,365154968
+dimwishlist:item=3605603507&perks=1523832109,4104185692
+dimwishlist:item=3605603507&perks=3078487919,968510818
+dimwishlist:item=3605603507&perks=365154968,968510818
+dimwishlist:item=3605603507&perks=4104185692,968510818
+dimwishlist:item=3605603507&perks=3078487919,831391274
+dimwishlist:item=3605603507&perks=365154968,831391274
+dimwishlist:item=3605603507&perks=4104185692,831391274
+
+// Breachlight
+//notes:pandapaxxy (PvE / M+KB / Controller): "Breachlight returns to us. One of the crowd favorites. Arrowhead Brake cleans up the recoil nicely. Demolitionist and Desperate Measures compliment one another nicely (though Adrenaline Junkie is the peanut butter to the jelly; Desperate Measures just works with more abilities). Vorpal Weapon gives you some flexibility against majors or champions. Slice and Hatchling are best used when on your Strand subclass." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2328923181&perks=2109543898,3523296417
+dimwishlist:item=2328923181&perks=1546637391,3523296417
+dimwishlist:item=2328923181&perks=3523296417,831391274
+dimwishlist:item=2328923181&perks=1428297954,2109543898
+dimwishlist:item=2328923181&perks=1428297954,1546637391
+dimwishlist:item=2328923181&perks=1428297954,831391274
+dimwishlist:item=2328923181&perks=2109543898,923806249
+dimwishlist:item=2328923181&perks=1546637391,923806249
+dimwishlist:item=2328923181&perks=831391274,923806249
+
+// Lost Signal
+//notes:pandapaxxy (PvE / M+KB / Controller): "Legendary Witherhoard. That's all you really need to know. Auto-Loading Holster will give you the closest “Witherhoard-lite” feel, though Lead From Gold will allow you to use Lost Signal a lot more. You'll just have to manually reload. Reverberation is neat but doesn't do a lot. Personally I'd use Unrelenting to get passive health back as I'm focusing on other enemies while Lost Signal and the Radiolaria Transposer take care of any wave of enemies." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=1197771438&perks=3108830275,3300816228
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,563069569
+dimwishlist:item=1197771438&perks=1556840489,3108830275
+dimwishlist:item=1197771438&perks=1556840489,4049631843
+dimwishlist:item=1197771438&perks=1556840489,563069569
+dimwishlist:item=1197771438&perks=1583705720,3108830275
+dimwishlist:item=1197771438&perks=1583705720,4049631843
+dimwishlist:item=1197771438&perks=1583705720,563069569
+
+// Patron of Lost Causes
+//notes:pandapaxxy (PvE / M+KB / Controller): "Did we really need another scout in this economy? Probably not especially with the umpteenth Hung Jury reprisal. The tried and true combo of Rapid Hit and Explosive Payload will still work, but an alternative perk is Kinetic Tremors which will allow some decent AoE and passive add clear. Triple tap synergizes really well with Kinetic Tremors to get some ammo back on repeat critical shots." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=2249996761&perks=247725512,3891536761
+dimwishlist:item=2249996761&perks=247725512,3038247973
+dimwishlist:item=2249996761&perks=247725512,555281244
+dimwishlist:item=2249996761&perks=3400784728,3891536761
+dimwishlist:item=2249996761&perks=3038247973,3400784728
+dimwishlist:item=2249996761&perks=3400784728,555281244
+
+// Perfect Paradox
+//notes:pandapaxxy (PvE / M+KB / Controller): "Perfect Paradox returns, again. u/TheSpellJammer rejoice! In terms of utility, Cast No Shadows allows some great utility with both One-Two Punch and Trench Barrel. Pugilist gets you to your next powered melee but isn't ultimately necessary with this shotgun. Field Prep or Dual Loader are both great for outside of combat or before a damage phase." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1298672084&perks=2679249093,2869569095
+dimwishlist:item=1298672084&perks=2360754333,2869569095
+dimwishlist:item=1298672084&perks=2869569095,4082225868
+dimwishlist:item=1298672084&perks=25606670,2679249093
+dimwishlist:item=1298672084&perks=2360754333,25606670
+dimwishlist:item=1298672084&perks=25606670,4082225868
+dimwishlist:item=1298672084&perks=2679249093,691659142
+dimwishlist:item=1298672084&perks=2360754333,691659142
+dimwishlist:item=1298672084&perks=4082225868,691659142
+
+// Veiled Threat
+//notes:pandapaxxy (PvE / M+KB / Controller): "Vex Mythoclast at home™. This auto does pretty well at staying competitive with the likes of Headstone and the new origin trait for.clearing waves of enemies. Being another Rapid-Fire stasis auto competes with the Krait collecting dust in your vault. The difference is Veiled Threat is craftable so if you never grabbed a good Krait when it was dropping during Witch Queen or from Banshee then this auto will suffice. I dislike the model but that's not performance based." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3685470415&perks=124408337,3700496672
+dimwishlist:item=3685470415&perks=2109543898,3700496672
+dimwishlist:item=3685470415&perks=124408337,880644845
+dimwishlist:item=3685470415&perks=2109543898,880644845
+
+// Aberrant Action
+//notes:pandapaxxy (PvE / M+KB / Controller): "I think this might be the best Rocket-Assisted sidearm in the game. While we don't have this *yet* I do think that this will be the go-to energy weapon. Incandescent and Heal Clip on one of the best weapon types will certainly bring better oomph to your loadouts. Zaouli’s Bane be gone." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+dimwishlist:item=2198166292&perks=2610012052,3017780555
+dimwishlist:item=2198166292&perks=3017780555,563069569
+dimwishlist:item=2198166292&perks=2010801679,4293542123
+dimwishlist:item=2198166292&perks=2010801679,2610012052
+dimwishlist:item=2198166292&perks=2010801679,563069569
+dimwishlist:item=2198166292&perks=2859149211,4293542123
+dimwishlist:item=2198166292&perks=2610012052,2859149211
+dimwishlist:item=2198166292&perks=2859149211,563069569
+
+// Chronophage
+//notes:pandapaxxy (PvE / M+KB / Controller): "We got ourselves a new void trace rifle. If you missed Hollow Denial then this will be for you. I think Hollow Denial is better than Chronophage, but it's a decent alternative. Repulsor Brace and Destabilizing Rounds are great Void synergy, but for better general use Auto-Loading Holster and Target Lock will always keep you topped off and have some great damage. If you're looking for more of a main weapon then Feeding Frenzy and Desperate Measures will fit that bill." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1886840007&perks=3300816228,365154968
+dimwishlist:item=1886840007&perks=2109543898,3300816228
+dimwishlist:item=1886840007&perks=2048641572,3300816228
+dimwishlist:item=1886840007&perks=2779035018,365154968
+dimwishlist:item=1886840007&perks=2109543898,2779035018
+dimwishlist:item=1886840007&perks=2048641572,2779035018
+dimwishlist:item=1886840007&perks=365154968,776531651
+dimwishlist:item=1886840007&perks=2109543898,776531651
+dimwishlist:item=1886840007&perks=2048641572,776531651
+
+// Corrasion
+//notes:pandapaxxy (PvE / M+KB / Controller): "Bungie beefing up some of these less populated archetypes. Our first / second legendary heavy burst pulse rifle comes with the Echoes. Unfortunately the Corrasion has no good reload perk outside of Perpetual Motion. The other stats are nice but I'm not always in motion to take advantage of it. High-Impact Reserves in the third column is interesting to beef up some damage at the end of your magazine but it doesn't do anything to aid us in getting to the next one. Frenzy does bump up handling and reload if you opt for that and will bump up your damage on top of High-Impact Reserves. Voltshot is a great room clearing perk but without a reload perk it's less desirable." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2126178511&perks=1428297954,4104185692
+dimwishlist:item=2126178511&perks=1428297954,2173046394
+dimwishlist:item=2126178511&perks=2213355989,4104185692
+dimwishlist:item=2126178511&perks=2173046394,2213355989
+
+// Martyr's Retribution
+//notes:pandapaxxy (PvE / M+KB / Controller): "Martyr's Retribution returns. One of my favorite weapons from Season of the Dawn, does it stand up to current weapons? In short. Yes. Auto-Loading Holster with Incandescent for clearing rooms similar to Chain Reaction. If you prefer solar synergy then this is your go-to." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=2584830733&perks=3300816228,4293542123
+dimwishlist:item=2584830733&perks=1015611457,3300816228
+dimwishlist:item=2584830733&perks=1546637391,3300816228
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=1015611457,3017780555
+dimwishlist:item=2584830733&perks=1546637391,3017780555
+dimwishlist:item=2584830733&perks=4293542123,968510818
+dimwishlist:item=2584830733&perks=1015611457,968510818
+dimwishlist:item=2584830733&perks=1546637391,968510818
+
+// Sightline Survey
+//notes:pandapaxxy (PvE / M+KB / Controller): "Triple Tap and Precision Instrument are a match made in heaven. Allow me to do more damage while keeping bullets back? Perfect. If you're a little less accurate or prefer an MLG COD NO SCOPE 420 twitch sensitivity, then maybe Keep Away with Voltshot would be better for you." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2350330520&perks=2173046394,3400784728
+dimwishlist:item=2350330520&perks=3400784728,555281244
+dimwishlist:item=2350330520&perks=2109543898,3400784728
+dimwishlist:item=2350330520&perks=2173046394,3619207468
+dimwishlist:item=2350330520&perks=3619207468,555281244
+dimwishlist:item=2350330520&perks=2109543898,3619207468
+dimwishlist:item=2350330520&perks=2173046394,880644845
+dimwishlist:item=2350330520&perks=555281244,880644845
+dimwishlist:item=2350330520&perks=2109543898,880644845
+
+// Timeworn Wayfarer
+//notes:pandapaxxy (PvE / M+KB / Controller): "Timeworn Wayfarer is the Yee to my Haw. Heal Clip and Incandescent on a scout rifle is great, but also having an actual scope feels better than other aggressive scouts. Let me know how you feel about it below. While there are other great combos like Precision Instrument or Desperate Measures paired with Fourth time's the Charm or Keep Away, let's be honest with one another. You'll use Heal Clip and Incandescent." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+dimwishlist:item=1058098236&perks=3017780555,555281244
+dimwishlist:item=1058098236&perks=2109543898,3017780555
+dimwishlist:item=1058098236&perks=3619207468,4293542123
+dimwishlist:item=1058098236&perks=3619207468,555281244
+dimwishlist:item=1058098236&perks=2109543898,3619207468
+dimwishlist:item=1058098236&perks=1354429876,4293542123
+dimwishlist:item=1058098236&perks=1354429876,555281244
+dimwishlist:item=1058098236&perks=1354429876,2109543898
+
+// Faith-Keeper
+//notes:pandapaxxy (PvE / M+KB / Controller): "There's not a lot to say about this rocket, it’s a void rocket that allows for intrinsic tracking. This will be a great replacement for Bad Omens some of you have in your vaults. Explosive Light maxes out blast radius and gives a sizable damage bonus allowing you to invest into velocity to help that tracking. Auto-Loading Holster makes this rocket a “fire and forget.” Bipod and Clown Cartridge both allow you to overflow the magazine from 1 to potentially 3 or 4. Field Prep allows for the best “blow your load” and Reverberation can increase your explosion size for maximum add clear." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=4195186942&perks=3194351027,3300816228
+dimwishlist:item=4195186942&perks=1439600632,3300816228
+dimwishlist:item=4195186942&perks=3300816228,563069569
+dimwishlist:item=4195186942&perks=2284787283,3194351027
+dimwishlist:item=4195186942&perks=1439600632,2284787283
+dimwishlist:item=4195186942&perks=2284787283,563069569
+dimwishlist:item=4195186942&perks=2869569095,3194351027
+dimwishlist:item=4195186942&perks=1439600632,2869569095
+dimwishlist:item=4195186942&perks=2869569095,563069569
+
+// Ill Omen
+//notes:pandapaxxy (PvE / M+KB / Controller): "A caster frame sword with Cold Steel? All 3 Icefall Mantle Titan’s rejoice! This allows you to stun champs from further away or just synergize with Stasis. What separates this from The Slammer or Zephyr is really just being a caster frame. Unrelenting is going to allow you to throw your heavy attack into a group of enemies, focus on another separate target and still get your health back. Tireless Blades or Relentless Strikes will give you back ammo depending on what you’re looking to do, boss damage or add clear." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=3794274730&perks=1546637391,3108830275
+dimwishlist:item=3794274730&perks=3108830275,3650930298
+dimwishlist:item=3794274730&perks=3108830275,3913600130
+dimwishlist:item=3794274730&perks=1546637391,2590710093
+dimwishlist:item=3794274730&perks=2590710093,3650930298
+dimwishlist:item=3794274730&perks=2590710093,3913600130
+dimwishlist:item=3794274730&perks=1546637391,1749209109
+dimwishlist:item=3794274730&perks=1749209109,3650930298
+dimwishlist:item=3794274730&perks=1749209109,3913600130
+
+// Line in the Sand
+//notes:pandapaxxy (PvE / M+KB / Controller): "One of the beloved weapons from Season of the Dawn is Line in the Sand. Rapid Hit or Clown Cartridge are your best bets in column 3 with a specific niche using Deconstruction. Firing Line is the easiest damage bonus to activate but doesn’t work in small fireteams or solo, that’s where Bait and Switch or the new to linear fusions Reservoir Burst comes in. Ionized Battery, Clown Cartridge and Reservoir Burst bring the magazine up to 11 (normally 7) allowing 5 continuous Reservoir Burst shots. While Voltshot is present on this fusion I didn’t find it as useful compared to a primary or special weapon." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=2450049485&perks=1771339417,247725512
+dimwishlist:item=2450049485&perks=247725512,3078487919
+dimwishlist:item=2450049485&perks=1427256713,247725512
+dimwishlist:item=2450049485&perks=1771339417,2284787283
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+dimwishlist:item=2450049485&perks=1427256713,2284787283
+
+// Speleologist
+//notes:pandapaxxy (PvE / M+KB / Controller): "Rapid-Fire machine guns are an interesting time.They’re not incredibly strong for add clear but they are superb at damage. Speleologist has Envious Assassin for overflowing the magazine based on kills, and Killing Tally to really ramp up the damage, but it will never overthrow the king of machine gun DPS, Retrofit Escapade. Incandescent will clear rooms easier and your choice of Stats for All or Enlightened Action will increase the weapon feel. The Musketeer build of Stats and One for All is fun and synergizes well but on a heavy weapon I find it lacking." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=412251536&perks=4293542123,968510818
+dimwishlist:item=412251536&perks=557221067,968510818
+dimwishlist:item=412251536&perks=4049631843,968510818
+dimwishlist:item=412251536&perks=1583705720,4293542123
+dimwishlist:item=412251536&perks=1583705720,557221067
+dimwishlist:item=412251536&perks=1583705720,4049631843
+dimwishlist:item=412251536&perks=3828510309,4293542123
+dimwishlist:item=412251536&perks=3828510309,557221067
+dimwishlist:item=412251536&perks=3828510309,4049631843
+
+// Controlling Vision
+//notes:pandapaxxy (PvE / M+KB / Controller): "It’s interesting this was the Dead Orbit weapon to be brought back to us. Controlling Vision is nowhere near the same levels as Heliocentric. Osmosis and Slideways are not good PvE perks but the alternative is Surplus or…Surrounded? Surrounded is good on a sidearm as you’re going to be in CQC 100% of the time, but Surplus in this economy is just underwhelming. I want to use my abilities, not hold onto them to bump up my sidearm." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=423343404&perks=1774574192,2039302152
+dimwishlist:item=423343404&perks=2039302152,3708227201
+
+// Yarovit MG4
+//notes:pandapaxxy (PvE / M+KB / Controller): "Yarovit MG4 not coming with Phase Mag is a disappointment. There has only been one other Omolon submachine gun in recent times to remind the community of the goofiness that is Phase Mag (its Stochastic Variable). Either way, Yarovit MG4 has some interesting perks. Rewind Rounds coupled with any of the damage perks like Surrounded, Desperate Measures, or Headstone will be a really strong combination. Unfortunately being a world drop means we won’t even be able to farm these until next season’s lost sectors and even then that’s not a given." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3959549446&perks=3418782618,3708227201
+dimwishlist:item=3959549446&perks=2109543898,3418782618
+dimwishlist:item=3959549446&perks=124408337,3418782618
+dimwishlist:item=3959549446&perks=1359896290,3708227201
+dimwishlist:item=3959549446&perks=1359896290,2109543898
+dimwishlist:item=3959549446&perks=124408337,1359896290
+dimwishlist:item=3959549446&perks=3708227201,880644845
+dimwishlist:item=3959549446&perks=2109543898,880644845
+dimwishlist:item=3959549446&perks=124408337,880644845
+
+// Adverse Possession IX
+//notes:pandapaxxy (PvE / M+KB / Controller): "Another weird choice for New Monarchy weapons to bring back, the Adverse Possession IX isn’t even the longest scout rifle New Monarchy had on offer. Overflow is going to be my main pick as it bypasses reloading entirely. Frenzy is ultimately going to be your best damage perk in column 4 so by all intents and purposes this scout is underwhelming compared to any other scout, even outside its archetype." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1890332078&perks=3643424744,4104185692
+dimwishlist:item=1890332078&perks=3978468247,4104185692
+dimwishlist:item=1890332078&perks=4104185692,671806388
+
+// Ded Gramarye IV
+//notes:pandapaxxy (PvE / M+KB / Controller): "A sleeper of a weapon this shotgun gets both Chain Reaction and Discord allowing for maximum carnage with a single weapon kill. Any weapon kill then swapping to Ded Gramarye IV will give you 8 seconds of infinite shots that explode enemies. What more could you ask for? Voltshot is another great perk as shotguns naturally load one bullet at a time so you can shoot once, reload that once and your next shot will apply all that Jolting goodness. This can be done indefinitely as long as you have ammo. I think on Arc and even neutral builds this might become one of the top picks, the issue is getting one to drop." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=499245245&perks=2396489472,3978468247
+dimwishlist:item=499245245&perks=2173046394,3978468247
+dimwishlist:item=499245245&perks=1546637391,3978468247
+dimwishlist:item=499245245&perks=1583705720,2396489472
+dimwishlist:item=499245245&perks=1583705720,2173046394
+dimwishlist:item=499245245&perks=1546637391,1583705720
+
+// Maahes HC4
+//notes:pandapaxxy (PvE / M+KB / Controller): "Maahes HC4 is another Heavy Burst hand cannon. Omolon Fluid Dynamics gives you a considerable amount of stability at the top half of the magazine. Rapid Hit will maintain that stability as you land consecutive hits but Repulsor Brace and Destabilizing Rounds have obvious synergy. Unrelenting and Dragonfly or Golden Tricorn will be really good together as you get health back and have AoE explosions or increased damage to make the next enemy die that much quicker." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1246793994&perks=247725512,2610012052
+dimwishlist:item=1246793994&perks=247725512,2848615171
+dimwishlist:item=1246793994&perks=2048641572,247725512
+dimwishlist:item=1246793994&perks=2610012052,3108830275
+dimwishlist:item=1246793994&perks=2848615171,3108830275
+dimwishlist:item=1246793994&perks=2048641572,3108830275
+dimwishlist:item=1246793994&perks=2610012052,776531651
+dimwishlist:item=1246793994&perks=2848615171,776531651
+dimwishlist:item=1246793994&perks=2048641572,776531651
+
+// The Domino
+//notes:pandapaxxy (PvE / M+KB / Controller): "Future War Cult will always be the best cult, don’t even @ me. New Monarchy? Not a cult. Dead Orbit? Also not a cult. It’s literally in the name. Jokes aside, the Domino has some interesting but not meta shaking perks. Overflow and Subsistence will probably be what everyone gravitates towards while Shoot to Loot will be a more niche option. Incandescent is the only good perk in the fourth column with Harmony offering some niche but good damage alternatives." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2800870005&perks=3643424744,4293542123
+dimwishlist:item=2800870005&perks=1820235745,4293542123
+
+// Truthteller
+//notes:pandapaxxy (PvE / M+KB / Controller): "[Truthteller](https://tenor.com/view/look-how-they-massacred-my-boy-meme-massacre-kill-wrecked-gif-14452160) is nowhere near its past glory. The lack of Auto-Loading Holster really kneecapped this grenade launcher. You still get some great perks in Disruption Break, Repulsor Brace and Danger Close but lacking Auto-Loading Holster or even Envious Assassin as an alternative perk is really handicapping this weapon. If you had a previous version that is still going to be better than this one." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=447296102&perks=2779035018,776531651
+dimwishlist:item=447296102&perks=2779035018,960810156
+dimwishlist:item=447296102&perks=1583705720,776531651
+dimwishlist:item=447296102&perks=1583705720,960810156
+dimwishlist:item=447296102&perks=1631667848,776531651
+dimwishlist:item=447296102&perks=1631667848,960810156
+
+// Suspectum-4fr
+//notes:pandapaxxy (PvE / M+KB / Controller): "Suspectum-4fr has some of the best perks on a linear fusion rifle. Envious Assassin with Firing Line for damage or even Fourth Time’s the Charm for more ammo back, and that’s not even taking into consideration the origin trait also granting some ammo back automatically. If you wanted to fire a linear fusion near indefinitely you now can. Chill Clip and Headstone give the best Stasis synergy if you wanted to go that route." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=3615421669&perks=1771339417,968510818
+dimwishlist:item=3615421669&perks=1354429876,968510818
+dimwishlist:item=3615421669&perks=2978966579,968510818
+dimwishlist:item=3615421669&perks=124408337,1771339417
+dimwishlist:item=3615421669&perks=124408337,1354429876
+dimwishlist:item=3615421669&perks=124408337,2978966579
+
+// Better Devils
+//notes:pandapaxxy (PvE / M+KB / Controller): "Better Devils returns to us in a different form, Strand. Does this increase its viability? Not entirely. It does allow for some Strand Synergy with Slice and Hatchling but for general use Reconstruction to bypass reloading alongside the extra damage from Explosive Payload or Frenzy will make this feel superb, by now many of us have hand cannons in the kinetic slot that we use for general PvE, but if you really wanted to invest fully into Strand then this is your guy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4152016199&perks=1523832109,3038247973
+dimwishlist:item=4152016199&perks=1523832109,831391274
+dimwishlist:item=4152016199&perks=1523832109,4104185692
+dimwishlist:item=4152016199&perks=247725512,3038247973
+dimwishlist:item=4152016199&perks=247725512,831391274
+dimwishlist:item=4152016199&perks=247725512,4104185692
+
+// Origin Story
+//notes:pandapaxxy (PvE / M+KB / Controller): "Origin Story was probably most Vanilla vets first legendary weapon. Autos being as strong as they were in year 1 plus you got a great and consistent one right out the gate. Feeding Frenzy and Target Lock or Kinetic Tremors or even Onslaught will be amazing in all activities with Keep Away being a more passive bonus to reload and accuracy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2826850739&perks=2779035018,365154968
+dimwishlist:item=2826850739&perks=2779035018,3891536761
+dimwishlist:item=2826850739&perks=2779035018,95528736
+dimwishlist:item=2826850739&perks=3619207468,365154968
+dimwishlist:item=2826850739&perks=3619207468,3891536761
+dimwishlist:item=2826850739&perks=3619207468,95528736
+
+// Hush
+//notes:pandapaxxy (PvE / M+KB / Controller): "Hush is back! Arguably the greatest bow to ever exist. Archer’s Gambit also makes a return this season You can pair that with Archer’s Tempo for even faster draw times bringing it all the way down to a 157ms draw time with Elastic String and a draw time masterwork. Unrelenting with Incandescent will allow you to keep your health up while downing groups from afar and Shoot to Loot with either Incandescent or Explosive Head is niche but can keep your ammo topped up." Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=3962575203&perks=201365942,4293542123
+dimwishlist:item=3962575203&perks=201365942,3414324643
+dimwishlist:item=3962575203&perks=201365942,3365897133
+dimwishlist:item=3962575203&perks=3108830275,4293542123
+dimwishlist:item=3962575203&perks=3108830275,3414324643
+dimwishlist:item=3962575203&perks=3108830275,3365897133
+dimwishlist:item=3962575203&perks=3700496672,4293542123
+dimwishlist:item=3962575203&perks=3414324643,3700496672
+dimwishlist:item=3962575203&perks=3365897133,3700496672
+
+// Perfect Pitch
+//notes:pandapaxxy (PvE / M+KB / Controller): "Our ritual weapon is the best of none while still beating a large portion of our weapon base. Subsistence and Incandescent are such a strong pairing together. Onslaught, while fun, doesn’t get as much magazine back with Subsistence so you’re bound to run out of ammo eventually. It will be great if you don’t have a CALUS Mini-Tool or another solar SMG." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3276304504&perks=1820235745,4293542123
+dimwishlist:item=3276304504&perks=1820235745,95528736
+
+// The Riposte
+//notes:pandapaxxy (PvE / M+KB / Controller): "Our second only lightweight auto rifle behind a blue rare version. The Riposte is a great showing for a hybrid SMG and auto. 720 auto rifles have always been sorta niche being able to have the TtK of and SMG while maintaining the falloff and range of some auto rifles. Repulsor Brace and Destabilizing Rounds are both great options for Void builds. Enlightened Action brings up your already decent handling and reload speed just for shooting and hitting targets. Desperate Measures being able to boost your damage up whether you’re on Void or any subclass." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3754408118&perks=2048641572,776531651
+dimwishlist:item=3754408118&perks=2109543898,776531651
+dimwishlist:item=3754408118&perks=2048641572,3828510309
+dimwishlist:item=3754408118&perks=2109543898,3828510309
+
+// Warden's Law
+//notes:pandapaxxy (PvE / M+KB / Controller): "Warden’s Law lost Discord, Shot Swap, and Snapshot Sights to gain Adrenaline Junkie, Demolitionist, and To the Pain." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2152484073&perks=1354429876,1546637391
+dimwishlist:item=2152484073&perks=1354429876,4104185692
+dimwishlist:item=2152484073&perks=1428297954,1546637391
+dimwishlist:item=2152484073&perks=1428297954,4104185692
+dimwishlist:item=2152484073&perks=1546637391,3828510309
+dimwishlist:item=2152484073&perks=3828510309,4104185692
+
+// Warden's Law (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Warden’s Law lost Discord, Shot Swap, and Snapshot Sights to gain Adrenaline Junkie, Demolitionist, and To the Pain." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3250744600&perks=1354429876,1546637391
+dimwishlist:item=3250744600&perks=1354429876,4104185692
+dimwishlist:item=3250744600&perks=1428297954,1546637391
+dimwishlist:item=3250744600&perks=1428297954,4104185692
+dimwishlist:item=3250744600&perks=1546637391,3828510309
+dimwishlist:item=3250744600&perks=3828510309,4104185692
+
+// Pre Astyanax IV
+//notes:pandapaxxy (PvE / M+KB / Controller): "Pre Astyanax IV loses Collective Action, Enlightened Action, Perfect Float, Perpetual Motion, and Rangefinder. In their place will be Archer’s Gambit, Attrition Orbs, Cornered, Surrounded and To the Pain." Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=2932922810&perks=201365942,4293542123
+dimwishlist:item=2932922810&perks=201365942,3414324643
+dimwishlist:item=2932922810&perks=201365942,3365897133
+dimwishlist:item=2932922810&perks=3700496672,4293542123
+dimwishlist:item=2932922810&perks=3414324643,3700496672
+dimwishlist:item=2932922810&perks=3365897133,3700496672
+
+// Pre Astyanax IV (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Pre Astyanax IV loses Collective Action, Enlightened Action, Perfect Float, Perpetual Motion, and Rangefinder. In their place will be Archer’s Gambit, Attrition Orbs, Cornered, Surrounded and To the Pain." Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=2063217087&perks=201365942,4293542123
+dimwishlist:item=2063217087&perks=201365942,3414324643
+dimwishlist:item=2063217087&perks=201365942,3365897133
+dimwishlist:item=2063217087&perks=3700496672,4293542123
+dimwishlist:item=2063217087&perks=3414324643,3700496672
+dimwishlist:item=2063217087&perks=3365897133,3700496672
+
+// Shadow Price
+//notes:pandapaxxy (PvE / M+KB / Controller): "Shadow Price returns to us, is it better than before? Depends on what you’re looking to do. Overflow is the best option in column 3 but has no synergy with the best perk in column 4. Voltshot requires reloads to work and Overflow bypasses and does not allow you to reload when the magazine is larger than normal. Strategist works better for Voltshot but does not reload your weapon faster. Permeability works with Strategist as both use your class ability as activation points. One for All is the only good damage perk in the fourth column." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2322926844&perks=2173046394,3643424744
+dimwishlist:item=2322926844&perks=2428997981,3643424744
+dimwishlist:item=2322926844&perks=3643424744,4049631843
+dimwishlist:item=2322926844&perks=2173046394,880644845
+dimwishlist:item=2322926844&perks=2428997981,880644845
+dimwishlist:item=2322926844&perks=4049631843,880644845
+
+// Shadow Price (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Shadow Price returns to us, is it better than before? Depends on what you’re looking to do. Overflow is the best option in column 3 but has no synergy with the best perk in column 4. Voltshot requires reloads to work and Overflow bypasses and does not allow you to reload when the magazine is larger than normal. Strategist works better for Voltshot but does not reload your weapon faster. Permeability works with Strategist as both use your class ability as activation points. One for All is the only good damage perk in the fourth column." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1056103557&perks=2173046394,3643424744
+dimwishlist:item=1056103557&perks=2428997981,3643424744
+dimwishlist:item=1056103557&perks=3643424744,4049631843
+dimwishlist:item=1056103557&perks=2173046394,880644845
+dimwishlist:item=1056103557&perks=2428997981,880644845
+dimwishlist:item=1056103557&perks=4049631843,880644845
+
+// Undercurrent
+//notes:pandapaxxy (PvE / M+KB / Controller): "Under Current gets the least amount of change not changing at all from Season 23 to current." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=3686538757&perks=1556840489,2173046394
+dimwishlist:item=3686538757&perks=1556840489,3078487919
+dimwishlist:item=3686538757&perks=2173046394,2869569095
+dimwishlist:item=3686538757&perks=2869569095,3078487919
+dimwishlist:item=3686538757&perks=2010801679,2173046394
+dimwishlist:item=3686538757&perks=2010801679,3078487919
+
+// Undercurrent (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Under Current gets the least amount of change not changing at all from Season 23 to current." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=817909300&perks=1556840489,2173046394
+dimwishlist:item=817909300&perks=1556840489,3078487919
+dimwishlist:item=817909300&perks=2173046394,2869569095
+dimwishlist:item=817909300&perks=2869569095,3078487919
+dimwishlist:item=817909300&perks=2010801679,2173046394
+dimwishlist:item=817909300&perks=2010801679,3078487919
+
+// Uzume RR4
+//notes:pandapaxxy (PvE / M+KB / Controller): "Uzume RR4 also gets no change from Season 23 to Season 24." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=42874240&perks=1546637391,2284787283
+dimwishlist:item=42874240&perks=2284787283,555281244
+dimwishlist:item=42874240&perks=2284787283,3038247973
+dimwishlist:item=42874240&perks=1546637391,1556840489
+dimwishlist:item=42874240&perks=1556840489,555281244
+dimwishlist:item=42874240&perks=1556840489,3038247973
+dimwishlist:item=42874240&perks=1354429876,1546637391
+dimwishlist:item=42874240&perks=1354429876,555281244
+dimwishlist:item=42874240&perks=1354429876,3038247973
+
+// Uzume RR4 (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Uzume RR4 also gets no change from Season 23 to Season 24." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3610521673&perks=1546637391,2284787283
+dimwishlist:item=3610521673&perks=2284787283,555281244
+dimwishlist:item=3610521673&perks=2284787283,3038247973
+dimwishlist:item=3610521673&perks=1546637391,1556840489
+dimwishlist:item=3610521673&perks=1556840489,555281244
+dimwishlist:item=3610521673&perks=1556840489,3038247973
+dimwishlist:item=3610521673&perks=1354429876,1546637391
+dimwishlist:item=3610521673&perks=1354429876,555281244
+dimwishlist:item=3610521673&perks=1354429876,3038247973
+
+// Scintillation
+//notes:pandapaxxy (PvE / M+KB / Controller): "Scintillation might be the best weapon from the Vanguard in a while. Envious Assassin, Rewind Rounds, and Auto-Loading Holster all coupled with Bait and Switch, Firing Line or Reservoir Burst allows for the greatest flexibility in a linear fusion rifle to date. Not counting the Adept version you can drop the charge time considerably with Accelerated Coils and a charge time MW for faster DPS." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=2591257541&perks=3078487919,968510818
+dimwishlist:item=2591257541&perks=1771339417,968510818
+dimwishlist:item=2591257541&perks=1427256713,968510818
+dimwishlist:item=2591257541&perks=3078487919,3418782618
+dimwishlist:item=2591257541&perks=1771339417,3418782618
+dimwishlist:item=2591257541&perks=1427256713,3418782618
+dimwishlist:item=2591257541&perks=3078487919,3300816228
+dimwishlist:item=2591257541&perks=1771339417,3300816228
+dimwishlist:item=2591257541&perks=1427256713,3300816228
+
+// Scintillation (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Scintillation might be the best weapon from the Vanguard in a while. Envious Assassin, Rewind Rounds, and Auto-Loading Holster all coupled with Bait and Switch, Firing Line or Reservoir Burst allows for the greatest flexibility in a linear fusion rifle to date. Not counting the Adept version you can drop the charge time considerably with Accelerated Coils and a charge time MW for faster DPS." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=1492522228&perks=3078487919,968510818
+dimwishlist:item=1492522228&perks=1771339417,968510818
+dimwishlist:item=1492522228&perks=1427256713,968510818
+dimwishlist:item=1492522228&perks=3078487919,3418782618
+dimwishlist:item=1492522228&perks=1771339417,3418782618
+dimwishlist:item=1492522228&perks=1427256713,3418782618
+dimwishlist:item=1492522228&perks=3078487919,3300816228
+dimwishlist:item=1492522228&perks=1771339417,3300816228
+dimwishlist:item=1492522228&perks=1427256713,3300816228
+
+// Crimil's Dagger
+//notes:pandapaxxy (PvE / M+KB / Controller): "Crimil’s Dagger finally returns to us after what feels like forever. With an updated stat spread and updated perk pool does it hold its own? Well kinda sorta. Outlaw and Explosive Payload don’t always work the best together but the alternative being Precision Instrument and Enlightened Action just doesn’t feel as strong as other options. If you’re using Rally Barricade or Marksman’s Dodge you can take advantage of Strategist to get your reloads in but that’s still not even the best combination. Over in PvE Crimil’s is severely lacking." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=198854575&perks=1168162263,3038247973
+dimwishlist:item=198854575&perks=1168162263,555281244
+dimwishlist:item=198854575&perks=3038247973,3828510309
+dimwishlist:item=198854575&perks=3828510309,555281244
+dimwishlist:item=198854575&perks=3038247973,880644845
+dimwishlist:item=198854575&perks=555281244,880644845
+
+// Lethal Abundance
+//notes:pandapaxxy (PvE / M+KB / Controller): "Lethal Abundance lost Armor-Piercing Rounds, High-Caliber Rounds and Ricochet Rounds to pick up Accurized Rounds, Steady Rounds, and Tactical Mag." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3428407746&perks=3619207468,365154968
+dimwishlist:item=3428407746&perks=3619207468,95528736
+dimwishlist:item=3428407746&perks=3619207468,831391274
+dimwishlist:item=3428407746&perks=365154968,923806249
+dimwishlist:item=3428407746&perks=923806249,95528736
+dimwishlist:item=3428407746&perks=831391274,923806249
+
+// Riiswalker
+//notes:pandapaxxy (PvE / M+KB / Controller): "Riiswalker lost Shot Swap and gained Threat Remover." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=557165046&perks=3978468247,438098033
+
+// The Guiding Sight
+//notes:pandapaxxy (PvE / M+KB / Controller): "The Guiding Sight lost Encore, Gutshot Straight, and Tunnel Vision, and instead now rolls with Slice, Strategist, and To the Pain" Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=417100299&perks=1428297954,831391274
+dimwishlist:item=417100299&perks=1428297954,555281244
+dimwishlist:item=417100299&perks=1428297954,3751912585
+dimwishlist:item=417100299&perks=831391274,923806249
+dimwishlist:item=417100299&perks=555281244,923806249
+dimwishlist:item=417100299&perks=3751912585,923806249
+dimwishlist:item=417100299&perks=3523296417,831391274
+dimwishlist:item=417100299&perks=3523296417,555281244
+dimwishlist:item=417100299&perks=3523296417,3751912585
+
+// Claws of the Wolf
+//notes:pandapaxxy (PvE / M+KB / Controller): "Claws of the Wolf is an amazing addition to the Iron Banner loot pool. We have needed a void rapid fire pulse rifle since Gridskipper in Season 14. Repulsor Brace and Destabilizing Rounds are going to have your Void synergy and Perpetual Motion and Rampage will bring up your stats and damage, respectively." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1505862304&perks=1428297954,3425386926
+dimwishlist:item=1505862304&perks=1015611457,1428297954
+dimwishlist:item=1505862304&perks=1428297954,2048641572
+dimwishlist:item=1505862304&perks=3425386926,776531651
+dimwishlist:item=1505862304&perks=1015611457,776531651
+dimwishlist:item=1505862304&perks=2048641572,776531651
+
+// Point of the Stag
+//notes:pandapaxxy (PvE / M+KB / Controller): "Point of the Stag Lost Shot Swap and Slickdraw and instead now rolls with Air Trigger and Strategist." Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=3465233192&perks=1546637391,201365942
+dimwishlist:item=3465233192&perks=201365942,555281244
+dimwishlist:item=3465233192&perks=201365942,2610012052
+dimwishlist:item=3465233192&perks=1546637391,691659142
+dimwishlist:item=3465233192&perks=555281244,691659142
+dimwishlist:item=3465233192&perks=2610012052,691659142
+dimwishlist:item=3465233192&perks=1546637391,880644845
+dimwishlist:item=3465233192&perks=555281244,880644845
+dimwishlist:item=3465233192&perks=2610012052,880644845
+
+// Aisha's Care
+//notes:pandapaxxy (PvE / M+KB / Controller): "Aisha’s Care is a slightly new archetype of the legendary pulse rifle added in with Corrasion and Nullify. Does the Trials of Osiris version stand out compared to the others? Well the best reload perk is Keep Away, and Slice does offer some greater utility in group settings lowering other enemies outgoing damage. Desperado is funky on this version of a pulse rifle, and Hatchling does give this pulse a bit of Strand synergy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3969379530&perks=3047969693,3619207468
+dimwishlist:item=3969379530&perks=3619207468,831391274
+dimwishlist:item=3969379530&perks=3324494224,3619207468
+dimwishlist:item=3969379530&perks=3047969693,923806249
+dimwishlist:item=3969379530&perks=831391274,923806249
+dimwishlist:item=3969379530&perks=3324494224,923806249
+
+// Aisha's Care (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Aisha’s Care is a slightly new archetype of the legendary pulse rifle added in with Corrasion and Nullify. Does the Trials of Osiris version stand out compared to the others? Well the best reload perk is Keep Away, and Slice does offer some greater utility in group settings lowering other enemies outgoing damage. Desperado is funky on this version of a pulse rifle, and Hatchling does give this pulse a bit of Strand synergy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3332125295&perks=3047969693,3619207468
+dimwishlist:item=3332125295&perks=3619207468,831391274
+dimwishlist:item=3332125295&perks=3324494224,3619207468
+dimwishlist:item=3332125295&perks=3047969693,923806249
+dimwishlist:item=3332125295&perks=831391274,923806249
+dimwishlist:item=3332125295&perks=3324494224,923806249
+
+// Eye of Sol
+//notes:pandapaxxy (PvE / M+KB / Controller): "Eye of Sol lost Encore, Steady Rounds, Accurized Rounds, and Tactical Mag, and instead gained Air Trigger, Armor-Piercing Rounds, High-Caliber Rounds, Light Mag and Ricochet Rounds." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=627188188&perks=1428297954,1771339417
+dimwishlist:item=627188188&perks=1428297954,1546637391
+dimwishlist:item=627188188&perks=1428297954,555281244
+
+// Eye of Sol (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Eye of Sol lost Encore, Steady Rounds, Accurized Rounds, and Tactical Mag, and instead gained Air Trigger, Armor-Piercing Rounds, High-Caliber Rounds, Light Mag and Ricochet Rounds." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1321626661&perks=1428297954,1771339417
+dimwishlist:item=1321626661&perks=1428297954,1546637391
+dimwishlist:item=1321626661&perks=1428297954,555281244
+
+// Incisor
+//notes:pandapaxxy (PvE / M+KB / Controller): "Incisor has a none update from Season 23 to Season 24." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1711056134&perks=1820235745,557221067
+dimwishlist:item=1711056134&perks=1820235745,365154968
+dimwishlist:item=1711056134&perks=1820235745,831391274
+dimwishlist:item=1711056134&perks=557221067,968510818
+dimwishlist:item=1711056134&perks=365154968,968510818
+dimwishlist:item=1711056134&perks=831391274,968510818
+dimwishlist:item=1711056134&perks=557221067,923806249
+dimwishlist:item=1711056134&perks=365154968,923806249
+dimwishlist:item=1711056134&perks=831391274,923806249
+
+// Incisor (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Incisor has a none update from Season 23 to Season 24." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2839600459&perks=1820235745,557221067
+dimwishlist:item=2839600459&perks=1820235745,365154968
+dimwishlist:item=2839600459&perks=1820235745,831391274
+dimwishlist:item=2839600459&perks=557221067,968510818
+dimwishlist:item=2839600459&perks=365154968,968510818
+dimwishlist:item=2839600459&perks=831391274,968510818
+dimwishlist:item=2839600459&perks=557221067,923806249
+dimwishlist:item=2839600459&perks=365154968,923806249
+dimwishlist:item=2839600459&perks=831391274,923806249
+
+// Shayura's Wrath
+//notes:pandapaxxy (PvE / M+KB / Controller): "My beloved Shayura’s Wrath comes back to us this season with a slight downgrade in the magazine department losing Accurized Rounds for Ricochet Rounds or High-Caliber Rounds. Other than that we also have the same Void synergy with Destabilizing Rounds and Repulsor Brace. Cascade Point is funny to see but a bit more niche, Keep Away for the passive reload bonus and Strategist for class ability energy are both solid. Target Lock on SMGs was nerfed but in PvE still remains a solid option." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2022294213&perks=2048641572,776531651
+dimwishlist:item=2022294213&perks=365154968,776531651
+dimwishlist:item=2022294213&perks=2048641572,3619207468
+dimwishlist:item=2022294213&perks=3619207468,365154968
+dimwishlist:item=2022294213&perks=2048641572,880644845
+dimwishlist:item=2022294213&perks=365154968,880644845
+
+// Shayura's Wrath (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "My beloved Shayura’s Wrath comes back to us this season with a slight downgrade in the magazine department losing Accurized Rounds for Ricochet Rounds or High-Caliber Rounds. Other than that we also have the same Void synergy with Destabilizing Rounds and Repulsor Brace. Cascade Point is funny to see but a bit more niche, Keep Away for the passive reload bonus and Strategist for class ability energy are both solid. Target Lock on SMGs was nerfed but in PvE still remains a solid option." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=501345268&perks=2048641572,776531651
+dimwishlist:item=501345268&perks=365154968,776531651
+dimwishlist:item=501345268&perks=2048641572,3619207468
+dimwishlist:item=501345268&perks=3619207468,365154968
+dimwishlist:item=501345268&perks=2048641572,880644845
+dimwishlist:item=501345268&perks=365154968,880644845
+
+// Critical Anomaly
+//notes:pandapaxxy (PvE / M+KB / Controller): "Critical Anomaly has one of the most interesting perks we have seen on a sniper rifle. Chill Clip  allows you to stun 2/3 champions with one weapon and this season’s Radiant Orbs brings in the third allowing you to take care of all three champions with one weapon. Outside of the champion situation you have Rewind Rounds and Reconstruction for ammo and Bait and Switch or Firing Line for damage. Another interesting combination is either Rewind Rounds or Reconstruction with Triple Tap for a harder hitting Supremacy with less shots." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=445197843&perks=3078487919,3418782618
+dimwishlist:item=445197843&perks=1771339417,3418782618
+dimwishlist:item=445197843&perks=3400784728,3418782618
+dimwishlist:item=445197843&perks=1523832109,3078487919
+dimwishlist:item=445197843&perks=1523832109,1771339417
+dimwishlist:item=445197843&perks=1523832109,3400784728
+dimwishlist:item=445197843&perks=2978966579,3078487919
+dimwishlist:item=445197843&perks=1771339417,2978966579
+dimwishlist:item=445197843&perks=2978966579,3400784728
+
+// Critical Anomaly (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Critical Anomaly has one of the most interesting perks we have seen on a sniper rifle. Chill Clip  allows you to stun 2/3 champions with one weapon and this season’s Radiant Orbs brings in the third allowing you to take care of all three champions with one weapon. Outside of the champion situation you have Rewind Rounds and Reconstruction for ammo and Bait and Switch or Firing Line for damage. Another interesting combination is either Rewind Rounds or Reconstruction with Triple Tap for a harder hitting Supremacy with less shots." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=172461430&perks=3078487919,3418782618
+dimwishlist:item=172461430&perks=1771339417,3418782618
+dimwishlist:item=172461430&perks=3400784728,3418782618
+dimwishlist:item=172461430&perks=1523832109,3078487919
+dimwishlist:item=172461430&perks=1523832109,1771339417
+dimwishlist:item=172461430&perks=1523832109,3400784728
+dimwishlist:item=172461430&perks=2978966579,3078487919
+dimwishlist:item=172461430&perks=1771339417,2978966579
+dimwishlist:item=172461430&perks=2978966579,3400784728
+
+// Imminence
+//notes:pandapaxxy (PvE / M+KB / Controller): "Imminence with Chaos Reshaped or Firefly will be a weapon to bring to any activity. Chaos Reshaped is better for Onslaught type activities where the fighting barely stops, while Firefly will be better room to room like in a strike or story mission with downtime. Perpetual Motion and Enlightened Action both allow you to have faster reloads depending on moving or hitting things." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1258168956&perks=1428297954,3824105627
+dimwishlist:item=1258168956&perks=1428297954,3640170453
+dimwishlist:item=1258168956&perks=1428297954,831391274
+dimwishlist:item=1258168956&perks=3824105627,3828510309
+dimwishlist:item=1258168956&perks=3640170453,3828510309
+dimwishlist:item=1258168956&perks=3828510309,831391274
+dimwishlist:item=1258168956&perks=3824105627,923806249
+dimwishlist:item=1258168956&perks=3640170453,923806249
+dimwishlist:item=1258168956&perks=831391274,923806249
+
+// Imminence (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Imminence with Chaos Reshaped or Firefly will be a weapon to bring to any activity. Chaos Reshaped is better for Onslaught type activities where the fighting barely stops, while Firefly will be better room to room like in a strike or story mission with downtime. Perpetual Motion and Enlightened Action both allow you to have faster reloads depending on moving or hitting things." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3951511045&perks=1428297954,3824105627
+dimwishlist:item=3951511045&perks=1428297954,3640170453
+dimwishlist:item=3951511045&perks=1428297954,831391274
+dimwishlist:item=3951511045&perks=3824105627,3828510309
+dimwishlist:item=3951511045&perks=3640170453,3828510309
+dimwishlist:item=3951511045&perks=3828510309,831391274
+dimwishlist:item=3951511045&perks=3824105627,923806249
+dimwishlist:item=3951511045&perks=3640170453,923806249
+dimwishlist:item=3951511045&perks=831391274,923806249
+
+// Forthcoming Deviance
+//notes:pandapaxxy (PvE / M+KB / Controller): "Boy do I dislike testing Glaives. Forthcoming Deviance wasn’t too bad though. Reconstruction made it pretty easy to move from encounter to encounter while keeping damage up via Chaos Reshaped. Chain Reaction is probably going to be easier to use as you don’t need anything to activate it, while Destabilizing Rounds works better when on a Void subclass." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=535198113&perks=1523832109,2396489472
+dimwishlist:item=535198113&perks=1523832109,3640170453
+dimwishlist:item=535198113&perks=1523832109,2048641572
+dimwishlist:item=535198113&perks=1966281507,2396489472
+dimwishlist:item=535198113&perks=1966281507,3640170453
+dimwishlist:item=535198113&perks=1966281507,2048641572
+dimwishlist:item=535198113&perks=2396489472,951095735
+dimwishlist:item=535198113&perks=3640170453,951095735
+dimwishlist:item=535198113&perks=2048641572,951095735
+
+// Forthcoming Deviance (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Boy do I dislike testing Glaives. Forthcoming Deviance wasn’t too bad though. Reconstruction made it pretty easy to move from encounter to encounter while keeping damage up via Chaos Reshaped. Chain Reaction is probably going to be easier to use as you don’t need anything to activate it, while Destabilizing Rounds works better when on a Void subclass." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=3123651616&perks=1523832109,2396489472
+dimwishlist:item=3123651616&perks=1523832109,3640170453
+dimwishlist:item=3123651616&perks=1523832109,2048641572
+dimwishlist:item=3123651616&perks=1966281507,2396489472
+dimwishlist:item=3123651616&perks=1966281507,3640170453
+dimwishlist:item=3123651616&perks=1966281507,2048641572
+dimwishlist:item=3123651616&perks=2396489472,951095735
+dimwishlist:item=3123651616&perks=3640170453,951095735
+dimwishlist:item=3123651616&perks=2048641572,951095735
+
+// Non-Denouement
+//notes:pandapaxxy (PvE / M+KB / Controller): "No arguments here, this is the best weapon from the Salvation’s Edge raid. Non-Denouement, while hard to spell, gives us something we haven’t seen before; Dragonfly and Voltshot together. Dragonfly allows you to get some AoE damage on the initial kill while Voltshot on a bow will make it so as long as you’re getting kills you’ll be able to jolt on the next shot. Dealing AoE damage on top of more AoE damage and jolt is just hilariously fun and gives Trinity Ghoul vibes without the cost of your exotic. You cannot hold onto the Voltshot shot like Trinity Ghoul but that alone separates this legendary from the exotic." Recommended MW: Accuracy, or Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=1770490683&perks=2173046394,2848615171
+dimwishlist:item=1770490683&perks=2848615171,3640170453
+dimwishlist:item=1770490683&perks=2848615171,3365897133
+dimwishlist:item=1770490683&perks=201365942,2173046394
+dimwishlist:item=1770490683&perks=201365942,3640170453
+dimwishlist:item=1770490683&perks=201365942,3365897133
+dimwishlist:item=1770490683&perks=2173046394,3700496672
+dimwishlist:item=1770490683&perks=3640170453,3700496672
+dimwishlist:item=1770490683&perks=3365897133,3700496672
+
+// Non-Denouement (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "No arguments here, this is the best weapon from the Salvation’s Edge raid. Non-Denouement, while hard to spell, gives us something we haven’t seen before; Dragonfly and Voltshot together. Dragonfly allows you to get some AoE damage on the initial kill while Voltshot on a bow will make it so as long as you’re getting kills you’ll be able to jolt on the next shot. Dealing AoE damage on top of more AoE damage and jolt is just hilariously fun and gives Trinity Ghoul vibes without the cost of your exotic. You cannot hold onto the Voltshot shot like Trinity Ghoul but that alone separates this legendary from the exotic." Recommended MW: Accuracy, or Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=1039915310&perks=2173046394,2848615171
+dimwishlist:item=1039915310&perks=2848615171,3640170453
+dimwishlist:item=1039915310&perks=2848615171,3365897133
+dimwishlist:item=1039915310&perks=201365942,2173046394
+dimwishlist:item=1039915310&perks=201365942,3640170453
+dimwishlist:item=1039915310&perks=201365942,3365897133
+dimwishlist:item=1039915310&perks=2173046394,3700496672
+dimwishlist:item=1039915310&perks=3640170453,3700496672
+dimwishlist:item=1039915310&perks=3365897133,3700496672
+
+// Nullify
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nullify will not break the meta but instead slide itself comfortably towards the top. Heal Clip and Incandescent are tried and true options you’ll be seeing a lot of but an alternative healing / damage combo will be Subsistence with Chaos Reshaped. This allows you to bypass reload entirely while still getting damage and healing. Firefly will be a great alternative if you want some explosions / better reload instead of Subsistence." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=859869931&perks=3640170453,3824105627
+dimwishlist:item=859869931&perks=3824105627,4293542123
+dimwishlist:item=859869931&perks=2109543898,3824105627
+dimwishlist:item=859869931&perks=1820235745,3640170453
+dimwishlist:item=859869931&perks=1820235745,4293542123
+dimwishlist:item=859869931&perks=1820235745,2109543898
+dimwishlist:item=859869931&perks=3017780555,3640170453
+dimwishlist:item=859869931&perks=3017780555,4293542123
+dimwishlist:item=859869931&perks=2109543898,3017780555
+
+// Nullify (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nullify will not break the meta but instead slide itself comfortably towards the top. Heal Clip and Incandescent are tried and true options you’ll be seeing a lot of but an alternative healing / damage combo will be Subsistence with Chaos Reshaped. This allows you to bypass reload entirely while still getting damage and healing. Firefly will be a great alternative if you want some explosions / better reload instead of Subsistence." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=892183998&perks=3640170453,3824105627
+dimwishlist:item=892183998&perks=3824105627,4293542123
+dimwishlist:item=892183998&perks=2109543898,3824105627
+dimwishlist:item=892183998&perks=1820235745,3640170453
+dimwishlist:item=892183998&perks=1820235745,4293542123
+dimwishlist:item=892183998&perks=1820235745,2109543898
+dimwishlist:item=892183998&perks=3017780555,3640170453
+dimwishlist:item=892183998&perks=3017780555,4293542123
+dimwishlist:item=892183998&perks=2109543898,3017780555
+
+// Summum Bonum
+//notes:pandapaxxy (PvE / M+KB / Controller): "Summum Bonum is our first legendary wave frame sword. While being unique is it good? Well Unrelenting and Chain Reaction are both solid for keeping yourself alive while also clearing rooms with ease. If you wanted better health regeneration you could opt for Unrelenting and Chaos Reshaped. Both give healing at their full potential. Bait and Switch will give you the best damage while paired with either Tireless Blade or Relentless Strikes for ammo regeneration." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=3569407878&perks=2396489472,3108830275
+dimwishlist:item=3569407878&perks=3108830275,3640170453
+dimwishlist:item=3569407878&perks=3078487919,3108830275
+dimwishlist:item=3569407878&perks=1749209109,2396489472
+dimwishlist:item=3569407878&perks=1749209109,3640170453
+dimwishlist:item=3569407878&perks=1749209109,3078487919
+dimwishlist:item=3569407878&perks=2396489472,2590710093
+dimwishlist:item=3569407878&perks=2590710093,3640170453
+dimwishlist:item=3569407878&perks=2590710093,3078487919
+
+// Summum Bonum (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Summum Bonum is our first legendary wave frame sword. While being unique is it good? Well Unrelenting and Chain Reaction are both solid for keeping yourself alive while also clearing rooms with ease. If you wanted better health regeneration you could opt for Unrelenting and Chaos Reshaped. Both give healing at their full potential. Bait and Switch will give you the best damage while paired with either Tireless Blade or Relentless Strikes for ammo regeneration." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=2001697739&perks=2396489472,3108830275
+dimwishlist:item=2001697739&perks=3108830275,3640170453
+dimwishlist:item=2001697739&perks=3078487919,3108830275
+dimwishlist:item=2001697739&perks=1749209109,2396489472
+dimwishlist:item=2001697739&perks=1749209109,3640170453
+dimwishlist:item=2001697739&perks=1749209109,3078487919
+dimwishlist:item=2001697739&perks=2396489472,2590710093
+dimwishlist:item=2001697739&perks=2590710093,3640170453
+dimwishlist:item=2001697739&perks=2590710093,3078487919
+
+// Something New
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Stability or Handling.|tags:pve,mkb,controller
+dimwishlist:item=586671776&perks=124408337,2779035018
+dimwishlist:item=586671776&perks=2779035018,4104185692
+dimwishlist:item=586671776&perks=2779035018,3038247973
+dimwishlist:item=586671776&perks=124408337,247725512
+dimwishlist:item=586671776&perks=247725512,4104185692
+dimwishlist:item=586671776&perks=247725512,3038247973
+dimwishlist:item=586671776&perks=124408337,1820235745
+dimwishlist:item=586671776&perks=1820235745,4104185692
+dimwishlist:item=586671776&perks=1820235745,3038247973
+
+// Unknown Weapons
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Accuracy.|tags:pve,mkb,controller
+dimwishlist:item=2326578623&perks=2048641572,776531651
+dimwishlist:item=2326578623&perks=2610012052,776531651
+dimwishlist:item=2326578623&perks=3414324643,776531651
+dimwishlist:item=2326578623&perks=201365942,2048641572
+dimwishlist:item=2326578623&perks=201365942,2610012052
+dimwishlist:item=2326578623&perks=201365942,3414324643
+dimwishlist:item=2326578623&perks=2048641572,2652708987
+dimwishlist:item=2326578623&perks=2610012052,2652708987
+dimwishlist:item=2326578623&perks=2652708987,3414324643
+
+// Compass Rose
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4169225313&perks=1631667848,2679249093
+dimwishlist:item=4169225313&perks=1631667848,2360754333
+dimwishlist:item=4169225313&perks=1631667848,4293542123
+dimwishlist:item=4169225313&perks=1126264488,2679249093
+dimwishlist:item=4169225313&perks=1126264488,2360754333
+dimwishlist:item=4169225313&perks=1126264488,4293542123
+
+// Crowning Duologue
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=4106757302&perks=3078487919,3300816228
+dimwishlist:item=4106757302&perks=3300816228,968510818
+dimwishlist:item=4106757302&perks=1439600632,3300816228
+dimwishlist:item=4106757302&perks=1523832109,3078487919
+dimwishlist:item=4106757302&perks=1523832109,968510818
+dimwishlist:item=4106757302&perks=1439600632,1523832109
+dimwishlist:item=4106757302&perks=3078487919,951095735
+dimwishlist:item=4106757302&perks=951095735,968510818
+dimwishlist:item=4106757302&perks=1439600632,951095735
+
+// Ergo Sum
+//notes:pandapaxxy (PvE / M+KB / Controller)|tags:pve,mkb,controller
+dimwishlist:item=1681583613&perks=2963428707,519046634
+dimwishlist:item=1681583613&perks=2753228730,2963428707
+dimwishlist:item=1681583613&perks=289811733,2963428707
+
+// Selection of weapons that can be used against Stasis or Strand Subjugator enemies
+// Locus Locutus (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Overflow, Under-Over
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Locus Locutus - a pretty unloved Season of the Witch adaptive sniper is shapeable, so you can craft exactly the roll to help. First, Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Appended Mag which, with a Backup Mag mod, gets you to 7 in the mag (again, if your drop one, Extended Mag works too). Enhanced Overflow in the first trait perk column overflows the mag to 15. Finally, Under-Over provides a base +50% damage against the boss Subjugator "shield". The Head Rush origin trait mostly pointless - unless you make of habit of crouching and then standing up to shoot. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=4132072834&perks=1870851715,3643424744
+
+// Bite of the Fox (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), (Envious Assassin, Rapid Hit), Under-Over
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Bite of the Fox - which can still be obtained at the time of writing from legacy Iron Banner engram focussing. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Appended Mag which, with a Backup Mag mod, gets you to 5 in the mag (again, if your drop one, Extended Mag works too). Envious Assassin in the first trait perk column overflows the mag up to 15, or Rapid Hit helps lands crits and boosts reload speed, as a second choice. Finally, Under-Over provides +50% damage against the boss Subjugator "shield". The Skuling Wolf origin trait is pointless outside of PvP, unfortunetely. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=1403800851&perks=1870851715,968510818
+dimwishlist:item=1403800851&perks=1870851715,247725512
+
+// IKELOS_SR_v1.0.3 (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Seraph Rounds, Steady Rounds), (Overflow, Fourth Times the Charm), Under-Over
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. The Ilkelos Sniper rifle - still obtainable from the Seraph Shield mission - is shapeable, so you can craft exactly the roll to help. First, Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then, as a Backup Mag mod gets you to the max of 7 shots, Seraph Rounds for all the benefits of High-Caliber, Armor-Piercing and Ricihet Rounds, or Steady Rounds for more recoil control. Enhanced Overflow in the first trait perk column overflows the mag to 15, or Fourth Times the charm will provide 10 crit hits without a reload. Finally, Under-Over provides +50% damage against the boss Subjugator "shield". Unfortunately, you won't see any benefot from the Rasputin's Arsenal origin trait as you're not actually breaking any shields. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=2302346155&perks=1870851715,3643424744
+dimwishlist:item=2302346155&perks=1354429876,1870851715
+
+// Hollow Denial (PvE)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Light Battery, Tactical Battery), Adaptive Munitions, Killing Tally
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you do have a Hollow Denial from Season 17, it's shapeable, so you can craft exactly the roll to help. First, a barrel that helps with stability, to keep your reticule steady will help land consistent crits. Then, as a Backup Mag mod alone gets you to the maximum of 107 shots, Light Battery or Tactical Battery boost reload speed. Adaptive Munitions increases damage to non-matching Subjugator "shields" by for a total damage boost of around +45% after 15 hits (+73% when enhanced). If you can get some Killing Tally kills in advance, you'll have an additional +30% damage (so, +125% total damage with enhanced Adaptive Munitions) until you stow or reload. You won't get too much use out of the Extrovert perk with this set-up unfortunately. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=2323544076&perks=1048183818,557221067
+
+// Retraced Path (PvE)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Light Battery, Tactical Battery), Adaptive Munitions, (Frenzy, Target Lock, One For All, Golden Tricorn)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you do have a Retraced Path from Dares of Eternity, it's shapeable, so you can craft exactly the roll to help. First, a barrel that helps with stability, to keep your reticule steady will help land consistent crits. Then, as a Backup Mag mod gets you to the maximum of 107 shots, Light Mag or Tactical Mag boost reload speed. In the first trait column, Adaptive Munitions increases damage to non-matching Subjugator "shields" by for a total damage boost of around +45% after 15 hits (+73% when enhanced). In the second column you can stack damage further - Frenzy is most straightforward for +15% damage (and maxxed reload speed and handling), slightly trickier is Focused Fury for +20% once you've hit crits with half the mag. If you're really good in a firefight and there are minor adds around, One for All grants +35% damage for 10s when procced and if you want to roll the dice, you might just be able to pull off the second stack of Golden Tricorn for +50% damage for 10s. You won't get too much use out of the Hot Swap perk except possibly for the initial swap to the weapon. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=548958835&perks=1048183818,4104185692
+dimwishlist:item=548958835&perks=1048183818,2896038713
+dimwishlist:item=548958835&perks=1048183818,4049631843
+dimwishlist:item=548958835&perks=1048183818,2610012052
+
+// Path of Least Resistance (PvE)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Light Battery, Tactical Battery), Adaptive Munitions, (Target Lock, One For All)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you do have a Path of Least Resistance - still obtainable from the Seraph Shield mission - it's shapeable, so you can craft exactly the roll to help. First, a barrel that helps with stability, to keep your reticule steady will help land consistent crits. Then, as a Backup Mag mod gets you to the maximum of 107 shots, Light Mag or Tactical Mag boost reload speed. In the first trait perk column, Adaptive Munitions increases damage to non-matching Subjugator "shields" by for a total damage boost of around +45% after 15 hits (+73% when enhanced). In the second column you can stack damage further - with Focused Fury for +20% once you've hit crits with half the mag, or if there are minor adds around, One for All grants +35% damage for 10s when procced. You could use the Ambush origin trait for a little extra damage, or Omolon Fluid Dynamics for bonus stability at the start of the fight. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=2827764482&perks=1048183818,2896038713
+dimwishlist:item=2827764482&perks=1048183818,4049631843
+
+// Hammerhead (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Under-Over, (Target Lock, Killing Tally)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Hammerhead drops from Onslaught, but there's no focusing, so you're fate lies in the hands of RNGesus. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Appended Mag which, with a Backup Mag mod, gets you to 75 in the mag (again, if your drop one, Extended Mag works too) - but the inventory stat is on the low side, so you'll max out at 430 - that's 20-25 less than other adaptives. In the first trait perk column, Under-Over provides a base +50% damage against the boss Subjugator "shield". To boost this further, you can choose between Target Lock or Killing Tally, depending on whether there are adds around or not. The Indomitability origin trait isn't going to be that useful, unfortunately, as it only procs on kills. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=1896309757&perks=1870851715,365154968
+dimwishlist:item=1896309757&perks=1870851715,557221067
+
+// Hammerhead (Shiny) (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Under-Over, (Target Lock, Killing Tally)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Shiny Hammerheads no longer drop from Onslaught, so this is on the off-chance that you saved a roll from Into the Light. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Appended Mag which, with a Backup Mag mod, gets you to 75 in the mag (again, if your drop one, Extended Mag works too) - but the inventory stat is on the low side, so you'll max out at 430 - that's 20-25 less than other adaptives. In the first trait perk column, Under-Over provides a base +50% damage against the boss Subjugator "shield". To boost this further, you can choose between Target Lock or Killing Tally, depending on whether there are adds around or not. The Indomitability origin trait isn't going to be that useful, unfortunately, as it only procs on kills. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=211732170&perks=1870851715,365154968
+dimwishlist:item=211732170&perks=1870851715,557221067
+
+// Commemoration (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Adaptive Munitions, (Firing Line, Killing Tally)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you can get into a Deep Stone Crypt raid, Commemoration can be shaped after 5 red-boxes. First, Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Tactical Mag with a Backup Mag mod gets you to 75 shots in the mag, or, if you drop one, Appended or Extended Mag work too. In the first trait perk column, Adaptive Munitions increases damage to non-matching Subjugator "shields" for a total damage boost of around +45% after 15 hits (+73% when enhanced). To boost this further, in the second column, you can choose between Firing Line for +20% damage if you're in a fireteam, or Killing Tally for up to +30% if there are adds around. The Bray Inheritance origin trait will do its work in the background, speeding up your class ability regeneration as you land shots. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=4230965989&perks=1771339417,3431277734
+dimwishlist:item=4230965989&perks=3431277734,557221067
+
+// Unwavering Duty (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Field Prep, Adaptive Munitions
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Saint-14 can still focus Unwavering Duty in the Tower Hanger using Trials engrams. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Tactical Mag with a Backup Mag mod gets you to 75 shots in the mag, or Appended or Extended Mag work too. In the first trait perk column, Field Prep boosts reload speed, but more importantly takes total ammo from 357 to 424. In the second, Adaptive Munitions buffs damage to non-matching Subjugator "shields" for a total damage boost of around +45% after 15 hits (+73% when enhanced). The Alacrity origin trait, if you're soloing content, or One Quiet Moment otherwise to speed up reload are both useful. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=3624844116&perks=1048183818,2869569095
+
+// Unwavering Duty (Adept) (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Field Prep, Adaptive Munitions
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Saint-14 can still focus Unwavering Duty in the Tower Hanger using Trials engrams. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Tactical Mag with a Backup Mag mod gets you to 75 shots in the mag, or Appended or Extended Mag work too. In the first trait perk column, Field Prep boosts reload speed, but more importantly takes total ammo from 357 to 424. In the second, Adaptive Munitions buffs damage to non-matching Subjugator "shields" for a total damage boost of around +45% after 15 hits (+73% when enhanced). The Alacrity origin trait, if you're soloing content, or One Quiet Moment otherwise to speed up reload are both useful. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=2759251821&perks=1048183818,2869569095
+
+// Avalanche (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Under-Over, (Target Lock, Vorpal Weapon, One For All, Adrenaline Junkie)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Avalanche drops from the Dawning event so, if you haven't already got one, you'll have to wait until it rolls around. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Tactical Mag with a Backup Mag mod gets you to 75 shots in the mag, or Appended or Extended Mag work too. In the first trait perk column, Under-Over provides a base +50% damage against the boss Subjugator "shield". To boost this further, in the second column, you can choose between Target Lock or Vorpal Weapon as the easiest to set up, or One for All or Adrenaline Junkie if there are any adds around to proc. The Suros Synergy origin trait is briefly useful after a reload, but Dawning Surprise won't do much when firing at Subjugators. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=4220529694&perks=1870851715,365154968
+dimwishlist:item=4220529694&perks=1546637391,1870851715
+dimwishlist:item=4220529694&perks=1870851715,4049631843
+dimwishlist:item=4220529694&perks=11612903,1870851715
+
+// Marcato-45 (PvE)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), (Triple Tap, Slice), Under-Over
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Marcato-45, is one of the Final Shape world drops so, unfortunately, it's not possible to farm for at the time of writing this. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Appended Mag with a Backup Mag mod gets you to 75 shots in the mag, or Extended Mag works too. In the first trait perk column, Triple Tap is the obvious choice to extend your magazine or, for Hunters, Slice is useful to reduce the Subjugator's damage output by 40% after you dodge. In the second column, Under-Over provides +50% damage against a Stasis boss Subjugator "shield" and +87.5% against Strand Subjugators, as you bypass the damage reduction too. The Suros Synergy origin trait is briefly useful after a reload. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=4233375372&perks=1870851715,3400784728
+dimwishlist:item=4233375372&perks=1870851715,923806249
+
+// Chain of Command (PvE)
+// Arrowhead Brake, High-Caliber Rounds, Osmosis, Adaptive Munitions
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Chain of Command was the ritual chase weapon back in Season 19. The fixed roll does offer Adaptive Munitions, but it wouldn't be a first choice to use as there's no reloading or magazine extending trait perk. As it's stasis, Adaptive Munitions in the second trait column will work against Strand Subjugators, and you can use Osmosis in the first column to change the damage type to work against Stasis ones for a total damage boost of around +45% after 15 hits. Remember Adaptive Munitions only works against non-matching shield types, otherwise you're left with a less impressive +25% damage boost from bypassing the damage resistence on Stasis Subjugators. One Quiet Moment is the most useful of the origin traits, to speed up reload. Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=3105930175&perks=1048183818,2997472817
+
+// Eleatic Principle (PvE)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Eleatic Principle is a shapeable LMG from Witch Queen, but although you can craft it to your liking, it's not the strongest LMG to use for this use case being shorter ranged and more difficult to control than adaptives. First, Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Extended Mag with a Backup Mag mod gets you to 115 shots in the mag or again, if you drop one, Appended Mag with Backup Mag gets you to 110. In the first trait perk column, there isn't a huge choice - Ensemble boosts reload speed in a fireteam, or Eddy Current is the best on offer if you're solo. In the second, Adaptive Munitions buffs damage to non-matching Subjugator "shields" for a total damage boost of around +45% after 15 hits (+73% when enhanced). The Head Rush origin trait mostly pointless - unless you make of habit of crouching and then standing up to shoot.  Recommended MW: Stability, with a Backup Mag mod
+dimwishlist:item=105306149&perks=1048183818,2621346526
+dimwishlist:item=105306149&perks=1048183818,684456054
+
+// Stormchaser (PvE)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Stormchaser is the adaptive burst LFR that's still obtainable from the Duality dungeon. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Ionized Battery with Backup Mag max out the battery at 7 shots, or Backup Mag alone provides 6, in which case op for Accelerated Coils for better burst damage or Particle Repeater for more stability. In the first trait column, Clown Cartridge can get you to 11 shots, or Rapid Hit can make landing crits easier and boost reload speed. In the second, Adaptive Munitions provides a +30% damage boost after 3 hits. The Bitterspite origin trait is useful, boosting reload if you're taking damage. Recommended MW: Charge Time, with a Backup Mag mod
+dimwishlist:item=3652506829&perks=1048183818,2284787283
+dimwishlist:item=3652506829&perks=1048183818,247725512
+
+// Cataclysmic (PvE)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you've been collecting red-box weapons from Vow of the Disciple, then you'll be able to shape this to your liking.  Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Enhanced Battery with a Backup Mag mod gets you to 7 shots (same as Ionized Battery with Backup Mag), or alternatively Accelerated Coils for better burst damage or Particle Repeater for more stability. In the first trait column, Fourth Time's the Charm will extend your mag up to 10 shots when you hit crits. In the second, Adaptive Munitions provides a +30% (+56% when enhanced) damage boost after 3 hits. The Souldrinker origin trait is useful for recovering health after reloading. Recommended MW: Charge Time, with a Backup Mag mod
+dimwishlist:item=999767358&perks=1048183818,1354429876
+
+// Cataclysmic (Adept) (PvE)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you've been collecting red-box weapons from Vow of the Disciple, then you'll be able to shape this to your liking.  Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Enhanced Battery with a Backup Mag mod gets you to 7 shots (same as Ionized Battery with Backup Mag), or alternatively Accelerated Coils for better burst damage or Particle Repeater for more stability. In the first trait column, Fourth Time's the Charm will extend your mag up to 10 shots when you hit crits. In the second, Adaptive Munitions provides a +30% (+56% when enhanced) damage boost after 3 hits. The Souldrinker origin trait is useful for recovering health after reloading. Recommended MW: Charge Time, with a Backup Mag mod
+dimwishlist:item=2886339027&perks=1048183818,1354429876
+
 // Veiled Threat (First-choice PvE)
 // (Smallbore, Fluted Barrel, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), Shoot to Loot, (Desperate Measures, Collective Action)
 //notes:Inspired by @PodvsEnemies episode 106 from 3 July 2024 (https://open.spotify.com/episode/7jGtQ3pw94PV7XpXREQ094?si=ddb5fb64813048e1) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add clearing in end-game content. Shapeable. Veiled Threat looks lovely (like Vex Mytholast had a baby!) but unfortunately drops with poor base stats compared to its peers, so if you have a Krait you're happy with you can probably pass on by. If you're shooting adds at the outer reach of its range (22.6m at base), you might appreciate a little extra stability on controller, otherwise maybe a bit of extra range or stability with the barrel perk. In the mag slot, Alloy Mag can double down on the intrinsic frame perk to reduce reload time from 1.83s to 1.24s when empty, or Tactical Mag (1.68s) or Flared Magwell (1.61s) work at any point in the magazine if you can't wait. There's an interesting interaction between Shoot to Loot in the first trait perk column and the Radiolaria Transposer origin trait when procced - any ammo caught in the pool will be picked up. In the second, to boost damage, Desperate Measures adds up to +30% or Collective Action adds a flat +20%, and both are easy to proc with Transcendence. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like? Recommended MW: any - your preference, with a Backup Mag mod.
