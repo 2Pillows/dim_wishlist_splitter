@@ -309,6 +309,12 @@ dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,365154968
 dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,4293542123
 dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,557221067
 
+// Ded Gramarye IV
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP this shotgun finds itself in a very similar situation to Xenoclast IV. Good perks, Disruption Break for easier swap clean ups but falls victim to its own archetype. If this were an aggressive frame shotgun it would immediately be on my radar and others as a top competitive option, but lightweights just lack the stopping power and the pellet spread to be as competitive." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=499245245&perks=1300023272,1546637391,1821614984,791862061
+dimwishlist:item=499245245&perks=1546637391,1821614984,4090651448,791862061
+dimwishlist:item=499245245&perks=1482024992,1546637391,1821614984,791862061
+
 // Maahes HC4
 //notes:pandapaxxy (PvP / Controller): "Maahes HC4 in the crucible isn’t as strong as a dedicated 120 or 140 hand cannon. These weapons lack the peek shooting capabilities and don’t out range the other archetypes falling somewhere between the two. You’ll want to boost the weapons stats via Rapid Hit, Perpetual Motion or even Enlightened Action. Unrelenting stays up for a longer time than most players expect and can act as a pseudo Heal Clip when you chain kills. The easiest way to do that is with Golden Tricorn or Swashbuckler depending on the build you’re going for. Void builds should use Golden Tricorn to get to 2x allowing for a blistering 3c1b TtK at 0.57s. If you’re not going void but invest in strength or a melee build, Swashbuckler 5x allows for the same TtK but at 4c at all resilience levels. Golden Tricorn adds forgiveness but has the tradeoff of being slightly harder to pull off" Recommended MW: Range or Stability.|tags:pvp,controller
 dimwishlist:item=1246793994&perks=1840239774,247725512,2610012052,3142289711
