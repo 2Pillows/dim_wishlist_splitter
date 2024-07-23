@@ -362,35 +362,88 @@ dimwishlist:item=3615421669&perks=1840239774,2978966579,689005463,968510818
 dimwishlist:item=3615421669&perks=124408337,1840239774,2978966579,689005463
 dimwishlist:item=3615421669&perks=1483536627,1771339417,1840239774,968510818
 
+// Better Devils
+//notes:pandapaxxy (PvE / M+KB / Controller): "Better Devils returns to us in a different form, Strand. Does this increase its viability? Not entirely. It does allow for some Strand Synergy with Slice and Hatchling but for general use Reconstruction to bypass reloading alongside the extra damage from Explosive Payload or Frenzy will make this feel superb, by now many of us have hand cannons in the kinetic slot that we use for general PvE, but if you really wanted to invest fully into Strand then this is your guy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4152016199&perks=1840239774,247725512,3038247973,3230963543
+dimwishlist:item=4152016199&perks=1840239774,247725512,3230963543,4104185692
+dimwishlist:item=4152016199&perks=1482024992,247725512,3038247973,3230963543
+dimwishlist:item=4152016199&perks=1482024992,247725512,3230963543,4104185692
+dimwishlist:item=4152016199&perks=247725512,3038247973,3230963543,4090651448
+dimwishlist:item=4152016199&perks=247725512,3230963543,4090651448,4104185692
+
+// Origin Story
+//notes:pandapaxxy (PvE / M+KB / Controller): "Origin Story was probably most Vanilla vets first legendary weapon. Autos being as strong as they were in year 1 plus you got a great and consistent one right out the gate. Feeding Frenzy and Target Lock or Kinetic Tremors or even Onslaught will be amazing in all activities with Keep Away being a more passive bonus to reload and accuracy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2826850739&perks=1840239774,2779035018,3230963543,3891536761
+dimwishlist:item=2826850739&perks=1840239774,2779035018,3230963543,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,95528736
+dimwishlist:item=2826850739&perks=1482024992,2779035018,3230963543,3891536761
+dimwishlist:item=2826850739&perks=1482024992,2779035018,3230963543,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,95528736
+
 // Hush
 //notes:pandapaxxy (PvE / M+KB / Controller): "Hush is back! Arguably the greatest bow to ever exist. Archer’s Gambit also makes a return this season You can pair that with Archer’s Tempo for even faster draw times bringing it all the way down to a 157ms draw time with Elastic String and a draw time masterwork. Unrelenting with Incandescent will allow you to keep your health up while downing groups from afar and Shoot to Loot with either Incandescent or Explosive Head is niche but can keep your ammo topped up." Recommended MW: Draw Time.|tags:pve,mkb,controller
 dimwishlist:item=3962575203&perks=201365942,2801223209,3429800428,4293542123
 dimwishlist:item=3962575203&perks=201365942,2801223209,3414324643,3429800428
 dimwishlist:item=3962575203&perks=201365942,2801223209,3365897133,3429800428
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3429800428,4293542123
+dimwishlist:item=3962575203&perks=2801223209,3365897133,3429800428,3700496672
 dimwishlist:item=3962575203&perks=201365942,2801223209,3827198035,4293542123
 dimwishlist:item=3962575203&perks=201365942,2801223209,3414324643,3827198035
 dimwishlist:item=3962575203&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3827198035,4293542123
+dimwishlist:item=3962575203&perks=2801223209,3365897133,3700496672,3827198035
 dimwishlist:item=3962575203&perks=201365942,2801223209,3311977193,4293542123
 dimwishlist:item=3962575203&perks=201365942,2801223209,3311977193,3414324643
 dimwishlist:item=3962575203&perks=201365942,2801223209,3311977193,3365897133
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3311977193,4293542123
+dimwishlist:item=3962575203&perks=2801223209,3311977193,3365897133,3700496672
 dimwishlist:item=3962575203&perks=201365942,3429800428,4067834857,4293542123
 dimwishlist:item=3962575203&perks=201365942,3414324643,3429800428,4067834857
 dimwishlist:item=3962575203&perks=201365942,3365897133,3429800428,4067834857
+dimwishlist:item=3962575203&perks=3108830275,3429800428,4067834857,4293542123
+dimwishlist:item=3962575203&perks=3365897133,3429800428,3700496672,4067834857
 dimwishlist:item=3962575203&perks=201365942,3827198035,4067834857,4293542123
 dimwishlist:item=3962575203&perks=201365942,3414324643,3827198035,4067834857
 dimwishlist:item=3962575203&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=3962575203&perks=3108830275,3827198035,4067834857,4293542123
+dimwishlist:item=3962575203&perks=3365897133,3700496672,3827198035,4067834857
 dimwishlist:item=3962575203&perks=201365942,3311977193,4067834857,4293542123
 dimwishlist:item=3962575203&perks=201365942,3311977193,3414324643,4067834857
 dimwishlist:item=3962575203&perks=201365942,3311977193,3365897133,4067834857
+dimwishlist:item=3962575203&perks=3108830275,3311977193,4067834857,4293542123
+dimwishlist:item=3962575203&perks=3311977193,3365897133,3700496672,4067834857
 dimwishlist:item=3962575203&perks=201365942,3429800428,4293542123,852209214
 dimwishlist:item=3962575203&perks=201365942,3414324643,3429800428,852209214
 dimwishlist:item=3962575203&perks=201365942,3365897133,3429800428,852209214
+dimwishlist:item=3962575203&perks=3108830275,3429800428,4293542123,852209214
+dimwishlist:item=3962575203&perks=3365897133,3429800428,3700496672,852209214
 dimwishlist:item=3962575203&perks=201365942,3827198035,4293542123,852209214
 dimwishlist:item=3962575203&perks=201365942,3414324643,3827198035,852209214
 dimwishlist:item=3962575203&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=3962575203&perks=3108830275,3827198035,4293542123,852209214
+dimwishlist:item=3962575203&perks=3365897133,3700496672,3827198035,852209214
 dimwishlist:item=3962575203&perks=201365942,3311977193,4293542123,852209214
 dimwishlist:item=3962575203&perks=201365942,3311977193,3414324643,852209214
 dimwishlist:item=3962575203&perks=201365942,3311977193,3365897133,852209214
+dimwishlist:item=3962575203&perks=3108830275,3311977193,4293542123,852209214
+dimwishlist:item=3962575203&perks=3311977193,3365897133,3700496672,852209214
+
+// Warden's Law
+//notes:pandapaxxy (PvE / M+KB / Controller): "Warden’s Law lost Discord, Shot Swap, and Snapshot Sights to gain Adrenaline Junkie, Demolitionist, and To the Pain." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2152484073&perks=1087426260,1354429876,1546637391,1840239774
+dimwishlist:item=2152484073&perks=1087426260,1428297954,1546637391,1840239774
+dimwishlist:item=2152484073&perks=1087426260,1546637391,1840239774,3828510309
+dimwishlist:item=2152484073&perks=106909392,1354429876,1546637391,1840239774
+dimwishlist:item=2152484073&perks=106909392,1428297954,1546637391,1840239774
+dimwishlist:item=2152484073&perks=106909392,1546637391,1840239774,3828510309
+dimwishlist:item=2152484073&perks=1087426260,1354429876,1482024992,1546637391
+dimwishlist:item=2152484073&perks=1087426260,1428297954,1482024992,1546637391
+dimwishlist:item=2152484073&perks=1087426260,1482024992,1546637391,3828510309
+dimwishlist:item=2152484073&perks=106909392,1354429876,1482024992,1546637391
+dimwishlist:item=2152484073&perks=106909392,1428297954,1482024992,1546637391
+dimwishlist:item=2152484073&perks=106909392,1482024992,1546637391,3828510309
 
 // Pre Astyanax IV
 //notes:pandapaxxy (PvE / M+KB / Controller): "Pre Astyanax IV loses Collective Action, Enlightened Action, Perfect Float, Perpetual Motion, and Rangefinder. In their place will be Archer’s Gambit, Attrition Orbs, Cornered, Surrounded and To the Pain." Recommended MW: Draw Time.|tags:pve,mkb,controller
@@ -434,9 +487,62 @@ dimwishlist:item=2063217087&perks=201365942,3365897133,3827198035,852209214
 dimwishlist:item=2063217087&perks=201365942,3311977193,3414324643,852209214
 dimwishlist:item=2063217087&perks=201365942,3311977193,3365897133,852209214
 
+// Shadow Price
+//notes:pandapaxxy (PvE / M+KB / Controller): "Shadow Price returns to us, is it better than before? Depends on what you’re looking to do. Overflow is the best option in column 3 but has no synergy with the best perk in column 4. Voltshot requires reloads to work and Overflow bypasses and does not allow you to reload when the magazine is larger than normal. Strategist works better for Voltshot but does not reload your weapon faster. Permeability works with Strategist as both use your class ability as activation points. One for All is the only good damage perk in the fourth column." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2322926844&perks=106909392,1840239774,4049631843,880644845
+dimwishlist:item=2322926844&perks=1840239774,3230963543,4049631843,880644845
+dimwishlist:item=2322926844&perks=106909392,4049631843,4090651448,880644845
+dimwishlist:item=2322926844&perks=3230963543,4049631843,4090651448,880644845
+
+// Shadow Price (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Shadow Price returns to us, is it better than before? Depends on what you’re looking to do. Overflow is the best option in column 3 but has no synergy with the best perk in column 4. Voltshot requires reloads to work and Overflow bypasses and does not allow you to reload when the magazine is larger than normal. Strategist works better for Voltshot but does not reload your weapon faster. Permeability works with Strategist as both use your class ability as activation points. One for All is the only good damage perk in the fourth column." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1056103557&perks=106909392,1840239774,4049631843,880644845
+dimwishlist:item=1056103557&perks=1840239774,3230963543,4049631843,880644845
+dimwishlist:item=1056103557&perks=106909392,4049631843,4090651448,880644845
+dimwishlist:item=1056103557&perks=3230963543,4049631843,4090651448,880644845
+
+// Scintillation
+//notes:pandapaxxy (PvE / M+KB / Controller): "Scintillation might be the best weapon from the Vanguard in a while. Envious Assassin, Rewind Rounds, and Auto-Loading Holster all coupled with Bait and Switch, Firing Line or Reservoir Burst allows for the greatest flexibility in a linear fusion rifle to date. Not counting the Adept version you can drop the charge time considerably with Accelerated Coils and a charge time MW for faster DPS." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=2591257541&perks=3078487919,689005463,839105230,968510818
+dimwishlist:item=2591257541&perks=1771339417,689005463,839105230,968510818
+dimwishlist:item=2591257541&perks=1427256713,689005463,839105230,968510818
+dimwishlist:item=2591257541&perks=3078487919,3418782618,689005463,839105230
+dimwishlist:item=2591257541&perks=1771339417,3418782618,689005463,839105230
+dimwishlist:item=2591257541&perks=3078487919,3300816228,689005463,839105230
+dimwishlist:item=2591257541&perks=1427256713,2680121939,839105230,968510818
+dimwishlist:item=2591257541&perks=1483536627,3078487919,839105230,968510818
+dimwishlist:item=2591257541&perks=1483536627,1771339417,839105230,968510818
+dimwishlist:item=2591257541&perks=1483536627,3078487919,3418782618,839105230
+dimwishlist:item=2591257541&perks=1483536627,1771339417,3418782618,839105230
+dimwishlist:item=2591257541&perks=1483536627,3078487919,3300816228,839105230
+
+// Scintillation (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Scintillation might be the best weapon from the Vanguard in a while. Envious Assassin, Rewind Rounds, and Auto-Loading Holster all coupled with Bait and Switch, Firing Line or Reservoir Burst allows for the greatest flexibility in a linear fusion rifle to date. Not counting the Adept version you can drop the charge time considerably with Accelerated Coils and a charge time MW for faster DPS." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=1492522228&perks=3078487919,689005463,839105230,968510818
+dimwishlist:item=1492522228&perks=1771339417,689005463,839105230,968510818
+dimwishlist:item=1492522228&perks=1427256713,689005463,839105230,968510818
+dimwishlist:item=1492522228&perks=3078487919,3418782618,689005463,839105230
+dimwishlist:item=1492522228&perks=1771339417,3418782618,689005463,839105230
+dimwishlist:item=1492522228&perks=3078487919,3300816228,689005463,839105230
+dimwishlist:item=1492522228&perks=1427256713,2680121939,839105230,968510818
+dimwishlist:item=1492522228&perks=1483536627,3078487919,839105230,968510818
+dimwishlist:item=1492522228&perks=1483536627,1771339417,839105230,968510818
+dimwishlist:item=1492522228&perks=1483536627,3078487919,3418782618,839105230
+dimwishlist:item=1492522228&perks=1483536627,1771339417,3418782618,839105230
+dimwishlist:item=1492522228&perks=1483536627,3078487919,3300816228,839105230
+
+// The Guiding Sight
+//notes:pandapaxxy (PvE / M+KB / Controller): "The Guiding Sight lost Encore, Gutshot Straight, and Tunnel Vision, and instead now rolls with Slice, Strategist, and To the Pain" Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=417100299&perks=106909392,1840239774,831391274,923806249
+dimwishlist:item=417100299&perks=1840239774,3230963543,831391274,923806249
+dimwishlist:item=417100299&perks=106909392,4090651448,831391274,923806249
+dimwishlist:item=417100299&perks=3230963543,4090651448,831391274,923806249
+
 // Claws of the Wolf
 //notes:pandapaxxy (PvE / M+KB / Controller): "Claws of the Wolf is an amazing addition to the Iron Banner loot pool. We have needed a void rapid fire pulse rifle since Gridskipper in Season 14. Repulsor Brace and Destabilizing Rounds are going to have your Void synergy and Perpetual Motion and Rampage will bring up your stats and damage, respectively." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1505862304&perks=1968497646,2048641572,776531651,839105230
 dimwishlist:item=1505862304&perks=1015611457,1428297954,3230963543,839105230
+dimwishlist:item=1505862304&perks=2048641572,3230963543,776531651,839105230
 
 // Point of the Stag
 //notes:pandapaxxy (PvE / M+KB / Controller): "Point of the Stag Lost Shot Swap and Slickdraw and instead now rolls with Air Trigger and Strategist." Recommended MW: Draw Time.|tags:pve,mkb,controller
@@ -549,6 +655,174 @@ dimwishlist:item=999767358&perks=1048183818,1354429876,689005463,839105230
 //notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. If you've been collecting red-box weapons from Vow of the Disciple, then you'll be able to shape this to your liking.  Arrowhead Brake to help with recoil (if you just drop one, Chambered Compensator or Polygonal Rifling will also to help land consistent crits). Then Enhanced Battery with a Backup Mag mod gets you to 7 shots (same as Ionized Battery with Backup Mag), or alternatively Accelerated Coils for better burst damage or Particle Repeater for more stability. In the first trait column, Fourth Time's the Charm will extend your mag up to 10 shots when you hit crits. In the second, Adaptive Munitions provides a +30% (+56% when enhanced) damage boost after 3 hits. The Souldrinker origin trait is useful for recovering health after reloading. Recommended MW: Charge Time, with a Backup Mag mod
 dimwishlist:item=2886339027&perks=1048183818,1354429876,1483536627,839105230
 dimwishlist:item=2886339027&perks=1048183818,1354429876,689005463,839105230
+
+// Origin Story (First-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Alloy Mag, Fluted Barrel), (Demolitionist, Dynamic Sway Reducation, Threat Detector, Feeding Frenzy, Keep Away), Onslaught
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for Minor add clearing in general content. Wanna fire the same Precision AR as Zavala? Origin Story returns with a refreshed (if huge) perk pool. If you're focussing make sure you've reset your reputation a few times first. The precision frame makes recoil easier to handle but the stats are on the low side, so you can use the barrel and magazine perks to fill them out a little. You've got a choice of first column support perks to add utility, boost gunfeel stats or directly improve reload speed. In the second column, Onslaught can dramatically improve outgoing damage as you're killing adds. Either Origin Trait can work, depending on whether you want a little bit of health or slightly improved gunfeel. The perk pool is huge, so reset Vanguard rank as many times as you can before you start focusing engrams. Recommended MW: any - dealer's choice, with a Backup Mag mod.
+dimwishlist:item=2826850739&perks=1840239774,2779035018,3230963543,95528736
+dimwishlist:item=2826850739&perks=1482024992,2779035018,3230963543,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,95528736
+
+// Origin Story (First-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Alloy Mag, Fluted Barrel), (Demolitionist, Threat Detector, Feeding Frenzy, Keep Away), Onslaught
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for Minor add clearing in general content. Wanna fire the same Precision AR as Zavala? Origin Story returns with a refreshed (if huge) perk pool. If you're focussing make sure you've reset your reputation a few times first. The precision frame makes recoil easier to handle but the stats are on the low side, so you can use the barrel and magazine perks to fill them out a little. You've got a choice of first column support perks to add utility, boost gunfeel stats or directly improve reload speed. In the second column, Kinetic Tremors needs 12 shots to hit, but is a good AoE damage effect for staggering beefier adds and controlling any nearby Minors and Majors. Either Origin Trait can work, depending on whether you want a little bit of health or slightly improved gunfeel. The perk pool is huge, so reset Vanguard rank as many times as you can before you start focusing engrams. Recommended MW: any - dealer's choice, with a Backup Mag mod.
+dimwishlist:item=2826850739&perks=1840239774,2779035018,3230963543,3891536761
+dimwishlist:item=2826850739&perks=1482024992,2779035018,3230963543,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,3891536761
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), Envious Assassin, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for damage against Major and Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Enhanced Battery which, with a Backup Mag mod, is your first step towards the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, Envious Assassin can triple your number of shots to 21 - pretty much all of your reserve ammo. In the second, Reservoir Burst is the final step to get to 7 shots in the base battery, adds +25% damage to every overflowed shot and, if you kill your target, the explosion is 4x stronger than Chain Reaction would be. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=1427256713,2680121939,839105230,968510818
+dimwishlist:item=2591257541&perks=1427256713,689005463,839105230,968510818
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Auto-Loading Holster, Envious Assassin, Rewind Rounds, Rapid Hit), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Bait and Switch is still the perennial favourite, with +30% damage when procced, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=1483536627,3078487919,3300816228,839105230
+dimwishlist:item=2591257541&perks=3078487919,3300816228,689005463,839105230
+dimwishlist:item=2591257541&perks=1483536627,3078487919,839105230,968510818
+dimwishlist:item=2591257541&perks=3078487919,689005463,839105230,968510818
+dimwishlist:item=2591257541&perks=1483536627,3078487919,3418782618,839105230
+dimwishlist:item=2591257541&perks=3078487919,3418782618,689005463,839105230
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Envious Assassin, Rewind Rounds, Rapid Hit), Firing Line
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Firing Line is a solid +20% damage bonus just for being near your fireteam, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=1483536627,1771339417,839105230,968510818
+dimwishlist:item=2591257541&perks=1771339417,689005463,839105230,968510818
+dimwishlist:item=2591257541&perks=1483536627,1771339417,3418782618,839105230
+dimwishlist:item=2591257541&perks=1771339417,3418782618,689005463,839105230
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), Envious Assassin, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for damage against Major and Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Enhanced Battery which, with a Backup Mag mod, is your first step towards the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, Envious Assassin can triple your number of shots to 21 - pretty much all of your reserve ammo. In the second, Reservoir Burst is the final step to get to 7 shots in the base battery, adds +25% damage to every overflowed shot and, if you kill your target, the explosion is 4x stronger than Chain Reaction would be. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=1427256713,2680121939,839105230,968510818
+dimwishlist:item=1492522228&perks=1427256713,689005463,839105230,968510818
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Auto-Loading Holster, Envious Assassin, Rewind Rounds, Rapid Hit), Bait and Switch
+//notes:Inspired by @PodvsEnemies epis ode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Bait and Switch is still the perennial favourite, with +30% damage when procced, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=1483536627,3078487919,3300816228,839105230
+dimwishlist:item=1492522228&perks=3078487919,3300816228,689005463,839105230
+dimwishlist:item=1492522228&perks=1483536627,3078487919,839105230,968510818
+dimwishlist:item=1492522228&perks=3078487919,689005463,839105230,968510818
+dimwishlist:item=1492522228&perks=1483536627,3078487919,3418782618,839105230
+dimwishlist:item=1492522228&perks=3078487919,3418782618,689005463,839105230
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Envious Assassin, Rewind Rounds, Rapid Hit), Firing Line
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Firing Line is a solid +20% damage bonus just for being near your fireteam, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=1483536627,1771339417,839105230,968510818
+dimwishlist:item=1492522228&perks=1771339417,689005463,839105230,968510818
+dimwishlist:item=1492522228&perks=1483536627,1771339417,3418782618,839105230
+dimwishlist:item=1492522228&perks=1771339417,3418782618,689005463,839105230
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Rapid Hit, Enlightened Action, Perpetual Motion, Air Trigger), (One For All, Explosive Payload)
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For end-game use, looking at first column trait perks that don't need a kill to proc and which further fill out the gunfeel stats Rapid Hit, Enlightened Action, Perpetual Motion all work. Air Trigger might be more of a PvP perk, but provides Outlaw-like reload speeds if you're off the ground. In the second column, One For All provides a +30% damage bonus for hitting three enemies, or Explosive Payload adds a little extra damage and flinch. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,247725512,3038247973,3230963543
+dimwishlist:item=4152016199&perks=1840239774,247725512,3038247973,3230963543
+dimwishlist:item=4152016199&perks=247725512,3038247973,3230963543,4090651448
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For end-game use, looking at first column trait perks that don't need a kill to proc and which further fill out the gunfeel stats Rapid Hit, and Perpetual Motion Perpetual Motion both help add stability to pretty much max out gunfeel stats when paired with Frenzy, which also adds a useful +15% damage. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,247725512,3230963543,4104185692
+dimwishlist:item=4152016199&perks=1840239774,247725512,3230963543,4104185692
+dimwishlist:item=4152016199&perks=247725512,3230963543,4090651448,4104185692
+
+// Warden's Law (PvE)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Appended Mag), (Fourth Time's The Charm, Enlightened Action, Perpetual Motion), Vorpal Waepon
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for anti-Champion use in end-game content. The re-reprised Warden's Law was the first of the heavy burst subfamily, and provides good, if slightly clunky-feeling damage. The stats look like those of a 120 but with less range and, although the magazine looks generous, every trigger pull shoots two bullets so in reality, you'll only have 8 shots at base. Handling and Stability could both also do with a bump, but we can sort handling with traits, so Polygonal Rifling provides the biggest boost, followed by Smallbore, Fluted Barrel and then Corkscrew Rifling. Using Tactical Mag or Appended Mag as the magazine perk, with a Backup Mag mod, will bring the magazine to its maximum of 14. The two shot burst makes this useful for disrupting overloads - you can look for a first column trait perk that helps with gunfeel or ammo economy, to pair with Vorpal Weapon in the second for a little extra damage against majors and bosses. TYhe Stunning Recovery origin trait pairs well for this anti_champion role. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=2152484073&perks=106909392,1354429876,1482024992,1546637391
+dimwishlist:item=2152484073&perks=106909392,1354429876,1546637391,1840239774
+dimwishlist:item=2152484073&perks=1087426260,1354429876,1482024992,1546637391
+dimwishlist:item=2152484073&perks=1087426260,1354429876,1546637391,1840239774
+dimwishlist:item=2152484073&perks=106909392,1428297954,1482024992,1546637391
+dimwishlist:item=2152484073&perks=106909392,1428297954,1546637391,1840239774
+dimwishlist:item=2152484073&perks=1087426260,1428297954,1482024992,1546637391
+dimwishlist:item=2152484073&perks=1087426260,1428297954,1546637391,1840239774
+dimwishlist:item=2152484073&perks=106909392,1482024992,1546637391,3828510309
+dimwishlist:item=2152484073&perks=106909392,1546637391,1840239774,3828510309
+dimwishlist:item=2152484073&perks=1087426260,1482024992,1546637391,3828510309
+dimwishlist:item=2152484073&perks=1087426260,1546637391,1840239774,3828510309
+
+// Shadow Price (PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Strategist, (One For All, Surrounded)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in end-game content, for Titans using Hazardous Propulsion. The reprised Shadow Price comes back into a very competitive arc auto rifle ecosystem and, while it's not a bad option, with good stats, it doesn't really offer anything new either so only look at this if you don't have similar arc AR options already. Being a precision frame, you can ignore recoil direction, so just use the barrel and mag perks to improve the gunfeel further and boost reload speed. For Titans who need their barricade back as fast as possible to use Hazardous Propulsion with, Strategist speeds up class ability regeneration in the first trait perk column, and you can pair this with either One For All for a damage boost of +35%, or Surrounded if you're playing in CQC ranges and gain a +40% (+47% when enhanced) damage boost. The Vanguard's Vindication origin trait is useful, if not very noticeable. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=2322926844&perks=106909392,1840239774,4049631843,880644845
+dimwishlist:item=2322926844&perks=106909392,4049631843,4090651448,880644845
+dimwishlist:item=2322926844&perks=1840239774,3230963543,4049631843,880644845
+dimwishlist:item=2322926844&perks=3230963543,4049631843,4090651448,880644845
+
+// Shadow Price (Adept) (PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Strategist, (One For All, Surrounded)
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in end-game content, for Titans using Hazardous Propulsion. The reprised Shadow Price comes back into a very competitive arc auto rifle ecosystem and, while it's not a bad option, with good stats, it doesn't really offer anything new either so only look at this if you don't have similar arc AR options already. Being a precision frame, you can ignore recoil direction, so just use the barrel and mag perks to improve the gunfeel further and boost reload speed. For Titans who need their barricade back as fast as possible to use Hazardous Propulsion with, Strategist speeds up class ability regeneration in the first trait perk column, and you can pair this with either One For All for a damage boost of +35%, or Surrounded if you're playing in CQC ranges and gain a +40% (+47% when enhanced) damage boost. The Vanguard's Vindication origin trait is useful, if not very noticeable. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=1056103557&perks=106909392,1840239774,4049631843,880644845
+dimwishlist:item=1056103557&perks=106909392,4049631843,4090651448,880644845
+dimwishlist:item=1056103557&perks=1840239774,3230963543,4049631843,880644845
+dimwishlist:item=1056103557&perks=3230963543,4049631843,4090651448,880644845
+
+// Hush (PvE)
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching), (Archer's Tempo, Shoot to Loot), Explosive Head
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in end-game content. Hush is back, but is now in a quite crowded pool of solar bows, so it doesn't really stand out. If you already have a well-rolled solar bow, you can happily pass. If you're still looking, bring down Draw Time as much as you can with your Bowstring perk, and then recover any lost accuracy with the Arrow perk. The standard endgame bow pairings of either Archer's Tempo or Shoot to Loot in the first perk column are available in the first trait perk column, with Explosive Head in the second for a little bonus damage and flinch, or Frenzy for a reliable +15% damage, and mexxed reload speed and handling. The perk pool is huge, so reset Gambit rank as many times as you can before you start focusing engrams. The Gun and Run origin trait is useful, if not very noticeable. Recommended MW: Draw Time or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=3962575203&perks=201365942,2801223209,3365897133,3429800428
+dimwishlist:item=3962575203&perks=201365942,3365897133,3429800428,852209214
+dimwishlist:item=3962575203&perks=201365942,3365897133,3429800428,4067834857
+dimwishlist:item=3962575203&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=3962575203&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=3962575203&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=3962575203&perks=201365942,2801223209,3311977193,3365897133
+dimwishlist:item=3962575203&perks=201365942,3311977193,3365897133,852209214
+dimwishlist:item=3962575203&perks=201365942,3311977193,3365897133,4067834857
+dimwishlist:item=3962575203&perks=2801223209,3365897133,3429800428,3700496672
+dimwishlist:item=3962575203&perks=3365897133,3429800428,3700496672,852209214
+dimwishlist:item=3962575203&perks=3365897133,3429800428,3700496672,4067834857
+dimwishlist:item=3962575203&perks=2801223209,3365897133,3700496672,3827198035
+dimwishlist:item=3962575203&perks=3365897133,3700496672,3827198035,852209214
+dimwishlist:item=3962575203&perks=3365897133,3700496672,3827198035,4067834857
+dimwishlist:item=3962575203&perks=2801223209,3311977193,3365897133,3700496672
+dimwishlist:item=3962575203&perks=3311977193,3365897133,3700496672,852209214
+dimwishlist:item=3962575203&perks=3311977193,3365897133,3700496672,4067834857
+
+// Hush (PvE)
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching), (Unrelenting, Archer's Tempo), Incandescent
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in general content, particularly with solar fragments. Hush is back, but is now in a quite crowded pool of solar bows, so it doesn't really stand out. If you already have a well-rolled solar bow, you can happily pass. If you're still looking, bring down Draw Time as much as you can with your Bowstring perk, and then recover any lost accuracy with the Arrow perk. Unrelenting in the first trait perk column grants health and starts regeneration as you kill groups of enemies, or Archer's Tempo speeds up draw time, and For solar fragment synergy, Incandescent spreads scorch and can trigger ignitions to help clear groups of Minor adds. The perk pool is huge, so reset Gambit rank as many times as you can before you start focusing engrams. The Gun and Run origin trait is useful, if not very noticeable. Recommended MW: Draw Time or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3429800428,4293542123
+dimwishlist:item=3962575203&perks=3108830275,3429800428,4293542123,852209214
+dimwishlist:item=3962575203&perks=3108830275,3429800428,4067834857,4293542123
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3827198035,4293542123
+dimwishlist:item=3962575203&perks=3108830275,3827198035,4293542123,852209214
+dimwishlist:item=3962575203&perks=3108830275,3827198035,4067834857,4293542123
+dimwishlist:item=3962575203&perks=2801223209,3108830275,3311977193,4293542123
+dimwishlist:item=3962575203&perks=3108830275,3311977193,4293542123,852209214
+dimwishlist:item=3962575203&perks=3108830275,3311977193,4067834857,4293542123
+dimwishlist:item=3962575203&perks=201365942,2801223209,3429800428,4293542123
+dimwishlist:item=3962575203&perks=201365942,3429800428,4293542123,852209214
+dimwishlist:item=3962575203&perks=201365942,3429800428,4067834857,4293542123
+dimwishlist:item=3962575203&perks=201365942,2801223209,3827198035,4293542123
+dimwishlist:item=3962575203&perks=201365942,3827198035,4293542123,852209214
+dimwishlist:item=3962575203&perks=201365942,3827198035,4067834857,4293542123
+dimwishlist:item=3962575203&perks=201365942,2801223209,3311977193,4293542123
+dimwishlist:item=3962575203&perks=201365942,3311977193,4293542123,852209214
+dimwishlist:item=3962575203&perks=201365942,3311977193,4067834857,4293542123
+
+// The Guiding Sight (PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Slice, Hatchling
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in general content, particularly with strand fragments. The reprised The Guiding Sight has a couple of extra tricks up its sleeve that might be worth looking for. The stats are pretty much in-band, although there aren't many peers to compare against, but you'll definitely appreciate some extra handling and reload speed, so focus on improving those with the barrel and magazine perks. For strand fragment synergy you now have access to both Slice (probably easier to proc for Hunters, with the faster cooldown for Dodge) and Hatchling in the two trait perk columns. The Nadir Focus origin trait is useful to help land repeated crits, so that's the one to choose. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=417100299&perks=1840239774,3230963543,831391274,923806249
+dimwishlist:item=417100299&perks=3230963543,4090651448,831391274,923806249
+dimwishlist:item=417100299&perks=106909392,1840239774,831391274,923806249
+dimwishlist:item=417100299&perks=106909392,4090651448,831391274,923806249
+
+// Claws of the Wolf (PvE)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Repulsor Brace, Destabilizing Rounds
+//notes:Adamsdown_Boy - information as at v8.0.0.6 (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies in general content, particularly with void fragments. Claws of the Wolf returns in season 24 with a largely new (largely PvP-focussed) perk pool, but with stats the look a bit anaemic by comparison with its peers. The Recoil Direction needs a bit of attention, so Arrowhead Brake is the obvious barrel perk to sort that out. In the magazine perk slot, you could either look to fill out the stats a little more, or get a combat effect mag perk. If you don't already have an Elsie's Rifle with the void combination of Repulsor Brace and Destabilizing Rounds in the two trait perk columns, then this roll can synergise with void fragments to boost the subclass verbs and provide a void overshield while clearing groups of adds. Unfortunately, the Skulking Wolf origin trait has no effect outside of Iron Banner. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=1505862304&perks=2048641572,3230963543,776531651,839105230
+dimwishlist:item=1505862304&perks=1968497646,2048641572,776531651,839105230
 
 // Veiled Threat (First-choice PvE)
 // (Smallbore, Fluted Barrel, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), Shoot to Loot, (Desperate Measures, Collective Action)
