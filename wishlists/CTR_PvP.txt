@@ -1,6 +1,38 @@
 title:CTR PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Something New
+//notes:pandapaxxy (PvP / Controller): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,controller
+dimwishlist:item=3240434620&perks=1482024992,3142289711,3511092054,555281244
+
+// Something New
+//notes:SirStallion_ (PvP / M+KB / Controller): "Now, I've given this thing a lot of stability. And it's going to get even more from Rapid Hit. To me, for PvP, my ability to hit shots with such a slow firing weapon is far more important than hitting for full damage a few metres further. Rapid Hit should hypothetically fix my reload problems as well as giving me more stability to help combat flinch. Kill Clip is just.. Nice. With how easy a lot of us can get Radiant going when we need to, the combo of damage perks should give me some slay potential. Otherwise, I'd definitely be looking at Explosive Payload just to annoy people." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=3240434620&perks=1015611457,106909392,1840239774,247725512
+
+// Compass Rose
+//notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1332244541,1821614984,47981717,791862061
+
+// Compass Rose
+//notes:SirStallion_ (PvP / M+KB / Controller): "I.. Cannot believe I want this. I hate slickdraw, it makes me so annoyed when I see it on guns.. Usually. But this is a shotgun. You're going for centre mass and the target acquisition just doesn't matter. Holy heck. You can have maximum handling and full send into range in tandem. So that's what I'm going to do, Opening Shot will do so much work, I'll have the snappiest little boomstick you've ever seen and have almost max range. Also this gun has regular old barrels? So that's weird. But it means if you don't want slickdraw, you have much nicer handling options." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1332244541,1821614984,3142289711,47981717
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=2396489472,2822142346,3525010810,951095735
+
+// Crowning Doulogue
+//notes:SirStallion_ (PvP / M+KB / Controller): "Okay look, Rockets in PvP? You basically fire it when someone is on a point you can't quite see, or 2ft in front of your face and you take yourself out too. I am okay with this. But my goal is to make the surrounding area of impact as volatile as I can [...]" Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=1275731761,1478423395,1996142143,831391274
+
+// Fortunate Star
+//notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,2801223209,3414324643,3429800428
+
+// Fortunate Star
+//notes:SirStallion_ (PvP / M+KB / Controller): "Lightweight bow means moving fast, moving fast means dinking fools from the hip (to me) so this combo became a no brainer. I don't love bows in PvP usually, but the prospect of staying on the move with minimal draw time and firing off the hip kinda gets something flowing in my brain. Unfortunately, I find neither Origin Trait to be particularly worthwhile, so we may see some power creep in the future. But hey. Shoot em while youve got em, and I'm hoping to get many." Recommended MW - Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,3414324643,3429800428,852209214
+
 // Bold Endings
 //notes:pandapaxxy (PvP / Controller): "Bold Endings and by extension Warden's Law don't really fit in any particular play style. They have good range, good chunk damage, but behave more like a pulse rifle / Crimson. They're not bad but take away one of hand cannon’s strongest benefits, peek shooting. If you want to use this competitively, you'll want as consistent of a hand cannon as.possible. Rapid Hit and Eye of the Storm add much needed consistency, while To the Pain can pair well with Eye of the Storm for maximum AA / accuracy bonuses." Recommended MW: Stability ornHandling.|tags:pvp,controller
 dimwishlist:item=496728945&perks=1482024992,247725512,3142289711,699525795

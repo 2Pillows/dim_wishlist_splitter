@@ -1,6 +1,22 @@
 title:PandaPaxxy MKB PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Something New
+//notes:pandapaxxy (PvP / M+KB): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,mkb
+dimwishlist:item=3240434620&perks=3142289711,3250034553,3511092054,555281244
+
+// Compass Rose
+//notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1332244541,1821614984,47981717,791862061
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=2396489472,2822142346,3525010810,951095735
+
+// Fortunate Star
+//notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,2801223209,3414324643,3429800428
+
 // Bold Endings
 //notes:pandapaxxy (PvP / M+KB): "Bold Endings and by extension Warden's Law don't really fit in any particular play style. They have good range, good chunk damage, but behave more like a pulse rifle / Crimson. They're not bad but take away one of hand cannon’s strongest benefits, peek shooting. If you want to use this competitively, you'll want as consistent of a hand cannon as.possible. Rapid Hit and Eye of the Storm add much needed consistency, while To the Pain can pair well with Eye of the Storm for maximum AA / accuracy bonuses." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=496728945&perks=1840239774,247725512,3142289711,699525795

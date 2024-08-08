@@ -1,6 +1,14 @@
 title:MKB PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Fortunate Star
+//notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,2801223209,3414324643,3429800428
+
+// Fortunate Star
+//notes:SirStallion_ (PvP / M+KB / Controller): "Lightweight bow means moving fast, moving fast means dinking fools from the hip (to me) so this combo became a no brainer. I don't love bows in PvP usually, but the prospect of staying on the move with minimal draw time and firing off the hip kinda gets something flowing in my brain. Unfortunately, I find neither Origin Trait to be particularly worthwhile, so we may see some power creep in the future. But hey. Shoot em while youve got em, and I'm hoping to get many." Recommended MW - Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,3414324643,3429800428,852209214
+
 // Bold Endings
 //notes:pandapaxxy (PvP / M+KB): "Bold Endings and by extension Warden's Law don't really fit in any particular play style. They have good range, good chunk damage, but behave more like a pulse rifle / Crimson. They're not bad but take away one of hand cannon’s strongest benefits, peek shooting. If you want to use this competitively, you'll want as consistent of a hand cannon as.possible. Rapid Hit and Eye of the Storm add much needed consistency, while To the Pain can pair well with Eye of the Storm for maximum AA / accuracy bonuses." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=496728945&perks=1840239774,247725512,3142289711,699525795
@@ -830,12 +838,14 @@ dimwishlist:item=2001697739&perks=2396489472,269888150,2827049491,3108830275
 // Unknown Weapons
 //notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Accuracy.|tags:pvp,mkb,controller
 dimwishlist:item=2326578623&perks=201365942,2801223209,3414324643,3429800428
+dimwishlist:item=2326578623&perks=1866048759,2801223209,3414324643,3429800428
 dimwishlist:item=2326578623&perks=201365942,2801223209,3414324643,3827198035
 dimwishlist:item=2326578623&perks=201365942,2801223209,3311977193,3414324643
 dimwishlist:item=2326578623&perks=201365942,3414324643,3429800428,4067834857
 dimwishlist:item=2326578623&perks=201365942,3414324643,3827198035,4067834857
 dimwishlist:item=2326578623&perks=201365942,3311977193,3414324643,4067834857
 dimwishlist:item=2326578623&perks=201365942,3414324643,3429800428,852209214
+dimwishlist:item=2326578623&perks=1866048759,3414324643,3429800428,852209214
 dimwishlist:item=2326578623&perks=201365942,3414324643,3827198035,852209214
 dimwishlist:item=2326578623&perks=201365942,3311977193,3414324643,852209214
 

@@ -1,6 +1,22 @@
 title:PandaPaxxy CTR PvE - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Something New
+//notes:pandapaxxy (PvE / M+KB / Controller): "I recently broke out my Something New from last season with Headstone / Wellspring which is a shame we cannot get that roll this year. The closest is a heavier investment into grenades with Demolitionist. While not the worst weapon, losing Wellspring puts this behind Eyasluna for me, yes even without the origin trait." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=3240434620&perks=106909392,124408337,1840239774,3523296417
+
+// Compass Rose
+//notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=233896077&perks=1300023272,1631667848,2360754333,791862061
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvE / M+KB / Controller): "Reconstruction and Reverberation don't seem like a pair. But with Reverberation your second shot (thanks to Reconstruction) has a larger blast radius size. I don't believe it adds to the actual blast radius stat, moreso just increases the radius upon getting kills. The intrinsic tracking will make using a rocket for add clear could be feasible." Recommended MW - Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=3256453690&perks=1523832109,3525010810,3796465595,563069569
+
+// Fortunate Star
+//notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller
+dimwishlist:item=2326578623&perks=2048641572,2801223209,3429800428,776531651
+
 // Bold Endings
 //notes:pandapaxxy (PvE / M+KB / Controller): "The first in a nice long list of new weapons is Bold Endings. A newish archetype being the heavy burst archetype, only occupied by Warden's Law. Bold Endings has the unique combination of Headstone and Dragonfly to immediately blow up those crystals. Great for add clear. Other solid options include Rapid Hit for reload speed and a tighter burst at max stacks, Strategist for immediate stability on class ability usage, and getting your class ability faster. Alongside Desperate Measures for great damage. Headstone with a damage perk or more AoE is probably going to be the play." Recommended MW: Stability or Handling.|tags:pve,mkb,controller
 dimwishlist:item=496728945&perks=1087426260,124408337,1482024992,2109543898

@@ -1,6 +1,38 @@
 title:PandaPaxxy MKB Perks - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Something New
+//notes:pandapaxxy (PvE / M+KB / Controller): "I recently broke out my Something New from last season with Headstone / Wellspring which is a shame we cannot get that roll this year. The closest is a heavier investment into grenades with Demolitionist. While not the worst weapon, losing Wellspring puts this behind Eyasluna for me, yes even without the origin trait." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=3240434620&perks=124408337,3523296417
+
+// Something New
+//notes:pandapaxxy (PvP / M+KB): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,mkb
+dimwishlist:item=3240434620&perks=3511092054,555281244
+
+// Compass Rose
+//notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=233896077&perks=1631667848,2360754333
+
+// Compass Rose
+//notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1821614984,47981717
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvE / M+KB / Controller): "Reconstruction and Reverberation don't seem like a pair. But with Reverberation your second shot (thanks to Reconstruction) has a larger blast radius size. I don't believe it adds to the actual blast radius stat, moreso just increases the radius upon getting kills. The intrinsic tracking will make using a rocket for add clear could be feasible." Recommended MW - Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=3256453690&perks=1523832109,563069569
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=2396489472,951095735
+
+// Fortunate Star
+//notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller
+dimwishlist:item=2326578623&perks=2048641572,776531651
+
+// Fortunate Star
+//notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=1866048759,3414324643
+
 // Bold Endings
 //notes:pandapaxxy (PvE / M+KB / Controller): "The first in a nice long list of new weapons is Bold Endings. A newish archetype being the heavy burst archetype, only occupied by Warden's Law. Bold Endings has the unique combination of Headstone and Dragonfly to immediately blow up those crystals. Great for add clear. Other solid options include Rapid Hit for reload speed and a tighter burst at max stacks, Strategist for immediate stability on class ability usage, and getting your class ability faster. Alongside Desperate Measures for great damage. Headstone with a damage perk or more AoE is probably going to be the play." Recommended MW: Stability or Handling.|tags:pve,mkb,controller
 dimwishlist:item=496728945&perks=124408337,2109543898
