@@ -3,27 +3,27 @@ description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/
 
 // Something New
 //notes:pandapaxxy (PvE / M+KB / Controller): "I recently broke out my Something New from last season with Headstone / Wellspring which is a shame we cannot get that roll this year. The closest is a heavier investment into grenades with Demolitionist. While not the worst weapon, losing Wellspring puts this behind Eyasluna for me, yes even without the origin trait." Recommended MW - Handling.|tags:pve,mkb,controller
-dimwishlist:item=3240434620&perks=124408337,3523296417
+dimwishlist:item=586671776&perks=124408337,3523296417
 
 // Something New
 //notes:pandapaxxy (PvP / M+KB): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,mkb
-dimwishlist:item=3240434620&perks=3511092054,555281244
+dimwishlist:item=586671776&perks=3511092054,555281244
 
 // Compass Rose
 //notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
-dimwishlist:item=233896077&perks=1631667848,2360754333
+dimwishlist:item=4169225313&perks=1631667848,2360754333
 
 // Compass Rose
 //notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
-dimwishlist:item=233896077&perks=1821614984,47981717
+dimwishlist:item=4169225313&perks=1821614984,47981717
 
 // Crowning Doulogue
 //notes:pandapaxxy (PvE / M+KB / Controller): "Reconstruction and Reverberation don't seem like a pair. But with Reverberation your second shot (thanks to Reconstruction) has a larger blast radius size. I don't believe it adds to the actual blast radius stat, moreso just increases the radius upon getting kills. The intrinsic tracking will make using a rocket for add clear could be feasible." Recommended MW - Blast Radius.|tags:pve,mkb,controller
-dimwishlist:item=3256453690&perks=1523832109,563069569
+dimwishlist:item=4106757302&perks=1523832109,563069569
 
 // Crowning Doulogue
 //notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=3256453690&perks=2396489472,951095735
+dimwishlist:item=4106757302&perks=2396489472,951095735
 
 // Fortunate Star
 //notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller

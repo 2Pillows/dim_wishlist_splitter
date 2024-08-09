@@ -3,27 +3,27 @@ description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/
 
 // Something New
 //notes:pandapaxxy (PvP / Controller): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,controller
-dimwishlist:item=3240434620&perks=1482024992,3142289711,3511092054,555281244
+dimwishlist:item=586671776&perks=1482024992,3142289711,3511092054,555281244
 
 // Something New
 //notes:SirStallion_ (PvP / M+KB / Controller): "Now, I've given this thing a lot of stability. And it's going to get even more from Rapid Hit. To me, for PvP, my ability to hit shots with such a slow firing weapon is far more important than hitting for full damage a few metres further. Rapid Hit should hypothetically fix my reload problems as well as giving me more stability to help combat flinch. Kill Clip is just.. Nice. With how easy a lot of us can get Radiant going when we need to, the combo of damage perks should give me some slay potential. Otherwise, I'd definitely be looking at Explosive Payload just to annoy people." Recommended MW - Stability.|tags:pvp,mkb,controller
-dimwishlist:item=3240434620&perks=1015611457,106909392,1840239774,247725512
+dimwishlist:item=586671776&perks=1015611457,106909392,1840239774,247725512
 
 // Compass Rose
 //notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
-dimwishlist:item=233896077&perks=1332244541,1821614984,47981717,791862061
+dimwishlist:item=4169225313&perks=1332244541,1821614984,47981717,791862061
 
 // Compass Rose
 //notes:SirStallion_ (PvP / M+KB / Controller): "I.. Cannot believe I want this. I hate slickdraw, it makes me so annoyed when I see it on guns.. Usually. But this is a shotgun. You're going for centre mass and the target acquisition just doesn't matter. Holy heck. You can have maximum handling and full send into range in tandem. So that's what I'm going to do, Opening Shot will do so much work, I'll have the snappiest little boomstick you've ever seen and have almost max range. Also this gun has regular old barrels? So that's weird. But it means if you don't want slickdraw, you have much nicer handling options." Recommended MW - Range.|tags:pvp,mkb,controller
-dimwishlist:item=233896077&perks=1332244541,1821614984,3142289711,47981717
+dimwishlist:item=4169225313&perks=1332244541,1821614984,3142289711,47981717
 
 // Crowning Doulogue
 //notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=3256453690&perks=2396489472,2822142346,3525010810,951095735
+dimwishlist:item=4106757302&perks=2396489472,2822142346,3525010810,951095735
 
 // Crowning Doulogue
 //notes:SirStallion_ (PvP / M+KB / Controller): "Okay look, Rockets in PvP? You basically fire it when someone is on a point you can't quite see, or 2ft in front of your face and you take yourself out too. I am okay with this. But my goal is to make the surrounding area of impact as volatile as I can [...]" Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=3256453690&perks=1275731761,1478423395,1996142143,831391274
+dimwishlist:item=4106757302&perks=1275731761,1478423395,1996142143,831391274
 
 // Fortunate Star
 //notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller

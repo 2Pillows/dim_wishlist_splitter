@@ -1,9 +1,9 @@
 title:CTR PvE !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
-// Compass Rose
-//notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
-dimwishlist:item=233896077&perks=1300023272,1631667848,2360754333,791862061
+// Crowning Doulogue
+//notes:SirStallion_ (PvE / M+KB / Controller): "Okay, this rocket might be the glow up of the century because WOW this was a dud last year. But now? We're seeing demo, we're seeing ALH, we're seeing Recon. And that's all the first perk. THEN we got B&S, Bipod and Envious? Hell, you can even rock Hatchling and Chain Reaction if you wanna get weird. Personally, this is going to become a bossing rocket I can use alongside Strand surges. I just really really wish it was a different archetype, but hey, I will take it." Recommended MW - Velocity.|tags:pve,mkb,controller
+dimwishlist:item=4106757302&perks=1523832109,3078487919,3525010810,3796465595
 
 // Fortunate Star
 //notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller
@@ -620,6 +620,10 @@ dimwishlist:item=2326578623&perks=2610012052,3429800428,776531651,852209214
 dimwishlist:item=2326578623&perks=201365942,3414324643,3429800428,852209214
 dimwishlist:item=2326578623&perks=201365942,3414324643,3827198035,852209214
 dimwishlist:item=2326578623&perks=201365942,3311977193,3414324643,852209214
+
+// Crowning Duologue
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=4106757302&perks=1523832109,3078487919,3525010810,3796465595
 
 // Ergo Sum
 //notes:pandapaxxy (PvE / M+KB / Controller)|tags:pve,mkb,controller
@@ -4085,10 +4089,13 @@ dimwishlist:item=3591141932&perks=1687452232,2594592626,3418782618,839105230
 //notes:Inspired by @PodvsEnemies Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. Backup PvE pick for burst damage against majors and sustained damage against bosses in end-game activities. Shapeable. Techeun Force (however Saint Kabr pronounces it...) is reprised in a new, highly desirable perk set. I say set, it's really just one perk in particular. The stats to start are pretty good, although the recoil direction needs some attention, so Arrowhead Brake will take that to a controllable 90. For a damage roll, Liquid Coils is the obvious choice - don't worry, we'll get around the charge time penalty later. In the first trait slot, as the support perk, Reconstruction overfills your magazine to double its capacity, or Envious Assassin can add up to nine shots to the battery with seven rapid kills. Finally, as the signature perk in the second trait slot, the new-for-S21 Controlled Burst drops your charge time by 10% and increases damage by 20% just for hitting all your bolts, making this great for burst and sustained damage. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
 dimwishlist:item=3591141932&perks=1523832109,1687452232,2594592626,839105230
 
-// Compass Rose (PvE first-choice roll)
-// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), (Lead From Gold, Grave Robber), Trench Barrel
-//notes:Inspired by @PodvsEnemies Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major spec enemies in end-game content. First thing to say, if you already have a rapid hit or lightweight Trench Barrel shotgun then just shard this. If you haven't, then Compass Rose can be your stopgap until you do. The stats are a bit of a mixed bag, but Handling is usually the play with shotguns anyway, so Corkscrew Rifling or Barrel Shroud improve that, as well as other useful gunfeel stats, and Assault Mag increases your rate of fire, and hence DPS, or Tactical Mag takes the mag size to six to let you get two full bursts of three shots off without reloading, and then helps with reload speed. Grave Robber can be useful, if you're near a crowd of minors to keep Trench Barrel procced, but if you're doing damage against a single target it's not much use, so Lead From Gold is more reliably useful. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
-dimwishlist:item=233896077&perks=1300023272,1631667848,2360754333,791862061
+// Crowning Duologue (PvE first-choice roll)
+// Confined Launch, (Impact Casing, Alloy Casing), Field Prep (Envious Assassin, Cluster Bombs)
+//notes:Inspired by @PodvsEnemies Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies in end-game content. It's difficult to know what role Precision rocket launchers are suppose to fill as at season 21. they do have the intrinsic tracking, but to 21% less damage than the adaptive and aggressive subfamilies, and can't ever compete with the blast radius of high-impacts for add clear. If you are going to use it, play into the tracking, and reduce the velocity so if an enemy jinks, it has as much time as possible to adjust with Confined Launch. Impact Casing adds some extra impact damage in the mag perk slot, or Alloy Casing provides faster reloads. Field Prep helps massively with ammo reserves - without it it you'll need three ammo reserve chest mods to get to 10 rockets, but with it you'll only need one. In the second trait column Envious Assassin can get you an extra shot in the mag with just one kill from another weapon, or if you can get to 11 rapid kills, you can load three, or you can use the small blast radius as a benefit to concentrate Cluster Bombs on your target for extra damage. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3256453690&perks=1844523823,2869569095,3796465595,968510818
+dimwishlist:item=3256453690&perks=1844523823,2869569095,2985827016,968510818
+dimwishlist:item=3256453690&perks=1275731761,1844523823,2869569095,3796465595
+dimwishlist:item=3256453690&perks=1275731761,1844523823,2869569095,2985827016
 
 // Loaded Question (PvE first-choice roll)
 // (Fluted Barrel, Hammer-Forged Rifling, Smallbore), (Ionized Battery, Enhanced Battery), Reservoir Burst
