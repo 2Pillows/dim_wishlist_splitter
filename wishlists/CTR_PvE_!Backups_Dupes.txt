@@ -1,6 +1,178 @@
 title:CTR PvE !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Imminence (first-choice PvE)
+// (Smallbore, Polygonal Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Slice, Chaos Reshaped
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Utility / PvE-God / M+KB / Controller): First-choice PvE pick for a Bait and Switch rotation weapon end-game actives, particularly with ability-focussed builds. Shapeable. Base stats are okay by comparison to its peers and equate to 17.24m ADS range before damage dropoff, 0.23s ADS speed, 0.31s ready and 0.27s stow speed, and 2.17s reload speed. Even if you hit 100 recoil, it's still tough to control on controller, so look to boost stability with your barrel and mag perks - a little extra reload speed never hurts too. If you want a primary to use in a boss damage phase, particularly on Hunter, then Slice will sever after a dodge reload, for -40% damage reduction to outgoing boss damage. While you're not going to be using this as your primary damage option, Chaos Reshaped should be procced while stowed for both stacks, so you should get the +35% damage and maybe a burst of healing when you use it with a Bait and Switch heavy weapon. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Stability or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=1258168956&perks=1482024992,3230963543,3640170453,923806249
+dimwishlist:item=1258168956&perks=106909392,1482024992,3640170453,923806249
+
+// Imminence (Adept) (first-choice PvE)
+// (Smallbore, Polygonal Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Slice, Chaos Reshaped
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Utility / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for a Bait and Switch rotation weapon end-game actives, particularly with ability-focussed builds. Shapeable. Base stats are okay by comparison to its peers and equate to 17.24m ADS range before damage dropoff, 0.23s ADS speed, 0.31s ready and 0.27s stow speed, and 2.17s reload speed. Even if you hit 100 recoil, it's still tough to control on controller, so look to boost stability with your barrel and mag perks - a little extra reload speed never hurts too. If you want a primary to use in a boss damage phase, particularly on Hunter, then Slice will sever after a dodge reload, for -40% damage reduction to outgoing boss damage. While you're not going to be using this as your primary damage option, Chaos Reshaped should be procced while stowed for both stacks, so you should get the +35% damage and maybe a burst of healing when you use it with a Bait and Switch heavy weapon. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Stability or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=3951511045&perks=1482024992,3230963543,3640170453,923806249
+dimwishlist:item=3951511045&perks=106909392,1482024992,3640170453,923806249
+
+// Critical Anomaly (first-choice PvE)
+// Fluted Barrel, Extended Mag, Reconstruction, (Chaos Reshaped, Firing Line, Bait and Switch)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for backup Boss damage. Shapeable. Base stats are excellent by comparison to its peers, and equate to 0.45s ADS speed, 0.44s ready and 0.39s stow speed, and 3.30s reload speed. Handling is always useful on aggressive snipers - stability is less of a concern if you pace your shots - so Fluted Barrel is the barrel perk to choose. Even though it tanks your reload to 3.72s, Extended Mag plus a Backup Mag mod takes you to 5 shots. You can double this with Reconstruction in the first trait column and then, for a backup boss damage weapon, in the second column, Chaos Reshaped is likely to have built up two stacks in your back pocket for a chunky +35% damage boost and occasional bit of healing, or Firing Line provides an easy +20% to damage just for standing near your fireteam. Alternatively, time your Bait and Switch rotation for +35% damage. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=445197843&perks=1523832109,1771339417,1840239774,2420895100
+dimwishlist:item=445197843&perks=1523832109,1840239774,2420895100,3078487919
+
+// Critical Anomaly (Adept) (first-choice PvE)
+// Fluted Barrel, Tactical Mag, Reconstruction, (Chaos Reshaped, Firing Line, Bait and Switch)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for backup Boss damage. Shapeable. Base stats are excellent by comparison to its peers, and equate to 0.45s ADS speed, 0.44s ready and 0.39s stow speed, and 3.30s reload speed. Handling is always useful on aggressive snipers - stability is less of a concern if you pace your shots - so Fluted Barrel is the barrel perk to choose. Tactical Mag plus an Adept Backup Mag mod takes you to 5 shots (and boosts a couple of useful stats a little). You can double this with Reconstruction in the first trait column and then, for a backup boss damage weapon, in the second column, Chaos Reshaped is likely to have built up two stacks in your back pocket for a chunky +35% damage boost and occasional bit of healing, or Firing Line provides an easy +20% to damage just for standing near your fireteam. Alternatively, time your Bait and Switch rotation for +35% damage. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=172461430&perks=106909392,1523832109,1840239774,3640170453
+dimwishlist:item=172461430&perks=106909392,1523832109,1771339417,1840239774
+dimwishlist:item=172461430&perks=106909392,1523832109,1840239774,3078487919
+
+// Non-Denouement (first-choice PvE)
+// Elastic String, Straight Fletching, (Archer's Tempo, Dragonfly), Voltshot
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with an arc build. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, the bowstring and arrow perks will reduce the draw time with Elastic String (reduces to 0.556s), and recover the lost accuracy with Straight Fletching. The roll that everyone's looking for is the "baby" Trinity Ghoul, with Voltshot in the second trait column for jolting and chaining arc damage - which you can improve on with arc aspects and fragments. To pair with this in the first column, Archer's Tempo is reliable as ever, reducing draw time to 0.417s after a crit hit but, if you're after all the explosions, Dragonfly is there too. The Collective Purpose origin trait only works in a fireteam, but offers a small boost to draw speed, which is always useful. Recommended MW: Draw Time, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1770490683&perks=201365942,2173046394,2801223209,3827198035
+dimwishlist:item=1770490683&perks=2173046394,2801223209,2848615171,3827198035
+
+// Non-Denouement (Adept) (first-choice PvE)
+// Elastic String, Straight Fletching, (Archer's Tempo, Dragonfly), Voltshot
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with an arc build. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, the bowstring and arrow perks will reduce the draw time with Elastic String (reduces to 0.556s), and recover the lost accuracy with Straight Fletching. The roll that everyone's looking for is the "baby" Trinity Ghoul, with Voltshot in the second trait column for jolting and chaining arc damage - which you can improve on with arc aspects and fragments. To pair with this in the first column, Archer's Tempo is reliable as ever, reducing draw time to 0.417s after a crit hit but, if you're after all the explosions, Dragonfly is there too. The Collective Purpose origin trait only works in a fireteam, but offers a small boost to draw speed, which is always useful. Recommended MW: Draw Time, with an Adept Draw Time mod.
+dimwishlist:item=1039915310&perks=201365942,2173046394,2801223209,3827198035
+dimwishlist:item=1039915310&perks=2173046394,2801223209,2848615171,3827198035
+
+// Nullify (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Heal Clip, Incandescent
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in general content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. It's not as uncommon as it once was, but the trait combination of Heal Clip and Incandescent is still great for keeping you alive while clearing add-dense areas - even better when synergising with solar fragments. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Reload Speed or Handling, with a Backup Mag mod.
+dimwishlist:item=859869931&perks=106909392,1840239774,3017780555,4293542123
+dimwishlist:item=859869931&perks=106909392,3017780555,4293542123,839105230
+dimwishlist:item=859869931&perks=106909392,3017780555,4090651448,4293542123
+dimwishlist:item=859869931&perks=1840239774,3017780555,3230963543,4293542123
+dimwishlist:item=859869931&perks=3017780555,3230963543,4293542123,839105230
+dimwishlist:item=859869931&perks=3017780555,3230963543,4090651448,4293542123
+
+// Nullify (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Firefly, Incandescent
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in general content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. In the first trait column, to pair with Incandescent in the second (even better when synergising with solar fragments), Firefly spreads the scorch over a wider area to clear add-dense areas. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=859869931&perks=106909392,1840239774,3824105627,4293542123
+dimwishlist:item=859869931&perks=106909392,3824105627,4293542123,839105230
+dimwishlist:item=859869931&perks=106909392,3824105627,4090651448,4293542123
+dimwishlist:item=859869931&perks=1840239774,3230963543,3824105627,4293542123
+dimwishlist:item=859869931&perks=3230963543,3824105627,4293542123,839105230
+dimwishlist:item=859869931&perks=3230963543,3824105627,4090651448,4293542123
+
+// Nullify (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Firefly, (Desperate Measures, Chaos Reshaped)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. In the first trait column, Firefly is an additional AoE damage perk that also boosts Reload Speed by 50 on a crit kill. Pair that in the second column with Desperate Measures for up to +30% damage or maybe Chaos Reshaped for +35% damage and healing at two stacks. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=859869931&perks=106909392,1840239774,2109543898,3824105627
+dimwishlist:item=859869931&perks=106909392,2109543898,3824105627,839105230
+dimwishlist:item=859869931&perks=106909392,2109543898,3824105627,4090651448
+dimwishlist:item=859869931&perks=1840239774,2109543898,3230963543,3824105627
+dimwishlist:item=859869931&perks=2109543898,3230963543,3824105627,839105230
+dimwishlist:item=859869931&perks=2109543898,3230963543,3824105627,4090651448
+dimwishlist:item=859869931&perks=106909392,1840239774,3640170453,3824105627
+dimwishlist:item=859869931&perks=106909392,3640170453,3824105627,839105230
+dimwishlist:item=859869931&perks=106909392,3640170453,3824105627,4090651448
+dimwishlist:item=859869931&perks=1840239774,3230963543,3640170453,3824105627
+dimwishlist:item=859869931&perks=3230963543,3640170453,3824105627,839105230
+dimwishlist:item=859869931&perks=3230963543,3640170453,3824105627,4090651448
+
+// Nullify (Adept) (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Heal Clip, Incandescent
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in general content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. It's not as uncommon as it once was, but the trait combination of Heal Clip and Incandescent is still great for keeping you alive while clearing add-dense areas - even better when synergising with solar fragments. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Reload Speed or Handling, with a Backup Mag mod.
+dimwishlist:item=892183998&perks=106909392,1840239774,3017780555,4293542123
+dimwishlist:item=892183998&perks=106909392,3017780555,4293542123,839105230
+dimwishlist:item=892183998&perks=106909392,3017780555,4090651448,4293542123
+dimwishlist:item=892183998&perks=1840239774,3017780555,3230963543,4293542123
+dimwishlist:item=892183998&perks=3017780555,3230963543,4293542123,839105230
+dimwishlist:item=892183998&perks=3017780555,3230963543,4090651448,4293542123
+
+// Nullify (Adept) (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Firefly, Incandescent
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in general content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. In the first trait column, to pair with Incandescent in the second (even better when synergising with solar fragments), Firefly spreads the scorch over a wider area to clear add-dense areas. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=892183998&perks=106909392,1840239774,3824105627,4293542123
+dimwishlist:item=892183998&perks=106909392,3824105627,4293542123,839105230
+dimwishlist:item=892183998&perks=106909392,3824105627,4090651448,4293542123
+dimwishlist:item=892183998&perks=1840239774,3230963543,3824105627,4293542123
+dimwishlist:item=892183998&perks=3230963543,3824105627,4293542123,839105230
+dimwishlist:item=892183998&perks=3230963543,3824105627,4090651448,4293542123
+
+// Nullify (Adept) (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Firefly, (Desperate Measures, Chaos Reshaped)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with solar builds. Shapeable. Nullify offers a stacked trait perk set, in the best pulse rifle subfamily. Base stats are very good and equate to 37.40m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.05s reload speed. The recoil isn't too bad, if you pace your shots but the handling and reload speed could do with some help from the barrel and mag perks. In the first trait column, Firefly is an additional AoE damage perk that also boosts Reload Speed by 50 on a crit kill. Pair that in the second column with Desperate Measures for up to +30% damage or maybe Chaos Reshaped for +35% damage and healing at two stacks. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=892183998&perks=106909392,1840239774,2109543898,3824105627
+dimwishlist:item=892183998&perks=106909392,2109543898,3824105627,839105230
+dimwishlist:item=892183998&perks=106909392,2109543898,3824105627,4090651448
+dimwishlist:item=892183998&perks=1840239774,2109543898,3230963543,3824105627
+dimwishlist:item=892183998&perks=2109543898,3230963543,3824105627,839105230
+dimwishlist:item=892183998&perks=2109543898,3230963543,3824105627,4090651448
+dimwishlist:item=892183998&perks=106909392,1840239774,3640170453,3824105627
+dimwishlist:item=892183998&perks=106909392,3640170453,3824105627,839105230
+dimwishlist:item=892183998&perks=106909392,3640170453,3824105627,4090651448
+dimwishlist:item=892183998&perks=1840239774,3230963543,3640170453,3824105627
+dimwishlist:item=892183998&perks=3230963543,3640170453,3824105627,839105230
+dimwishlist:item=892183998&perks=3230963543,3640170453,3824105627,4090651448
+
+// Summum Bonum (first-choice PvE)
+// Jagged Edge, Swordmaster's Guard, (Relentless Strikes, Attrition Orbs), (Bait and Switch, Whirlwind Blade, Surrounded, Chaos Reshaped)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained boss DPS in end-game activities. Shapeable. Summon Bonum is a Latin expression meaning "the supreme good from which all others are derived", and also now an interesting sword too. Stats are pretty much uniform with swords, and this is our first legendary wave frame - much like a a grenade launcher with the heavy attack, with a follow-up targeted attack - hopefully to finish off a weakened enemy. For a boss damage roll, Jagged Edge - with an Backup Mag mod and three reserves mods you'll have 68 ammo, only 2 shy of the maximum of 70 - and Swordmaster's Guard are the usual safe pairing for the blade and guard perks. In trait column one you've got a choice - Relentless Strikes returns one ammo for every third hit but Attrition Orbs might not be the worst call as, with the heavy wave attack you'll get multiple hits counting towards the 10 you need to generate an orb, which you can use to keep weapon surges active, and heal. In the second column Bait and Switch offers a 35% damage bonus when procced, or you could use Whirlwind Blade for up to 30%, Surrounded (depending on the encounter and whether you have adds around or not) for +35% (+41.75% when enhanced). Chaos Reshaped might work, but it'll depend how long you're out of combat (you only have 5s of not dealing or taking damage) before a boss damage phase begins. The Collective Purpose origin trait only works in a fireteam, but offers a small boosts to charge rate, which is always useful. Recommended MW: Impact, with a Backup Mag mod.
+dimwishlist:item=3569407878&perks=1749209109,269888150,3078487919,3666208348
+dimwishlist:item=3569407878&perks=1749209109,269888150,3640170453,3666208348
+
+// Summum Bonum (Adept) (first-choice PvE)
+// Jagged Edge, Swordmaster's Guard, (Relentless Strikes, Attrition Orbs), (Bait and Switch, Whirlwind Blade, Surrounded, Chaos Reshaped)
+//notes:Inspired by @PodvsEnemies episode 111 from 30 July 2024 (https://open.spotify.com/episode/4KO3Yr8AkPRBgKlNmacrGS?si=6dfa9e466dde41a0) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained boss DPS in end-game activities. Shapeable. Summon Bonum is a Latin expression meaning "the supreme good from which all others are derived", and also now an interesting sword too. Stats are pretty much uniform with swords, and this is our first legendary wave frame - much like a a grenade launcher with the heavy attack, with a follow-up targeted attack - hopefully to finish off a weakened enemy. For a boss damage roll, Jagged Edge and Swordmaster's Guard are the usual safe pairing for the blade and guard perks. In trait column one you've got a choice - Relentless Strikes returns one ammo for every third hit but Attrition Orbs might not be the worst call as, with the heavy wave attack you'll get multiple hits counting towards the 10 you need to generate an orb, which you can use to keep weapon surges active, and heal. In the second column Bait and Switch offers a 35% damage bonus when procced, or you could use Whirlwind Blade for up to 30%, Surrounded (depending on the encounter and whether you have adds around or not) for +35% (+41.75% when enhanced). Chaos Reshaped might work, but it'll depend how long you're out of combat (you only have 5s of not dealing or taking damage) before a boss damage phase begins. The Collective Purpose origin trait only works in a fireteam, but offers a small boosts to charge rate, which is always useful. Recommended MW: Impact, with an Adept Impact mod.
+dimwishlist:item=2001697739&perks=1749209109,269888150,3078487919,3666208348
+dimwishlist:item=2001697739&perks=1749209109,269888150,3640170453,3666208348
+
+// Critical Anomaly (PvE)
+// Arrowhead Brake, Extended Mag, Reconstruction, (Chaos Reshaped, Firing Line)
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for anti-Champion use. Shapeable. Base stats are excellent by comparison to its peers, and equate to 0.45s ADS speed, 0.44s ready and 0.39s stow speed, and 3.30s reload speed. Handling is always useful on aggressive snipers - stability is less of a concern if you pace your shots - Arrowhead Brake boosts recoil direction to 100, and adds 10 to Handling. Even though it tanks your reload to 3.72s, Extended Mag plus a Backup Mag mod takes you to 5 shots. You can double this with Reconstruction in the first trait column and then, for a backup boss damage weapon in the second column, Chaos Reshaped is likely to have built up two stacks in your back pocket for a chunky +35% damage boost, or Firing Line provides an easy +20% to damage just for standing near your fireteam. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=445197843&perks=1523832109,1771339417,2420895100,839105230
+
+// Critical Anomaly (Adept) (first-choice PvE)
+// Fluted Barrel, Tactical Mag, Reconstruction, (Chaos Reshaped, Firing Line)
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for anti-Champion use. Shapeable. Base stats are excellent by comparison to its peers, and equate to 0.45s ADS speed, 0.44s ready and 0.39s stow speed, and 3.30s reload speed. Handling is always useful on aggressive snipers - stability is less of a concern if you pace your shots - Arrowhead Brake boosts recoil direction to 100, and adds 10 to Handling. Tactical Mag plus an Adept Backup Mag mod takes you to 5 shots (and boosts a couple of useful stats a little). You can double this with Reconstruction in the first trait column and then, for a backup boss damage weapon in the second column, Chaos Reshaped is likely to have built up two stacks in your back pocket for a chunky +35% damage boost, or Firing Line provides an easy +20% to damage just for standing near your fireteam. The Collective Purpose origin trait only works in a fireteam, but offers small boosts to range and handling, which is always useful. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=172461430&perks=106909392,1523832109,1840239774,3640170453
+dimwishlist:item=172461430&perks=106909392,1523832109,1771339417,1840239774
+
+// Non-Denouement (PvE)
+// (Flexible String, Polymer String), Straight Fletching, (Archer's Tempo, Dragonfly), Voltshot
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with an arc build. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, the bowstring and arrow perks will reduce the draw time and improve accuracy. The roll that everyone's looking for is the "baby" Trinity Ghoul, with Voltshot in the second trait column for jolting and chaining arc damage - which you can improve on with arc aspects and fragments. To pair with this in the first column, Archer's Tempo is reliable as ever, reducing draw time further after a crit hit but, if you're after all the explosions, Dragonfly is there too. The Collective Purpose origin trait only works in a fireteam, but offers a small boost draw speed, which is always useful. Recommended MW: Draw Time, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1770490683&perks=201365942,2173046394,3827198035,4067834857
+dimwishlist:item=1770490683&perks=201365942,2173046394,3827198035,852209214
+dimwishlist:item=1770490683&perks=2173046394,2848615171,3827198035,4067834857
+dimwishlist:item=1770490683&perks=2173046394,2848615171,3827198035,852209214
+
+// Non-Denouement (Adept)(PvE)
+// (Flexible String, Polymer String), Straight Fletching, (Archer's Tempo, Dragonfly), Voltshot
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor Spec red-bar adds in end-game content, particularly with an arc build. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, the bowstring and arrow perks will reduce the draw time and improve accuracy. The roll that everyone's looking for is the "baby" Trinity Ghoul, with Voltshot in the second trait column for jolting and chaining arc damage - which you can improve on with arc aspects and fragments. To pair with this in the first column, Archer's Tempo is reliable as ever, reducing draw time to 0.417s after a crit hit but, if you're after all the explosions, Dragonfly is there too. The Collective Purpose origin trait only works in a fireteam, but offers a small boost to draw speed, which is always useful. Recommended MW: Draw Time, with an Adept Draw Time mod.
+dimwishlist:item=1039915310&perks=201365942,2173046394,3827198035,4067834857
+dimwishlist:item=1039915310&perks=2173046394,2848615171,3827198035,852209214
+
+// Non-Denouement (PvE)
+// (Elastic String, Flexible String, Polymer String), Straight Fletching, (Archer's Tempo, Shoot to Loot, Dragonfly), Explosive Head
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor Spec red-bar adds in end-game content. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, use the bowstring and arrow perks to reduce the draw time, and improve accuracy. If you don't already have an arc bow for end-game use, in the first column Archer's Tempo is reliable as ever, reducing draw time further, or Shoot to Loot is handy to pick up remote ammo bricks and reloading all your weapons. If you're after all the explosions, Dragonfly is there too. In the second column, Explosive Head adds a little extra damage and AoE - which will also pick up ammo bricks with Shoot to Loot. The Collective Purpose origin trait only works in a fireteam, but offers a small boost draw speed, which is always useful. Recommended MW: Draw Time, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1770490683&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=1770490683&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=1770490683&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=1770490683&perks=2801223209,3365897133,3700496672,3827198035
+dimwishlist:item=1770490683&perks=3365897133,3700496672,3827198035,4067834857
+dimwishlist:item=1770490683&perks=3365897133,3700496672,3827198035,852209214
+dimwishlist:item=1770490683&perks=2801223209,2848615171,3365897133,3827198035
+dimwishlist:item=1770490683&perks=2848615171,3365897133,3827198035,4067834857
+dimwishlist:item=1770490683&perks=2848615171,3365897133,3827198035,852209214
+
+// Non-Denouement (Adept) (PvE)
+// (Elastic String, Flexible String, Polymer String), Straight Fletching, (Archer's Tempo, Shoot to Loot, Dragonfly), Explosive Head
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-Boss/ PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor Spec red-bar adds in end-game content. Shapeable. Non-Dénouement is French for "No final outcome" - make of that what you will! Base stats are good by comparison to its peers, and equate to a 0.622s draw time, 0.42s perfect draw window, 0.43s ADS speed, 0.58s ready and 0.44s stow speed, and 0.78s reload speed. As with most bows, use the bowstring and arrow perks to reduce the draw time, and improve accuracy. If you don't already have an arc bow for end-game use, in the first column Archer's Tempo is reliable as ever, reducing draw time further, or Shoot to Loot is handy to pick up remote ammo bricks and reloading all your weapons. If you're after all the explosions, Dragonfly is there too. In the second column, Explosive Head adds a little extra damage and AoE - which will also pick up ammo bricks with Shoot to Loot. The Collective Purpose origin trait only works in a fireteam, but offers a small boost draw speed, which is always useful. Recommended MW: Draw Time, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1039915310&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=1039915310&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=1039915310&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=1039915310&perks=2801223209,3365897133,3700496672,3827198035
+dimwishlist:item=1039915310&perks=3365897133,3700496672,3827198035,4067834857
+dimwishlist:item=1039915310&perks=3365897133,3700496672,3827198035,852209214
+dimwishlist:item=1039915310&perks=2801223209,2848615171,3365897133,3827198035
+dimwishlist:item=1039915310&perks=2848615171,3365897133,3827198035,4067834857
+dimwishlist:item=1039915310&perks=2848615171,3365897133,3827198035,852209214
+
 // The Riposte (first-choice PvE)
 // (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell), Repulsor Brace, Destabilizing Rounds
 //notes:Inspired by @PodvsEnemies episode 110 from 23 July 2024 (https://open.spotify.com/episode/6VJFjsCdq5QckUaK2qXQn7?si=9032e578e9874dda) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing minor enemies in general actives, particularly with Void fragments. The Riposte is the Final Shape expansion's Competitive playlist reward - a unique Lightweight frame AR which grants the usual +20 Mobility and +6.25% movement speed with the fire rate of a rapid-fire. Base stats equate to 24.00m ADS range before damage dropoff, 0.30s ADS speed, 0.38s ready and 0.35s stow speed, and 1.79s reload speed, which compares well with the raid rapid-fire AR Rufus's Fury. Recoil is not great on controller, but stability barrel and mag perks can help, and you also get a choice of stocks that can assist too - Fitted Stock adds 20 Recoil Directions and 10 Stability for a small Handling loss. Aim to get to around 80 Stability, and you should be fine. If control isn't so much of an issue for you, then Short Action Stock or Composite Stock will boost Handling for a snappier gunfeel. For add-clearing, the void trait perk pairing of Repulsor Brace and Destabilizing Rounds work really well together, and synergise with builds using void aspects and fragments. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
@@ -781,6 +953,27 @@ dimwishlist:item=2022294213&perks=2048641572,3230963543,4090651448,776531651
 dimwishlist:item=501345268&perks=1840239774,2048641572,3230963543,776531651
 dimwishlist:item=501345268&perks=2048641572,3230963543,4090651448,776531651
 
+// Critical Anomaly
+//notes:pandapaxxy (PvE / M+KB / Controller): "Critical Anomaly has one of the most interesting perks we have seen on a sniper rifle. Chill Clip  allows you to stun 2/3 champions with one weapon and this season’s Radiant Orbs brings in the third allowing you to take care of all three champions with one weapon. Outside of the champion situation you have Rewind Rounds and Reconstruction for ammo and Bait and Switch or Firing Line for damage. Another interesting combination is either Rewind Rounds or Reconstruction with Triple Tap for a harder hitting Supremacy with less shots." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=445197843&perks=1523832109,1771339417,2420895100,839105230
+dimwishlist:item=445197843&perks=1523832109,1840239774,2420895100,3078487919
+dimwishlist:item=445197843&perks=1523832109,1771339417,1840239774,2420895100
+
+// Critical Anomaly (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Critical Anomaly has one of the most interesting perks we have seen on a sniper rifle. Chill Clip  allows you to stun 2/3 champions with one weapon and this season’s Radiant Orbs brings in the third allowing you to take care of all three champions with one weapon. Outside of the champion situation you have Rewind Rounds and Reconstruction for ammo and Bait and Switch or Firing Line for damage. Another interesting combination is either Rewind Rounds or Reconstruction with Triple Tap for a harder hitting Supremacy with less shots." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=172461430&perks=106909392,1523832109,1840239774,3078487919
+dimwishlist:item=172461430&perks=106909392,1523832109,1771339417,1840239774
+
+// Imminence
+//notes:pandapaxxy (PvE / M+KB / Controller): "Imminence with Chaos Reshaped or Firefly will be a weapon to bring to any activity. Chaos Reshaped is better for Onslaught type activities where the fighting barely stops, while Firefly will be better room to room like in a strike or story mission with downtime. Perpetual Motion and Enlightened Action both allow you to have faster reloads depending on moving or hitting things." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1258168956&perks=106909392,1482024992,3640170453,923806249
+dimwishlist:item=1258168956&perks=1482024992,3230963543,3640170453,923806249
+
+// Imminence (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Imminence with Chaos Reshaped or Firefly will be a weapon to bring to any activity. Chaos Reshaped is better for Onslaught type activities where the fighting barely stops, while Firefly will be better room to room like in a strike or story mission with downtime. Perpetual Motion and Enlightened Action both allow you to have faster reloads depending on moving or hitting things." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3951511045&perks=106909392,1482024992,3640170453,923806249
+dimwishlist:item=3951511045&perks=1482024992,3230963543,3640170453,923806249
+
 // Forthcoming Deviance
 //notes:pandapaxxy (PvE / M+KB / Controller): "Boy do I dislike testing Glaives. Forthcoming Deviance wasn’t too bad though. Reconstruction made it pretty easy to move from encounter to encounter while keeping damage up via Chaos Reshaped. Chain Reaction is probably going to be easier to use as you don’t need anything to activate it, while Destabilizing Rounds works better when on a Void subclass." Recommended MW: Shield Duration.|tags:pve,mkb,controller
 dimwishlist:item=535198113&perks=2396489472,580685494,679225683,951095735
@@ -793,9 +986,99 @@ dimwishlist:item=3123651616&perks=2396489472,580685494,679225683,951095735
 dimwishlist:item=3123651616&perks=1934171651,2396489472,679225683,951095735
 dimwishlist:item=3123651616&perks=1263609309,2396489472,679225683,951095735
 
+// Non-Denouement
+//notes:pandapaxxy (PvE / M+KB / Controller): "No arguments here, this is the best weapon from the Salvation’s Edge raid. Non-Denouement, while hard to spell, gives us something we haven’t seen before; Dragonfly and Voltshot together. Dragonfly allows you to get some AoE damage on the initial kill while Voltshot on a bow will make it so as long as you’re getting kills you’ll be able to jolt on the next shot. Dealing AoE damage on top of more AoE damage and jolt is just hilariously fun and gives Trinity Ghoul vibes without the cost of your exotic. You cannot hold onto the Voltshot shot like Trinity Ghoul but that alone separates this legendary from the exotic." Recommended MW: Accuracy, or Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=1770490683&perks=2173046394,2801223209,2848615171,3827198035
+dimwishlist:item=1770490683&perks=2801223209,2848615171,3365897133,3827198035
+dimwishlist:item=1770490683&perks=201365942,2173046394,2801223209,3827198035
+dimwishlist:item=1770490683&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=1770490683&perks=2801223209,3365897133,3700496672,3827198035
+dimwishlist:item=1770490683&perks=2173046394,2848615171,3827198035,4067834857
+dimwishlist:item=1770490683&perks=2848615171,3365897133,3827198035,4067834857
+dimwishlist:item=1770490683&perks=201365942,2173046394,3827198035,4067834857
+dimwishlist:item=1770490683&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=1770490683&perks=3365897133,3700496672,3827198035,4067834857
+dimwishlist:item=1770490683&perks=2173046394,2848615171,3827198035,852209214
+dimwishlist:item=1770490683&perks=2848615171,3365897133,3827198035,852209214
+dimwishlist:item=1770490683&perks=201365942,2173046394,3827198035,852209214
+dimwishlist:item=1770490683&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=1770490683&perks=3365897133,3700496672,3827198035,852209214
+
+// Non-Denouement (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "No arguments here, this is the best weapon from the Salvation’s Edge raid. Non-Denouement, while hard to spell, gives us something we haven’t seen before; Dragonfly and Voltshot together. Dragonfly allows you to get some AoE damage on the initial kill while Voltshot on a bow will make it so as long as you’re getting kills you’ll be able to jolt on the next shot. Dealing AoE damage on top of more AoE damage and jolt is just hilariously fun and gives Trinity Ghoul vibes without the cost of your exotic. You cannot hold onto the Voltshot shot like Trinity Ghoul but that alone separates this legendary from the exotic." Recommended MW: Accuracy, or Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=1039915310&perks=2173046394,2801223209,2848615171,3827198035
+dimwishlist:item=1039915310&perks=2801223209,2848615171,3365897133,3827198035
+dimwishlist:item=1039915310&perks=201365942,2173046394,2801223209,3827198035
+dimwishlist:item=1039915310&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=1039915310&perks=2801223209,3365897133,3700496672,3827198035
+dimwishlist:item=1039915310&perks=2848615171,3365897133,3827198035,4067834857
+dimwishlist:item=1039915310&perks=201365942,2173046394,3827198035,4067834857
+dimwishlist:item=1039915310&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=1039915310&perks=3365897133,3700496672,3827198035,4067834857
+dimwishlist:item=1039915310&perks=2173046394,2848615171,3827198035,852209214
+dimwishlist:item=1039915310&perks=2848615171,3365897133,3827198035,852209214
+dimwishlist:item=1039915310&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=1039915310&perks=3365897133,3700496672,3827198035,852209214
+
+// Nullify
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nullify will not break the meta but instead slide itself comfortably towards the top. Heal Clip and Incandescent are tried and true options you’ll be seeing a lot of but an alternative healing / damage combo will be Subsistence with Chaos Reshaped. This allows you to bypass reload entirely while still getting damage and healing. Firefly will be a great alternative if you want some explosions / better reload instead of Subsistence." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=859869931&perks=106909392,3640170453,3824105627,839105230
+dimwishlist:item=859869931&perks=106909392,3824105627,4293542123,839105230
+dimwishlist:item=859869931&perks=106909392,2109543898,3824105627,839105230
+dimwishlist:item=859869931&perks=106909392,3017780555,4293542123,839105230
+dimwishlist:item=859869931&perks=3230963543,3640170453,3824105627,839105230
+dimwishlist:item=859869931&perks=3230963543,3824105627,4293542123,839105230
+dimwishlist:item=859869931&perks=2109543898,3230963543,3824105627,839105230
+dimwishlist:item=859869931&perks=3017780555,3230963543,4293542123,839105230
+dimwishlist:item=859869931&perks=106909392,3640170453,3824105627,4090651448
+dimwishlist:item=859869931&perks=106909392,3824105627,4090651448,4293542123
+dimwishlist:item=859869931&perks=106909392,2109543898,3824105627,4090651448
+dimwishlist:item=859869931&perks=106909392,3017780555,4090651448,4293542123
+dimwishlist:item=859869931&perks=3230963543,3640170453,3824105627,4090651448
+dimwishlist:item=859869931&perks=3230963543,3824105627,4090651448,4293542123
+dimwishlist:item=859869931&perks=2109543898,3230963543,3824105627,4090651448
+dimwishlist:item=859869931&perks=3017780555,3230963543,4090651448,4293542123
+dimwishlist:item=859869931&perks=106909392,1840239774,3640170453,3824105627
+dimwishlist:item=859869931&perks=106909392,1840239774,3824105627,4293542123
+dimwishlist:item=859869931&perks=106909392,1840239774,2109543898,3824105627
+dimwishlist:item=859869931&perks=106909392,1840239774,3017780555,4293542123
+dimwishlist:item=859869931&perks=1840239774,3230963543,3640170453,3824105627
+dimwishlist:item=859869931&perks=1840239774,3230963543,3824105627,4293542123
+dimwishlist:item=859869931&perks=1840239774,2109543898,3230963543,3824105627
+dimwishlist:item=859869931&perks=1840239774,3017780555,3230963543,4293542123
+
+// Nullify (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nullify will not break the meta but instead slide itself comfortably towards the top. Heal Clip and Incandescent are tried and true options you’ll be seeing a lot of but an alternative healing / damage combo will be Subsistence with Chaos Reshaped. This allows you to bypass reload entirely while still getting damage and healing. Firefly will be a great alternative if you want some explosions / better reload instead of Subsistence." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=892183998&perks=106909392,3640170453,3824105627,839105230
+dimwishlist:item=892183998&perks=106909392,3824105627,4293542123,839105230
+dimwishlist:item=892183998&perks=106909392,2109543898,3824105627,839105230
+dimwishlist:item=892183998&perks=106909392,3017780555,4293542123,839105230
+dimwishlist:item=892183998&perks=3230963543,3640170453,3824105627,839105230
+dimwishlist:item=892183998&perks=3230963543,3824105627,4293542123,839105230
+dimwishlist:item=892183998&perks=2109543898,3230963543,3824105627,839105230
+dimwishlist:item=892183998&perks=3017780555,3230963543,4293542123,839105230
+dimwishlist:item=892183998&perks=106909392,3640170453,3824105627,4090651448
+dimwishlist:item=892183998&perks=106909392,3824105627,4090651448,4293542123
+dimwishlist:item=892183998&perks=106909392,2109543898,3824105627,4090651448
+dimwishlist:item=892183998&perks=106909392,3017780555,4090651448,4293542123
+dimwishlist:item=892183998&perks=3230963543,3640170453,3824105627,4090651448
+dimwishlist:item=892183998&perks=3230963543,3824105627,4090651448,4293542123
+dimwishlist:item=892183998&perks=2109543898,3230963543,3824105627,4090651448
+dimwishlist:item=892183998&perks=3017780555,3230963543,4090651448,4293542123
+dimwishlist:item=892183998&perks=106909392,1840239774,3640170453,3824105627
+dimwishlist:item=892183998&perks=106909392,1840239774,3824105627,4293542123
+dimwishlist:item=892183998&perks=106909392,1840239774,2109543898,3824105627
+dimwishlist:item=892183998&perks=106909392,1840239774,3017780555,4293542123
+dimwishlist:item=892183998&perks=1840239774,3230963543,3640170453,3824105627
+dimwishlist:item=892183998&perks=1840239774,3230963543,3824105627,4293542123
+dimwishlist:item=892183998&perks=1840239774,2109543898,3230963543,3824105627
+dimwishlist:item=892183998&perks=1840239774,3017780555,3230963543,4293542123
+
 // Summum Bonum
 //notes:pandapaxxy (PvE / M+KB / Controller): "Summum Bonum is our first legendary wave frame sword. While being unique is it good? Well Unrelenting and Chain Reaction are both solid for keeping yourself alive while also clearing rooms with ease. If you wanted better health regeneration you could opt for Unrelenting and Chaos Reshaped. Both give healing at their full potential. Bait and Switch will give you the best damage while paired with either Tireless Blade or Relentless Strikes for ammo regeneration." Recommended MW: Impact.|tags:pve,mkb,controller
 dimwishlist:item=3569407878&perks=2396489472,269888150,3108830275,3666208348
+dimwishlist:item=3569407878&perks=1749209109,269888150,3640170453,3666208348
+dimwishlist:item=3569407878&perks=1749209109,269888150,3078487919,3666208348
 dimwishlist:item=3569407878&perks=2396489472,2590710093,269888150,3666208348
 dimwishlist:item=3569407878&perks=2396489472,269888150,3108830275,938542991
 dimwishlist:item=3569407878&perks=2396489472,2590710093,269888150,938542991
@@ -805,6 +1088,8 @@ dimwishlist:item=3569407878&perks=2396489472,2590710093,269888150,2827049491
 // Summum Bonum (Adept)
 //notes:pandapaxxy (PvE / M+KB / Controller): "Summum Bonum is our first legendary wave frame sword. While being unique is it good? Well Unrelenting and Chain Reaction are both solid for keeping yourself alive while also clearing rooms with ease. If you wanted better health regeneration you could opt for Unrelenting and Chaos Reshaped. Both give healing at their full potential. Bait and Switch will give you the best damage while paired with either Tireless Blade or Relentless Strikes for ammo regeneration." Recommended MW: Impact.|tags:pve,mkb,controller
 dimwishlist:item=2001697739&perks=2396489472,269888150,3108830275,3666208348
+dimwishlist:item=2001697739&perks=1749209109,269888150,3640170453,3666208348
+dimwishlist:item=2001697739&perks=1749209109,269888150,3078487919,3666208348
 dimwishlist:item=2001697739&perks=2396489472,2590710093,269888150,3666208348
 dimwishlist:item=2001697739&perks=2396489472,269888150,3108830275,938542991
 dimwishlist:item=2001697739&perks=2396489472,2590710093,269888150,938542991
