@@ -1,6 +1,274 @@
 title:CTR God - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Unrelenting, Chain Reaction
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for add clearing minor enemies in general and end-game, underleveled content. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy between Unrelenting and Chain Reaction - any CR detonation kills count as weapon kills for Unrelenting to help keep you alive in CQC. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=1483536627,2396489472,3108830275,839105230
+dimwishlist:item=93061497&perks=1483536627,1840239774,2396489472,3108830275
+dimwishlist:item=93061497&perks=2396489472,2680121939,3108830275,839105230
+dimwishlist:item=93061497&perks=1840239774,2396489472,2680121939,3108830275
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Eddy Current, Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. If you are looking towards the new-to-season-25 Jolting Feedback trait perk in the second column though, larger magazines work well - you might be able to apply Jolt to three targets before you need to reload. For arc builds, you can pair this with Eddy Current in the first column for gunfeel boosts while Amplified. Jolting Feedback is a great end-game trait perk, applying Jolt on the 16th bullet (12 when Amplified) - and one fewer (15 and 11) when Enhanced - and not requiring a kill to proc. Maybe pair with Sparks of Amplitude, Ions and Discharge or Facets of Awakening and Purpose to synergise with arc builds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=1087426260,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=1087426260,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1087426260,1467527085,3966416502,684456054
+dimwishlist:item=4232480042&perks=1087426260,1840239774,3966416502,684456054
+dimwishlist:item=4232480042&perks=1087426260,1482024992,3966416502,684456054
+dimwishlist:item=4232480042&perks=1087426260,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1087426260,1392496348,3966416502,684456054
+dimwishlist:item=4232480042&perks=1087426260,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=2420895100,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=2420895100,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1467527085,2420895100,3966416502,684456054
+dimwishlist:item=4232480042&perks=1840239774,2420895100,3966416502,684456054
+dimwishlist:item=4232480042&perks=1482024992,2420895100,3966416502,684456054
+dimwishlist:item=4232480042&perks=2420895100,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,2420895100,3966416502,684456054
+dimwishlist:item=4232480042&perks=2420895100,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=1968497646,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=1968497646,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1467527085,1968497646,3966416502,684456054
+dimwishlist:item=4232480042&perks=1840239774,1968497646,3966416502,684456054
+dimwishlist:item=4232480042&perks=1482024992,1968497646,3966416502,684456054
+dimwishlist:item=4232480042&perks=1968497646,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,1968497646,3966416502,684456054
+dimwishlist:item=4232480042&perks=1968497646,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=1561002382,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=1561002382,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1467527085,1561002382,3966416502,684456054
+dimwishlist:item=4232480042&perks=1561002382,1840239774,3966416502,684456054
+dimwishlist:item=4232480042&perks=1482024992,1561002382,3966416502,684456054
+dimwishlist:item=4232480042&perks=1561002382,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,1561002382,3966416502,684456054
+dimwishlist:item=4232480042&perks=1561002382,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=1885400500,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=1885400500,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1467527085,1885400500,3966416502,684456054
+dimwishlist:item=4232480042&perks=1840239774,1885400500,3966416502,684456054
+dimwishlist:item=4232480042&perks=1482024992,1885400500,3966416502,684456054
+dimwishlist:item=4232480042&perks=1885400500,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,1885400500,3966416502,684456054
+dimwishlist:item=4232480042&perks=1885400500,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=1431678320,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,1467527085,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,1840239774,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,1482024992,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,1431678320,3966416502,684456054
+dimwishlist:item=4232480042&perks=1431678320,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=3230963543,3966416502,684456054,839105230
+dimwishlist:item=4232480042&perks=3230963543,3661387068,3966416502,684456054
+dimwishlist:item=4232480042&perks=1467527085,3230963543,3966416502,684456054
+dimwishlist:item=4232480042&perks=1840239774,3230963543,3966416502,684456054
+dimwishlist:item=4232480042&perks=1482024992,3230963543,3966416502,684456054
+dimwishlist:item=4232480042&perks=3230963543,3966416502,4090651448,684456054
+dimwishlist:item=4232480042&perks=1392496348,3230963543,3966416502,684456054
+dimwishlist:item=4232480042&perks=3230963543,3250034553,3966416502,684456054
+dimwishlist:item=4232480042&perks=3966416502,679225683,684456054,839105230
+dimwishlist:item=4232480042&perks=3661387068,3966416502,679225683,684456054
+dimwishlist:item=4232480042&perks=1467527085,3966416502,679225683,684456054
+dimwishlist:item=4232480042&perks=1840239774,3966416502,679225683,684456054
+dimwishlist:item=4232480042&perks=1482024992,3966416502,679225683,684456054
+dimwishlist:item=4232480042&perks=3966416502,4090651448,679225683,684456054
+dimwishlist:item=4232480042&perks=1392496348,3966416502,679225683,684456054
+dimwishlist:item=4232480042&perks=3250034553,3966416502,679225683,684456054
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Eddy Current, Onslaught
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. For arc builds, Eddy Current in the first trait perk column provides gunfeel boosts while Amplified. In general content, Onslaught in the second column will help deal with add mobs efficiently. Maybe pair with Sparks of Amplitude and Discharge or Facets of Awakening and Purpose for Eddy Current uptime. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=1087426260,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=1087426260,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,1467527085,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,1840239774,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,1482024992,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,1392496348,684456054,95528736
+dimwishlist:item=4232480042&perks=1087426260,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=2420895100,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=2420895100,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,2420895100,684456054,95528736
+dimwishlist:item=4232480042&perks=1840239774,2420895100,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,2420895100,684456054,95528736
+dimwishlist:item=4232480042&perks=2420895100,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,2420895100,684456054,95528736
+dimwishlist:item=4232480042&perks=2420895100,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=1968497646,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=1968497646,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,1968497646,684456054,95528736
+dimwishlist:item=4232480042&perks=1840239774,1968497646,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,1968497646,684456054,95528736
+dimwishlist:item=4232480042&perks=1968497646,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,1968497646,684456054,95528736
+dimwishlist:item=4232480042&perks=1968497646,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=1561002382,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=1561002382,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,1561002382,684456054,95528736
+dimwishlist:item=4232480042&perks=1561002382,1840239774,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,1561002382,684456054,95528736
+dimwishlist:item=4232480042&perks=1561002382,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,1561002382,684456054,95528736
+dimwishlist:item=4232480042&perks=1561002382,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=1885400500,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=1885400500,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,1885400500,684456054,95528736
+dimwishlist:item=4232480042&perks=1840239774,1885400500,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,1885400500,684456054,95528736
+dimwishlist:item=4232480042&perks=1885400500,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,1885400500,684456054,95528736
+dimwishlist:item=4232480042&perks=1885400500,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=1431678320,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,1467527085,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,1840239774,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,1482024992,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,1431678320,684456054,95528736
+dimwishlist:item=4232480042&perks=1431678320,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=3230963543,3661387068,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,3230963543,684456054,95528736
+dimwishlist:item=4232480042&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=4232480042&perks=3230963543,4090651448,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,3230963543,684456054,95528736
+dimwishlist:item=4232480042&perks=3230963543,3250034553,684456054,95528736
+dimwishlist:item=4232480042&perks=679225683,684456054,839105230,95528736
+dimwishlist:item=4232480042&perks=3661387068,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=1467527085,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=1840239774,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=1482024992,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=4090651448,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=1392496348,679225683,684456054,95528736
+dimwishlist:item=4232480042&perks=3250034553,679225683,684456054,95528736
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Attrition Orbs, Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. For end-game activities, Attrition Orbs in the first trait perk column makes a lot of sense to generate orbs, as you'll not get as many from siphon mods, and it works well with Jolting Feedback in the second to apply Jolt passively, not requiring a kill to proc, on the 16th bullet (12 when Amplified) - and one fewer (15 and 11) when Enhanced. Maybe pair with Sparks of Amplitude, Ions and Discharge or Facets of Awakening and Purpose to synergise with arc builds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=1087426260,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=1087426260,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1087426260,1467527085,243981275,3966416502
+dimwishlist:item=4232480042&perks=1087426260,1840239774,243981275,3966416502
+dimwishlist:item=4232480042&perks=1087426260,1482024992,243981275,3966416502
+dimwishlist:item=4232480042&perks=1087426260,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1087426260,1392496348,243981275,3966416502
+dimwishlist:item=4232480042&perks=1087426260,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=2420895100,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=2420895100,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1467527085,2420895100,243981275,3966416502
+dimwishlist:item=4232480042&perks=1840239774,2420895100,243981275,3966416502
+dimwishlist:item=4232480042&perks=1482024992,2420895100,243981275,3966416502
+dimwishlist:item=4232480042&perks=2420895100,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,2420895100,243981275,3966416502
+dimwishlist:item=4232480042&perks=2420895100,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=1968497646,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=1968497646,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1467527085,1968497646,243981275,3966416502
+dimwishlist:item=4232480042&perks=1840239774,1968497646,243981275,3966416502
+dimwishlist:item=4232480042&perks=1482024992,1968497646,243981275,3966416502
+dimwishlist:item=4232480042&perks=1968497646,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,1968497646,243981275,3966416502
+dimwishlist:item=4232480042&perks=1968497646,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=1561002382,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=1561002382,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1467527085,1561002382,243981275,3966416502
+dimwishlist:item=4232480042&perks=1561002382,1840239774,243981275,3966416502
+dimwishlist:item=4232480042&perks=1482024992,1561002382,243981275,3966416502
+dimwishlist:item=4232480042&perks=1561002382,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,1561002382,243981275,3966416502
+dimwishlist:item=4232480042&perks=1561002382,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=1885400500,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=1885400500,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1467527085,1885400500,243981275,3966416502
+dimwishlist:item=4232480042&perks=1840239774,1885400500,243981275,3966416502
+dimwishlist:item=4232480042&perks=1482024992,1885400500,243981275,3966416502
+dimwishlist:item=4232480042&perks=1885400500,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,1885400500,243981275,3966416502
+dimwishlist:item=4232480042&perks=1885400500,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=1431678320,243981275,3966416502,839105230
+dimwishlist:item=4232480042&perks=1431678320,243981275,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1431678320,1467527085,243981275,3966416502
+dimwishlist:item=4232480042&perks=1431678320,1840239774,243981275,3966416502
+dimwishlist:item=4232480042&perks=1431678320,1482024992,243981275,3966416502
+dimwishlist:item=4232480042&perks=1431678320,243981275,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,1431678320,243981275,3966416502
+dimwishlist:item=4232480042&perks=1431678320,243981275,3250034553,3966416502
+dimwishlist:item=4232480042&perks=243981275,3230963543,3966416502,839105230
+dimwishlist:item=4232480042&perks=243981275,3230963543,3661387068,3966416502
+dimwishlist:item=4232480042&perks=1467527085,243981275,3230963543,3966416502
+dimwishlist:item=4232480042&perks=1840239774,243981275,3230963543,3966416502
+dimwishlist:item=4232480042&perks=1482024992,243981275,3230963543,3966416502
+dimwishlist:item=4232480042&perks=243981275,3230963543,3966416502,4090651448
+dimwishlist:item=4232480042&perks=1392496348,243981275,3230963543,3966416502
+dimwishlist:item=4232480042&perks=243981275,3230963543,3250034553,3966416502
+dimwishlist:item=4232480042&perks=243981275,3966416502,679225683,839105230
+dimwishlist:item=4232480042&perks=243981275,3661387068,3966416502,679225683
+dimwishlist:item=4232480042&perks=1467527085,243981275,3966416502,679225683
+dimwishlist:item=4232480042&perks=1840239774,243981275,3966416502,679225683
+dimwishlist:item=4232480042&perks=1482024992,243981275,3966416502,679225683
+dimwishlist:item=4232480042&perks=243981275,3966416502,4090651448,679225683
+dimwishlist:item=4232480042&perks=1392496348,243981275,3966416502,679225683
+dimwishlist:item=4232480042&perks=243981275,3250034553,3966416502,679225683
+
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Demolitionist, Chain Reaction
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy between Demolitionist and Chain Reaction - you'll get 20% (22% when enhanced) grenade energy from Chain Reaction kills, and then use your grenade for an instant reload. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=1483536627,2396489472,3523296417,839105230
+dimwishlist:item=93061497&perks=1483536627,1840239774,2396489472,3523296417
+dimwishlist:item=93061497&perks=2396489472,2680121939,3523296417,839105230
+dimwishlist:item=93061497&perks=1840239774,2396489472,2680121939,3523296417
+dimwishlist:item=93061497&perks=1483536627,2396489472,776531651,839105230
+dimwishlist:item=93061497&perks=1483536627,1840239774,2396489472,776531651
+dimwishlist:item=93061497&perks=2396489472,2680121939,776531651,839105230
+dimwishlist:item=93061497&perks=1840239774,2396489472,2680121939,776531651
+
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Repulsor Brace, Withering Gaze
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick for majors and bosses in general and end-game, underleveled content, particularly with Void builds. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy for void subclasses between Repulsor Brace and the new-for-season-25 Withering Gaze, which provides a quick and easy way to apply weaken for an effective ×1.15 damage boost (technically you're debuffing the target, but the calculation's the same). Defeat the target, and you gain a Void Overshield for 8s. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=1134488199,1483536627,776531651,839105230
+dimwishlist:item=93061497&perks=1134488199,1483536627,1840239774,776531651
+dimwishlist:item=93061497&perks=1134488199,2680121939,776531651,839105230
+dimwishlist:item=93061497&perks=1134488199,1840239774,2680121939,776531651
+
+// VS Velocity Baton (first-choice PvE)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Demolitionist, Under-Over, Unrelenting, Repulsor Brace), Attrition Orbs
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE utility pick for general and end-game, underleveled content. VS Velocity Baton is the only second Area Denial GL if you 've been looking for a void flamethrower. The stats look pretty good, with pretty much all stats a little better than Lost Signal. With 0/1/2/3 reserves, you have 24/25/25/25 total ammo. For the barrel and mag perks, look to boost velocity without damaging Blast Radius. You'll likely be looking to Attrition Orbs in the second trait perk column and its ability to print multiple orbs with each shot -  it's not clear yet whether this is bugged and in need of a nerf (but it kinda feels like it might). To pair with that in the first trait column, Demolitionist should get grenade ability back quickly to use as a reload perk, Under-Over should quickly cook non-matching elemental shields and the hidden damage resistance shields of Subjugators, or Unrelenting provides health regeneration. If you have access to void debuffs, Repulsor Brace is another option, to gain Void Overshields. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1762785663&perks=243981275,2822142346,3523296417,3525010810
+dimwishlist:item=1762785663&perks=243981275,2822142346,3523296417,3798852852
+dimwishlist:item=1762785663&perks=1870851715,243981275,2822142346,3525010810
+dimwishlist:item=1762785663&perks=1870851715,243981275,2822142346,3798852852
+dimwishlist:item=1762785663&perks=243981275,2822142346,3108830275,3525010810
+dimwishlist:item=1762785663&perks=243981275,2822142346,3108830275,3798852852
+dimwishlist:item=1762785663&perks=243981275,2822142346,3525010810,776531651
+dimwishlist:item=1762785663&perks=243981275,2822142346,3798852852,776531651
+
+// VS Velocity Baton (first-choice PvE)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for Minor add clearing in general and end-game, underleveled content, particularly for void builds. VS Velocity Baton is the only second Area Denial GL if you 've been looking for a void flamethrower. The stats look pretty good, with pretty much all stats a little better than Lost Signal. With 0/1/2/3 reserves, you have 24/25/25/25 total ammo. For the barrel and mag perks, look to boost velocity without damaging Blast Radius. The void build synergy of Repulsor Brace in the first trait perk column, for Void Overshields on debuffed targets, and Destabilizing Rounds in the second, to spready volatility to nearby enemies should be entertaining when you're dealing with dense add crowds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1762785663&perks=2048641572,2822142346,3525010810,776531651
+dimwishlist:item=1762785663&perks=2048641572,2822142346,3798852852,776531651
+
+// VS Chill Inhibitor (first-choice PvE)
+// (Hard Launch, Quick Launch, Smart Drift Control), (Spike Grenades, Augmented Drum, Mini Frags), Envious Arsenal, Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against bosses in general and end-game, underleveled content. VS Chill Inhibitor is the first rapid fire Stasis heavy GL. The stats are excellent. At base, 59 Velocity equates to 52.26m/s, 25 Handling is 0.48s ready, 0.45s ADS speed and 0.43s stow speed, while the Reload Speed of 29 is a 3.47s reload. With 0/1/2/3 reserves, you have 34/36/38/39 total ammo. For the barrel perk, if you have Spike Grenades as your magazine Perk, Hard Launch squeezes a little extra damage as well as providing the biggest Velocity boost, otherwise Quick Launch and Smart Drift Control also work well. To get the most out of your magazine size, Augmented Drum or Mini Frags are decent magazine perk alternatives. The trait perk pairing of Envious Arsenal and Bait and Switch both proc on the same condition of damaging a target with your other weapons to reload the mag, and boost damage by ×1.3 for 10s. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Velocity or Handling, with Quick Access Sling mod or Backup Mag mod to get to the maximum of 8 shots.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1762785662&perks=3078487919,3301904089,3987942396,981914802
+dimwishlist:item=1762785662&perks=3078487919,3301904089,3525010810,3987942396
+dimwishlist:item=1762785662&perks=3078487919,3301904089,3798852852,3987942396
+dimwishlist:item=1762785662&perks=3078487919,332133599,3987942396,981914802
+dimwishlist:item=1762785662&perks=3078487919,332133599,3525010810,3987942396
+dimwishlist:item=1762785662&perks=3078487919,332133599,3798852852,3987942396
+dimwishlist:item=1762785662&perks=1771897777,3078487919,3987942396,981914802
+dimwishlist:item=1762785662&perks=1771897777,3078487919,3525010810,3987942396
+dimwishlist:item=1762785662&perks=1771897777,3078487919,3798852852,3987942396
+
+// Solipsism (PvE)
+// Spirit of Osmiomancy, Spirit of Verity
+//notes:Adamsdown_Boy written v8.0.5.1 (PvE PvE-Utility PvE-God M+KB Controller): Primarily for grenade-focussed builds, you're using Osmiomancy more for the improved grenade energy regeneration on hits side of the perk, and not for the improved Coldsnap seekers, so you can use any grenade except Healing - Storm and Vortex are probably strongest. The Verity perk provides a +20% bonus to grenade damage per stack, up to 100% at 5 stacks with weapon damage matching your super. With the rest of a prismatic build, Song of Flame as the super is just too good not to use at the time of writing, with Arcane Needle for three melee charges. The Feed the Void Aspect is an obvious choice to proc Devour when you use your grenade, then choose between Hellion or Weaver's Call for the other. Depending on the grenade ability you choose, Facets of Courage, Balance, Dawn, Protection, and Dominance can work - Courage increases light-based damage against darkness debuffed enemies (so more grenade damage against unravelled enemies), Balance returns melee energy on rapid light energy kills (which you'll be getting plenty of with your grenades and solar weapon kills), powered melee hits from Dawn make you radiant for a +25% damage boost (and to pierce Barrier Champions with your weapons), Protection gives you +15% DR in a crowd (+30% when Transcendent), and Dominance grants weaken to void grenades or jolting to arc grenades. And, seeing as you're asking, Solipsism is a philisophical theory holding that only one's mind is certain to exist.|tags:PvE PvE-Utility PvE-God M+KB Controller
+dimwishlist:item=2273643087&perks=1476923957,183430253
+
 // Exuviae (first-choice PvE)
 // (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Extended Mag, Alloy Mag, Flared Magwell), Rimestealer, Headstone
 //notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general, non-underleveled content, particularly with a Stasis build. Exuviae is only the second Stasis aggressive hand cannon and, while the stats are pretty much in-band, has a new trick that makes it worth looking at. At base, 61 Range equates to 35.23m while ADS, 32 Handling is 0.38s ready, 0.28s ADS speed and 0.42s stow speed, while the Reload Speed of 29 is a 2.46s reload. On controller, you might benefit from some stability from the barrel perk or, if you prefer, focus on handling. You could look to boost Reload Speed with the magazine perk but, if you're willing to play into the Dark Ether origin trait, you'll get value from boosting the magazine size. For Stasis synergy, the new-to-season-25 trait perk Rimestealer is a natural pairing to Headstone - break the stasis crystal generated from a crit kill, or a frozen enemy, to generate a stack of Frost Armor (two stacks when enhanced). The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. For anyone interested, exuviae are sloughed off natural animal coverings, such as arthropods after they molt. Recommended MW: Stability (Controller) or Handling (M+KB), with a Backup Mag mod or, when enhanced, a Synergy mod for additional Stasis shards.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
