@@ -1,6 +1,24 @@
 title:MKB PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Jurassic Green
+//notes:pandapaxxy (PvP / M+KB): "Over in the crucible you've got a few things to keep in mind. AST base Jurassic Green hits out to 30.64m. at max you're only gaining ~5m. The better play is to invest your stats into consistency perks. Closing Time and Lone Wolf are both new and exciting perks but Keep Away is tried and true. Kill Clip will make follow up kills easier and depending on your build you could go for Adrenaline Junkie or even Desperate Measures. Headseeker is the best neutral option in the fourth column." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=689294985&perks=1015611457,2579169598,3142289711,839105230
+dimwishlist:item=689294985&perks=11612903,2579169598,3142289711,839105230
+dimwishlist:item=689294985&perks=2579169598,3142289711,460017080,839105230
+dimwishlist:item=689294985&perks=1015611457,3142289711,3619207468,839105230
+dimwishlist:item=689294985&perks=11612903,3142289711,3619207468,839105230
+dimwishlist:item=689294985&perks=3142289711,3619207468,460017080,839105230
+dimwishlist:item=689294985&perks=1015611457,1194056669,3142289711,839105230
+dimwishlist:item=689294985&perks=11612903,1194056669,3142289711,839105230
+dimwishlist:item=689294985&perks=1194056669,3142289711,460017080,839105230
+
+// Acosmic
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP grenade launchers lost a lot of their shine with the health changes. 70 Blast Radius is the target to hit. Impulse Amplifier to boost up grenade Velocity. Withering Gaze with Proximity Grenades or High-Explosive Ordinance wouldn't be the worst combo as you won't be able to OHK and be able to swap to your primary or special for easy clean ups. Explosive Light is easy to get with orb generation through Reaper or Siphon mods. If you opt for general use you can go with Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=425681240&perks=3194351027,3301904089,3525010810,951095735
+dimwishlist:item=425681240&perks=3194351027,3301904089,3798852852,951095735
+dimwishlist:item=425681240&perks=1441682018,3194351027,3301904089,951095735
+
 // Something New
 //notes:pandapaxxy (PvP / M+KB): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,mkb
 dimwishlist:item=586671776&perks=3142289711,3250034553,3511092054,555281244
