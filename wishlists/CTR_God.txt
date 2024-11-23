@@ -1,6 +1,124 @@
 title:CTR God - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+/// Legato-11 (PvE)
+// (Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
+//notes:Adamsdown_Boy written v8.1.5 (PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller): PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller
+dimwishlist:item=3753063346&perks=3400784728,4104185692,791862061,839105230
+dimwishlist:item=3753063346&perks=3400784728,4090651448,4104185692,791862061
+dimwishlist:item=3753063346&perks=106909392,3400784728,4104185692,839105230
+dimwishlist:item=3753063346&perks=106909392,3400784728,4090651448,4104185692
+dimwishlist:item=3753063346&perks=3400784728,4104185692,679225683,839105230
+dimwishlist:item=3753063346&perks=3400784728,4090651448,4104185692,679225683
+dimwishlist:item=3753063346&perks=3300816228,4104185692,791862061,839105230
+dimwishlist:item=3753063346&perks=3300816228,4090651448,4104185692,791862061
+dimwishlist:item=3753063346&perks=106909392,3300816228,4104185692,839105230
+dimwishlist:item=3753063346&perks=106909392,3300816228,4090651448,4104185692
+dimwishlist:item=3753063346&perks=3300816228,4104185692,679225683,839105230
+dimwishlist:item=3753063346&perks=3300816228,4090651448,4104185692,679225683
+dimwishlist:item=3753063346&perks=1546637391,3400784728,791862061,839105230
+dimwishlist:item=3753063346&perks=1546637391,3400784728,4090651448,791862061
+dimwishlist:item=3753063346&perks=106909392,1546637391,3400784728,839105230
+dimwishlist:item=3753063346&perks=106909392,1546637391,3400784728,4090651448
+dimwishlist:item=3753063346&perks=1546637391,3400784728,679225683,839105230
+dimwishlist:item=3753063346&perks=1546637391,3400784728,4090651448,679225683
+dimwishlist:item=3753063346&perks=1546637391,3300816228,791862061,839105230
+dimwishlist:item=3753063346&perks=1546637391,3300816228,4090651448,791862061
+dimwishlist:item=3753063346&perks=106909392,1546637391,3300816228,839105230
+dimwishlist:item=3753063346&perks=106909392,1546637391,3300816228,4090651448
+dimwishlist:item=3753063346&perks=1546637391,3300816228,679225683,839105230
+dimwishlist:item=3753063346&perks=1546637391,3300816228,4090651448,679225683
+dimwishlist:item=3753063346&perks=2896038713,3400784728,791862061,839105230
+dimwishlist:item=3753063346&perks=2896038713,3400784728,4090651448,791862061
+dimwishlist:item=3753063346&perks=106909392,2896038713,3400784728,839105230
+dimwishlist:item=3753063346&perks=106909392,2896038713,3400784728,4090651448
+dimwishlist:item=3753063346&perks=2896038713,3400784728,679225683,839105230
+dimwishlist:item=3753063346&perks=2896038713,3400784728,4090651448,679225683
+dimwishlist:item=3753063346&perks=2896038713,3300816228,791862061,839105230
+dimwishlist:item=3753063346&perks=2896038713,3300816228,4090651448,791862061
+dimwishlist:item=3753063346&perks=106909392,2896038713,3300816228,839105230
+dimwishlist:item=3753063346&perks=106909392,2896038713,3300816228,4090651448
+dimwishlist:item=3753063346&perks=2896038713,3300816228,679225683,839105230
+dimwishlist:item=3753063346&perks=2896038713,3300816228,4090651448,679225683
+
+// Veleda-F (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Tactical Mag, Extended Mag, Alloy Mag), Deconstruct, Vorpal Weapon
+//notes:Adamsdown_Boy written v8.1.5 )	)(PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick to weaken Bosses and Majors in general, and end-game underleveled content. Unfortunately, aggressive frame snipers like Veleda-F aren't the optimal choice for damage. At base the stats are average - 47 Zoom, 80 Range, 30 Handling is 0.43s ready speed, 0.44s ADS speed and 0.38s stow speed, while the Reload Speed of 27 is a 3.26s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 21/23/24/25 shots (max is 27) and magazine size of 3 (maximum 5). Both Handling and Reload Speed could do with a little help with barrel and magazine perks, although there's also something to be said for a larger capacity mag too. A unique special weapon trait perk combination, for niche use against vehicles and constructs to possibly tuck away for an "in case of emergency, break glass" moment in end-game activities is Deconstruct (×1.4 damage to vehicles and constructs), Vorpal Weapon (×1.15 damage to vehicles and constructs) together with the Hakke Breach Armaments origin trait (×1.15 damage to vehicles and ×1.3 damage to constructs). Altogether, that makes a ×1.8515 damage boost to vehicles and ×2.093 damage to constructs. If you're interested, Veleda was a priestess and prophet of the Bructeri Germanic tribe during the Batavian rebellion against Rome in 69–70 CE. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4200122994&perks=1087426260,1546637391,1840239774,3993379141
+dimwishlist:item=4200122994&perks=1087426260,1546637391,3993379141,839105230
+dimwishlist:item=4200122994&perks=1087426260,1546637391,3993379141,4090651448
+dimwishlist:item=4200122994&perks=106909392,1546637391,1840239774,3993379141
+dimwishlist:item=4200122994&perks=106909392,1546637391,3993379141,839105230
+dimwishlist:item=4200122994&perks=106909392,1546637391,3993379141,4090651448
+dimwishlist:item=4200122994&perks=1546637391,1840239774,2420895100,3993379141
+dimwishlist:item=4200122994&perks=1546637391,2420895100,3993379141,839105230
+dimwishlist:item=4200122994&perks=1546637391,2420895100,3993379141,4090651448
+
+// Live Fire (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Flared Magwell, Armor-Piercing Rounds), Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Live Fire is a decent stasis scout rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are decent (except for maybe Reload Speed) - 45 Range equates to 74.61m while ADS and 37.31m hipfire, 46 Handling is 0.41s ready speed, 0.33s ADS speed and 0.39s stow speed, while the Reload Speed of 40 is a 2.18s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat, and use the barrel perk to boost Handling. Look for Reload Speed-bosting mag perks, although Armor-Piercing Rounds is another utility option for your vault for when scout rifles have the seasonal artefact anti-barrier mod, for a ×1.05 damage boost to shields and barriers. For Stasis synergy, the combination of Rimestealer and Headstone gives you Stasis crystals on crit kills, and Frost Armor stacks when you shatter them for AoE damage, which you can use fragments to enhance further. The Field Forged origin trait does boost gunfeel stats very subtly but, if you can stay alive to keep collecting stacks, you will start feeling the benefit at higher tiers as you rack up hits and kills. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3612142623&perks=124408337,1431678320,1840239774,1955165503
+dimwishlist:item=3612142623&perks=124408337,1431678320,1955165503,839105230
+dimwishlist:item=3612142623&perks=124408337,1431678320,1955165503,4090651448
+dimwishlist:item=3612142623&perks=124408337,1840239774,1955165503,3230963543
+dimwishlist:item=3612142623&perks=124408337,1955165503,3230963543,839105230
+dimwishlist:item=3612142623&perks=124408337,1955165503,3230963543,4090651448
+dimwishlist:item=3612142623&perks=124408337,1840239774,1955165503,1968497646
+dimwishlist:item=3612142623&perks=124408337,1955165503,1968497646,839105230
+dimwishlist:item=3612142623&perks=124408337,1955165503,1968497646,4090651448
+
+// Live Fire (first-choice PvE)
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Live Fire is a decent stasis scout rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are decent (except for maybe Reload Speed) - 45 Range equates to 74.61m while ADS and 37.31m hipfire, 46 Handling is 0.41s ready speed, 0.33s ADS speed and 0.39s stow speed, while the Reload Speed of 40 is a 2.18s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat, and use the barrel perk to boost Handling. Look for Reload Speed-bosting mag perks, although Armor-Piercing Rounds is another utility option for your vault for when scout rifles have the seasonal artefact anti-barrier mod, for a ×1.05 damage boost to shields and barriers. For Stasis synergy, if you already have access to stasis shard creation through the verb kit, you can gain Frost Armor stacks through Rimestealer that way, and use Shoot to Loot as a utility perk to collect ammo remotely and auto-refill your weapons. The Field Forged origin trait does boost gunfeel stats very subtly but, if you can stay alive to keep collecting stacks, you will start feeling the benefit at higher tiers as you rack up hits and kills. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3612142623&perks=1431678320,1840239774,1955165503,3700496672
+dimwishlist:item=3612142623&perks=1431678320,1955165503,3700496672,839105230
+dimwishlist:item=3612142623&perks=1431678320,1955165503,3700496672,4090651448
+dimwishlist:item=3612142623&perks=1840239774,1955165503,3230963543,3700496672
+dimwishlist:item=3612142623&perks=1955165503,3230963543,3700496672,839105230
+dimwishlist:item=3612142623&perks=1955165503,3230963543,3700496672,4090651448
+dimwishlist:item=3612142623&perks=1840239774,1955165503,1968497646,3700496672
+dimwishlist:item=3612142623&perks=1955165503,1968497646,3700496672,839105230
+dimwishlist:item=3612142623&perks=1955165503,1968497646,3700496672,4090651448
+
+// Legato-11 (first-choice PvE)
+// Fluted Barrel, (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG and continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3753063346&perks=1840239774,3400784728,4104185692,791862061
+dimwishlist:item=3753063346&perks=106909392,1840239774,3400784728,4104185692
+dimwishlist:item=3753063346&perks=1840239774,3400784728,4104185692,679225683
+dimwishlist:item=3753063346&perks=1840239774,3300816228,4104185692,791862061
+dimwishlist:item=3753063346&perks=106909392,1840239774,3300816228,4104185692
+dimwishlist:item=3753063346&perks=1840239774,3300816228,4104185692,679225683
+dimwishlist:item=3753063346&perks=1546637391,1840239774,3400784728,791862061
+dimwishlist:item=3753063346&perks=106909392,1546637391,1840239774,3400784728
+dimwishlist:item=3753063346&perks=1546637391,1840239774,3400784728,679225683
+dimwishlist:item=3753063346&perks=1546637391,1840239774,3300816228,791862061
+dimwishlist:item=3753063346&perks=106909392,1546637391,1840239774,3300816228
+dimwishlist:item=3753063346&perks=1546637391,1840239774,3300816228,679225683
+dimwishlist:item=3753063346&perks=1840239774,2896038713,3400784728,791862061
+dimwishlist:item=3753063346&perks=106909392,1840239774,2896038713,3400784728
+dimwishlist:item=3753063346&perks=1840239774,2896038713,3400784728,679225683
+dimwishlist:item=3753063346&perks=1840239774,2896038713,3300816228,791862061
+dimwishlist:item=3753063346&perks=106909392,1840239774,2896038713,3300816228
+dimwishlist:item=3753063346&perks=1840239774,2896038713,3300816228,679225683
+
+// Veleda-F (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Tactical Mag, Extended Mag, Alloy Mag), Air Trigger, Withering Gaze
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick to weaken Bosses and Majors in general, and end-game underleveled content. Veleda-F is, hopefully, a harbinger future void snipers that we can consider in a fireteam's loadout for major and boss damage, even though aggressive frames aren't the optimal choice for damage. At base the stats are average - 47 Zoom, 80 Range, 30 Handling is 0.43s ready speed, 0.44s ADS speed and 0.38s stow speed, while the Reload Speed of 27 is a 3.26s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 21/23/24/25 shots (max is 27) and magazine size of 3 (maximum 5). Both Handling and Reload Speed could do with a little help with barrel and magazine perks, although there's also something to be said for a larger capacity mag too. Air Trigger in the first trait perk column provides the equivalent of 1.5 reserves mods (2 when enhanced) for more total ammo and, if you can co-ordinate starting reloading during a jump, adds 30 to Reload Speed and a ×0.8 reload animation duration. Withering Gaze in the second column applies the same weaken debuff as Divinity - effectively a ×1.15 boost to damage for 6s for the whole fireteam, so could be used in combination with a Boss damage heavy weapon. Interestingly, you can also extend the timer of sources of 30% weaken, such as Felwinter's Helm and Tractor Cannon (but not Hunter Tethers unfortunately) by using Withering Gaze to reapply the debuff. Hopefully in future we'll see the trait in the first column of a sniper rifle. If you're interested, Veleda was a priestess and prophet of the Bructeri Germanic tribe during the Batavian rebellion against Rome in 69–70 CE. The Hakke Breach Armaments origin trait increases damage against vehicles (×1.15), constructs (×1.3) and Stasis crystals (×1.45), which can be situationally useful. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4200122994&perks=1087426260,1134488199,1821614984,1840239774
+dimwishlist:item=4200122994&perks=1087426260,1134488199,1821614984,839105230
+dimwishlist:item=4200122994&perks=1087426260,1134488199,1821614984,4090651448
+dimwishlist:item=4200122994&perks=106909392,1134488199,1821614984,1840239774
+dimwishlist:item=4200122994&perks=106909392,1134488199,1821614984,839105230
+dimwishlist:item=4200122994&perks=106909392,1134488199,1821614984,4090651448
+dimwishlist:item=4200122994&perks=1134488199,1821614984,1840239774,2420895100
+dimwishlist:item=4200122994&perks=1134488199,1821614984,2420895100,839105230
+dimwishlist:item=4200122994&perks=1134488199,1821614984,2420895100,4090651448
+
+// Fair Judgment (first-choice PvE)
+// Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Fair Judgment is a decent stasis auto rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are solid - 59 Range equates to 29.00m while ADS and 08.13m hipfire, 45 Handling is 0.39s ready speed, 0.31s ADS speed and 0.36s stow speed, while the Reload Speed of 43 is a 1.92s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat. Corkscrew Rifling adds a little bit of everything as the barrel perk, and Armor-Piercing Rounds is decent option to overpenetrate targets and a ×1.05 damage boost to shields and barriers - useful for when the anti-barrier seasonal artifact mod's around. For Stasis synergy, the combination of Rimestealer and Headstone gives you Stasis crystals on crit kills, and Frost Armor stacks when you shatter them for AoE damage, which you can use fragments to enhance further. The origin trait options of Vanguard Vindication, for a small health bump on a kill, or One Quiet Moment for +20 Handling, +40 Reload Speed with a ×0.95 reload animation duration when out of combat are both useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4176873718&perks=124408337,1955165503,1968497646,4090651448
+
 // BrayTech Werewolf (first-choice PvE)
 // (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Alloy Mag, Light Mag, Appended Mag), Rewind Rounds, Onslaught
 //notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content. BrayTech Werewolf returns for 2024 with a couple of new tricks, and its previous good stats. At base, 69 Range equates to 31.00m while ADS and 19.38m hipfire, 39 Handling is 0.41s ready speed, 0.32 ADS speed and 0.38s stow speed, while the Reload Speed of 42 is a 1.94s reload. Being a precision frame, you can pretty much ignore the Recoil Direction stat, and use the barrel perk to boost handling and/or Stability, and pretty much any mag will do (except Extended) - so very much personal preference. For general add-clearing, the trait perk pairing of Rewind Rounds compliments Onslaught to passively refill your mag as you hit adds and reach the higher damage stacks. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Stability or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
