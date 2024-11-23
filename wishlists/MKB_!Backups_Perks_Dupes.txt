@@ -1,46 +1,417 @@
 title:MKB !Backups Perks Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
-/// Legato-11 (PvE)
-// (Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
-//notes:Adamsdown_Boy written v8.1.5 (PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller): PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller
-dimwishlist:item=3753063346&perks=3400784728,4104185692
-dimwishlist:item=3753063346&perks=3300816228,4104185692
-dimwishlist:item=3753063346&perks=1546637391,3400784728
-dimwishlist:item=3753063346&perks=1546637391,3300816228
-dimwishlist:item=3753063346&perks=2896038713,3400784728
-dimwishlist:item=3753063346&perks=2896038713,3300816228
+// Live Fire
+//notes:pandapaxxy (PvE / M+KB / Controller): "Live Fire doesn't do anything spectacular, but it's not trying to reinvent the wheel. Live Fire exists to specialize in Stasis. While it's nothing fancy it doesn't have to be. Shoot to Loot is interesting if you make crystals through your subclass (Prismatic or Stasis). Or it can be a generic scout rifle through Subsistence or Rapid Hit." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3612142623&perks=124408337,1955165503
+dimwishlist:item=3612142623&perks=1955165503,3700496672
+dimwishlist:item=3612142623&perks=124408337,247725512
 
-// Legato-11 (first-choice PvE)
-// Fluted Barrel, (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
-//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG and continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=3753063346&perks=3400784728,4104185692
-dimwishlist:item=3753063346&perks=3300816228,4104185692
-dimwishlist:item=3753063346&perks=1546637391,3400784728
-dimwishlist:item=3753063346&perks=1546637391,3300816228
-dimwishlist:item=3753063346&perks=2896038713,3400784728
-dimwishlist:item=3753063346&perks=2896038713,3300816228
+// Live Fire
+//notes:pandapaxxy (PvP / M+KB): "Similarly to Live Fire’s PvE performance, its PvP performance doesn't stand out. It's not the most lethal scout to ever exist, nor is it the most consistent, nor does it have the most insane stats. If you want to use Rimestealer on a scout rifle then farm out a Live Fire. If you're okay without this one method of getting Frost Armor then you're okay with passing this weapon." Recommended MW: Handling.|tags:pvp,mkb
+dimwishlist:item=3612142623&perks=124408337,247725512
+dimwishlist:item=3612142623&perks=247725512,2866798147
+dimwishlist:item=3612142623&perks=247725512,3938834702
+dimwishlist:item=3612142623&perks=124408337,1955165503
+dimwishlist:item=3612142623&perks=1955165503,2866798147
+dimwishlist:item=3612142623&perks=1955165503,3938834702
 
-// Fair Judgment (first-choice PvE)
-// Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone
-//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Fair Judgment is a decent stasis auto rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are solid - 59 Range equates to 29.00m while ADS and 08.13m hipfire, 45 Handling is 0.39s ready speed, 0.31s ADS speed and 0.36s stow speed, while the Reload Speed of 43 is a 1.92s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat. Corkscrew Rifling adds a little bit of everything as the barrel perk, and Armor-Piercing Rounds is decent option to overpenetrate targets and a ×1.05 damage boost to shields and barriers - useful for when the anti-barrier seasonal artifact mod's around. For Stasis synergy, the combination of Rimestealer and Headstone gives you Stasis crystals on crit kills, and Frost Armor stacks when you shatter them for AoE damage, which you can use fragments to enhance further. The origin trait options of Vanguard Vindication, for a small health bump on a kill, or One Quiet Moment for +20 Handling, +40 Reload Speed with a ×0.95 reload animation duration when out of combat are both useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+// Neoptolemus II
+//notes:pandapaxxy (PvE / M+KB / Controller): "Ah yes. Nepotism the bow. What an interesting selection of perks. Not a single good reload perk through Rapid Hit or Archer's Tempo. You could go all 360-no-scope-Legolas-lite with Perfect Float and Air Trigger. But in reality this bow is more for ability regeneration. Pugilist or Strategist giving melee or class ability energy, respectively. Add in Wellspring for general ability energy and you've got a real quick way of getting your abilities back." Recommended MW: Accuracy ornDraw Time.|tags:pve,mkb,controller
+dimwishlist:item=2848549302&perks=3592538738,691659142
+dimwishlist:item=2848549302&perks=2579169598,691659142
+dimwishlist:item=2848549302&perks=3592538738,880644845
+dimwishlist:item=2848549302&perks=2579169598,880644845
+
+// Neoptolemus II
+//notes:pandapaxxy (PvP / M+KB / Controller): "It's a sad day for a weapon when To the Pain or Lone Wolf are your best bets, *and* they're in combination together. Could you make something work with it? Sure? But there are far better options. The rare Holless-IV is better than Neoptolemus II. That's saying something." Recommended MW: Accuracy or Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2848549302&perks=2579169598,691659142
+dimwishlist:item=2848549302&perks=3592538738,691659142
+dimwishlist:item=2848549302&perks=2579169598,880644845
+dimwishlist:item=2848549302&perks=3592538738,880644845
+
+// Legato-11
+//notes:pandapaxxy (PvE / M+KB / Controller): "Legato-11 seems to be Bungie’s answer to an updated FILO. Auto-Loading Holster and Cascade Point for almost Fourth Horseman like DPS or Focused Fury and Triple Tap for improved total damage. Incandescent and Heal Clip also synergize for Solar or any build really. It's kind of like a jack of all trades but keeps itself unique enough to not be a master of none." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3753063346&perks=2896038713,3300816228
+dimwishlist:item=3753063346&perks=3017780555,4293542123
+dimwishlist:item=3753063346&perks=2896038713,3400784728
+
+// Legato-11
+//notes:pandapaxxy (PvP / M+KB / Controller): "Legato-11 really gets to spread its wings in the crucible. Closing Time and Lone Wolf are incredibly strong together. If you prefer Killing Wind you can pair that with Closing Time for a nice speed boost after one kill. Incandescent and Heal Clip are both solid options as slugs get one round and you can pick up another pretty quick for the reload. Offhand Strike is niche but very powerful in the right hands (or left)." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3753063346&perks=3017780555,4293542123
+
+// Veleda-F
+//notes:pandapaxxy (PvP / M+KB / Controller): "Veleda-F is probably the only weapon I wanted to farm this season for a very easy 100 range and handling through barrels, MW and Slickdraw. Throw on Extended Mag and an Icarus grip for better AE and retire my Albruna-D. Being able to run anything in the fourth column is a nice bonus. BUT being a world drop nuked those chances. Closing Time is the nice new perk and can be paired with Lone Wolf as most people would grind for. If you're more old school you can go Snapshot and Opening Shot (as is tradition)." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=4200122994&perks=1134488199,1821614984
+
+// VS Gravitic Arrest
+//notes:pandapaxxy (PvE / M+KB / Controller): "VS Gravatic Arrest has some steep competition. Royal Executioner, Techeun Force, Pressurized Precision, heck even Trinary System. Does Withering Gaze do enough to give it a spot in your loadout? Well it does apply the Weaken debuff for the low low cost of one ammo. That alone for any damage rotation will be highly helpful. It doesn't do anything flashy like double damage perks or infinite ammo, but it does make dealing damage easier. If you're not hurting for vault space then I would recommend grabbing one, otherwise it's a wash and you can apply Weaken through other means." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=93061497&perks=1134488199,776531651
+dimwishlist:item=93061497&perks=2396489472,776531651
+dimwishlist:item=93061497&perks=2396489472,3108830275
+
+// VS Pyroelectric Propellant
+//notes:pandapaxxy (PvE / M+KB / Controller): "Oh boy, did I not expect to see another Adaptive Frame auto rifle. We just got Khvostov, Summoner, and Ros Arago IV. And all those weapons are strong within their own right. VS Pyroelectric Propellent has one trick up its sleeve and that's Jolting Feedback. You can pair this with Attrition Orbs for some extra orb generation, or Eddy Current for faster reload when Amplified. The other weapons fit into their specific elemental roles and that applies here too. The more you like Arc the more this weapon shines." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4232480042&perks=243981275,3966416502
+dimwishlist:item=4232480042&perks=3966416502,684456054
+dimwishlist:item=4232480042&perks=684456054,95528736
+
+// VS Pyroelectric Propellant
+//notes:pandapaxxy (PvP / M+KB): "Oh boy, did I not expect to see another Adaptive Frame auto rifle. We just got Khvostov, Summoner, and Ros Arago IV. And all those weapons are strong within their own right. VS Pyroelectric Propellent has one trick up its sleeve and that's Jolting Feedback. You can pair this with Attrition Orbs for some extra orb generation, or Eddy Current for faster reload when Amplified. The other weapons fit into their specific elemental roles and that applies here too. The more you like Arc the more this weapon shines." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=4232480042&perks=2451262963,365154968
+dimwishlist:item=4232480042&perks=1015611457,2451262963
+dimwishlist:item=4232480042&perks=2451262963,95528736
+dimwishlist:item=4232480042&perks=2450788523,365154968
+dimwishlist:item=4232480042&perks=1015611457,2450788523
+dimwishlist:item=4232480042&perks=2450788523,95528736
+dimwishlist:item=4232480042&perks=365154968,3938834702
+dimwishlist:item=4232480042&perks=1015611457,3938834702
+dimwishlist:item=4232480042&perks=3938834702,95528736
+
+// VS Velocity Baton
+//notes:pandapaxxy (PvE / M+KB / Controller): "This is probably my favorite weapon to come out of this dungeon. The amount of orbs you can generate is almost as strong as OG Tether back in Year 1 Eater of Worlds. Lorathexplorer almost crashed my game multiple times with how many orbs she made. For general use Attrition Orbs is great but I feel the perk interaction is slightly unintended. You do have the Void Synergy, but outside of that it is a nice area denial frame for the energy slot versus the kinetic." Recommended MW: Blast Radius or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1762785663&perks=2048641572,776531651
+dimwishlist:item=1762785663&perks=243981275,776531651
+dimwishlist:item=1762785663&perks=243981275,3108830275
+dimwishlist:item=1762785663&perks=243981275,3523296417
+
+// VS Chill Inhibitor
+//notes:pandapaxxy (PvE / M+KB / Controller): "Be glad if you completed Vesper's Host for the new shiny drop at Banshee. You know what you were looking for, Envious Arsenal and Bait and Switch. If you expect either or both perks to get a nerf in the foreseeable future you should instead try to get your own roll of Cascade Point and Explosive Light for incredible burst DPS." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=1762785662&perks=3078487919,3987942396
+
+// Bygones
+//notes:pandapaxxy (PvP / M+KB): "With the recent adjustment to High Ground (and in my humble opinion, it might get adjusted again) Bygones still two bursts with a clean 6 crit. I feel it's still a little overturned for such an easy payoff. If you're looking to get that roll you know what to look for. But outside of that roll you've got great neutral perks like Eye of the Storm, Headseeker, Zen Moment, and Keep Away. Kill Clip will always *just work* and doesn't need too much thought to keep going. Bygones still remains a top choice but it's a tad less forgiving now." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2199554524&perks=1015611457,2387244414
+dimwishlist:item=2199554524&perks=2387244414,460017080
+dimwishlist:item=2199554524&perks=2387244414,699525795
+dimwishlist:item=2199554524&perks=1015611457,3619207468
+dimwishlist:item=2199554524&perks=3619207468,460017080
+dimwishlist:item=2199554524&perks=3619207468,699525795
+dimwishlist:item=2199554524&perks=1015611457,2579169598
+dimwishlist:item=2199554524&perks=2579169598,460017080
+dimwishlist:item=2199554524&perks=2579169598,699525795
+
+// Fair Judgment
+//notes:pandapaxxy (PvE / M+KB / Controller): "Our newest Ritual Weapon is Fair Judgement. A stasis auto rifle that has pretty low to medium tier stats across the board. Its uniqueness comes from being only the second precision frame stasis auto rifle. The other being last year's Horror Story that was dropped from the recently concluded Festival of the Lost. Rimestealer and Headstone are both fantastic together for stasis synergy and even outside of stasis to build up Frost Armor stacks." Recommended MW: Handling.|tags:pve,mkb,controller
+dimwishlist:item=4176873718&perks=1955165503,95528736
 dimwishlist:item=4176873718&perks=124408337,1955165503
+dimwishlist:item=4176873718&perks=1359896290,95528736
+dimwishlist:item=4176873718&perks=124408337,1359896290
+
+// Fair Judgment
+//notes:pandapaxxy (PvP / M+KB / Controller): "Fair Judgement will not shatter any expectations within the crucible. Precision frame auto rifles are just not as good as other options. Onslaught will drop the TtK with each stack and Dynamic Sway Reduction will help out in keeping the bullets going where you want them to. Outside of this it's good for ornaments and checking off another box for collections (oh and free shards)." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=4176873718&perks=1359896290,95528736
+dimwishlist:item=4176873718&perks=124408337,1359896290
+dimwishlist:item=4176873718&perks=1955165503,95528736
+dimwishlist:item=4176873718&perks=124408337,1955165503
+
+// Anonymous Autumn
+//notes:pandapaxxy (PvP / M+KB): "Where Anonymous Autumn and TrueVanguard both find their homes is in the crucible. Range is going to be key as sidearms get shredded in distance by autos and SMGs. Pushing out your effective range can help someone backpedaling or just when you're above them. Lone Wolf, Zen Moment, and Rangefinder all improve the feel of this weapon in different ways, coupled with Kill Clip for explosive damage in your second engagement, Precision Instrument to shave off some crits required or even drop the TtK on lower resiliences would be good if you can reliably hit crits. Harmony really shines when swapping between weapons." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1051949956&perks=1015611457,2579169598
+dimwishlist:item=1051949956&perks=2579169598,555281244
+dimwishlist:item=1051949956&perks=2579169598,438098033
+dimwishlist:item=1051949956&perks=1015611457,2387244414
+dimwishlist:item=1051949956&perks=2387244414,555281244
+dimwishlist:item=1051949956&perks=2387244414,438098033
+dimwishlist:item=1051949956&perks=1015611457,2846385770
+dimwishlist:item=1051949956&perks=2846385770,555281244
+dimwishlist:item=1051949956&perks=2846385770,438098033
+
+// Exuviae
+//notes:pandapaxxy & WarlockMaggie (PvE / M+KB / Controller): "[pandapaxxy] Rimestealer might just be one of the best perks to bless Stasis since the original Headstone. Rimestealer allows you to build Frost Armor which is incredibly useful in all activities. Extra damage resistance? We all remember changed with light giving damage resistance. It was the norm and it was odd when not used (outside of Warmind Cells). Definitely look for Rimestealer on your Exuviae. [WarlockMaggie] While Handcannons aren’t supported by Episode II’s Artifact, this Stasis 120 does provide some excellent options for both General and Advanced level play. The new hotness of Rimestealer and Headstone is a great option, while Stats for All and Frenzy will make this weapon feel incredible without a single kill required. Stability and Reload are high priorities for stat increases." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2823644677&perks=124408337,1955165503
+dimwishlist:item=2823644677&perks=1583705720,4104185692
+
+// Exuviae
+//notes:pandapaxxy & WarlockMaggie (PvP / M+KB): "[pandapaxxy] With the upcoming buff to Aggressive frame hand cannons, Precision Instrument isn't required but is still highly sought after for dealing with Overshields, healing rifts, restoration, cure, etc. Outside of that you've got Keep Away adding accuracy and range, and Lone Wolf buffing your stats. Depending on your environment and play style both are extremely strong. Explosive Payload still works for dealing extra flinch and Headstone is exceptional at denying revives in Trials. [WarlockMaggie] While a direct competitor with the Solstice-sourced Something New, Exuviae unfortunately lacks the top shelf perks like the latter for PvP. The best options are Keep Away and Lone Wolf as they both provide some stat increases but require keeping your enemies and friends away respectively. Precision Instrument continues to be a solid option whereas Explosive Payload is good for throwing off enemy player aim. Fix the Handling to your preference and then focus on Range." Recommended MW: Range, Handling.|tags:pvp,mkb
+dimwishlist:item=2823644677&perks=124408337,2579169598
+dimwishlist:item=2823644677&perks=2579169598,555281244
+dimwishlist:item=2823644677&perks=2579169598,3038247973
+dimwishlist:item=2823644677&perks=124408337,3619207468
+dimwishlist:item=2823644677&perks=3619207468,555281244
+dimwishlist:item=2823644677&perks=3038247973,3619207468
+
+// Liturgy
+//notes:WarlockMaggie (PvE / M+KB / Controller): "It's no secret I absolutely love Stasis weapons and to get a double-fire launcher is exciting! First off, Rimestealer and Chill Clip work pretty well together. Two volleys will freeze a target, allowing Liturgy to self-proc Rimestealer. Alternatively, going hard into Blast Radius with Chain Reaction will make large icy kabooms!" Recommended MW: Blast Radius or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+dimwishlist:item=2599338624&perks=1955165503,2396489472
+dimwishlist:item=2599338624&perks=2978966579,3987942396
+
+// Liturgy
+//notes:pandapaxxy & WarlockMaggie (PvP / M+KB): "[pandapaxxy] Within the crucible you've got one of two options for Liturgy. The first is a primer with Chill Clip and Slideways or Surplus for extra handling to swap to your energy weapon of choice. Or as a clean up weapon with Quickdraw for lightning fast ready and Chain Reaction for big booms after you secure the kill for splash on any unsuspecting enemy teammates. [WarlockMaggie] As with PvE, Rimestealer and Chill Clip are both good perks, but the self-contained synergy is harder to come by. Instead, you'll want to utilize each perk opportunistically. Using more generic PvP perks like Perpetual Motion and Harmony might be better ultimately..." Recommended MW: Velocity or Handling.|tags:pvp,mkb
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+
+// Red Tape
+//notes:WarlockMaggie (PvE / M+KB / Controller): "(Prerelease notes) No bureaucracy here, Red Tape delivers a solid set of perks! Spec into Stability, Recoil mitigation and/or Reload for your Barrels and Magazines. And with stats handled, you can get grenade energy back with Demolitionist or get Frost Armor via Rimestealer, plus create crystals with Headstone or just do a chunk of damage with Focused Fury or Adrenaline Junkie!" Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3423493037&perks=124408337,1955165503
+
+// Red Tape
+//notes:pandapaxxy & WarlockMaggie (PvP / M+KB): "[pandapaxxy] Red Tape doesn't do anything exceptional but it does play into Stasis shenanigans if you use the crystals to gain a new sightline. You don't have to be near the Stasis crystal or enemy which means you can get Frost Armor from anywhere across the map. Keep Away and Lone Wolf also lean into this but don't give as many benefits. Explosive Payload would be great for fighting duals as the extra flinch is incredibly frustrating to fight against. [WarlockMaggie] I’m definitely going to be looking for a roll or few of this as it is our only non-Exotic Lightweight Stasis Scout. On par with the stats of Echoes’ Patron of Lost Causes, Red Tape does have better perks for PvP, including some unique combos like Closing Time + High-Impact Reserves. As with other longer range weapons, focus on Stability and Handling both in Masterwork, Magazine and/or Barrels." Recommended MW: Stability, Handling.|tags:pvp,mkb
+dimwishlist:item=3423493037&perks=124408337,3619207468
+dimwishlist:item=3423493037&perks=3038247973,3619207468
+dimwishlist:item=3423493037&perks=124408337,2579169598
+dimwishlist:item=3423493037&perks=2579169598,3038247973
+
+// Insurmountable
+//notes:pandapaxxy (PvE / M+KB / Controller): "Insurmountable looks to be a decent Void sidearm for most activities. The issue is most sidearms don't scare up to GM levels easily. The synergy is there but when it takes 2-3 mags to down a red bar what's the point. In low end activities it can be incredibly strong. Just please don't take it into any real high power level activities." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=414045521&perks=2048641572,776531651
+dimwishlist:item=414045521&perks=3708227201,4071163871
+dimwishlist:item=414045521&perks=2109543898,4071163871
+
+// Insurmountable
+//notes:pandapaxxy (PvP / M+KB / Controller): "However, in the crucible where health is normalized you can do a lot with this pew pew. It bridges the gap between a traditional sidearm and a hand cannon well enough that you can slay out within CQC. Lone Wolf will make those shots feel sticky and Desperate Measures can scale with any subclass ability. Closing Time is interesting but wouldn't be my first pick. If you swap weapons a lot then look for Harmony and Threat Detector for maximum feel and damage." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=414045521&perks=2109543898,4071163871
+
+// Sovereignty
+//notes:pandapaxxy (PvE / M+KB / Controller): "Holy cow did I not see this coming. A sniper that doesn't only have perks mixed in different slots, but a sniper that can apply Weaken. Explosive Payload will give you a slight damage bump and apply Weaken with Withering Gaze. This sniper doesn't really fit the conventional deal of great DPS or single target damage, nor does it “add clear” like other weapons could. It's almost like Bungie took the normal sniper perks, put them into a jar and shook them up." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3818198556&perks=1134488199,3038247973
+
+// Sovereignty
+//notes:pandapaxxy (PvP / M+KB / Controller): "Sovereignty has even worse perks for PvP. No Moving Target, no Snapshot Sights, no Opening Shot, no Surplus, no Slickdraw or Quickdraw. Nothing. It does have Withering Gaze to apply Weaken which in the crucible would be extremely strong. But really, nothing to supplement it outside of a splash with Explosive Payload." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3818198556&perks=1134488199,3038247973
+
+// Vantage Point
+//notes:pandapaxxy (PvE / M+KB / Controller): "Without a standalone reload perk Vantage Point feels a little lackluster. Keep Away does give a sizable reload boost coupled with a reload MW or loader mods on your gauntlets you can make this weapon feel pretty quick. Stats for All does work with Jolting Feedback to instantly get you to max stacks after applying Jolt which is a nifty trick. Eddy Current’s buff to instantly apply the benefits when amplified is great but if you're using Prismatic or just using Jolting Feedback for add clear and aren't investing into Arc you're better off with either of the other perks." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+dimwishlist:item=3830941962&perks=3966416502,684456054
+
+// Vantage Point
+//notes:pandapaxxy (PvP / M+KB): "Adaptive frame pulse rifles have fallen off a bit with the exception of Bygones which will be toned down by the time this releases. Keep Away and Headseeker are great neutral perks but Vantage Point really exists as a neutral weapon. There are good damage perks like Swashbuckler that moves the needle to allow for a clean 6c kill but there are also better pulses that can two burst." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3830941962&perks=3619207468,460017080
+dimwishlist:item=3830941962&perks=3938834702,460017080
+dimwishlist:item=3830941962&perks=2579169598,460017080
+
+// Bitter/Sweet
+//notes:pandapaxxy (PvE / M+KB / Controller): "Envious Arsenal is the new hotness and Bitter/Sweet is one such hotness to get. Any of your favorite damage perks in the fourth column paired with Envious Arsenal is an easy damage rotation. It works best with Bait and Switch as both have similar activation requirements but Explosive Light is fantastic and Cascade Point has better burst DPS." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=2599338625&perks=3078487919,3987942396
+dimwishlist:item=2599338625&perks=3108830275,3194351027
+
+// Bitter/Sweet
+//notes:pandapaxxy (PvP / M+KB / Controller): "For grenade launchers to be competitive in the crucible you need to hit or surpass 70 blast radius to kill all resilience levels. Volatile Launch and High-Explosive Ordinance both hit that with some room to spare. If you don't get that far you'd need to invest into a blast radius MW. Otherwise you can go velocity to make up for the lack of Impulse Amplifier. Unrelenting is great for going on sprees but if you're just running and gunning you should opt for Explosive Light to get even more damage per shot (i.e. forgiveness)." Recommended MW: Blast Radius or Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=2599338625&perks=3108830275,3194351027
+
+// Tinasha's Mastery
+//notes:pandapaxxy (PvE / M+KB / Controller): "Tinasha’s Mastery will probably be one of a few weapons pulling PvE players into PvP. Being a Stasis rocket-assisted sidearm and the first of its kind it will definitely stand out amongst loadouts. Chill Clip and either Impulse Amplifier or Loose Change will be the standout perk combinations but One for All or Frenzy are more neutral damage options." Recommended MW: Blast Radius or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=480368036&perks=2978966579,951095735
+dimwishlist:item=480368036&perks=1119449540,2978966579
+
+// Tinasha's Mastery
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I'd advise against a rocket-assisted sidearm for the crucible, having ChillClip on an easy to fire weapon is undeniably strong. While you would need to stock up on ammo it's not entirely outside of the question to use." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=480368036&perks=2978966579,951095735
+dimwishlist:item=480368036&perks=1119449540,2978966579
+
+// Archon's Thunder
+//notes:pandapaxxy (PvE / M+KB / Controller): "Archon's Thunder is not what I had expected with the Iron Banner reprise but it's a nice surprise nonetheless. Envious Assassin or Fourth Time’s the Charm will get you some ammo back respectively. While Onslaught and Killing Tally both give damage in different ways. If you really wanted as much ammo back as possible the Fourth Time's the Charm and Rewind Rounds combo exists for whatever reason and would be funny to see. Unfortunately, high impact machine guns deal pretty bad burst DPS but they have great extended DPS and total damage." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2896109856&perks=1955165503,3418782618
+dimwishlist:item=2896109856&perks=1955165503,557221067
+
+// Archon's Thunder
+//notes:pandapaxxy (PvP / M+KB): "Archon's Thunder coming back and potentially being the strongest machine gun for the crucible was not on my bingo card. High-Impact Reserves in the third column paired with Onslaught, Killing Tally, Tap the Trigger, Desperate Measures, heck even Target Lock are all great with double damage. Rewind Rounds being in the fourth column can net you some ammo back and Headstone with Rimestealer is a combination all you Stasis fans know of by now." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2896109856&perks=2213355989,557221067
+dimwishlist:item=2896109856&perks=2213355989,3418782618
+dimwishlist:item=2896109856&perks=124408337,2213355989
+dimwishlist:item=2896109856&perks=1359896290,557221067
+dimwishlist:item=2896109856&perks=1359896290,3418782618
+dimwishlist:item=2896109856&perks=124408337,1359896290
+dimwishlist:item=2896109856&perks=1955165503,557221067
+dimwishlist:item=2896109856&perks=1955165503,3418782618
+dimwishlist:item=2896109856&perks=124408337,1955165503
+
+// Rake Angle
+//notes:pandapaxxy (PvE / M+KB / Controller): "Rake Angle, oh how we've waited so long for you. Chill Clip my baby come home. We've needed a replacement since Riptide was nerfed. You'll want to bump up the magazine from 3 so you can fire 2 Chill Clip shots. Impulse Amplifier will feel the best neutrally but Overflow, Lead From Gold and Replenishing Aegis are all good pairings." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2298039571&perks=1966281507,2978966579
+dimwishlist:item=2298039571&perks=1966281507,2224838837
+
+// Rake Angle (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Rake Angle, oh how we've waited so long for you. Chill Clip my baby come home. We've needed a replacement since Riptide was nerfed. You'll want to bump up the magazine from 3 so you can fire 2 Chill Clip shots. Impulse Amplifier will feel the best neutrally but Overflow, Lead From Gold and Replenishing Aegis are all good pairings." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3997086838&perks=1966281507,2978966579
+dimwishlist:item=3997086838&perks=1966281507,2224838837
+
+// Rake Angle
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I wouldn't recommend glaives for most players it is a niche play style with high risk, high reward. The handful of players with thousands of glaive kills really pad those numbers up for the community. You know what to expect and grind for if PvP is where you're taking Rake Angle. For those outside the know, Replenishing Aegis and Unstoppable Force are great to start with and move on to Close to Melee or Chill Clip depending on your newfound build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2298039571&perks=1966281507,2978966579
+dimwishlist:item=2298039571&perks=1966281507,2224838837
+
+// Rake Angle (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I wouldn't recommend glaives for most players it is a niche play style with high risk, high reward. The handful of players with thousands of glaive kills really pad those numbers up for the community. You know what to expect and grind for if PvP is where you're taking Rake Angle. For those outside the know, Replenishing Aegis and Unstoppable Force are great to start with and move on to Close to Melee or Chill Clip depending on your newfound build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3997086838&perks=1966281507,2978966579
+dimwishlist:item=3997086838&perks=1966281507,2224838837
+
+// Yesterday's Question
+//notes:pandapaxxy (PvP / M+KB): "Heavy Burst hand cannons haven't been the strongest in PvP and with recent buffs they still feel like they're missing something. A push too far in one direction or another could make them instantly top hand cannons or completely irrelevant, I don't know what Bungie wishes to do. What felt best to me was a combination of Rapid Hit and Zen Moment, when I hit crits the gun felt so smooth." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2300143112&perks=2387244414,247725512
+dimwishlist:item=2300143112&perks=247725512,699525795
+dimwishlist:item=2300143112&perks=247725512,460017080
+dimwishlist:item=2300143112&perks=2387244414,3938834702
+dimwishlist:item=2300143112&perks=3938834702,699525795
+dimwishlist:item=2300143112&perks=3938834702,460017080
+dimwishlist:item=2300143112&perks=2387244414,2579169598
+dimwishlist:item=2300143112&perks=2579169598,699525795
+dimwishlist:item=2300143112&perks=2579169598,460017080
+
+// Yesterday's Question (Adept)
+//notes:pandapaxxy (PvP / M+KB): "Heavy Burst hand cannons haven't been the strongest in PvP and with recent buffs they still feel like they're missing something. A push too far in one direction or another could make them instantly top hand cannons or completely irrelevant, I don't know what Bungie wishes to do. What felt best to me was a combination of Rapid Hit and Zen Moment, when I hit crits the gun felt so smooth." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2378785953&perks=2387244414,247725512
+dimwishlist:item=2378785953&perks=247725512,699525795
+dimwishlist:item=2378785953&perks=247725512,460017080
+dimwishlist:item=2378785953&perks=2387244414,3938834702
+dimwishlist:item=2378785953&perks=3938834702,699525795
+dimwishlist:item=2378785953&perks=3938834702,460017080
+dimwishlist:item=2378785953&perks=2387244414,2579169598
+dimwishlist:item=2378785953&perks=2579169598,699525795
+dimwishlist:item=2378785953&perks=2579169598,460017080
+
+// Chroma Rush
+//notes:pandapaxxy (PvP / M+KB): "Rapid-Fire Autos frequently manage to be a sleeper pick in PvP due to their Optimal TTK being 0.75s (exception being T10 Resilience at 0.83s) and this one is no different. Chroma Rush brings a respectable selection of perks, with many options to boost lower stats and/or increase damage. Target Lock can smooth out the TTK to 0.75s or Kill Clip with its blistering 0.58s for T9 and below! Combined with the origin trait, Chroma Rush will feel quite lethal and snappy!" Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2598420927&perks=1359896290,1890422124
+dimwishlist:item=2598420927&perks=1015611457,1359896290
+dimwishlist:item=2598420927&perks=1359896290,365154968
+dimwishlist:item=2598420927&perks=1890422124,2450788523
+dimwishlist:item=2598420927&perks=1015611457,2450788523
+dimwishlist:item=2598420927&perks=2450788523,365154968
+dimwishlist:item=2598420927&perks=1890422124,3938834702
+dimwishlist:item=2598420927&perks=1015611457,3938834702
+dimwishlist:item=2598420927&perks=365154968,3938834702
+
+// Ignition Code
+//notes:pandapaxxy (PvE / M+KB / Controller): "Ignition Code is back and better than ever? Not really but it has a neat origin trait. Slideshot still remains unique and allows for consecutive shots. High Ground is easy to proc and if you've got enough room you can keep sliding back and forth with your enhanced damage. Ambitious Assassin, Lead From Gold and Unrelenting are all great perks on their own and I wouldn't be upset with them. Paired with Frenzy or Vorpal Weapon for damage and you've got yourself a solid workhorse weapon. Outside of the Area Denial frame this can still fit most any loadout." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=2761869150&perks=2319119708,3161816588
+dimwishlist:item=2761869150&perks=1546637391,3161816588
+
+// Ignition Code
+//notes:pandapaxxy (PvP / M+KB): "Crucible is a different story. To be blasted by back to back Disorienting Grenades would be a test of patience not many would be able to pass. Slideshot is incredibly strong when you have ammo. Unfortunately grenade launchers are just not as strong" Recommended MW: Velocity, Handling.|tags:pvp,mkb
+dimwishlist:item=2761869150&perks=1546637391,3161816588
+dimwishlist:item=2761869150&perks=2319119708,3161816588
+dimwishlist:item=2761869150&perks=3161816588,438098033
+
+// Gridskipper
+//notes:pandapaxxy (PvP / M+KB): "Within PvP Gridskipper Vs Claws of the Wolf is always an interesting discussion. Both have their merits and with the addition of Lone Wolf this season I'd give that edge to Gridskipper. Extra aim assist is always nice to have. If you wanted beefier stats you could forgo Headseeker for Elemental Capacitor for up to 100 stability AND Zen Moment AND the new Anti-Flinch mod for the ultimate anti-flinch the pulse." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3433930495&perks=2579169598,460017080
+dimwishlist:item=3433930495&perks=2579169598,3511092054
+dimwishlist:item=3433930495&perks=2387244414,460017080
+dimwishlist:item=3433930495&perks=2387244414,3511092054
+dimwishlist:item=3433930495&perks=1428297954,460017080
+dimwishlist:item=3433930495&perks=1428297954,3511092054
+
+// Sojourner's Tale
+//notes:pandapaxxy (PvP / M+KB): "Sojourner's Tale has a cult-like following. Some people still main their Season 14 roll as it still puts in work. This updated version doesn't do anything the older version doesn't do so if you missed out or were looking to join the cult. Here's your invitation." Recommended MW: Range, Handling.|tags:pvp,mkb
+dimwishlist:item=2130875369&perks=47981717,706527188
+dimwishlist:item=2130875369&perks=438098033,706527188
+dimwishlist:item=2130875369&perks=47981717,588594999
+dimwishlist:item=2130875369&perks=438098033,588594999
+dimwishlist:item=2130875369&perks=2416023159,47981717
+dimwishlist:item=2130875369&perks=2416023159,438098033
+
+// Accrued Redemption
+//notes:pandapaxxy (PvE / M+KB / Controller): "Accrued Redemption lost Fiberglass Arrow Shaft which is an interesting omission. Outside of that its standard bow “barrels and magazine” perks. Archer's Tempo and Successful Warm-Up both reduce the draw time and depending on activity if your arrow can down a red bar in one shot it's really similar. Kinetic Tremors brings Accrued Redemption up from other bows as it's the only one that can roll it currently. Outside of that we have tried and true perks like Explosive Head and Archer's Gambit for even faster follow up shots." Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=3621336854&perks=201365942,3365897133
+dimwishlist:item=3621336854&perks=201365942,3414324643
+
+// Accrued Redemption
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP just recently received a nice buff but is it enough? Bow play style has always been niche but with Offhand Strike and Archer's Gambit you can really find yourself inside a niche loadout. If you're looking for a more “traditional” bow, Archer's Tempo and Explosive Head will give you just enough leeway with the delayed flinch to get a second shot off." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=3621336854&perks=201365942,3365897133
+dimwishlist:item=3621336854&perks=201365942,3414324643
+
+// Sacred Provenance
+//notes:pandapaxxy (PvE / M+KB / Controller): "Sacred Provenance used to be the only aggressive burst pulse rifle. It had counterparts but they were sunset. Now that there's a better population, does it still compete? Well with an updated perk pool it certainly does. Blast Furnace and Sacred Provenance both get Kinetic Tremors but Sacred Provenance can also get Demolitionist for grenade heavy builds. For general use I'd still say Blast Furnace is better because you can pair Kinetic Tremors with a damage increasing perk but if you like the look or feel of Vex themed weapons like Adriana, Enlightened by the Vex, you cannot be stopped with this pulse." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2241507890&perks=247725512,3047969693
+
+// Sacred Provenance
+//notes:pandapaxxy (PvP / M+KB): "Aggressive frame pulse rifles fall short of their High-Impact frame brethren. They still two burst but ever so slightly slower and the longer bursts can make tracking difficult. Rapid Hit can make landing those two taps easier and Headseeker can bake in some forgiveness if you hit a body shot first. Kill Clip bakes in even more forgiveness if you secure a kill first and Desperado can make your two burst even faster than the High-Impact Frame pulses which is neat. Unfortunately it takes activating a perk to achieve the same success they have natively but it will catch people by surprise." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=2241507890&perks=247725512,460017080
+dimwishlist:item=2241507890&perks=1015611457,247725512
+dimwishlist:item=2241507890&perks=247725512,3047969693
+dimwishlist:item=2241507890&perks=2579169598,460017080
+dimwishlist:item=2241507890&perks=1015611457,2579169598
+dimwishlist:item=2241507890&perks=2579169598,3047969693
+dimwishlist:item=2241507890&perks=2450788523,460017080
+dimwishlist:item=2241507890&perks=1015611457,2450788523
+dimwishlist:item=2241507890&perks=2450788523,3047969693
+
+// Ancient Gospel
+//notes:pandapaxxy (PvE / M+KB / Controller): "Ancient Gospel comes back with better than ever perks. Besides the obvious Void Synergy with Destabilizing Rounds and Repulser Brace, we also get a Kindled Orchid exclusive perk combination of Rampage and Kill Clip. For those who missed Black Armory this is certainly a roll to try out. With Destabilizing Rounds in the third column you can also pair that with damage perks unheard of adaptive frame hand cannons. There's a ton you can do with this hand cannon and with it being craftable you can try different things" Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=963574173&perks=247725512,3038247973
+dimwishlist:item=963574173&perks=1015611457,247725512
+
+// Ancient Gospel
+//notes:pandapaxxy (PvP / M+KB / Controller): "Ancient Gospel has a particular feel over in the crucible. There's a consensus that this weapon just feels off. Perks like Rapid Hit or Lone Wolf will improve the feel, while Eye of the Storm or To the Pain will improve that even further within your gunfights. Kill Clip will allow for some 2c1b kills, and Explosive Payload will allow you to hit a bit further and retain better damage versus non-Explosive Payroll rolls." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=963574173&perks=247725512,3038247973
+dimwishlist:item=963574173&perks=1015611457,247725512
+
+// Reckless Oracle
+//notes:pandapaxxy (PvE / M+KB / Controller): "Reckless Oracle has always been a really fun gun to shoot. With an updated perk combination it allows Reckless to come into 2024 swinging. Subsistence and Paracausal Affinity will allow you to use any light subclass and have a nice extra 20% damage. Otherwise go with the Void synergy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1992309064&perks=3215448563,3619207468
+
+// Reckless Oracle
+//notes:pandapaxxy (PvP / M+KB): "Reckless Oracle did not need a lot to feel good in PvP and Kill Clip gave you a blistering fast time to kill. Keep Away will give you a good bit of bonus accuracy, but your range goes from 22m at base to just above 31m at max range and a ballistic mod. So you're mostly fighting against juiced SMGs instead of your standard auto rifle. Keeping range in mind this will shred within that defined range." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1992309064&perks=1015611457,3619207468
+dimwishlist:item=1992309064&perks=3215448563,3619207468
+dimwishlist:item=1992309064&perks=1359896290,3619207468
+dimwishlist:item=1992309064&perks=1015611457,1890422124
+dimwishlist:item=1992309064&perks=1890422124,3215448563
+dimwishlist:item=1992309064&perks=1359896290,1890422124
+dimwishlist:item=1992309064&perks=1015611457,2450788523
+dimwishlist:item=1992309064&perks=2450788523,3215448563
+dimwishlist:item=1992309064&perks=1359896290,2450788523
 
 // BrayTech Werewolf
 //notes:pandapaxxy (PvE / M+KB / Controller): "Braytech Werewolf is the sole survivor of the two FotL auto rifle conundrum we've had. Poor Horror Story (though whether it's a glitch or not, you can enhance your old FotL weapons…SGA). When using Braytech Werewolf in PvE your best roll is Rewind Rounds or Subsistence paired with your choice of Onslaught or Kinetic Tremors. It entirely depends on how you would like to use this auto. All 4 perks are great on their own and make this auto feel incredible." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3558681245&perks=3418782618,95528736
 dimwishlist:item=3558681245&perks=3418782618,3891536761
+dimwishlist:item=3558681245&perks=2109543898,3418782618
 dimwishlist:item=3558681245&perks=1820235745,95528736
 dimwishlist:item=3558681245&perks=1820235745,3891536761
+dimwishlist:item=3558681245&perks=1820235745,2109543898
+dimwishlist:item=3558681245&perks=3643424744,95528736
+dimwishlist:item=3558681245&perks=3643424744,3891536761
+dimwishlist:item=3558681245&perks=2109543898,3643424744
+
+// BrayTech Werewolf
+//notes:pandapaxxy (PvP / M+KB / Controller): "Precision Frame auto rifles got a recent buff but still don't feel as dominant as they did in year 1 of Destiny 2. Wild that we've come this far. Lone Wolf will give you the best feel for being solo but if you prefer to team-shoot or just live in 6s your better perks are Dynamic Sway Reduction or Zen Moment. Kill Clip is tried and true for the fourth column. Tap the Trigger does stack with our accuracy boosts in the third column for an extremely sticky auto rifle. Desperate Measures is my favorite neutral damage perk that can work with any ability build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3558681245&perks=1015611457,2579169598
+dimwishlist:item=3558681245&perks=1890422124,2579169598
+dimwishlist:item=3558681245&perks=2109543898,2579169598
+dimwishlist:item=3558681245&perks=1015611457,1359896290
+dimwishlist:item=3558681245&perks=1359896290,1890422124
+dimwishlist:item=3558681245&perks=1359896290,2109543898
+dimwishlist:item=3558681245&perks=1015611457,2387244414
+dimwishlist:item=3558681245&perks=1890422124,2387244414
+dimwishlist:item=3558681245&perks=2109543898,2387244414
 
 // Arcane Embrace
 //notes:pandapaxxy (PvE / M+KB / Controller): "Arcane Embrace is the newest frame to Destiny 2. A double fire slug shotgun. Each trigger pull fires two semi-deadly slugs. (Only semi if you can hit your shots). Over in your regular PvE activities it shouldn't matter unless you regularly GM or something. Fourth Times the Charm will give you one extra trigger pull for two consecutive burst crits. Precision Instrument stacks quickly on double fire frames and will work nicely against chunky health bars and champions. Surrounded can work better depending on the encounter and how confident you are at staying alive. Bonus points for Desperado for shotgun go brrrrr." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=1354429876,3047969693
+dimwishlist:item=3649985571&perks=1631667848,555281244
+dimwishlist:item=3649985571&perks=1631667848,3708227201
+dimwishlist:item=3649985571&perks=1631667848,3047969693
+dimwishlist:item=3649985571&perks=25606670,555281244
+dimwishlist:item=3649985571&perks=25606670,3708227201
+dimwishlist:item=3649985571&perks=25606670,3047969693
+
+// Arcane Embrace
+//notes:pandapaxxy (PvP / M+KB / Controller): "Arcane Embrace is not good in PvP. You need to land both shots to kill and one *has* to be a crit in order for you to secure the kill. Tap the Trigger and Closing Time both help your accuracy and Lone Wolf will boost your mid tier aim assist. If you treat this like a normal shotgun or slug you're going to have a bad time." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3649985571&perks=1194056669,2579169598
+dimwishlist:item=3649985571&perks=1890422124,2579169598
+dimwishlist:item=3649985571&perks=2579169598,4082225868
+dimwishlist:item=3649985571&perks=1194056669,3161816588
+dimwishlist:item=3649985571&perks=1890422124,3161816588
+dimwishlist:item=3649985571&perks=3161816588,4082225868
+dimwishlist:item=3649985571&perks=1194056669,4071163871
+dimwishlist:item=3649985571&perks=1890422124,4071163871
+dimwishlist:item=3649985571&perks=4071163871,4082225868
 
 // Jurassic Green
 //notes:pandapaxxy (PvE / M+KB / Controller): "Jurassic Green has always been an interesting weapon. It has worse base stats compared to other Rapid-Fire frame pulse rifles. Even with the deterministic recoil I preferred the base recoil with counterbalance or full send to 100 recoil direction with Arrowhead Brake. Heal Clip and Incandescent are tried and true rolls but you could opt for Frenzy for the big boost to reload and handling. Loose Change with Incandescent can also make you forget about the reload stat, but falls off a bit in higher level content." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=689294985&perks=3017780555,4293542123
+dimwishlist:item=689294985&perks=2109543898,3017780555
+dimwishlist:item=689294985&perks=3017780555,4104185692
 dimwishlist:item=689294985&perks=1119449540,4293542123
+dimwishlist:item=689294985&perks=1119449540,2109543898
+dimwishlist:item=689294985&perks=1119449540,4104185692
+dimwishlist:item=689294985&perks=1820235745,4293542123
 dimwishlist:item=689294985&perks=1820235745,2109543898
 dimwishlist:item=689294985&perks=1820235745,4104185692
 
@@ -62,16 +433,180 @@ dimwishlist:item=2477980485&perks=1771339417,3400784728
 dimwishlist:item=2477980485&perks=1546637391,3400784728
 dimwishlist:item=2477980485&perks=1771339417,2284787283
 dimwishlist:item=2477980485&perks=1546637391,2284787283
+dimwishlist:item=2477980485&perks=1771339417,3523296417
+dimwishlist:item=2477980485&perks=1546637391,3523296417
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP you've got two different Ros to go for with combinations between them. The tried and true Snapshot Sights / Opening Shot will always work, especially good if you didn't get the free roll from Festival of the Lost past. Lone Wolf and Closing Time is the new hotness and works best with a mag boosting perk or backup mag to get 2 attempts with Closing Time (versus one shot with the base magazine of 3)." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2477980485&perks=1194056669,957782887
+dimwishlist:item=2477980485&perks=47981717,957782887
+dimwishlist:item=2477980485&perks=1194056669,2579169598
+dimwishlist:item=2477980485&perks=2579169598,47981717
 
 // Acosmic
 //notes:pandapaxxy (PvE / M+KB / Controller): "Acosmic is back and better than ever. Clown Cartridge and any of your favorite damage perks is going to be the roll to get. Impulse Amplifier is also good if you don't remember to reload before damage phases. Air Trigger can get you back to back mags with ease. I would say that Withering Gaze is not the perk to get. It's solid on special weapons and even though it's new it doesn't work well with the best in slot perk, Bait and Switch. If you can lead with Withering Gaze on another weapon you can swap to Acosmic for huge damage numbers." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=425681240&perks=2284787283,3078487919
+dimwishlist:item=425681240&perks=2284787283,3751912585
 dimwishlist:item=425681240&perks=2284787283,3194351027
+dimwishlist:item=425681240&perks=3078487919,951095735
+dimwishlist:item=425681240&perks=3751912585,951095735
 dimwishlist:item=425681240&perks=3194351027,951095735
 dimwishlist:item=425681240&perks=1421772400,3078487919
+dimwishlist:item=425681240&perks=1421772400,3751912585
+dimwishlist:item=425681240&perks=1421772400,3194351027
 
 // Acosmic
 //notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP grenade launchers lost a lot of their shine with the health changes. 70 Blast Radius is the target to hit. Impulse Amplifier to boost up grenade Velocity. Withering Gaze with Proximity Grenades or High-Explosive Ordinance wouldn't be the worst combo as you won't be able to OHK and be able to swap to your primary or special for easy clean ups. Explosive Light is easy to get with orb generation through Reaper or Siphon mods. If you opt for general use you can go with Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
 dimwishlist:item=425681240&perks=3194351027,951095735
+dimwishlist:item=425681240&perks=2396489472,951095735
+dimwishlist:item=425681240&perks=1134488199,3194351027
+dimwishlist:item=425681240&perks=1134488199,2396489472
+
+/// Legato-11 (PvE)
+// (Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
+//notes:Adamsdown_Boy written v8.1.5 (PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller): PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-God M+KB Controller
+dimwishlist:item=3753063346&perks=3400784728,4104185692
+dimwishlist:item=3753063346&perks=3300816228,4104185692
+dimwishlist:item=3753063346&perks=1546637391,3400784728
+dimwishlist:item=3753063346&perks=1546637391,3300816228
+dimwishlist:item=3753063346&perks=2896038713,3400784728
+dimwishlist:item=3753063346&perks=2896038713,3300816228
+
+// Live Fire (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Flared Magwell, Armor-Piercing Rounds), Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Live Fire is a decent stasis scout rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are decent (except for maybe Reload Speed) - 45 Range equates to 74.61m while ADS and 37.31m hipfire, 46 Handling is 0.41s ready speed, 0.33s ADS speed and 0.39s stow speed, while the Reload Speed of 40 is a 2.18s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat, and use the barrel perk to boost Handling. Look for Reload Speed-bosting mag perks, although Armor-Piercing Rounds is another utility option for your vault for when scout rifles have the seasonal artefact anti-barrier mod, for a ×1.05 damage boost to shields and barriers. For Stasis synergy, the combination of Rimestealer and Headstone gives you Stasis crystals on crit kills, and Frost Armor stacks when you shatter them for AoE damage, which you can use fragments to enhance further. The Field Forged origin trait does boost gunfeel stats very subtly but, if you can stay alive to keep collecting stacks, you will start feeling the benefit at higher tiers as you rack up hits and kills. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3612142623&perks=124408337,1955165503
+
+// Live Fire (first-choice PvE)
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Live Fire is a decent stasis scout rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are decent (except for maybe Reload Speed) - 45 Range equates to 74.61m while ADS and 37.31m hipfire, 46 Handling is 0.41s ready speed, 0.33s ADS speed and 0.39s stow speed, while the Reload Speed of 40 is a 2.18s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat, and use the barrel perk to boost Handling. Look for Reload Speed-bosting mag perks, although Armor-Piercing Rounds is another utility option for your vault for when scout rifles have the seasonal artefact anti-barrier mod, for a ×1.05 damage boost to shields and barriers. For Stasis synergy, if you already have access to stasis shard creation through the verb kit, you can gain Frost Armor stacks through Rimestealer that way, and use Shoot to Loot as a utility perk to collect ammo remotely and auto-refill your weapons. The Field Forged origin trait does boost gunfeel stats very subtly but, if you can stay alive to keep collecting stacks, you will start feeling the benefit at higher tiers as you rack up hits and kills. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3612142623&perks=1955165503,3700496672
+
+// Legato-11 (first-choice PvE)
+// Fluted Barrel, (Assault Mag, Tactical Mag, Appended Mag, Light Mag), (Triple Tap, Auto-Loading Holster), (Vorpal Weapon, Frenzy, Focused Fury)
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for backup sustained Boss special weapon damage in general, and end-game underleveled content. There was a time when slug shotties like Legato-11 were the meta for CQC Boss damage. They're still decent, mind, and it wouldn't take much of a buff for their glory days to return. At base the stats are very good - 65 Range equates to 9.22m while ADS and 7.69m hipfire, 68 Handling is 0.32s ready speed, 0.29s ADS speed and 0.34s stow speed, while the Reload Speed of 48 is a 0.72s reload per shell. With 0/1/2/3 reserve mods, you'll have total ammo of 19/20/22/23 shots (maximum is 23) and magazine size of 6 (maximum is 8). Slug SGs have the same vertical recoil boost as Precisions, so you can largely ignore recoil direction, and use the barrel perk to boost Handling. You have options for the magazine perk - Assault Mag increases your fire rate, and thus DPS. You can hit the maximum mag size of 8 with either Tactical Mag (which also boosts Stability and Reload Speed) or Appended Mag and a Backup Mag mod. Or you can boost Range and Reload Speed with Light Mag. For sustained boss damage, you can go one of two ways - Triple Tap will let you shoot 12 times before reloading with the max mag size of 8, or Auto-Loading Holster lets you swap to a kinetic slot slug SG and continue DPS while it reloads in the background. For a damage perk, Vorpal Weapon or Frenzy (which also maxes out Handling and Reload Speed when procced) boost damage by ×1.15, or Focused Fury can provide ×1.2 damage after you've hit crits with your first four shots. The Suros Synergy origin trait only procs after a manual reload, but it's always nice to have extra handling. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3753063346&perks=3400784728,4104185692
+dimwishlist:item=3753063346&perks=3300816228,4104185692
+dimwishlist:item=3753063346&perks=1546637391,3400784728
+dimwishlist:item=3753063346&perks=1546637391,3300816228
+dimwishlist:item=3753063346&perks=2896038713,3400784728
+dimwishlist:item=3753063346&perks=2896038713,3300816228
+
+// Veleda-F (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Tactical Mag, Extended Mag, Alloy Mag), Air Trigger, Withering Gaze
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick to weaken Bosses and Majors in general, and end-game underleveled content. Veleda-F is, hopefully, a harbinger future void snipers that we can consider in a fireteam's loadout for major and boss damage, even though aggressive frames aren't the optimal choice for damage. At base the stats are average - 47 Zoom, 80 Range, 30 Handling is 0.43s ready speed, 0.44s ADS speed and 0.38s stow speed, while the Reload Speed of 27 is a 3.26s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 21/23/24/25 shots (max is 27) and magazine size of 3 (maximum 5). Both Handling and Reload Speed could do with a little help with barrel and magazine perks, although there's also something to be said for a larger capacity mag too. Air Trigger in the first trait perk column provides the equivalent of 1.5 reserves mods (2 when enhanced) for more total ammo and, if you can co-ordinate starting reloading during a jump, adds 30 to Reload Speed and a ×0.8 reload animation duration. Withering Gaze in the second column applies the same weaken debuff as Divinity - effectively a ×1.15 boost to damage for 6s for the whole fireteam, so could be used in combination with a Boss damage heavy weapon. Interestingly, you can also extend the timer of sources of 30% weaken, such as Felwinter's Helm and Tractor Cannon (but not Hunter Tethers unfortunately) by using Withering Gaze to reapply the debuff. Hopefully in future we'll see the trait in the first column of a sniper rifle. If you're interested, Veleda was a priestess and prophet of the Bructeri Germanic tribe during the Batavian rebellion against Rome in 69–70 CE. The Hakke Breach Armaments origin trait increases damage against vehicles (×1.15), constructs (×1.3) and Stasis crystals (×1.45), which can be situationally useful. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4200122994&perks=1134488199,1821614984
+
+// Fair Judgment (first-choice PvE)
+// Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 123 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=79e5ef3228b24096) with @Saint_Kabr and @ImpetusAlways (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly for Stasis builds. Fair Judgment is a decent stasis auto rifle, if you're looking for one, offering better integration with the Stasis verb toolkit than previous versions. At base the stats are solid - 59 Range equates to 29.00m while ADS and 08.13m hipfire, 45 Handling is 0.39s ready speed, 0.31s ADS speed and 0.36s stow speed, while the Reload Speed of 43 is a 1.92s reload. With this being a precision frame, you can pretty much ignore the recoil direction stat. Corkscrew Rifling adds a little bit of everything as the barrel perk, and Armor-Piercing Rounds is decent option to overpenetrate targets and a ×1.05 damage boost to shields and barriers - useful for when the anti-barrier seasonal artifact mod's around. For Stasis synergy, the combination of Rimestealer and Headstone gives you Stasis crystals on crit kills, and Frost Armor stacks when you shatter them for AoE damage, which you can use fragments to enhance further. The origin trait options of Vanguard Vindication, for a small health bump on a kill, or One Quiet Moment for +20 Handling, +40 Reload Speed with a ×0.95 reload animation duration when out of combat are both useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4176873718&perks=124408337,1955165503
+
+// BrayTech Werewolf
+//notes:pandapaxxy (PvE / M+KB / Controller): "Braytech Werewolf is the sole survivor of the two FotL auto rifle conundrum we've had. Poor Horror Story (though whether it's a glitch or not, you can enhance your old FotL weapons…SGA). When using Braytech Werewolf in PvE your best roll is Rewind Rounds or Subsistence paired with your choice of Onslaught or Kinetic Tremors. It entirely depends on how you would like to use this auto. All 4 perks are great on their own and make this auto feel incredible." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3558681245&perks=3418782618,95528736
+dimwishlist:item=3558681245&perks=3418782618,3891536761
+dimwishlist:item=3558681245&perks=2109543898,3418782618
+dimwishlist:item=3558681245&perks=1820235745,95528736
+dimwishlist:item=3558681245&perks=1820235745,3891536761
+dimwishlist:item=3558681245&perks=1820235745,2109543898
+dimwishlist:item=3558681245&perks=3643424744,95528736
+dimwishlist:item=3558681245&perks=3643424744,3891536761
+dimwishlist:item=3558681245&perks=2109543898,3643424744
+
+// BrayTech Werewolf
+//notes:pandapaxxy (PvP / M+KB / Controller): "Precision Frame auto rifles got a recent buff but still don't feel as dominant as they did in year 1 of Destiny 2. Wild that we've come this far. Lone Wolf will give you the best feel for being solo but if you prefer to team-shoot or just live in 6s your better perks are Dynamic Sway Reduction or Zen Moment. Kill Clip is tried and true for the fourth column. Tap the Trigger does stack with our accuracy boosts in the third column for an extremely sticky auto rifle. Desperate Measures is my favorite neutral damage perk that can work with any ability build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3558681245&perks=1015611457,2579169598
+dimwishlist:item=3558681245&perks=1890422124,2579169598
+dimwishlist:item=3558681245&perks=2109543898,2579169598
+dimwishlist:item=3558681245&perks=1015611457,1359896290
+dimwishlist:item=3558681245&perks=1359896290,1890422124
+dimwishlist:item=3558681245&perks=1359896290,2109543898
+dimwishlist:item=3558681245&perks=1015611457,2387244414
+dimwishlist:item=3558681245&perks=1890422124,2387244414
+dimwishlist:item=3558681245&perks=2109543898,2387244414
+
+// Arcane Embrace
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arcane Embrace is the newest frame to Destiny 2. A double fire slug shotgun. Each trigger pull fires two semi-deadly slugs. (Only semi if you can hit your shots). Over in your regular PvE activities it shouldn't matter unless you regularly GM or something. Fourth Times the Charm will give you one extra trigger pull for two consecutive burst crits. Precision Instrument stacks quickly on double fire frames and will work nicely against chunky health bars and champions. Surrounded can work better depending on the encounter and how confident you are at staying alive. Bonus points for Desperado for shotgun go brrrrr." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=1354429876,3047969693
+dimwishlist:item=3649985571&perks=1631667848,555281244
+dimwishlist:item=3649985571&perks=1631667848,3708227201
+dimwishlist:item=3649985571&perks=1631667848,3047969693
+dimwishlist:item=3649985571&perks=25606670,555281244
+dimwishlist:item=3649985571&perks=25606670,3708227201
+dimwishlist:item=3649985571&perks=25606670,3047969693
+
+// Arcane Embrace
+//notes:pandapaxxy (PvP / M+KB / Controller): "Arcane Embrace is not good in PvP. You need to land both shots to kill and one *has* to be a crit in order for you to secure the kill. Tap the Trigger and Closing Time both help your accuracy and Lone Wolf will boost your mid tier aim assist. If you treat this like a normal shotgun or slug you're going to have a bad time." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3649985571&perks=1194056669,2579169598
+dimwishlist:item=3649985571&perks=1890422124,2579169598
+dimwishlist:item=3649985571&perks=2579169598,4082225868
+dimwishlist:item=3649985571&perks=1194056669,3161816588
+dimwishlist:item=3649985571&perks=1890422124,3161816588
+dimwishlist:item=3649985571&perks=3161816588,4082225868
+dimwishlist:item=3649985571&perks=1194056669,4071163871
+dimwishlist:item=3649985571&perks=1890422124,4071163871
+dimwishlist:item=3649985571&perks=4071163871,4082225868
+
+// Jurassic Green
+//notes:pandapaxxy (PvE / M+KB / Controller): "Jurassic Green has always been an interesting weapon. It has worse base stats compared to other Rapid-Fire frame pulse rifles. Even with the deterministic recoil I preferred the base recoil with counterbalance or full send to 100 recoil direction with Arrowhead Brake. Heal Clip and Incandescent are tried and true rolls but you could opt for Frenzy for the big boost to reload and handling. Loose Change with Incandescent can also make you forget about the reload stat, but falls off a bit in higher level content." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=689294985&perks=3017780555,4293542123
+dimwishlist:item=689294985&perks=2109543898,3017780555
+dimwishlist:item=689294985&perks=3017780555,4104185692
+dimwishlist:item=689294985&perks=1119449540,4293542123
+dimwishlist:item=689294985&perks=1119449540,2109543898
+dimwishlist:item=689294985&perks=1119449540,4104185692
+dimwishlist:item=689294985&perks=1820235745,4293542123
+dimwishlist:item=689294985&perks=1820235745,2109543898
+dimwishlist:item=689294985&perks=1820235745,4104185692
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / M+KB): "Over in the crucible you've got a few things to keep in mind. AST base Jurassic Green hits out to 30.64m. at max you're only gaining ~5m. The better play is to invest your stats into consistency perks. Closing Time and Lone Wolf are both new and exciting perks but Keep Away is tried and true. Kill Clip will make follow up kills easier and depending on your build you could go for Adrenaline Junkie or even Desperate Measures. Headseeker is the best neutral option in the fourth column." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=689294985&perks=1015611457,2579169598
+dimwishlist:item=689294985&perks=11612903,2579169598
+dimwishlist:item=689294985&perks=2579169598,460017080
+dimwishlist:item=689294985&perks=1015611457,3619207468
+dimwishlist:item=689294985&perks=11612903,3619207468
+dimwishlist:item=689294985&perks=3619207468,460017080
+dimwishlist:item=689294985&perks=1015611457,1194056669
+dimwishlist:item=689294985&perks=11612903,1194056669
+dimwishlist:item=689294985&perks=1194056669,460017080
+
+// Mechabre
+//notes:pandapaxxy (PvE / M+KB / Controller): "Mechabre has always been a great sniper rifle. Even though High-Impact snipers aren't high meta their high single shot damage is great for solo play or short damage phases where accuracy isn't as important. Triple Tap or Clown Cartridge will get you better ammo with Appended Mag and a backup mag mod. If you're going to be with fireteam members, Firing Line is best in slot. Vorpal Weapon is second best but better for solo or dual fireteams." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2477980485&perks=1771339417,3400784728
+dimwishlist:item=2477980485&perks=1546637391,3400784728
+dimwishlist:item=2477980485&perks=1771339417,2284787283
+dimwishlist:item=2477980485&perks=1546637391,2284787283
+dimwishlist:item=2477980485&perks=1771339417,3523296417
+dimwishlist:item=2477980485&perks=1546637391,3523296417
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP you've got two different Ros to go for with combinations between them. The tried and true Snapshot Sights / Opening Shot will always work, especially good if you didn't get the free roll from Festival of the Lost past. Lone Wolf and Closing Time is the new hotness and works best with a mag boosting perk or backup mag to get 2 attempts with Closing Time (versus one shot with the base magazine of 3)." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2477980485&perks=1194056669,957782887
+dimwishlist:item=2477980485&perks=47981717,957782887
+dimwishlist:item=2477980485&perks=1194056669,2579169598
+dimwishlist:item=2477980485&perks=2579169598,47981717
+
+// Acosmic
+//notes:pandapaxxy (PvE / M+KB / Controller): "Acosmic is back and better than ever. Clown Cartridge and any of your favorite damage perks is going to be the roll to get. Impulse Amplifier is also good if you don't remember to reload before damage phases. Air Trigger can get you back to back mags with ease. I would say that Withering Gaze is not the perk to get. It's solid on special weapons and even though it's new it doesn't work well with the best in slot perk, Bait and Switch. If you can lead with Withering Gaze on another weapon you can swap to Acosmic for huge damage numbers." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=425681240&perks=2284787283,3078487919
+dimwishlist:item=425681240&perks=2284787283,3751912585
+dimwishlist:item=425681240&perks=2284787283,3194351027
+dimwishlist:item=425681240&perks=3078487919,951095735
+dimwishlist:item=425681240&perks=3751912585,951095735
+dimwishlist:item=425681240&perks=3194351027,951095735
+dimwishlist:item=425681240&perks=1421772400,3078487919
+dimwishlist:item=425681240&perks=1421772400,3751912585
+dimwishlist:item=425681240&perks=1421772400,3194351027
+
+// Acosmic
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP grenade launchers lost a lot of their shine with the health changes. 70 Blast Radius is the target to hit. Impulse Amplifier to boost up grenade Velocity. Withering Gaze with Proximity Grenades or High-Explosive Ordinance wouldn't be the worst combo as you won't be able to OHK and be able to swap to your primary or special for easy clean ups. Explosive Light is easy to get with orb generation through Reaper or Siphon mods. If you opt for general use you can go with Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=425681240&perks=3194351027,951095735
+dimwishlist:item=425681240&perks=2396489472,951095735
+dimwishlist:item=425681240&perks=1134488199,3194351027
+dimwishlist:item=425681240&perks=1134488199,2396489472
 
 // BrayTech Werewolf (first-choice PvE)
 // (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Alloy Mag, Light Mag, Appended Mag), Rewind Rounds, Onslaught
@@ -136,6 +671,48 @@ dimwishlist:item=2477980485&perks=1546637391,2284787283
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions in general and end-game, underleveled, content. Void rapid-fire grenade launcher Acosmic returns with a couple of new tricks for a boss damage. The stats look decent out of the box. At base, 25 Handling translates to 0.48s ready speed, 0.45s ADS speed and 0.43 stow speed, and with 0/1/2/3 Reserve mods, you hold total ammo of 33/35/37/38 shots. Look for a barrel perk that boosts Velocity and/or Handling together with Spike Grenades as the magazine perk. For burst damage, Clown Cartridge in the first trait perk column lets you take full advantage of Explosive Light's up to 6 shots (7 when enhanced) of ×1.25 bonus damage just for picking up power orbs, in the second. If you're interested, Acosmic is named after one of the two Hindu aspects of god; to be acosmic is to deny the objective reality of the temporal world - transcendental in a world-negating sense (according to Merriam-Webster). The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced, but don't overlook Nadir Focus for extra velocity. Recommended MW: Handling or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Synergy to generate Void Breaches or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=425681240&perks=2284787283,3194351027
 
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Unrelenting, Chain Reaction
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for add clearing minor enemies in general and end-game, underleveled content. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy between Unrelenting and Chain Reaction - any CR detonation kills count as weapon kills for Unrelenting to help keep you alive in CQC. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=2396489472,3108830275
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Eddy Current, Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. If you are looking towards the new-to-season-25 Jolting Feedback trait perk in the second column though, larger magazines work well - you might be able to apply Jolt to three targets before you need to reload. For arc builds, you can pair this with Eddy Current in the first column for gunfeel boosts while Amplified. Jolting Feedback is a great end-game trait perk, applying Jolt on the 16th bullet (12 when Amplified) - and one fewer (15 and 11) when Enhanced - and not requiring a kill to proc. Maybe pair with Sparks of Amplitude, Ions and Discharge or Facets of Awakening and Purpose to synergise with arc builds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=3966416502,684456054
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Eddy Current, Onslaught
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. For arc builds, Eddy Current in the first trait perk column provides gunfeel boosts while Amplified. In general content, Onslaught in the second column will help deal with add mobs efficiently. Maybe pair with Sparks of Amplitude and Discharge or Facets of Awakening and Purpose for Eddy Current uptime. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=684456054,95528736
+
+// VS Pyroelectric Propellant (first-choice PvE)
+// (Arrowhead brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Appended Mag, Extended mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Attrition Orbs, Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content, particularly with an Arc build. VS Pyroelectric Propellant is funky-looking arc adaptive auto-rifle with very decent stats. At base, 42 Range equates to 25.60m while ADS, 60 Handling is 0.35s ready, 0.28s ADS speed and 0.32s stow speed, while the Reload Speed of 50 is a 1.81s reload. To be honest, you'll be good with pretty much any barrel and magazine perk combination (except maybe Full Bore) - play into your own preferences. For end-game activities, Attrition Orbs in the first trait perk column makes a lot of sense to generate orbs, as you'll not get as many from siphon mods, and it works well with Jolting Feedback in the second to apply Jolt passively, not requiring a kill to proc, on the 16th bullet (12 when Amplified) - and one fewer (15 and 11) when Enhanced. Maybe pair with Sparks of Amplitude, Ions and Discharge or Facets of Awakening and Purpose to synergise with arc builds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: your choice depending on your preference, with a Backup Mag mod or, when masterworked, a Synergy mod for additional Ionic Traces for more frequent Amplification, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4232480042&perks=243981275,3966416502
+
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Demolitionist, Chain Reaction
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled content. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy between Demolitionist and Chain Reaction - you'll get 20% (22% when enhanced) grenade energy from Chain Reaction kills, and then use your grenade for an instant reload. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=2396489472,776531651
+
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Repulsor Brace, Withering Gaze
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick for majors and bosses in general and end-game, underleveled content, particularly with Void builds. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy for void subclasses between Repulsor Brace and the new-for-season-25 Withering Gaze, which provides a quick and easy way to apply weaken for an effective ×1.15 damage boost (technically you're debuffing the target, but the calculation's the same). Defeat the target, and you gain a Void Overshield for 8s. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=1134488199,776531651
+
+// VS Velocity Baton (first-choice PvE)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Demolitionist, Under-Over, Unrelenting, Repulsor Brace), Attrition Orbs
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE utility pick for general and end-game, underleveled content. VS Velocity Baton is the only second Area Denial GL if you 've been looking for a void flamethrower. The stats look pretty good, with pretty much all stats a little better than Lost Signal. With 0/1/2/3 reserves, you have 24/25/25/25 total ammo. For the barrel and mag perks, look to boost velocity without damaging Blast Radius. You'll likely be looking to Attrition Orbs in the second trait perk column and its ability to print multiple orbs with each shot -  it's not clear yet whether this is bugged and in need of a nerf (but it kinda feels like it might). To pair with that in the first trait column, Demolitionist should get grenade ability back quickly to use as a reload perk, Under-Over should quickly cook non-matching elemental shields and the hidden damage resistance shields of Subjugators, or Unrelenting provides health regeneration. If you have access to void debuffs, Repulsor Brace is another option, to gain Void Overshields. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1762785663&perks=243981275,3523296417
+dimwishlist:item=1762785663&perks=243981275,3108830275
+dimwishlist:item=1762785663&perks=243981275,776531651
+
+// VS Velocity Baton (first-choice PvE)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for Minor add clearing in general and end-game, underleveled content, particularly for void builds. VS Velocity Baton is the only second Area Denial GL if you 've been looking for a void flamethrower. The stats look pretty good, with pretty much all stats a little better than Lost Signal. With 0/1/2/3 reserves, you have 24/25/25/25 total ammo. For the barrel and mag perks, look to boost velocity without damaging Blast Radius. The void build synergy of Repulsor Brace in the first trait perk column, for Void Overshields on debuffed targets, and Destabilizing Rounds in the second, to spready volatility to nearby enemies should be entertaining when you're dealing with dense add crowds. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1762785663&perks=2048641572,776531651
+
 // VS Chill Inhibitor (first-choice PvE)
 // (Hard Launch, Quick Launch, Smart Drift Control), (Spike Grenades, Augmented Drum, Mini Frags), Envious Arsenal, Bait and Switch
 //notes:Inspired by @PodvsEnemies episode 120 from 29 October 2024 (https://open.spotify.com/episode/3tLWOteO62mxx6Yh2Ll4k3?si=bb40d9918c564281) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against bosses in general and end-game, underleveled content. VS Chill Inhibitor is the first rapid fire Stasis heavy GL. The stats are excellent. At base, 59 Velocity equates to 52.26m/s, 25 Handling is 0.48s ready, 0.45s ADS speed and 0.43s stow speed, while the Reload Speed of 29 is a 3.47s reload. With 0/1/2/3 reserves, you have 34/36/38/39 total ammo. For the barrel perk, if you have Spike Grenades as your magazine Perk, Hard Launch squeezes a little extra damage as well as providing the biggest Velocity boost, otherwise Quick Launch and Smart Drift Control also work well. To get the most out of your magazine size, Augmented Drum or Mini Frags are decent magazine perk alternatives. The trait perk pairing of Envious Arsenal and Bait and Switch both proc on the same condition of damaging a target with your other weapons to reload the mag, and boost damage by ×1.3 for 10s. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Velocity or Handling, with Quick Access Sling mod or Backup Mag mod to get to the maximum of 8 shots.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
@@ -145,6 +722,16 @@ dimwishlist:item=1762785662&perks=3078487919,3987942396
 // Spirit of Osmiomancy, Spirit of Verity
 //notes:Adamsdown_Boy written v8.0.5.1 (PvE PvE-Utility PvE-God M+KB Controller): Primarily for grenade-focussed builds, you're using Osmiomancy more for the improved grenade energy regeneration on hits side of the perk, and not for the improved Coldsnap seekers, so you can use any grenade except Healing - Storm and Vortex are probably strongest. The Verity perk provides a +20% bonus to grenade damage per stack, up to 100% at 5 stacks with weapon damage matching your super. With the rest of a prismatic build, Song of Flame as the super is just too good not to use at the time of writing, with Arcane Needle for three melee charges. The Feed the Void Aspect is an obvious choice to proc Devour when you use your grenade, then choose between Hellion or Weaver's Call for the other. Depending on the grenade ability you choose, Facets of Courage, Balance, Dawn, Protection, and Dominance can work - Courage increases light-based damage against darkness debuffed enemies (so more grenade damage against unravelled enemies), Balance returns melee energy on rapid light energy kills (which you'll be getting plenty of with your grenades and solar weapon kills), powered melee hits from Dawn make you radiant for a +25% damage boost (and to pierce Barrier Champions with your weapons), Protection gives you +15% DR in a crowd (+30% when Transcendent), and Dominance grants weaken to void grenades or jolting to arc grenades. And, seeing as you're asking, Solipsism is a philisophical theory holding that only one's mind is certain to exist.|tags:PvE PvE-Utility PvE-God M+KB Controller
 dimwishlist:item=2273643087&perks=
+
+// Exuviae (first-choice PvE)
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Extended Mag, Alloy Mag, Flared Magwell), Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general, non-underleveled content, particularly with a Stasis build. Exuviae is only the second Stasis aggressive hand cannon and, while the stats are pretty much in-band, has a new trick that makes it worth looking at. At base, 61 Range equates to 35.23m while ADS, 32 Handling is 0.38s ready, 0.28s ADS speed and 0.42s stow speed, while the Reload Speed of 29 is a 2.46s reload. On controller, you might benefit from some stability from the barrel perk or, if you prefer, focus on handling. You could look to boost Reload Speed with the magazine perk but, if you're willing to play into the Dark Ether origin trait, you'll get value from boosting the magazine size. For Stasis synergy, the new-to-season-25 trait perk Rimestealer is a natural pairing to Headstone - break the stasis crystal generated from a crit kill, or a frozen enemy, to generate a stack of Frost Armor (two stacks when enhanced). The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. For anyone interested, exuviae are sloughed off natural animal coverings, such as arthropods after they molt. Recommended MW: Stability (Controller) or Handling (M+KB), with a Backup Mag mod or, when enhanced, a Synergy mod for additional Stasis shards.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2823644677&perks=124408337,1955165503
+
+// Exuviae (first-choice PvE)
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Extended Mag, Alloy Mag, Flared Magwell), Stats for All, (One for All, Frenzy, Explosive Payload)
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in both general and end-game, underleveled content. Exuviae is only the second Stasis aggressive hand cannon and, while the stats are pretty much in-band, offers a solid kinetic-slot option for anyone who doesn't already have one - if you do, you can safely pass. At base, 61 Range equates to 35.23m while ADS, 32 Handling is 0.38s ready, 0.28s ADS speed and 0.42s stow speed, while the Reload Speed of 29 is a 2.46s reload. On controller, you might benefit from some stability from the barrel perk or, if you prefer, focus on handling. You could look to boost Reload Speed with the magazine perk but, if you're willing to play into the Dark Ether origin trait, you'll get value from boosting the magazine size. For trait perks, there's the fan-favourite SOFA roll of Stats for All and One for All, boosting gunfeel and damage by ×1.35 for 10s for hitting three enemies, or Frenzy to max out handling and reload and boost damage by ×1.15 just for being in combat for 12s, or good old Explosive Payload for a straight ×1.15 damage boost with no proccing. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. For anyone interested, exuviae are sloughed off natural animal coverings, such as arthropods after they molt. Recommended MW: Stability (Controller) or Handling (M+KB), with a Backup Mag mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2823644677&perks=1583705720,4104185692
 
 // Liturgy (first-choice PvE)
 // Quick Launch, Disorienting Grenades, Rimestealer, Chill Clip
@@ -156,6 +743,38 @@ dimwishlist:item=2599338624&perks=1955165503,2978966579
 //notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick for crowd control in both general and end-game, underleveled content. Liturgy is the fourth double fire GL, and the first Stasis energy type with a weirdly lower Blast Radius of 40 - that aside, the stats are decent. At base, 89 Velocity equates to 63.78m/s, 47 Handling is 0.42s ready, 0.41s ADS speed and 0.38s stow speed, while the Reload Speed of 32 is a 2.62s reload. At base, with 0, 1, 2 or 3 chest reserves mods, you'll get total ammo of 22/23/24/25 which can be boosted by trait perks. For a general purpose crowd control roll, maximise the Blast Radius with Volatile Launch and then, as there's no other magazine perk options that really work, Spike Grenades provides a ×1.027 damage boost on direct impacts. As the trait perks, in the first column Rimestealer can work if you have access to other Stasis verbs as part of your build, to generate Frost Armor on frozen enemy kills or stasis crystal shattering, or bypass reloads with Slideways. In the second, Chill Clip pairs well with Rimestealer, One for All procs easily on double-fire GLs for a ×1.35 damage boost, or Chain Reaction adds AoE damage on enemy kills and boosts ammo reserves when enhanced. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. For anyone interested, a liturgy is a form or formulary according to which public religious worship, is conducted. Recommended MW: Blast Radius, with a Quick Access Sling mod, or possibly a Tactical mod when enhanced.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2599338624&perks=1955165503,2978966579
 dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=2599338624&perks=1955165503,2396489472
+dimwishlist:item=2599338624&perks=2039302152,2396489472
+
+// Insurmountable (first-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Appended Mag, Flared Magwell), Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add-clearing Minor enemies in general, non-underleveled content, particularly with Void builds. Insurmountable is a void precision sidearm, which means you can basically ignore the Recoil Direction stat. At base, 50 Range equates to 15.60m when ADS, 38 Handling is 0.32s ready, 0.26s ADS speed and 0.35s stow speed, while the Reload Speed of 21 is a 1.90s reload. Range on sidearms is pretty compressed, so a barrel perk offering Handling is probably your first choice, maybe with a touch of Stability if you're on controller. In the magazine, look for perks that provide extra shots or faster reloads. For void synergy, the trait perk combination of Repulsor Brace and Destabilizing Rounds, keep you safe with an Void Overshield while you're clearing crowds of volatile enemies - maybe to pair with Echoes of Persistence and Starvation. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly a Synergy (to proc Echo of Starvation), Tactical or Ammo Finder Enhancement mod when enhanced.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=414045521&perks=2048641572,776531651
+
+// Insurmountable (first-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Appended Mag, Flared Magwell), Threat Detector, (Surrounded, One for All)
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing Minor enemies in both general and end-game, underleveled content. Insurmountable is a void precision sidearm, which means you can basically ignore the Recoil Direction stat. At base, 50 Range equates to 15.60m when ADS, 38 Handling is 0.32s ready, 0.26s ADS speed and 0.35s stow speed, while the Reload Speed of 21 is a 1.90s reload. Range on sidearms is pretty compressed, so a barrel perk offering Handling is probably your first choice, maybe with a touch of Stability if you're on controller. In the magazine, look for perks that provide extra shots or faster reloads. You can lean into the origin trait to bypass reloading, but Threat Detector still provides other useful gunfeel boosts in CQC in the first trait perk column. Pair it with Surrounded for a hefty ×1.4 boost to damage (×1.47 when enhanced) at the same time when procced, or One for All for a ×1.35 boost to damage for 10s after hitting 3 seperate enemies, for a very decent add-control weapon. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly a Synergy, Tactical or Ammo Finder Enhancement mod when enhanced.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=414045521&perks=3708227201,4071163871
+
+// Vantage Point (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel, Smallbore, Chambered Compensator), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag, Extended Mag), Eddy Current, Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing beefier Minor and Major enemies in both general and end-game, underleveled content, particularly with arc builds. Insurmountable is an arc adaptive Pulse Rifle with overall in-band stats. At base, 42 Range equates to 32.55m when ADS, 40 Handling is 0.42s ready, 0.38s ADS speed and 0.41s stow speed, while the Reload Speed of 42 is a 2.01s reload. You might find a little help with the recoil direction useful or, if you can handle it, look for some extra handling or stability. In the magazine perk slot, look to increase magazine size and reload speed. But what makes this weapon special is the combination of Eddy Current to boost reload and handling when procced, and the new-to-season-25 Jolting Feedback trait which will passively apply Jolt to targets after 15 hits on enemies (or 11 when amplified) - great for additional chunk damage on a target and clearing nearby adds with the AoE damage. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly a Synergy (for Ionic Traces to proc Amplified more often), Tactical or Ammo Finder Enhancement mod when enhanced.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3830941962&perks=3966416502,684456054
+
+// Vantage Point (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel, Smallbore, Chambered Compensator), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag, Extended Mag), Stats for All, One for All
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing beefier Minor and Major enemies in both general and end-game, underleveled content. Insurmountable is an arc adaptive Pulse Rifle with overall in-band stats. At base, 42 Range equates to 32.55m when ADS, 40 Handling is 0.42s ready, 0.38s ADS speed and 0.41s stow speed, while the Reload Speed of 42 is a 2.01s reload. You might find a little help with the recoil direction useful or, if you can handle it, look for some extra handling or stability. In the magazine perk slot, look to increase magazine size and reload speed. If you haven't already picked up an arc pulse rifle with the fan favourite SOFA (Stats for All/ One for All) trait perk pairing, then this is a great combination to take into end-game content, boosting gunfeel and boosting damage by ×1.35 for 10s just by hitting three different targets. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly a Synergy (for Ionic Traces to proc Amplified more often), Tactical or Ammo Finder Enhancement mod when enhanced.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+
+// Sovereignty (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Tactical Mag, Appended Mag, Extended Mag), Explosive Payload, Withering Gaze
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice utility PvE pick for weakening Major and Boss enemies in both general and end-game, underleveled content, particularly with void builds. Sovereignty is a void adaptive Sniper Rifle with overall in-band stats so, unfortunately it's not as good as a rapid-fire as a backup boss damage weapon. At base, it has 45 Zoom, 40 Handling which equates to 0.39s ready, 0.41s ADS speed and 0.34s stow speed, while the Reload Speed of 39 is a 3.04s reload. Total ammo at base with 0, 1, 2 and 3 reserve mods is 21/23/25/26. You might find a little help with the recoil direction useful or, if you can handle it, look for some extra handling or stability. In the magazine perk slot, look to increase magazine size - Appended or Extended Mag with a Backup Mag mod takes total ammo to 25/27/29/30. Combined with the origin trait, you can potentially get 10 in an overflowed mag (13 when the weapon's enhanced). In the second trait perk column is the new-to-season-25 Withering Gaze, which can apply void Weaken global debuff from a safe distance after ADSing for 1.5s (to possibly pair with Echoes of Harvest and Starvation?), for a ×1.15 damage boost while active. There's nothing much that synergises in the first column, so Explosive Payload is tried and trusted for a bit of extra damage, and some flinch. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly an Anti-Flinch or Synergy (to proc Echo of Starvation) mod when enhanced.|tags:PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3818198556&perks=1134488199,3038247973
+
+// Bitter/Sweet (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Spike Grenades, Envious Arsenal, Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 119 from 22 October 2024 (https://open.spotify.com/episode/6CEZXurwhqejVZpX506M2a?si=7ef44c5f06ae4412) with @Saint_Kabr, @ImpetusAlways, and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in both general and end-game, underleveled content. Bitter/Sweet is an arc adaptive grenade launcher with decent stats. At base, it has 39 Handling which equates to 0.44s ready, 0.43s ADS speed and 0.40s stow speed, while the Reload Speed of 42 is a 3.22s reload. Total ammo at base with 0, 1, 2 and 3 reserve mods is 25/27/28/29. For an excellent boss damage roll, boost the Velocity and Handling with the barrel perk, and add Spike Grenades for its ×1.027 damage boost on direct impacts in the magazine. If you lean into the origin trait, this could result in an overflowed magazine of 10 (13 when the weapon is enhanced!). The new-for-season-25 Envious Arsenal in the first trait perk column procs on the same condition as Bait and Switch, so a full weapon damage rotation will reload the base magazine from reserves and provide a further ×1.3 damage boost for 10s. If you can proc the excellent Dark Ether origin trait before DPS starts, you can overflow the magazine by ×1.4 (rounded up) base capacity or ×1.8 when enhanced. Recommended MW: Handling or Velocity, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2599338625&perks=3078487919,3987942396
 
 // Liturgy (PvE)
 // (Hard Launch, Smart Drift Control), Disorienting Grenades, Rimestealer, Chill Clip
@@ -165,6 +784,7 @@ dimwishlist:item=2599338624&perks=1955165503,2978966579
 // Liturgy (PvE)
 // Hard Launch, (Implosion Rounds, Spike Grenades), (Envious Arsenal, Slideways), Chill Clip
 //notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for a boss damage rotation in both general and end-game, underleveled content, particularly with Stasis builds. Liturgy is the fourth double fire GL, and the first Stasis energy type with a weirdly lower Blast Radius of 40 (which is actually a plus for this roll), the stats are decent. At base, 89 Velocity equates to 63.78m/s, 47 Handling is 0.42s ready, 0.41s ADS speed and 0.38s stow speed, while the Reload Speed of 32 is a 2.62s reload. At base, with 0, 1, 2 or 3 chest reserves mods, you'll get total ammo of 22/23/24/25 which can be boosted by trait perks. Counter-intuitively, for single-target damage, the lower the blast radius, the more damage you cause, so reduce the low BR even further with Hard Launch as the barrel perk, and Implosion Rounds in the magazine - although Spike Grenades, for its ×1.027 damage boost on direct impacts, is also very good. If you're using this in a Bait and Switch weapon rotation, Envious Arsenal in the first trait column will reload (and also boosts ammo reserves by the equivalent of 1 reserves mod, or 2 when enhanced), or if not, and you're moving between damage plates, Slideways does the same. There's no useful damage perk in the second column, but if you have Chill Clip, then you can use Prismatic's Facet of Courage for a ×1.1 damage multiplier with a light-based heavy weapon or super. You won't get much use from the excellent Dark Ether origin trait from this roll, unfortunately, as it's more about setting up for boss damage than kills. For anyone interested, a liturgy is a form or formulary according to which public religious worship, is conducted. Recommended MW: Velocity or Handling, with a Quick Access Sling mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2599338624&perks=2978966579,3987942396
 dimwishlist:item=2599338624&perks=2039302152,2978966579
 
 // Solipsism (PvE)
@@ -603,14 +1223,6 @@ dimwishlist:item=586671776&perks=3511092054,555281244
 //notes:SirStallion_ (PvE / M+KB / Controller): "For me, this combination is tried and true. Headstone will spawn stasis crystals that can serve as extensions of the gun.. Meaning those stasis crystal explosions will fuel demo. Handy dandy indeed, and allows for much spam. However, it's missing some reload, and like most 120rpm HCs, this big boi NEEDS it. With the Dream Work origin trait, you can certainly get by, but I still like to hedge my bets and get as much reload as I can from mag and MW. Plus, I'm sort of curious about Nadir Focus, so I wont always have Dream Work locked and loaded." Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=586671776&perks=124408337,3523296417
 
-// Something New
-//notes:SirStallion_ (PvP / M+KB / Controller): "Now, I've given this thing a lot of stability. And it's going to get even more from Rapid Hit. To me, for PvP, my ability to hit shots with such a slow firing weapon is far more important than hitting for full damage a few metres further. Rapid Hit should hypothetically fix my reload problems as well as giving me more stability to help combat flinch. Kill Clip is just.. Nice. With how easy a lot of us can get Radiant going when we need to, the combo of damage perks should give me some slay potential. Otherwise, I'd definitely be looking at Explosive Payload just to annoy people." Recommended MW - Stability.|tags:pvp,mkb,controller
-dimwishlist:item=586671776&perks=1015611457,247725512
-
-// Compass Rose
-//notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
-dimwishlist:item=4169225313&perks=1631667848,2360754333
-
 // Compass Rose
 //notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
 dimwishlist:item=4169225313&perks=1821614984,47981717
@@ -619,29 +1231,9 @@ dimwishlist:item=4169225313&perks=1821614984,47981717
 //notes:SirStallion_ (PvP / M+KB / Controller): "I.. Cannot believe I want this. I hate slickdraw, it makes me so annoyed when I see it on guns.. Usually. But this is a shotgun. You're going for centre mass and the target acquisition just doesn't matter. Holy heck. You can have maximum handling and full send into range in tandem. So that's what I'm going to do, Opening Shot will do so much work, I'll have the snappiest little boomstick you've ever seen and have almost max range. Also this gun has regular old barrels? So that's weird. But it means if you don't want slickdraw, you have much nicer handling options." Recommended MW - Range.|tags:pvp,mkb,controller
 dimwishlist:item=4169225313&perks=1821614984,47981717
 
-// Crowning Doulogue
-//notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=4106757302&perks=2396489472,951095735
-
-// Crowning Doulogue
-//notes:SirStallion_ (PvE / M+KB / Controller): "Okay, this rocket might be the glow up of the century because WOW this was a dud last year. But now? We're seeing demo, we're seeing ALH, we're seeing Recon. And that's all the first perk. THEN we got B&S, Bipod and Envious? Hell, you can even rock Hatchling and Chain Reaction if you wanna get weird. Personally, this is going to become a bossing rocket I can use alongside Strand surges. I just really really wish it was a different archetype, but hey, I will take it." Recommended MW - Velocity.|tags:pve,mkb,controller
-dimwishlist:item=4106757302&perks=1523832109,3078487919
-
-// Crowning Doulogue
-//notes:SirStallion_ (PvP / M+KB / Controller): "Okay look, Rockets in PvP? You basically fire it when someone is on a point you can't quite see, or 2ft in front of your face and you take yourself out too. I am okay with this. But my goal is to make the surrounding area of impact as volatile as I can [...]" Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=4106757302&perks=1275731761,831391274
-
-// Fortunate Star
-//notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller
-dimwishlist:item=2326578623&perks=2048641572,776531651
-
 // Fortunate Star
 //notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
 dimwishlist:item=2326578623&perks=1866048759,3414324643
-
-// Fortunate Star
-//notes:SirStallion_ (PvE / M+KB / Controller): "Now, Destabilising rounds is also very desirable, but I want my Gyrfalcon hunter to have fun with this thing, so Destab isn't needed, and Golden Tricorn will give me all the damage, x2 is real nice but honestly the self refreshing x1 more than makes GT worth it for me personally. Overshields are good, so Repulsor doesn't need much explanation. Minimum draw time, as much accuracy as I can squeak out and with any luck I'll be slaying in no time." Recommended MW - Draw Time.|tags:pve,mkb,controller
-dimwishlist:item=2326578623&perks=2610012052,776531651
 
 // Fortunate Star
 //notes:SirStallion_ (PvP / M+KB / Controller): "Lightweight bow means moving fast, moving fast means dinking fools from the hip (to me) so this combo became a no brainer. I don't love bows in PvP usually, but the prospect of staying on the move with minimal draw time and firing off the hip kinda gets something flowing in my brain. Unfortunately, I find neither Origin Trait to be particularly worthwhile, so we may see some power creep in the future. But hey. Shoot em while youve got em, and I'm hoping to get many." Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -1419,44 +2011,6 @@ dimwishlist:item=3569407878&perks=2396489472,3108830275
 //notes:pandapaxxy (PvP / M+KB / Controller): "Wave Frames in PvP are an odd choice, without perks like Assassin’s Blade, Eager Edge, or even Valiant Charge you’ll be a lot slower than other swords, but the new heavy wave-jump-thing will certainly catch some people by surprise." Recommended MW: Impact.|tags:pvp,mkb,controller
 dimwishlist:item=2001697739&perks=2396489472,2590710093
 dimwishlist:item=2001697739&perks=2396489472,3108830275
-
-// Something New
-//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Stability or Handling.|tags:pve,mkb,controller
-dimwishlist:item=586671776&perks=247725512,3038247973
-
-// Something New
-//notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Range.|tags:pvp,mkb,controller
-dimwishlist:item=586671776&perks=247725512,3038247973
-dimwishlist:item=586671776&perks=1015611457,247725512
-dimwishlist:item=586671776&perks=3511092054,555281244
-
-// Unknown Weapons
-//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Accuracy.|tags:pve,mkb,controller
-dimwishlist:item=2326578623&perks=2048641572,776531651
-dimwishlist:item=2326578623&perks=2610012052,776531651
-dimwishlist:item=2326578623&perks=201365942,3414324643
-
-// Unknown Weapons
-//notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Accuracy.|tags:pvp,mkb,controller
-dimwishlist:item=2326578623&perks=201365942,3414324643
-dimwishlist:item=2326578623&perks=1866048759,3414324643
-
-// Compass Rose
-//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
-dimwishlist:item=4169225313&perks=1631667848,2360754333
-
-// Compass Rose
-//notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Range or Handling.|tags:pvp,mkb,controller
-dimwishlist:item=4169225313&perks=1821614984,47981717
-
-// Crowning Duologue
-//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Blast Radius.|tags:pve,mkb,controller
-dimwishlist:item=4106757302&perks=1523832109,3078487919
-
-// Crowning Duologue
-//notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=4106757302&perks=2396489472,951095735
-dimwishlist:item=4106757302&perks=1275731761,831391274
 
 // Ergo Sum
 //notes:pandapaxxy (PvE / M+KB / Controller)|tags:pve,mkb,controller
