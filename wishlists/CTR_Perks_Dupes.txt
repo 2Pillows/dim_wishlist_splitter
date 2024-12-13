@@ -1,6 +1,30 @@
 title:CTR Perks Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Zephyr
+//notes: Panda (PvE / Controller / M+KB): "Rimestealer and Cold Steel, name a better combo. I'll wait" Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=601948197&perks=1955165503,3650930298
+
+// Zephyr
+//notes: Stallion (PvE / M+KB / Controller): "So, this is just last years roll but with Rimestealer instead of Wellspring. Im.. Not sold on the combo, but this sword does very little interesting outside of being stasis and having Cold Steel, so might aswell full send." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=601948197&perks=1955165503,3650930298
+
+// Stay Frosty
+//notes: Panda (PvP / Controller): "While you can cleanly two burst with Kill Clip and 6 crits I find neutral perks better. Lightweight pulses are less useful compared to other archetypes but the movement speed bonuses will be nice to feel." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1123433952&perks=460017080,588594999
+
+// Glacioclasm
+//notes: Panda (PvP / Controller): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1183116657&perks=1194056669,2579169598
+
+// Avalanche
+//notes: Panda (PvP / M+KB / Controller): "Golden Tricorn is goated on this machine gun. A blistering quick 4 shot TtK at 0.40s. You only need to hit 50% of your headshots up to Tier 8 resilience, and if you happen to synergize for Golden Tricorn 2x you can 3 shot 2c1b any resilience at 0.27s." Recommended MW: Range or Stability.|tags:pvp,mkb,controller
+dimwishlist:item=1845978721&perks=1359896290,2610012052
+
+// Avalanche
+//notes: Stallion (PvP / M+KB / Controller): "Golden Trike will give you a little extra oomph going into your double (or maybe triple kills, look at you go), DSR and the stab MW should help lock in with this weird frame in PvP and we all love minor bumps from Smallbore" Recommended MW: Stability.|tags:pvp,mkb,controller
+dimwishlist:item=1845978721&perks=1359896290,2610012052
+
 // Live Fire
 //notes:pandapaxxy (PvE / M+KB / Controller): "Live Fire doesn't do anything spectacular, but it's not trying to reinvent the wheel. Live Fire exists to specialize in Stasis. While it's nothing fancy it doesn't have to be. Shoot to Loot is interesting if you make crystals through your subclass (Prismatic or Stasis). Or it can be a generic scout rifle through Subsistence or Rapid Hit." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3612142623&perks=124408337,1955165503

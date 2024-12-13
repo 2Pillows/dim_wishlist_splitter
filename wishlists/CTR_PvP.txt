@@ -1,6 +1,54 @@
 title:CTR PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Zephyr
+//notes: Panda (PvP / M+KB / Controller): "Tireless Blade will get you one ammo back after every other kill, and swords OHK. The extra damage from Chain Reaction will make follow up kills easier or just get you some fun multikills." Recommended MW: Impact.|tags:pvp,controller,mkb
+dimwishlist:item=601948197&perks=2396489472,2590710093,269888150,3666208348
+
+// Zephyr
+//notes: Stallion (PvP / M+KB / Controller): "Unfortunately, Zephyr would not be my first pick for PvP swords. It's not craftable, Cold Steel is pointless and it's not an interesting frame. BUT. This would be what I'd take into PvP if I had to. Duelist benefits the player after a kill until you put the sword away, but since heavy is not very frequent in PvP, you're likely gonna commit to using all your ammo up. So Duelist gives the best benefit in slot imo. Vorpal is a nice safety net in case your heavy spawn gets assaulted by a super (I've seen it happen, it's terrifying), you might be able to fight back a little easier." Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=601948197&perks=1546637391,269888150,3666208348,3705817207
+
+// Stay Frosty
+//notes: Panda (PvP / Controller): "While you can cleanly two burst with Kill Clip and 6 crits I find neutral perks better. Lightweight pulses are less useful compared to other archetypes but the movement speed bonuses will be nice to feel." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1123433952&perks=1482024992,3142289711,460017080,588594999
+
+// Stay Frosty
+//notes: Stallion (PvP / M+KB / Controller): "I know, I know. Im betraying myself. I, SirStallion, the Killing Wind shill, is advocating for the use of a different perk. But 10 AA and 10 AE for free?! And then double when alone?! Heck, thats just free weird stats. Maybe it doesnt even do anything, heck it, then use Killing Wind. But on the chance it feels amazing? Thats what Im after." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=1123433952&perks=1015611457,2579169598,3230963543,839105230
+
+// Glacioclasm
+//notes: Panda (PvP / Controller): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1183116657&perks=1194056669,1482024992,2579169598,2969185026
+
+// Glacioclasm
+//notes: Stallion (PvP / M+KB / Controller): "Okay, Withering Gaze feels like a bit of a rogue pick. I admit. But! A little extra weaken? Eh why not. Thing shoots at a snails pace anyway, might as well try and get some mileage from the new perk, get weird with it. Slideshot for more stats and free reloads (freeloads, if you will)." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=1183116657&perks=1134488199,1482024992,3161816588,689005463
+
+// Albedo Wing
+//notes: Panda (PvP / M+KB / Controller): "Closing time and Light Mag will bring your range up to 100. Auxiliary Reserves and Shield MW will get you to 55 shield duration. Add in Close to Melee for easier clean ups after your massive 100 range shot." Recommended MW: Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=1845372864&perks=1194056669,1782407750,580685494,679225683
+
+// Albedo Wing
+//notes: Stallion (PvP / M+KB / Controller): "I.. Got nothing. More abilities. Get some freeloads from Demo, the shield duration tank should be fine (I hope) I really dont know what glaives want, but this seems fun to me." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=1845372864&perks=1263609309,3523296417,3721627275,880644845
+
+// Avalanche
+//notes: Panda (PvP / M+KB / Controller): "Golden Tricorn is goated on this machine gun. A blistering quick 4 shot TtK at 0.40s. You only need to hit 50% of your headshots up to Tier 8 resilience, and if you happen to synergize for Golden Tricorn 2x you can 3 shot 2c1b any resilience at 0.27s." Recommended MW: Range or Stability.|tags:pvp,mkb,controller
+dimwishlist:item=1845978721&perks=1359896290,1482024992,2420895100,2610012052
+
+// Avalanche
+//notes: Stallion (PvP / M+KB / Controller): "Golden Trike will give you a little extra oomph going into your double (or maybe triple kills, look at you go), DSR and the stab MW should help lock in with this weird frame in PvP and we all love minor bumps from Smallbore" Recommended MW: Stability.|tags:pvp,mkb,controller
+dimwishlist:item=1845978721&perks=1359896290,1482024992,2420895100,2610012052
+
+// Mistral Lift
+//notes: Panda (PvP / M+KB / Controller): "While not Doomed Petitioner for PvP, Mistral Lift does have some utility in Keep Away or Moving Target and High-Impact Reserves for bonus damage on those last shots. You'll almost never be at max mag so there's no downside. Drop that charge time to have a nuclear sniper with better body shot damage." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3483485727&perks=2213355989,3250034553,3619207468,689005463
+
+// Mistral Lift
+//notes: Stallion (PvP / M+KB / Controller): "I dont.. I dont know. 3 burst LFR in PvP, my brain goes to "Kill Super gooder" and I just.. Full sent into it. Moving Target is probably just as good, if not better but.. New perk. Might aswell." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3483485727&perks=1134488199,1546637391,689005463,839105230
+
 // Live Fire
 //notes:pandapaxxy (PvP / Controller): "Similarly to Live Fire’s PvE performance, its PvP performance doesn't stand out. It's not the most lethal scout to ever exist, nor is it the most consistent, nor does it have the most insane stats. If you want to use Rimestealer on a scout rifle then farm out a Live Fire. If you're okay without this one method of getting Frost Armor then you're okay with passing this weapon." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3612142623&perks=124408337,1840239774,1885400500,247725512
