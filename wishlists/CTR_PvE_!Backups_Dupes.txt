@@ -1,6 +1,149 @@
 title:CTR PvE !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Rake Angle (first-choice PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), Appended Mag, (Overflow, Replenishing Aegis, Lead from Gold), Chill Clip
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-Champion PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick in general, and end-game underleveled content, particularly for Stasis builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33).You could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. Appended Mag as the mag perk with Backup Mag maxes out the magazine at 6 shots. The second trait slot perk that makes this special is Chill Clip to slow and disrupt Overload Champions, while two shots will freeze, and stun, Unstoppable Champions - you can also build into Stasis verbs with your fragments. To that end, Overflow is great first trait perk choice, doubling the mag size when picking up ammo even when stowed, giving nine Chill Clip shots. Alternatively, Replenishing Aegis refills the mag when you bock damage with the shield or Lead from Gold helps with the overall ammo economy. The Stunning Recovery origin trait refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, so synergises well. Recommended MW: Handling or Shield Duration, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Utility PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2298039571&perks=1087426260,1966281507,2978966579,580685494
+dimwishlist:item=2298039571&perks=1087426260,1966281507,2978966579,5699512
+dimwishlist:item=2298039571&perks=1087426260,1556840489,2978966579,5699512
+
+// Rake Angle (Adept) (first-choice PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), Swap Mag, (Overflow, Replenishing Aegis, Lead from Gold), Chill Clip
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-Champion PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick in general, and end-game underleveled content, particularly for Stasis builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33). You could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. The Adept Backup Mag mod maxes the number of shots to 6, and none of the other mag perks really offes much so Swap Mag is probably the best of the options for faster ready and stow. The second trait perk that makes this special is Chill Clip to show and disrupt Overload Champions, while three shots with a six shot mag will freeze, and stun, Unstoppable Champions - you can also build into Stasis verbs with your fragments. To that end, Overflow is great first trait perk choice, doubling the mag size when picking up ammo even when stowed, giving nine Chill Clip shots. Alternatively, Replenishing Aegis refills the mag when you bock damage with the shield or Lead from Gold helps with the overall ammo economy. The Stunning Recovery origin trait refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, so synergises well. Recommended MW: Handling or Shield Duration, with an Adept Backup Mag mod or, when masterworked, Stunloader for a partial reload when fighting Champions.|tags:PvE PvE-Utility PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3997086838&perks=1966281507,2978966579,3721627275,580685494
+
+// Anonymous Autumn (first-choice PvE)
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Flared Magwell, Alloy Mag, Light Mag), Eddy Current, Voltshot
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing Minor enemies in  general, non-underleveled content, particularly with arc builds. If you've missed out on decent arc sidearms from previous seasons, Anonymous Autumn is a decent option. It does drop from Crucible activities with a 12×12 trait perk pool, so if you're after it, reset your Shaxx rank as many times as you're able before focusing. At base the stats are okay - 29 Range equates to 14.59m ADS and 12.16 hipfire, 60 Handling is 0.21s ready, 0.26s ADS and 0.31s stow speed, while the Reload Speed of 45 is a 1.63s reload. Range on sidearms is really compressed, so you can boost Handling, Stability (particularly for Controller) and reload with your barrel and magazine perks. If you didn't get a Brigand's Law with Voltshot, then Eddy Current in the first trait perk slot to speed up reload is a perfect pairing, synergising with the Arc verb toolkit, particularly if you enhance the weapon to unlock the Synergy mod to generate Ionic Traces. You might feel more immediate benefit from the One Quiet Moment origin trait for reloads, but if you can stay alive, you'll start to feel Field Tested as you get to the higher stacks. Recommended MW: Reload Speed, with a Backup Mag mod or, when enhanced, an Synergy mod to generate Ionic Traces.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1051949956&perks=1840239774,2173046394,3230963543,684456054
+
+// Anonymous Autumn (first-choice PvE)
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet rounds, Flared Magwell, Alloy Mag, Light Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing Minor enemies in  general, and end-game underleveled content. If you've missed out on decent arc sidearms from previous seasons, Anonymous Autumn is a decent option. It does drop from Crucible activities with a 12×12 trait perk pool, so if you're after it, reset your Shaxx rank as many times as you're able before focusing. At base the stats are okay - 29 Range equates to 14.59m ADS and 12.16 hipfire, 60 Handling is 0.21s ready, 0.26s ADS and 0.31s stow speed, while the Reload Speed of 45 is a 1.63s reload. Range on sidearms is really compressed, so you can boost Handling and Stability (particularly for Controller) with your barrel perks, and then the Combat effect or reload magazine perks are all worth a look. As a perk pairing, Demolitionist to regenerate grenade energy and Adrenaline Junkie to boost damage by up to ×1.33 after a grenade kill, is a natural. You might feel more immediate benefit from the One Quiet Moment origin trait for reloads, but if you can stay alive, you'll start to feel Field Tested as you get to the higher stacks. Recommended MW: Handling, Stability or Reload Speed, with a Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic Traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1051949956&perks=11612903,1840239774,1968497646,3523296417
+dimwishlist:item=1051949956&perks=11612903,1840239774,3230963543,3523296417
+
+// Tinasha's Mastery (backup PvE)
+// (Quick Launch, Hard Launch, Smart Drift Control, Linear Compensator), (High-Velocity Rounds, Implosion Rounds), (Impulse Amplifier, Loose Change), Chill Clip
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-Champion PvE-EndGame M+KB Controller): Backup utility PvE pick use against Champion enemies in general, and end-game underleveled content, particularly with Stasis builds. Probably the most chased-after Iron Banner PvE weapon in years, Tinasha's Mastery is the first Stasis rocket-assisted sidearm. At base the stats are solid - 28 Range equates to 14.56m when ADS and 12.12m hipfire (although there really isn't that much damage dropoff), 42 Handling is 0.31s ready, 0.25s ADS and 0.35s stow speed, while the Reload Speed of 29 is a 1.81s reload. Magazine size is 10 (maximum 16), and with 0/1/2/3 reserves mods you get total ammo of 40/43/46/48 (max 57). This roll is all about slowing and freezing single targets, so Velocity is far more important to boost than Blast Radius with the barrel and magazine perks. In the first perk trait slot, Impulse Amplifier improves velocity and reload speed or Loose Change improves reload speed and movement when ADS. All of this is building up to Chill Clip in the second trait perk column - one shot slows, and disrupts, Overload Champions and three shots freezes, and stuns, Unstoppable champions, which you can synergise with Stasis fragments. Apply Radiant and it'll pierce Barrier champions too. It's bound to be nerfed at some point, so enjoy being totally overpowered for as long as it lasts. With the change to the Skulking Wolf origin trait, at least there is now an effect in PvE to reduce enemy accuracy when it's procced, which could be useful for survivability in more difficult content. Recommended MW: Velocity with a Backup Mag mod or, when enhanced, a Synergy mod to generate Stasis shards or Stunloader when an artifact mod's around.|tags:PvE PvE-Utility PvE-Champion PvE-EndGame M+KB Controller
+dimwishlist:item=480368036&perks=2822142346,2978966579,3525010810,951095735
+dimwishlist:item=480368036&perks=2822142346,2978966579,3798852852,951095735
+dimwishlist:item=480368036&perks=1441682018,2822142346,2978966579,951095735
+dimwishlist:item=480368036&perks=1119449540,2822142346,2978966579,3525010810
+dimwishlist:item=480368036&perks=1119449540,2822142346,2978966579,3798852852
+dimwishlist:item=480368036&perks=1119449540,1441682018,2822142346,2978966579
+
+// Tinasha's Mastery (first-choice PvE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch, Smart Drift Control), (High-Velocity Rounds, High-Explosive Ordnance, Tactical Mag, Alloy Mag, Appended Mag, Extended Mag, Flared magwell), (Air Trigger, Impulse Amplifier, Enlightened Action), (Surrounded, One For All, Desperate Measures, Frenzy, Bait and Switch))
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Probably the most chased-after Iron Banner PvE weapon in years, Tinasha's Mastery is the first Stasis rocket-assisted sidearm. At base the stats are solid - 28 Range equates to 14.56m when ADS and 12.12m hipfire (although there really isn't that much damage dropoff), 42 Handling is 0.31s ready, 0.25s ADS and 0.35s stow speed, while the Reload Speed of 29 is a 1.81s reload. Magazine size is 10 (maximum 16), and with 0/1/2/3 reserves mods you get total ammo of 40/43/46/48 (max 57). There are as many options for a good all-round, all-purpose kinetic slot rocket sidearm as Osiris could spend a lifetime in the Infinite Forest investigating - pair barrel and magazine perk options that increase blast radius, velocity, and magazine size with a first column trait perk column perk that boosts your reload and a second column damage perk. With the change to the Skulking Wolf origin trait, at least there is now an effect in PvE to reduce enemy accuracy when it's procced, which could be useful for survivability in more difficult content. Recommended MW: Velocity with a Backup Mag mod or, when enhanced, a Synergy mod to generate Stasis shards or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=480368036&perks=1380253176,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=1380253176,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=1380253176,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=1380253176,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=1441682018,2109543898,2822142346,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3525010810,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3798852852,951095735
+dimwishlist:item=480368036&perks=1380253176,1441682018,2109543898,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3525010810,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3798852852,951095735
+dimwishlist:item=480368036&perks=1441682018,2109543898,2822142346,3828510309
+dimwishlist:item=480368036&perks=2109543898,2822142346,3525010810,3828510309
+dimwishlist:item=480368036&perks=2109543898,2822142346,3798852852,3828510309
+dimwishlist:item=480368036&perks=1380253176,1441682018,2109543898,3828510309
+dimwishlist:item=480368036&perks=1380253176,2109543898,3525010810,3828510309
+dimwishlist:item=480368036&perks=1380253176,2109543898,3798852852,3828510309
+dimwishlist:item=480368036&perks=1380253176,1421772400,1441682018,4104185692
+dimwishlist:item=480368036&perks=1380253176,1421772400,3525010810,4104185692
+dimwishlist:item=480368036&perks=1380253176,1421772400,3798852852,4104185692
+dimwishlist:item=480368036&perks=106909392,1421772400,1441682018,4104185692
+dimwishlist:item=480368036&perks=106909392,1421772400,3525010810,4104185692
+dimwishlist:item=480368036&perks=106909392,1421772400,3798852852,4104185692
+dimwishlist:item=480368036&perks=1087426260,1421772400,1441682018,4104185692
+dimwishlist:item=480368036&perks=1087426260,1421772400,3525010810,4104185692
+dimwishlist:item=480368036&perks=1087426260,1421772400,3798852852,4104185692
+dimwishlist:item=480368036&perks=1380253176,1441682018,4104185692,951095735
+dimwishlist:item=480368036&perks=1380253176,3525010810,4104185692,951095735
+dimwishlist:item=480368036&perks=1380253176,3798852852,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,1441682018,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,3525010810,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,3798852852,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,1441682018,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,3525010810,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,3798852852,4104185692,951095735
+
+// Tomorrow's Answer (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, (Envious Arsenal, Air Trigger), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick use for sustained damage against boss enemies in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13). For a sustained DPS weapon there's going to be weapon swapping going on, so you'll need a handling barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). As a trait perk pairing, Envious Arsenal and Bait and Switch proc on the same condition of of doing damage with your other weapons to reload and boost damage by ×1.35. But if you don't get that, Air Trigger when enhanced maxes out your ammo reserves at 13 and (if you can bunny hop when the reload amination starts) reduce reload time to 2.31s. Unfortunately none of the origin traits really work for a boss damage roll, unless you're running solo content in which case use Alacrity. Recommended MW: Velocity or Handling with a Quick Access Sling mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3009199534&perks=3078487919,3525010810,3796465595,3987942396
+dimwishlist:item=3009199534&perks=3078487919,3796465595,3798852852,3987942396
+
+// Tomorrow's Answer (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, (Envious Assassin, Air Trigger), (Explosive Light, Bipod)
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick use for burst damage against Major and Champion enemies in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13) or with Bipod 15/16/17/17 (max 18). For a burst DPS weapon you'll be more interested in Velocity or handling from the barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). In the first trait perk column, Envious Assassin can overflow your magazine in the background, ready for burst damage or Air Trigger when enhanced maxes out your ammo reserves at 13 (18 for Bipod) and (if you can bunny hop when the reload amination starts) reduce reload time to 2.31s. In the second column, Explosive Light boosts damage by ×1.25 for six rockets (7 when enhanced) or Bipod just allows you to shoot multiple rockets without reloading. Of the origin traits, Alacrity is great for solo activities, and you will probably get some use out of One Quiet Moment. Wild Card's bolts will only drop after you kill a miniboss, so they won't help kill it but could help with crowd control after. Recommended MW: Velocity or Handling with a Quick Access Sling mod or, when enhanced and the artefact mod's around, a Stunloader mod.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3009199534&perks=3194351027,3525010810,3796465595,968510818
+dimwishlist:item=3009199534&perks=3194351027,3796465595,3798852852,968510818
+
+// Tomorrow's Answer (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, Withering Gaze, Frenzy
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice utility PvE pick use for boss damage in a fireteam in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13) or with Bipod 15/16/17/17 (max 18). For a burst DPS weapon you'll be more interested in Velocity or handling from the barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). If you're role is to buff fireteam damage, Withering Gaze in the first trait perk column will weaken targets to effectively buff everyone's damage by ×1.15 for 6s - enough time to reload and re-proc again. Frenzy maxes reload speed and handling and adds a useful, if not damage topping ×1.15 weapon damage on top. Unfortunately none of the origin traits really work for a boss damage roll, unless you're running solo content in which case use Alacrity. Recommended MW: Velocity with a Quick Access Sling mod.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3009199534&perks=1134488199,3525010810,3796465595,4104185692
+dimwishlist:item=3009199534&perks=1134488199,3796465595,3798852852,4104185692
+
+// Tomorrow's Answer (Adept) (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, (Envious Arsenal, Air Trigger), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick use for sustained damage against boss enemies in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13). For a sustained DPS weapon there's going to be weapon swapping going on, so you'll need a handling barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). As a trait perk pairing, Envious Arsenal and Bait and Switch proc on the same condition of of doing damage with your other weapons to reload and boost damage by ×1.35. But if you don't get that, Air Trigger when enhanced maxes out your ammo reserves at 13 and (if you can bunny hop when the reload amination starts) reduce reload time to 2.31s. Unfortunately none of the origin traits really work for a boss damage roll, unless you're running solo content in which case use Alacrity. Recommended MW: Velocity or Handling with a Quick Access Sling mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=303107619&perks=3078487919,3525010810,3796465595,3987942396
+dimwishlist:item=303107619&perks=3078487919,3796465595,3798852852,3987942396
+
+// Tomorrow's Answer (Adept) (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, (Envious Assassin, Air Trigger), (Explosive Light, Bipod)
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick use for burst damage against Major and Champion enemies in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13) or with Bipod 15/16/17/17 (max 18). For a burst DPS weapon you'll be more interested in Velocity or handling from the barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). In the first trait perk column, Envious Assassin can overflow your magazine in the background, ready for burst damage or Air Trigger when enhanced maxes out your ammo reserves at 13 (18 for Bipod) and (if you can bunny hop when the reload amination starts) reduce reload time to 2.31s. In the second column, Explosive Light boosts damage by ×1.25 for six rockets (7 when enhanced) or Bipod just allows you to shoot multiple rockets without reloading. Of the origin traits, Alacrity is great for solo activities, and you will probably get some use out of One Quiet Moment. Wild Card's bolts will only drop after you kill a miniboss, so they won't help kill it but could help with crowd control after. Recommended MW: Velocity or Handling with a Quick Access Sling mod or, when enhanced and the artefact mod's around, a Stunloader mod.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=303107619&perks=3194351027,3525010810,3796465595,968510818
+dimwishlist:item=303107619&perks=3194351027,3796465595,3798852852,968510818
+
+// Tomorrow's Answer (Adept) (first-choice PvE)
+// (Quick Launch, Smart Drift Control), Impact Casing, Withering Gaze, Frenzy
+//notes:Inspired by @PodvsEnemies episode 124 from 19 November 2024 (https://open.spotify.com/episode/3n08KP410ui1TXoEdBmsvu?si=2badf5a8fcac408d) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice utility PvE pick use for boss damage in a fireteam in general, and end-game underleveled content. Yesterday's Questions is a Trials of Osiris reward so not very accessible, and High Impact rocket launchers are only mid-tier for base damage so if you have a good boss damage RL already, you can safely pass. At base the stats are good - 45 Velocity equates to 34.85m/s, 67 Handling is 0.40s ready, 0.39s ADS and 0.33s stow speed, while the Reload Speed of 35 is a 3.34s reload. With 0/1/2/3 reserves mods, you'll have total ammo of 10/11/12/12 (max 13) or with Bipod 15/16/17/17 (max 18). For a burst DPS weapon you'll be more interested in Velocity or handling from the barrel perk. Impact Casing as the magazine perk adds a little extra damage (×1.022). If you're role is to buff fireteam damage, Withering Gaze in the first trait perk column will weaken targets to effectively buff everyone's damage by ×1.15 for 6s - enough time to reload and re-proc again. Frenzy maxes reload speed and handling and adds a useful, if not damage topping ×1.15 weapon damage on top. Unfortunately none of the origin traits really work for a boss damage roll, unless you're running solo content in which case use Alacrity. Recommended MW: Velocity with a Quick Access Sling mod.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=303107619&perks=1134488199,3525010810,3796465595,4104185692
+dimwishlist:item=303107619&perks=1134488199,3796465595,3798852852,4104185692
+
+// Rake Angle (PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), (Light Mag, Swap Mag), Pugilist, (Close to Melee, Swashbuckler)
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick in general non-underleveled content, particularly for melee builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33). With this being an aggressive frame, you could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. As the magazine perk, Light Mag improved reload a little and adds a smidge of range, or Swap Mag improves ready and stow speed. If you enjoy the melee lifestyle, Pugilist boosts melee energy by 20% on projectile kills, or +35 Handling for 3son glaive melee damage - with Close to Melee, you can boost glaive melee damage by ×1.3 or with Swashbuckler, you can use a glaive melee kill to boost projectile damage by ×1.33. The Vanguard Vindication provides a little bit of health, or Stunning Recovery refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, when there's a matching seasonal artifact mod. Recommended MW: Shield Duration or Handling, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2298039571&perks=1782407750,3721627275,580685494,691659142
+
+// Rake Angle (Adept) (PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), (Light Mag, Swap Mag), Pugilist, (Close to Melee, Swashbuckler)
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for clearing Minor adds in general non-underleveled content, particularly for melee builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33). With this being an aggressive frame, you could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. As the magazine perk, Light Mag improved reload a little and adds a smidge of range. or Swap Mag improves ready and stow speed. If you enjoy the melee lifestyle, Pugilist boosts melee energy on bolt kills or Handling on glaive melee damage - with Close to Melee, you can boost glaive melee damage by ×1.3 or with Swashbuckler, you can use a glaive melee kill to boost projectile damage by ×1.33. The Vanguard Vindication provides a little bit of health, or Stunning Recovery refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, when there's a matching seasonal artifact mod. Recommended MW: Shield Duration or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3997086838&perks=1782407750,3721627275,580685494,691659142
+
+// Yesterday's Question (PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), Rapid Hit, Voltshot
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Yesterday's Questions has a lot of caveats for PvE - it's a Trials of Osiris reward so not very accessible, the rolls are mainly PvP focussed, and it doesn't really offer anything new if you already have a Voltshot hand cannon. At base the stats are good - 63 Range equates to 32.51m when ADS and 21.67m hipfire, 34 Handling is 0.38s ready, 0.28s ADS and 0.41s stow speed, while the Reload Speed of 31 is a 2.92s reload. It feels a lot better with help for Handling in the barrel perk. Voltshot relies on reload speed to proc and use, so Flared Magwell provides the biggest boost, or Light Mag slightly less. There's only one trait perk that helps with reload, and that's Rapid Hit. With luck and a following wind, reload speed could be as low as 1.70s so Voltshot doesn't run out to time to be procced. If you run the Synergy mod to general Ionic Traces to become amplified, that'll also help with reloads too. Either origin trait can work - Alacrity if you're running a solo activity to boost all your gunfeel stats, or One Quiet Moment for faster reloads when out of combat. Recommended MW: Reload Speed with a Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2300143112&perks=1840239774,2173046394,247725512,3230963543
+dimwishlist:item=2300143112&perks=2173046394,247725512,3230963543,839105230
+
+// Yesterday's Question (Adept) (PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), Rapid Hit, Voltshot
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Yesterday's Questions has a lot of caveats for PvE - it's a Trials of Osiris reward so not very accessible, the rolls are mainly PvP focussed, and it doesn't really offer anything new if you already have a Voltshot hand cannon. At base the stats are good - 63 Range equates to 32.51m when ADS and 21.67m hipfire, 34 Handling is 0.38s ready, 0.28s ADS and 0.41s stow speed, while the Reload Speed of 31 is a 2.92s reload. It feels a lot better with help for Handling in the barrel perk. Voltshot relies on reload speed to proc and use, so Flared Magwell provides the biggest boost, or Light Mag slightly less. There's only one trait perk that helps with reload, and that's Rapid Hit. With luck and a following wind, reload speed could be as low as 1.70s so Voltshot doesn't run out to time to be procced. If you run the Synergy mod to general Ionic Traces to become amplified, that'll also help with reloads too. Either origin trait can work - Alacrity if you're running a solo activity to boost all your gunfeel stats, or One Quiet Moment for faster reloads when out of combat. Recommended MW: Reload Speed with an Adept Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2378785953&perks=1840239774,2173046394,247725512,3230963543
+dimwishlist:item=2378785953&perks=2173046394,247725512,3230963543,839105230
+
 // Zephyr
 //notes: Panda (PvE / Controller / M+KB): "Rimestealer and Cold Steel, name a better combo. I'll wait" Recommended MW: Impact.|tags:pve,mkb,controller
 dimwishlist:item=601948197&perks=1955165503,269888150,3650930298,3666208348
@@ -140,6 +283,12 @@ dimwishlist:item=4176873718&perks=124408337,1955165503,1968497646,4090651448
 dimwishlist:item=4176873718&perks=1359896290,1968497646,4090651448,95528736
 dimwishlist:item=4176873718&perks=124408337,1359896290,1968497646,4090651448
 
+// Anonymous Autumn
+//notes:pandapaxxy (PvE / M+KB / Controller): "I know TrueVanguard is happier than a possum up a pant leg now that Anonymous Autumn is back. It doesn't deal as much going into higher end PvE activities but TV doesn't care. He'll still make a build and use this in some wacky off-meta way." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1051949956&perks=11612903,1840239774,1968497646,3523296417
+dimwishlist:item=1051949956&perks=11612903,1840239774,3230963543,3523296417
+dimwishlist:item=1051949956&perks=1840239774,2173046394,3230963543,684456054
+
 // Exuviae
 //notes:pandapaxxy & WarlockMaggie (PvE / M+KB / Controller): "[pandapaxxy] Rimestealer might just be one of the best perks to bless Stasis since the original Headstone. Rimestealer allows you to build Frost Armor which is incredibly useful in all activities. Extra damage resistance? We all remember changed with light giving damage resistance. It was the norm and it was odd when not used (outside of Warmind Cells). Definitely look for Rimestealer on your Exuviae. [WarlockMaggie] While Handcannons aren’t supported by Episode II’s Artifact, this Stasis 120 does provide some excellent options for both General and Advanced level play. The new hotness of Rimestealer and Headstone is a great option, while Stats for All and Frenzy will make this weapon feel incredible without a single kill required. Stability and Reload are high priorities for stat increases." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=2823644677&perks=1087426260,124408337,1955165503,4090651448
@@ -218,11 +367,80 @@ dimwishlist:item=2599338625&perks=3078487919,3301904089,3798852852,3987942396
 // Tinasha's Mastery
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tinasha’s Mastery will probably be one of a few weapons pulling PvE players into PvP. Being a Stasis rocket-assisted sidearm and the first of its kind it will definitely stand out amongst loadouts. Chill Clip and either Impulse Amplifier or Loose Change will be the standout perk combinations but One for All or Frenzy are more neutral damage options." Recommended MW: Blast Radius or Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=480368036&perks=1380253176,2978966579,3525010810,951095735
+dimwishlist:item=480368036&perks=1380253176,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=1380253176,3525010810,4104185692,951095735
 dimwishlist:item=480368036&perks=1119449540,1380253176,2978966579,3525010810
+dimwishlist:item=480368036&perks=1380253176,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,3525010810,4104185692
+dimwishlist:item=480368036&perks=1087426260,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,3525010810,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,3525010810,4104185692
+dimwishlist:item=480368036&perks=106909392,3525010810,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,3525010810,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,1421772400,3525010810,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,3525010810,4104185692
 dimwishlist:item=480368036&perks=1380253176,2978966579,3798852852,951095735
+dimwishlist:item=480368036&perks=1380253176,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=1380253176,3798852852,4104185692,951095735
 dimwishlist:item=480368036&perks=1119449540,1380253176,2978966579,3798852852
+dimwishlist:item=480368036&perks=1380253176,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,3798852852,4104185692
+dimwishlist:item=480368036&perks=1087426260,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,3798852852,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,3798852852,4104185692
+dimwishlist:item=480368036&perks=106909392,3798852852,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,3798852852,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,1421772400,3798852852,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,3798852852,4104185692
 dimwishlist:item=480368036&perks=1380253176,1441682018,2978966579,951095735
+dimwishlist:item=480368036&perks=1380253176,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=1380253176,1441682018,4104185692,951095735
 dimwishlist:item=480368036&perks=1119449540,1380253176,1441682018,2978966579
+dimwishlist:item=480368036&perks=1380253176,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,1441682018,4104185692
+dimwishlist:item=480368036&perks=1087426260,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=1087426260,1441682018,4104185692,951095735
+dimwishlist:item=480368036&perks=1087426260,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=1087426260,1421772400,1441682018,4104185692
+dimwishlist:item=480368036&perks=106909392,1441682018,4049631843,951095735
+dimwishlist:item=480368036&perks=106909392,1441682018,4104185692,951095735
+dimwishlist:item=480368036&perks=106909392,1421772400,1441682018,4049631843
+dimwishlist:item=480368036&perks=106909392,1421772400,1441682018,4104185692
+
+// Rake Angle
+//notes:pandapaxxy (PvE / M+KB / Controller): "Rake Angle, oh how we've waited so long for you. Chill Clip my baby come home. We've needed a replacement since Riptide was nerfed. You'll want to bump up the magazine from 3 so you can fire 2 Chill Clip shots. Impulse Amplifier will feel the best neutrally but Overflow, Lead From Gold and Replenishing Aegis are all good pairings." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2298039571&perks=1087426260,1966281507,2978966579,5699512
+dimwishlist:item=2298039571&perks=1087426260,1556840489,2978966579,5699512
+
+// Yesterday's Question
+//notes:pandapaxxy (PvE / M+KB / Controller): "Yesterday's Question is Tomorrow's Answer. Am I going to repeat that with our next weapon? You bet your butt! This hand cannon is interesting with Dragonfly in the third column allowing for boosted damage into Desperate Measures or more chaining with Voltshot. You can have the energy equivalent of Warden's Law with Fourth Time's the Charm and Vorpal Weapon even with the reduced efficiency on Lucky Pants builds." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2300143112&perks=2173046394,247725512,3230963543,839105230
+dimwishlist:item=2300143112&perks=1840239774,2173046394,247725512,3230963543
+
+// Yesterday's Question (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Yesterday's Question is Tomorrow's Answer. Am I going to repeat that with our next weapon? You bet your butt! This hand cannon is interesting with Dragonfly in the third column allowing for boosted damage into Desperate Measures or more chaining with Voltshot. You can have the energy equivalent of Warden's Law with Fourth Time's the Charm and Vorpal Weapon even with the reduced efficiency on Lucky Pants builds." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2378785953&perks=2173046394,247725512,3230963543,839105230
+dimwishlist:item=2378785953&perks=1840239774,2173046394,247725512,3230963543
+
+// Tomorrow's Answer
+//notes:pandapaxxy (PvE / M+KB / Controller): "Yesterday's Question is Tomorrow's Answer. Did I just repeat that from the other weapon? Of course! It's hilarious! Okay moving on this rocket can do a few things really well. It won't compete with a grenade launcher with the same perks but having Envious Arsenal to keep topped off with Bait and Switch swaps will keep damage rotations strong." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=3009199534&perks=3194351027,3525010810,3796465595,968510818
+dimwishlist:item=3009199534&perks=3078487919,3525010810,3796465595,3987942396
+dimwishlist:item=3009199534&perks=1134488199,3525010810,3796465595,4104185692
+dimwishlist:item=3009199534&perks=3194351027,3796465595,3798852852,968510818
+dimwishlist:item=3009199534&perks=3078487919,3796465595,3798852852,3987942396
+dimwishlist:item=3009199534&perks=1134488199,3796465595,3798852852,4104185692
+
+// Tomorrow's Answer (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Yesterday's Question is Tomorrow's Answer. Did I just repeat that from the other weapon? Of course! It's hilarious! Okay moving on this rocket can do a few things really well. It won't compete with a grenade launcher with the same perks but having Envious Arsenal to keep topped off with Bait and Switch swaps will keep damage rotations strong." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=303107619&perks=3194351027,3525010810,3796465595,968510818
+dimwishlist:item=303107619&perks=3078487919,3525010810,3796465595,3987942396
+dimwishlist:item=303107619&perks=1134488199,3525010810,3796465595,4104185692
+dimwishlist:item=303107619&perks=3194351027,3796465595,3798852852,968510818
+dimwishlist:item=303107619&perks=3078487919,3796465595,3798852852,3987942396
+dimwishlist:item=303107619&perks=1134488199,3796465595,3798852852,4104185692
 
 // Ignition Code
 //notes:pandapaxxy (PvE / M+KB / Controller): "Ignition Code is back and better than ever? Not really but it has a neat origin trait. Slideshot still remains unique and allows for consecutive shots. High Ground is easy to proc and if you've got enough room you can keep sliding back and forth with your enhanced damage. Ambitious Assassin, Lead From Gold and Unrelenting are all great perks on their own and I wouldn't be upset with them. Paired with Frenzy or Vorpal Weapon for damage and you've got yourself a solid workhorse weapon. Outside of the Area Denial frame this can still fit most any loadout." Recommended MW: Blast Radius.|tags:pve,mkb,controller

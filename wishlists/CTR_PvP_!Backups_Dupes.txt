@@ -285,11 +285,29 @@ dimwishlist:item=3830941962&perks=1482024992,2579169598,3142289711,460017080
 
 // Tinasha's Mastery
 //notes:pandapaxxy (PvP / M+KB / Controller): "While I'd advise against a rocket-assisted sidearm for the crucible, having ChillClip on an easy to fire weapon is undeniably strong. While you would need to stock up on ammo it's not entirely outside of the question to use." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=480368036&perks=2822142346,2978966579,3525010810,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3525010810,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3525010810,3828510309
+dimwishlist:item=480368036&perks=1119449540,2822142346,2978966579,3525010810
 dimwishlist:item=480368036&perks=1380253176,2978966579,3525010810,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3525010810,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3525010810,3828510309
 dimwishlist:item=480368036&perks=1119449540,1380253176,2978966579,3525010810
+dimwishlist:item=480368036&perks=2822142346,2978966579,3798852852,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3798852852,951095735
+dimwishlist:item=480368036&perks=2109543898,2822142346,3798852852,3828510309
+dimwishlist:item=480368036&perks=1119449540,2822142346,2978966579,3798852852
 dimwishlist:item=480368036&perks=1380253176,2978966579,3798852852,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3798852852,951095735
+dimwishlist:item=480368036&perks=1380253176,2109543898,3798852852,3828510309
 dimwishlist:item=480368036&perks=1119449540,1380253176,2978966579,3798852852
+dimwishlist:item=480368036&perks=1441682018,2822142346,2978966579,951095735
+dimwishlist:item=480368036&perks=1441682018,2109543898,2822142346,951095735
+dimwishlist:item=480368036&perks=1441682018,2109543898,2822142346,3828510309
+dimwishlist:item=480368036&perks=1119449540,1441682018,2822142346,2978966579
 dimwishlist:item=480368036&perks=1380253176,1441682018,2978966579,951095735
+dimwishlist:item=480368036&perks=1380253176,1441682018,2109543898,951095735
+dimwishlist:item=480368036&perks=1380253176,1441682018,2109543898,3828510309
 dimwishlist:item=480368036&perks=1119449540,1380253176,1441682018,2978966579
 
 // Archon's Thunder
@@ -348,6 +366,16 @@ dimwishlist:item=2896109856&perks=124408337,1359896290,1482024992,2420895100
 dimwishlist:item=2896109856&perks=1482024992,1955165503,2420895100,557221067
 dimwishlist:item=2896109856&perks=1482024992,1955165503,2420895100,3418782618
 dimwishlist:item=2896109856&perks=124408337,1482024992,1955165503,2420895100
+
+// Rake Angle
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I wouldn't recommend glaives for most players it is a niche play style with high risk, high reward. The handful of players with thousands of glaive kills really pad those numbers up for the community. You know what to expect and grind for if PvP is where you're taking Rake Angle. For those outside the know, Replenishing Aegis and Unstoppable Force are great to start with and move on to Close to Melee or Chill Clip depending on your newfound build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2298039571&perks=1782407750,3721627275,580685494,691659142
+dimwishlist:item=2298039571&perks=1087426260,1966281507,2978966579,580685494
+
+// Rake Angle (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I wouldn't recommend glaives for most players it is a niche play style with high risk, high reward. The handful of players with thousands of glaive kills really pad those numbers up for the community. You know what to expect and grind for if PvP is where you're taking Rake Angle. For those outside the know, Replenishing Aegis and Unstoppable Force are great to start with and move on to Close to Melee or Chill Clip depending on your newfound build." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3997086838&perks=1966281507,2978966579,3721627275,580685494
+dimwishlist:item=3997086838&perks=1782407750,3721627275,580685494,691659142
 
 // Yesterday's Question
 //notes:pandapaxxy (PvP / Controller): "Heavy Burst hand cannons haven't been the strongest in PvP and with recent buffs they still feel like they're missing something. A push too far in one direction or another could make them instantly top hand cannons or completely irrelevant, I don't know what Bungie wishes to do. What felt best to me was a combination of Rapid Hit and Zen Moment, when I hit crits the gun felt so smooth." Recommended MW: Range or Stability.|tags:pvp,controller
