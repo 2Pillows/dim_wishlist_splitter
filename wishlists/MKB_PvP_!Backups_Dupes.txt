@@ -453,6 +453,8 @@ dimwishlist:item=2598420927&perks=3142289711,365154968,3938834702,4090651448
 
 // Ignition Code
 //notes:pandapaxxy (PvP / M+KB): "Crucible is a different story. To be blasted by back to back Disorienting Grenades would be a test of patience not many would be able to pass. Slideshot is incredibly strong when you have ammo. Unfortunately grenade launchers are just not as strong" Recommended MW: Velocity, Handling.|tags:pvp,mkb
+dimwishlist:item=2761869150&perks=1546637391,3161816588,3301904089,981914802
+dimwishlist:item=2761869150&perks=2319119708,3161816588,3301904089,981914802
 dimwishlist:item=2761869150&perks=1546637391,3161816588,3301904089,3525010810
 dimwishlist:item=2761869150&perks=2319119708,3161816588,3301904089,3525010810
 dimwishlist:item=2761869150&perks=1546637391,2822142346,3161816588,3525010810
