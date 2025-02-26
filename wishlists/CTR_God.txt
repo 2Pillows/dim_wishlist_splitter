@@ -1,6 +1,644 @@
 title:CTR God - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Adamantite - Endgame God
+// (Fluted Barrel, Arrowhead Brake), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag, Accurized Rounds), Reciprocity, (Circle of Life, Attrition Orbs, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for healing utility and use against Minor adds in general, and end-game underleveled content. Adamantite is the second support-frame AR in game, and the first equippable in the kinetic slot, which both heals allies, improves their damage and spawns unravelling projectiles, making it a good, fun weapon to use. At base, the stats are a bit low - 39 Range equates to 25.00m ADS and 15.63m hipfire, 49 Stability is ×1.1816 flinch resist at 100 Resilience, 70 Handling is 0.32s ready, 0.26s ADS and 0.30s stow speed, 66 Reload Speed is a 1.58s reload and Recoil Direction is 52. The barrel perk can be used to improve the Recoil Direction or Stability on controller and handling on M+KB, and the magazine perk can be used to provide a bit more reload speed or extra rounds. The first trait perk column is strong for PvE, but the standout for endgame use is Reciprocity which provides you with healing without having to kill an enemy - 3HP for each hipfired bullet that connects with an ally to heal them. In the second column, pairing this with Circle of Life, for ×1.25 damage for 10s after rapidly healing an ally, Attrition Orbs to power armor mods or Frenzy for maxed Handling and Reload Speed stats and ×1.15 when in combat are all excellent choices. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Strand Tangles or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3229982889&perks=106909392,1840239774,2298656195,692399809
+dimwishlist:item=3229982889&perks=106909392,1840239774,243981275,692399809
+dimwishlist:item=3229982889&perks=106909392,1840239774,4104185692,692399809
+dimwishlist:item=3229982889&perks=1431678320,1840239774,2298656195,692399809
+dimwishlist:item=3229982889&perks=1431678320,1840239774,243981275,692399809
+dimwishlist:item=3229982889&perks=1431678320,1840239774,4104185692,692399809
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3230963543,692399809
+dimwishlist:item=3229982889&perks=1840239774,243981275,3230963543,692399809
+dimwishlist:item=3229982889&perks=1840239774,3230963543,4104185692,692399809
+dimwishlist:item=3229982889&perks=1087426260,1840239774,2298656195,692399809
+dimwishlist:item=3229982889&perks=1087426260,1840239774,243981275,692399809
+dimwishlist:item=3229982889&perks=1087426260,1840239774,4104185692,692399809
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3142289711,692399809
+dimwishlist:item=3229982889&perks=1840239774,243981275,3142289711,692399809
+dimwishlist:item=3229982889&perks=1840239774,3142289711,4104185692,692399809
+dimwishlist:item=3229982889&perks=106909392,2298656195,692399809,839105230
+dimwishlist:item=3229982889&perks=106909392,243981275,692399809,839105230
+dimwishlist:item=3229982889&perks=106909392,4104185692,692399809,839105230
+dimwishlist:item=3229982889&perks=1431678320,2298656195,692399809,839105230
+dimwishlist:item=3229982889&perks=1431678320,243981275,692399809,839105230
+dimwishlist:item=3229982889&perks=1431678320,4104185692,692399809,839105230
+dimwishlist:item=3229982889&perks=2298656195,3230963543,692399809,839105230
+dimwishlist:item=3229982889&perks=243981275,3230963543,692399809,839105230
+dimwishlist:item=3229982889&perks=3230963543,4104185692,692399809,839105230
+dimwishlist:item=3229982889&perks=1087426260,2298656195,692399809,839105230
+dimwishlist:item=3229982889&perks=1087426260,243981275,692399809,839105230
+dimwishlist:item=3229982889&perks=1087426260,4104185692,692399809,839105230
+dimwishlist:item=3229982889&perks=2298656195,3142289711,692399809,839105230
+dimwishlist:item=3229982889&perks=243981275,3142289711,692399809,839105230
+dimwishlist:item=3229982889&perks=3142289711,4104185692,692399809,839105230
+
+// Adamantite - General God
+// (Fluted Barrel, Arrowhead Brake), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag, Accurized Rounds), (Unrelenting, Demolitionist, Pugilist), (Circle of Life, Attrition Orbs, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for healing utility and use against Minor adds in general non-underleveled content. Adamantite is the second support-frame AR in game, and the first equippable in the kinetic slot, which both heals allies, improves their damage and spawns unravelling projectiles, making it a good, fun weapon to use. At base, the stats are a bit low - 39 Range equates to 25.00m ADS and 15.63m hipfire, 49 Stability is ×1.1816 flinch resist at 100 Resilience, 70 Handling is 0.32s ready, 0.26s ADS and 0.30s stow speed, 66 Reload Speed is a 1.58s reload and Recoil Direction is 52. The barrel perk can be used to improve the Recoil Direction or Stability on controller and handling on M+KB, and the magazine perk can be used to provide a bit more reload speed or extra rounds. The first trait perk column is strong for PvE, and for general content Unrelenting provides you with 65HP healing for killing 3 Minor adds with 5s of each other, or Demolitionist and Pugilist provide ability energy for grenade and melee builds. In the second column, pairing this with Circle of Life, for ×1.25 damage for 10s after rapidly healing an ally, Attrition Orbs to power armor mods or Frenzy for maxed Handling and Reload Speed stats and ×1.15 when in combat are all excellent choices. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Strand Tangles or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3229982889&perks=106909392,1840239774,2298656195,3108830275
+dimwishlist:item=3229982889&perks=106909392,1840239774,243981275,3108830275
+dimwishlist:item=3229982889&perks=106909392,1840239774,3108830275,4104185692
+dimwishlist:item=3229982889&perks=106909392,1840239774,2298656195,3523296417
+dimwishlist:item=3229982889&perks=106909392,1840239774,243981275,3523296417
+dimwishlist:item=3229982889&perks=106909392,1840239774,3523296417,4104185692
+dimwishlist:item=3229982889&perks=106909392,1840239774,2298656195,691659142
+dimwishlist:item=3229982889&perks=106909392,1840239774,243981275,691659142
+dimwishlist:item=3229982889&perks=106909392,1840239774,4104185692,691659142
+dimwishlist:item=3229982889&perks=1431678320,1840239774,2298656195,3108830275
+dimwishlist:item=3229982889&perks=1431678320,1840239774,243981275,3108830275
+dimwishlist:item=3229982889&perks=1431678320,1840239774,3108830275,4104185692
+dimwishlist:item=3229982889&perks=1431678320,1840239774,2298656195,3523296417
+dimwishlist:item=3229982889&perks=1431678320,1840239774,243981275,3523296417
+dimwishlist:item=3229982889&perks=1431678320,1840239774,3523296417,4104185692
+dimwishlist:item=3229982889&perks=1431678320,1840239774,2298656195,691659142
+dimwishlist:item=3229982889&perks=1431678320,1840239774,243981275,691659142
+dimwishlist:item=3229982889&perks=1431678320,1840239774,4104185692,691659142
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3108830275,3230963543
+dimwishlist:item=3229982889&perks=1840239774,243981275,3108830275,3230963543
+dimwishlist:item=3229982889&perks=1840239774,3108830275,3230963543,4104185692
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3230963543,3523296417
+dimwishlist:item=3229982889&perks=1840239774,243981275,3230963543,3523296417
+dimwishlist:item=3229982889&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3230963543,691659142
+dimwishlist:item=3229982889&perks=1840239774,243981275,3230963543,691659142
+dimwishlist:item=3229982889&perks=1840239774,3230963543,4104185692,691659142
+dimwishlist:item=3229982889&perks=1087426260,1840239774,2298656195,3108830275
+dimwishlist:item=3229982889&perks=1087426260,1840239774,243981275,3108830275
+dimwishlist:item=3229982889&perks=1087426260,1840239774,3108830275,4104185692
+dimwishlist:item=3229982889&perks=1087426260,1840239774,2298656195,3523296417
+dimwishlist:item=3229982889&perks=1087426260,1840239774,243981275,3523296417
+dimwishlist:item=3229982889&perks=1087426260,1840239774,3523296417,4104185692
+dimwishlist:item=3229982889&perks=1087426260,1840239774,2298656195,691659142
+dimwishlist:item=3229982889&perks=1087426260,1840239774,243981275,691659142
+dimwishlist:item=3229982889&perks=1087426260,1840239774,4104185692,691659142
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3108830275,3142289711
+dimwishlist:item=3229982889&perks=1840239774,243981275,3108830275,3142289711
+dimwishlist:item=3229982889&perks=1840239774,3108830275,3142289711,4104185692
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3142289711,3523296417
+dimwishlist:item=3229982889&perks=1840239774,243981275,3142289711,3523296417
+dimwishlist:item=3229982889&perks=1840239774,3142289711,3523296417,4104185692
+dimwishlist:item=3229982889&perks=1840239774,2298656195,3142289711,691659142
+dimwishlist:item=3229982889&perks=1840239774,243981275,3142289711,691659142
+dimwishlist:item=3229982889&perks=1840239774,3142289711,4104185692,691659142
+dimwishlist:item=3229982889&perks=106909392,2298656195,3108830275,839105230
+dimwishlist:item=3229982889&perks=106909392,243981275,3108830275,839105230
+dimwishlist:item=3229982889&perks=106909392,3108830275,4104185692,839105230
+dimwishlist:item=3229982889&perks=106909392,2298656195,3523296417,839105230
+dimwishlist:item=3229982889&perks=106909392,243981275,3523296417,839105230
+dimwishlist:item=3229982889&perks=106909392,3523296417,4104185692,839105230
+dimwishlist:item=3229982889&perks=106909392,2298656195,691659142,839105230
+dimwishlist:item=3229982889&perks=106909392,243981275,691659142,839105230
+dimwishlist:item=3229982889&perks=106909392,4104185692,691659142,839105230
+dimwishlist:item=3229982889&perks=1431678320,2298656195,3108830275,839105230
+dimwishlist:item=3229982889&perks=1431678320,243981275,3108830275,839105230
+dimwishlist:item=3229982889&perks=1431678320,3108830275,4104185692,839105230
+dimwishlist:item=3229982889&perks=1431678320,2298656195,3523296417,839105230
+dimwishlist:item=3229982889&perks=1431678320,243981275,3523296417,839105230
+dimwishlist:item=3229982889&perks=1431678320,3523296417,4104185692,839105230
+dimwishlist:item=3229982889&perks=1431678320,2298656195,691659142,839105230
+dimwishlist:item=3229982889&perks=1431678320,243981275,691659142,839105230
+dimwishlist:item=3229982889&perks=1431678320,4104185692,691659142,839105230
+dimwishlist:item=3229982889&perks=2298656195,3108830275,3230963543,839105230
+dimwishlist:item=3229982889&perks=243981275,3108830275,3230963543,839105230
+dimwishlist:item=3229982889&perks=3108830275,3230963543,4104185692,839105230
+dimwishlist:item=3229982889&perks=2298656195,3230963543,3523296417,839105230
+dimwishlist:item=3229982889&perks=243981275,3230963543,3523296417,839105230
+dimwishlist:item=3229982889&perks=3230963543,3523296417,4104185692,839105230
+dimwishlist:item=3229982889&perks=2298656195,3230963543,691659142,839105230
+dimwishlist:item=3229982889&perks=243981275,3230963543,691659142,839105230
+dimwishlist:item=3229982889&perks=3230963543,4104185692,691659142,839105230
+dimwishlist:item=3229982889&perks=1087426260,2298656195,3108830275,839105230
+dimwishlist:item=3229982889&perks=1087426260,243981275,3108830275,839105230
+dimwishlist:item=3229982889&perks=1087426260,3108830275,4104185692,839105230
+dimwishlist:item=3229982889&perks=1087426260,2298656195,3523296417,839105230
+dimwishlist:item=3229982889&perks=1087426260,243981275,3523296417,839105230
+dimwishlist:item=3229982889&perks=1087426260,3523296417,4104185692,839105230
+dimwishlist:item=3229982889&perks=1087426260,2298656195,691659142,839105230
+dimwishlist:item=3229982889&perks=1087426260,243981275,691659142,839105230
+dimwishlist:item=3229982889&perks=1087426260,4104185692,691659142,839105230
+dimwishlist:item=3229982889&perks=2298656195,3108830275,3142289711,839105230
+dimwishlist:item=3229982889&perks=243981275,3108830275,3142289711,839105230
+dimwishlist:item=3229982889&perks=3108830275,3142289711,4104185692,839105230
+dimwishlist:item=3229982889&perks=2298656195,3142289711,3523296417,839105230
+dimwishlist:item=3229982889&perks=243981275,3142289711,3523296417,839105230
+dimwishlist:item=3229982889&perks=3142289711,3523296417,4104185692,839105230
+dimwishlist:item=3229982889&perks=2298656195,3142289711,691659142,839105230
+dimwishlist:item=3229982889&perks=243981275,3142289711,691659142,839105230
+dimwishlist:item=3229982889&perks=3142289711,4104185692,691659142,839105230
+
+// Adamantite (Adept) - Endgame God
+// (Fluted Barrel, Arrowhead Brake), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag, Accurized Rounds), Reciprocity, (Circle of Life, Attrition Orbs, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for healing utility and use against Minor adds in general, and end-game underleveled content. Adamantite is the second support-frame AR in game, and the first equippable in the kinetic slot, which both heals allies, improves their damage and spawns unravelling projectiles, making it a good, fun weapon to use. At base, the stats are a bit low - 39 Range equates to 25.00m ADS and 15.63m hipfire, 49 Stability is ×1.1816 flinch resist at 100 Resilience, 70 Handling is 0.32s ready, 0.26s ADS and 0.30s stow speed, 66 Reload Speed is a 1.58s reload and Recoil Direction is 52. The barrel perk can be used to improve the Recoil Direction or Stability on controller and handling on M+KB, and the magazine perk can be used to provide a bit more reload speed or extra rounds. The first trait perk column is strong for PvE, but the standout for endgame use is Reciprocity which provides you with healing without having to kill an enemy - 3HP for each hipfired bullet that connects with an ally to heal them. In the second column, pairing this with Circle of Life, for ×1.25 damage for 10s after rapidly healing an ally, Attrition Orbs to power armor mods or Frenzy for maxed Handling and Reload Speed stats and ×1.15 when in combat are all excellent choices. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Strand Tangles or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3485029080&perks=106909392,1840239774,2298656195,692399809
+dimwishlist:item=3485029080&perks=106909392,1840239774,243981275,692399809
+dimwishlist:item=3485029080&perks=106909392,1840239774,4104185692,692399809
+dimwishlist:item=3485029080&perks=1431678320,1840239774,2298656195,692399809
+dimwishlist:item=3485029080&perks=1431678320,1840239774,243981275,692399809
+dimwishlist:item=3485029080&perks=1431678320,1840239774,4104185692,692399809
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3230963543,692399809
+dimwishlist:item=3485029080&perks=1840239774,243981275,3230963543,692399809
+dimwishlist:item=3485029080&perks=1840239774,3230963543,4104185692,692399809
+dimwishlist:item=3485029080&perks=1087426260,1840239774,2298656195,692399809
+dimwishlist:item=3485029080&perks=1087426260,1840239774,243981275,692399809
+dimwishlist:item=3485029080&perks=1087426260,1840239774,4104185692,692399809
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3142289711,692399809
+dimwishlist:item=3485029080&perks=1840239774,243981275,3142289711,692399809
+dimwishlist:item=3485029080&perks=1840239774,3142289711,4104185692,692399809
+dimwishlist:item=3485029080&perks=106909392,2298656195,692399809,839105230
+dimwishlist:item=3485029080&perks=106909392,243981275,692399809,839105230
+dimwishlist:item=3485029080&perks=106909392,4104185692,692399809,839105230
+dimwishlist:item=3485029080&perks=1431678320,2298656195,692399809,839105230
+dimwishlist:item=3485029080&perks=1431678320,243981275,692399809,839105230
+dimwishlist:item=3485029080&perks=1431678320,4104185692,692399809,839105230
+dimwishlist:item=3485029080&perks=2298656195,3230963543,692399809,839105230
+dimwishlist:item=3485029080&perks=243981275,3230963543,692399809,839105230
+dimwishlist:item=3485029080&perks=3230963543,4104185692,692399809,839105230
+dimwishlist:item=3485029080&perks=1087426260,2298656195,692399809,839105230
+dimwishlist:item=3485029080&perks=1087426260,243981275,692399809,839105230
+dimwishlist:item=3485029080&perks=1087426260,4104185692,692399809,839105230
+dimwishlist:item=3485029080&perks=2298656195,3142289711,692399809,839105230
+dimwishlist:item=3485029080&perks=243981275,3142289711,692399809,839105230
+dimwishlist:item=3485029080&perks=3142289711,4104185692,692399809,839105230
+
+// Adamantite (Adept) - General god
+// (Fluted Barrel, Arrowhead Brake), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag, Accurized Rounds), (Unrelenting, Demolitionist, Pugilist), (Circle of Life, Attrition Orbs, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for healing utility and use against Minor adds in general non-underleveled content. Adamantite is the second support-frame AR in game, and the first equippable in the kinetic slot, which both heals allies, improves their damage and spawns unravelling projectiles, making it a good, fun weapon to use. At base, the stats are a bit low - 39 Range equates to 25.00m ADS and 15.63m hipfire, 49 Stability is ×1.1816 flinch resist at 100 Resilience, 70 Handling is 0.32s ready, 0.26s ADS and 0.30s stow speed, 66 Reload Speed is a 1.58s reload and Recoil Direction is 52. The barrel perk can be used to improve the Recoil Direction or Stability on controller and handling on M+KB, and the magazine perk can be used to provide a bit more reload speed or extra rounds. The first trait perk column is strong for PvE, and for general content Unrelenting provides you with 65HP healing for killing 3 Minor adds with 5s of each other, or Demolitionist and Pugilist provide ability energy for grenade and melee builds. In the second column, pairing this with Circle of Life, for ×1.25 damage for 10s after rapidly healing an ally, Attrition Orbs to power armor mods or Frenzy for maxed Handling and Reload Speed stats and ×1.15 when in combat are all excellent choices. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Strand Tangles or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3485029080&perks=106909392,1840239774,2298656195,3108830275
+dimwishlist:item=3485029080&perks=106909392,1840239774,243981275,3108830275
+dimwishlist:item=3485029080&perks=106909392,1840239774,3108830275,4104185692
+dimwishlist:item=3485029080&perks=106909392,1840239774,2298656195,3523296417
+dimwishlist:item=3485029080&perks=106909392,1840239774,243981275,3523296417
+dimwishlist:item=3485029080&perks=106909392,1840239774,3523296417,4104185692
+dimwishlist:item=3485029080&perks=106909392,1840239774,2298656195,691659142
+dimwishlist:item=3485029080&perks=106909392,1840239774,243981275,691659142
+dimwishlist:item=3485029080&perks=106909392,1840239774,4104185692,691659142
+dimwishlist:item=3485029080&perks=1431678320,1840239774,2298656195,3108830275
+dimwishlist:item=3485029080&perks=1431678320,1840239774,243981275,3108830275
+dimwishlist:item=3485029080&perks=1431678320,1840239774,3108830275,4104185692
+dimwishlist:item=3485029080&perks=1431678320,1840239774,2298656195,3523296417
+dimwishlist:item=3485029080&perks=1431678320,1840239774,243981275,3523296417
+dimwishlist:item=3485029080&perks=1431678320,1840239774,3523296417,4104185692
+dimwishlist:item=3485029080&perks=1431678320,1840239774,2298656195,691659142
+dimwishlist:item=3485029080&perks=1431678320,1840239774,243981275,691659142
+dimwishlist:item=3485029080&perks=1431678320,1840239774,4104185692,691659142
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3108830275,3230963543
+dimwishlist:item=3485029080&perks=1840239774,243981275,3108830275,3230963543
+dimwishlist:item=3485029080&perks=1840239774,3108830275,3230963543,4104185692
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3230963543,3523296417
+dimwishlist:item=3485029080&perks=1840239774,243981275,3230963543,3523296417
+dimwishlist:item=3485029080&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3230963543,691659142
+dimwishlist:item=3485029080&perks=1840239774,243981275,3230963543,691659142
+dimwishlist:item=3485029080&perks=1840239774,3230963543,4104185692,691659142
+dimwishlist:item=3485029080&perks=1087426260,1840239774,2298656195,3108830275
+dimwishlist:item=3485029080&perks=1087426260,1840239774,243981275,3108830275
+dimwishlist:item=3485029080&perks=1087426260,1840239774,3108830275,4104185692
+dimwishlist:item=3485029080&perks=1087426260,1840239774,2298656195,3523296417
+dimwishlist:item=3485029080&perks=1087426260,1840239774,243981275,3523296417
+dimwishlist:item=3485029080&perks=1087426260,1840239774,3523296417,4104185692
+dimwishlist:item=3485029080&perks=1087426260,1840239774,2298656195,691659142
+dimwishlist:item=3485029080&perks=1087426260,1840239774,243981275,691659142
+dimwishlist:item=3485029080&perks=1087426260,1840239774,4104185692,691659142
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3108830275,3142289711
+dimwishlist:item=3485029080&perks=1840239774,243981275,3108830275,3142289711
+dimwishlist:item=3485029080&perks=1840239774,3108830275,3142289711,4104185692
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3142289711,3523296417
+dimwishlist:item=3485029080&perks=1840239774,243981275,3142289711,3523296417
+dimwishlist:item=3485029080&perks=1840239774,3142289711,3523296417,4104185692
+dimwishlist:item=3485029080&perks=1840239774,2298656195,3142289711,691659142
+dimwishlist:item=3485029080&perks=1840239774,243981275,3142289711,691659142
+dimwishlist:item=3485029080&perks=1840239774,3142289711,4104185692,691659142
+dimwishlist:item=3485029080&perks=106909392,2298656195,3108830275,839105230
+dimwishlist:item=3485029080&perks=106909392,243981275,3108830275,839105230
+dimwishlist:item=3485029080&perks=106909392,3108830275,4104185692,839105230
+dimwishlist:item=3485029080&perks=106909392,2298656195,3523296417,839105230
+dimwishlist:item=3485029080&perks=106909392,243981275,3523296417,839105230
+dimwishlist:item=3485029080&perks=106909392,3523296417,4104185692,839105230
+dimwishlist:item=3485029080&perks=106909392,2298656195,691659142,839105230
+dimwishlist:item=3485029080&perks=106909392,243981275,691659142,839105230
+dimwishlist:item=3485029080&perks=106909392,4104185692,691659142,839105230
+dimwishlist:item=3485029080&perks=1431678320,2298656195,3108830275,839105230
+dimwishlist:item=3485029080&perks=1431678320,243981275,3108830275,839105230
+dimwishlist:item=3485029080&perks=1431678320,3108830275,4104185692,839105230
+dimwishlist:item=3485029080&perks=1431678320,2298656195,3523296417,839105230
+dimwishlist:item=3485029080&perks=1431678320,243981275,3523296417,839105230
+dimwishlist:item=3485029080&perks=1431678320,3523296417,4104185692,839105230
+dimwishlist:item=3485029080&perks=1431678320,2298656195,691659142,839105230
+dimwishlist:item=3485029080&perks=1431678320,243981275,691659142,839105230
+dimwishlist:item=3485029080&perks=1431678320,4104185692,691659142,839105230
+dimwishlist:item=3485029080&perks=2298656195,3108830275,3230963543,839105230
+dimwishlist:item=3485029080&perks=243981275,3108830275,3230963543,839105230
+dimwishlist:item=3485029080&perks=3108830275,3230963543,4104185692,839105230
+dimwishlist:item=3485029080&perks=2298656195,3230963543,3523296417,839105230
+dimwishlist:item=3485029080&perks=243981275,3230963543,3523296417,839105230
+dimwishlist:item=3485029080&perks=3230963543,3523296417,4104185692,839105230
+dimwishlist:item=3485029080&perks=2298656195,3230963543,691659142,839105230
+dimwishlist:item=3485029080&perks=243981275,3230963543,691659142,839105230
+dimwishlist:item=3485029080&perks=3230963543,4104185692,691659142,839105230
+dimwishlist:item=3485029080&perks=1087426260,2298656195,3108830275,839105230
+dimwishlist:item=3485029080&perks=1087426260,243981275,3108830275,839105230
+dimwishlist:item=3485029080&perks=1087426260,3108830275,4104185692,839105230
+dimwishlist:item=3485029080&perks=1087426260,2298656195,3523296417,839105230
+dimwishlist:item=3485029080&perks=1087426260,243981275,3523296417,839105230
+dimwishlist:item=3485029080&perks=1087426260,3523296417,4104185692,839105230
+dimwishlist:item=3485029080&perks=1087426260,2298656195,691659142,839105230
+dimwishlist:item=3485029080&perks=1087426260,243981275,691659142,839105230
+dimwishlist:item=3485029080&perks=1087426260,4104185692,691659142,839105230
+dimwishlist:item=3485029080&perks=2298656195,3108830275,3142289711,839105230
+dimwishlist:item=3485029080&perks=243981275,3108830275,3142289711,839105230
+dimwishlist:item=3485029080&perks=3108830275,3142289711,4104185692,839105230
+dimwishlist:item=3485029080&perks=2298656195,3142289711,3523296417,839105230
+dimwishlist:item=3485029080&perks=243981275,3142289711,3523296417,839105230
+dimwishlist:item=3485029080&perks=3142289711,3523296417,4104185692,839105230
+dimwishlist:item=3485029080&perks=2298656195,3142289711,691659142,839105230
+dimwishlist:item=3485029080&perks=243981275,3142289711,691659142,839105230
+dimwishlist:item=3485029080&perks=3142289711,4104185692,691659142,839105230
+
+// Psychopomp - Endgame God
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Frenzy
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, Frenzy maxes out Handling and Reload Speed and boosts damage by ×1.15 just for being in combat. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4028298892&perks=2010801679,2822142346,3525010810,4104185692
+dimwishlist:item=4028298892&perks=2822142346,3525010810,4104185692,691659142
+
+// Psychopomp (Adept) - Endgame god
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Frenzy
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, Frenzy maxes out Handling and Reload Speed and boosts damage by ×1.15 just for being in combat. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2553380021&perks=2010801679,2822142346,3525010810,4104185692
+dimwishlist:item=2553380021&perks=2822142346,3525010810,4104185692,691659142
+
+// Eyes Unveiled - Endgame sustained damage god 1
+// (Fluted Barrel, Arrowhead Brake), (Ionized Battery, Enhanced Battery, Accelerated Coils), Overflow, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Eyes Unveiled is a decent option if you don't already have a crafted Taipan but if you do, you can safely pass. At base, the stats are a bit low - 35 Range, 52 Stability is ×1.1360 flinch resist at 100 Resilience, 25 Handling is 0.46s ready, 0.37s ADS and 0.37s stow speed, 18 Reload Speed is a 2.53s reload and Recoil Direction is 59. The mag size is 5 (max 7), and with 0/1/2/3 reserves mods total ammo is 24/26/27/28 (max 28). Use the barrel perk to add Handling and help control recoil to land crits easier, while the battery perk can be used to increase magazine size or speed up Charge Time. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether. In the second, Reservoir Burst boosts battery size further, applies ×1.25 damage on overflowed shots and creates an AoE detonation on a kill. Willing Vessel passively increases Stability, Handling and Reload Speed for dealing damage (as well as on a kill too), particularly when you're in a fireteam, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=727781522&perks=1427256713,1840239774,3643424744,689005463
+dimwishlist:item=727781522&perks=1427256713,1840239774,2680121939,3643424744
+dimwishlist:item=727781522&perks=1427256713,1483536627,1840239774,3643424744
+dimwishlist:item=727781522&perks=1427256713,3643424744,689005463,839105230
+dimwishlist:item=727781522&perks=1427256713,2680121939,3643424744,839105230
+dimwishlist:item=727781522&perks=1427256713,1483536627,3643424744,839105230
+
+// Eyes Unveiled - Endgame sustained damage god 2
+// (Fluted Barrel, Arrowhead Brake), (Ionized Battery, Enhanced Battery, Accelerated Coils), Field Prep, (Frenzy, Withering Gaze)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Eyes Unveiled is a decent option if you don't already have a crafted Taipan but if you do, you can safely pass. At base, the stats are a bit low - 35 Range, 52 Stability is ×1.1360 flinch resist at 100 Resilience, 25 Handling is 0.46s ready, 0.37s ADS and 0.37s stow speed, 18 Reload Speed is a 2.53s reload and Recoil Direction is 59. The mag size is 5 (max 7), and with 0/1/2/3 reserves mods total ammo is 24/26/27/28 (max 28). Use the barrel perk to add Handling and help control recoil to land crits easier, while the battery perk can be used to increase magazine size or speed up Charge Time. For sustained damage, in the first trait perk column Field Prep or Enhanced Field Prep gets you to maximum total ammo with a single reserves mod, and boosts Handling and Reload when crouched. In the second, Frenzy boosts damage by ×1.15 and maxes out Handling and Reload Speed stats while in combat, or if you're in a fireteam, Withering Gaze weakens targets to boost your whole fireteam's damage by an effective ×1.15 just for ADSing for 1.5s. Willing Vessel passively increases Stability, Handling and Reload Speed for dealing damage (as well as on a kill too), particularly when you're in a fireteam, which is always useful. Recommended MW: Handling or Reload Speed, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=727781522&perks=1840239774,2869569095,4104185692,689005463
+dimwishlist:item=727781522&perks=1134488199,1840239774,2869569095,689005463
+dimwishlist:item=727781522&perks=1840239774,2680121939,2869569095,4104185692
+dimwishlist:item=727781522&perks=1134488199,1840239774,2680121939,2869569095
+dimwishlist:item=727781522&perks=1483536627,1840239774,2869569095,4104185692
+dimwishlist:item=727781522&perks=1134488199,1483536627,1840239774,2869569095
+dimwishlist:item=727781522&perks=2869569095,4104185692,689005463,839105230
+dimwishlist:item=727781522&perks=1134488199,2869569095,689005463,839105230
+dimwishlist:item=727781522&perks=2680121939,2869569095,4104185692,839105230
+dimwishlist:item=727781522&perks=1134488199,2680121939,2869569095,839105230
+dimwishlist:item=727781522&perks=1483536627,2869569095,4104185692,839105230
+dimwishlist:item=727781522&perks=1134488199,1483536627,2869569095,839105230
+
+// Eyes Unveiled (Adept) - Endgame sustained damage god 1
+// (Fluted Barrel, Arrowhead Brake), (Ionized Battery, Enhanced Battery, Accelerated Coils), Overflow, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Eyes Unveiled is a decent option if you don't already have a crafted Taipan but if you do, you can safely pass. At base, the stats are a bit low - 35 Range, 52 Stability is ×1.1360 flinch resist at 100 Resilience, 25 Handling is 0.46s ready, 0.37s ADS and 0.37s stow speed, 18 Reload Speed is a 2.53s reload and Recoil Direction is 59. The mag size is 5 (max 7), and with 0/1/2/3 reserves mods total ammo is 24/26/27/28 (max 28). Use the barrel perk to add Handling and help control recoil to land crits easier, while the battery perk can be used to increase magazine size or speed up Charge Time. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether. In the second, Reservoir Burst boosts battery size further, applies ×1.25 damage on overflowed shots and creates an AoE detonation on a kill. Willing Vessel passively increases Stability, Handling and Reload Speed for dealing damage (as well as on a kill too), particularly when you're in a fireteam, which is always useful. Recommended MW: Handling or Reload Speed, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=282549639&perks=1427256713,1483536627,1840239774,3643424744
+dimwishlist:item=282549639&perks=1427256713,1840239774,2680121939,3643424744
+dimwishlist:item=282549639&perks=1427256713,1840239774,3643424744,689005463
+dimwishlist:item=282549639&perks=1427256713,1483536627,3643424744,839105230
+dimwishlist:item=282549639&perks=1427256713,2680121939,3643424744,839105230
+dimwishlist:item=282549639&perks=1427256713,3643424744,689005463,839105230
+
+// Eyes Unveiled (Adept) - Endgame sustained damage god 2
+// (Fluted Barrel, Arrowhead Brake), (Ionized Battery, Enhanced Battery, Accelerated Coils), Field Prep, (Frenzy, Withering Gaze)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Eyes Unveiled is a decent option if you don't already have a crafted Taipan but if you do, you can safely pass. At base, the stats are a bit low - 35 Range, 52 Stability is ×1.1360 flinch resist at 100 Resilience, 25 Handling is 0.46s ready, 0.37s ADS and 0.37s stow speed, 18 Reload Speed is a 2.53s reload and Recoil Direction is 59. The mag size is 5 (max 7), and with 0/1/2/3 reserves mods total ammo is 24/26/27/28 (max 28). Use the barrel perk to add Handling and help control recoil to land crits easier, while the battery perk can be used to increase magazine size or speed up Charge Time. For sustained damage, in the first trait perk column Field Prep or Enhanced Field Prep gets you to maximum total ammo with a single reserves mod, and boosts Handling and Reload when crouched. In the second, Frenzy boosts damage by ×1.15 and maxes out Handling and Reload Speed stats while in combat, or if you're in a fireteam, Withering Gaze weakens targets to boost your whole fireteam's damage by an effective ×1.15 just for ADSing for 1.5s. Willing Vessel passively increases Stability, Handling and Reload Speed for dealing damage (as well as on a kill too), particularly when you're in a fireteam, which is always useful. Recommended MW: Handling or Reload Speed, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Utility PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=282549639&perks=1840239774,2869569095,4104185692,689005463
+dimwishlist:item=282549639&perks=1134488199,1840239774,2869569095,689005463
+dimwishlist:item=282549639&perks=1840239774,2680121939,2869569095,4104185692
+dimwishlist:item=282549639&perks=1134488199,1840239774,2680121939,2869569095
+dimwishlist:item=282549639&perks=1483536627,1840239774,2869569095,4104185692
+dimwishlist:item=282549639&perks=1134488199,1483536627,1840239774,2869569095
+dimwishlist:item=282549639&perks=2869569095,4104185692,689005463,839105230
+dimwishlist:item=282549639&perks=1134488199,2869569095,689005463,839105230
+dimwishlist:item=282549639&perks=2680121939,2869569095,4104185692,839105230
+dimwishlist:item=282549639&perks=1134488199,2680121939,2869569095,839105230
+dimwishlist:item=282549639&perks=1483536627,2869569095,4104185692,839105230
+dimwishlist:item=282549639&perks=1134488199,1483536627,2869569095,839105230
+
+// Abyssal Edge - Endgame burst damage god
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), Relentless Strikes, (Redirection, Surrounded)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions in general, and in end-game underleveled content. Abyssal Edge is only the second wave sword frame (and the only non-raid option), generating a wave frame on a heavy attack costing 4 ammo, followed up by a homing light attack costing 1. At base, the stats are identical - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total base ammo is 67/71/73/74 (max 77). With a burst damage roll, you'll want as much Impact as possible - look for Jagged Edge as the top choice blade perk, with Honed Edge and Tempered Edge as alternates. for the Guard Perk, Swordmaster's Guard improves Charge Rate for heavy attacks, although if you do guard to reduce incoming damage, Balanced Guard is worth a look. In the first trait perk slot, Relentless Strikes returns 1 ammo for three hits within 2s for better ammo economy, while in the second, the reworked Redirection trait perk lets you build up to 30 stacks by killing 15 Minor adds and use this for ×1.33 damage for 10 hits (using 3 stacks per hit.against Elite or higher enemies. Alternatively, if you're in a crowd, Surrounded passively boosts damage by ×1.4 (×1.47 when enhanced). Runneth Over is probably the more immediately useful origin trait, increasing charge rate for each ally you're within 15m of, up to 5. Recommended MW: Impact, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=547165496&perks=1749209109,269888150,3201496230,3666208348
+dimwishlist:item=547165496&perks=1749209109,269888150,3666208348,3708227201
+dimwishlist:item=547165496&perks=1749209109,3201496230,3666208348,52780822
+dimwishlist:item=547165496&perks=1749209109,3666208348,3708227201,52780822
+dimwishlist:item=547165496&perks=1749209109,269888150,2827049491,3201496230
+dimwishlist:item=547165496&perks=1749209109,269888150,2827049491,3708227201
+dimwishlist:item=547165496&perks=1749209109,2827049491,3201496230,52780822
+dimwishlist:item=547165496&perks=1749209109,2827049491,3708227201,52780822
+dimwishlist:item=547165496&perks=1749209109,269888150,3201496230,938542991
+dimwishlist:item=547165496&perks=1749209109,269888150,3708227201,938542991
+dimwishlist:item=547165496&perks=1749209109,3201496230,52780822,938542991
+dimwishlist:item=547165496&perks=1749209109,3708227201,52780822,938542991
+
+// Abyssal Edge - Endgame sustained damage god
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), Relentless Strikes, Elemental Honing
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in general, and in end-game underleveled content. Abyssal Edge is only the second wave sword frame (and the only non-raid option), generating a wave frame on a heavy attack costing 4 ammo, followed up by a homing light attack costing 1. At base, the stats are identical - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total base ammo is 67/71/73/74 (max 77). With a sustained damage roll, you'll want as much Impact as possible - look for Jagged Edge as the top choice blade perk, with Honed Edge and Tempered Edge as alternates. for the Guard Perk, Swordmaster's Guard improves Charge Rate for heavy attacks, although if you do guard to reduce incoming damage, Balanced Guard is worth a look. In the first trait perk slot, Relentless Strikes returns 1 ammo for three hits within 2s for better ammo economy, while in the second if you're playing a Transcendent build, Elemental Honing can work similarly to Bait and Switch to provide a ×1.35 damage boost for 20s for cycling through 5 other damage types with your abilities and other weapons. Runneth Over is probably the more immediately useful origin trait, increasing charge rate for each ally you're within 15m of, up to 5. Recommended MW: Impact, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=547165496&perks=1089671869,1749209109,269888150,3666208348
+dimwishlist:item=547165496&perks=1089671869,1749209109,3666208348,52780822
+dimwishlist:item=547165496&perks=1089671869,1749209109,269888150,2827049491
+dimwishlist:item=547165496&perks=1089671869,1749209109,2827049491,52780822
+dimwishlist:item=547165496&perks=1089671869,1749209109,269888150,938542991
+dimwishlist:item=547165496&perks=1089671869,1749209109,52780822,938542991
+
+// Abyssal Edge (Adept) - Endgame burst damage god
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), Relentless Strikes, (Redirection, Surrounded)
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions in general, and in end-game underleveled content. Abyssal Edge is only the second wave sword frame (and the only non-raid option), generating a wave frame on a heavy attack costing 4 ammo, followed up by a homing light attack costing 1. At base, the stats are identical - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total base ammo is 67/71/73/74 (max 77). With a burst damage roll, you'll want as much Impact as possible - look for Jagged Edge as the top choice blade perk, with Honed Edge and Tempered Edge as alternates. for the Guard Perk, Swordmaster's Guard improves Charge Rate for heavy attacks, although if you do guard to reduce incoming damage, Balanced Guard is worth a look. In the first trait perk slot, Relentless Strikes returns 1 ammo for three hits within 2s for better ammo economy, while in the second, the reworked Redirection trait perk lets you build up to 30 stacks by killing 15 Minor adds and use this for ×1.33 damage for 10 hits (using 3 stacks per hit.against Elite or higher enemies. Alternatively, if you're in a crowd, Surrounded passively boosts damage by ×1.4 (×1.47 when enhanced). Runneth Over is probably the more immediately useful origin trait, increasing charge rate for each ally you're within 15m of, up to 5. Recommended MW: Impact, with an Adept Impact mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2712683313&perks=1749209109,269888150,3201496230,3666208348
+dimwishlist:item=2712683313&perks=1749209109,269888150,3666208348,3708227201
+dimwishlist:item=2712683313&perks=1749209109,3201496230,3666208348,52780822
+dimwishlist:item=2712683313&perks=1749209109,3666208348,3708227201,52780822
+dimwishlist:item=2712683313&perks=1749209109,269888150,2827049491,3201496230
+dimwishlist:item=2712683313&perks=1749209109,269888150,2827049491,3708227201
+dimwishlist:item=2712683313&perks=1749209109,2827049491,3201496230,52780822
+dimwishlist:item=2712683313&perks=1749209109,2827049491,3708227201,52780822
+dimwishlist:item=2712683313&perks=1749209109,269888150,3201496230,938542991
+dimwishlist:item=2712683313&perks=1749209109,269888150,3708227201,938542991
+dimwishlist:item=2712683313&perks=1749209109,3201496230,52780822,938542991
+dimwishlist:item=2712683313&perks=1749209109,3708227201,52780822,938542991
+
+// Abyssal Edge (Adept) - Endgame sustained damage god
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), Relentless Strikes, Elemental Honing
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in general, and in end-game underleveled content. Abyssal Edge is only the second wave sword frame (and the only non-raid option), generating a wave frame on a heavy attack costing 4 ammo, followed up by a homing light attack costing 1. At base, the stats are identical - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total base ammo is 67/71/73/74 (max 77). With a sustained damage roll, you'll want as much Impact as possible - look for Jagged Edge as the top choice blade perk, with Honed Edge and Tempered Edge as alternates. for the Guard Perk, Swordmaster's Guard improves Charge Rate for heavy attacks, although if you do guard to reduce incoming damage, Balanced Guard is worth a look. In the first trait perk slot, Relentless Strikes returns 1 ammo for three hits within 2s for better ammo economy, while in the second if you're playing a Transcendent build, Elemental Honing can work similarly to Bait and Switch to provide a ×1.35 damage boost for 20s for cycling through 5 other damage types with your abilities and other weapons. Runneth Over is probably the more immediately useful origin trait, increasing charge rate for each ally you're within 15m of, up to 5. Recommended MW: Impact, with an Adept Impact mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2712683313&perks=1089671869,1749209109,269888150,3666208348
+dimwishlist:item=2712683313&perks=1089671869,1749209109,3666208348,52780822
+dimwishlist:item=2712683313&perks=1089671869,1749209109,269888150,2827049491
+dimwishlist:item=2712683313&perks=1089671869,1749209109,2827049491,52780822
+dimwishlist:item=2712683313&perks=1089671869,1749209109,269888150,938542991
+dimwishlist:item=2712683313&perks=1089671869,1749209109,52780822,938542991
+
+// Watchful Eye - Endgame sustained damage god 1 (arc builds)
+(Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), (Overload, Field Prep), Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content, particularly with arc builds. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. Alternatively, Enhanced Field Prep can get you to maximum ammo reserves with two reserves mods, and boosts reload speed and handling. To pair with all that ammo, Jolting Feedback synergises with arc builds to apply jolt to targets for additional damage. Recommended MW: Handling or Stability, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1757177186&perks=2420895100,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=2420895100,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=1087426260,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=1087426260,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=1561002382,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=1561002382,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=1968497646,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=1968497646,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=1885400500,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=1885400500,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=1431678320,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=1431678320,2869569095,3966416502,839105230
+dimwishlist:item=1757177186&perks=3230963543,3643424744,3966416502,839105230
+dimwishlist:item=1757177186&perks=2869569095,3230963543,3966416502,839105230
+dimwishlist:item=1757177186&perks=3643424744,3966416502,679225683,839105230
+dimwishlist:item=1757177186&perks=2869569095,3966416502,679225683,839105230
+dimwishlist:item=1757177186&perks=1840239774,2420895100,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,2420895100,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1087426260,1840239774,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1087426260,1840239774,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1561002382,1840239774,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1561002382,1840239774,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1968497646,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1968497646,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1431678320,1840239774,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1431678320,1840239774,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,3230963543,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,2869569095,3230963543,3966416502
+dimwishlist:item=1757177186&perks=1840239774,3643424744,3966416502,679225683
+dimwishlist:item=1757177186&perks=1840239774,2869569095,3966416502,679225683
+
+// Watchful Eye - Endgame sustained damage god 2
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), Overload, Killing Tally
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. If you weren't around when 21% Delirium dropped, you can get a roll with Killing Tally, providing an untimed ×1.3 damage boost after three kills, until stowing or reloading (which you can avoid by collecting an ammo brick). Recommended MW: Handling or Stability, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1757177186&perks=2420895100,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=1087426260,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=1561002382,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=1968497646,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=1885400500,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=1431678320,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=3230963543,3643424744,557221067,839105230
+dimwishlist:item=1757177186&perks=3643424744,557221067,679225683,839105230
+dimwishlist:item=1757177186&perks=1840239774,2420895100,3643424744,557221067
+dimwishlist:item=1757177186&perks=1087426260,1840239774,3643424744,557221067
+dimwishlist:item=1757177186&perks=1561002382,1840239774,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,1968497646,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=1757177186&perks=1431678320,1840239774,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,3230963543,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,3643424744,557221067,679225683
+
+// Watchful Eye - Endgame add clear god 1 (arc builds)
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), (Overload, Field Prep), Rolling Thunder
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. Alternatively, Enhanced Field Prep can get you to maximum ammo reserves with two reserves mods, and boosts reload speed and handling. To pair with all that ammo, on an arc build Rolling Thunder makes it easy to generate Bolt Charge stacks on kills for AoE lightning strikes, even in end-game content. Recommended MW: Handling or Stability, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1757177186&perks=2420895100,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=2420895100,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=1087426260,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=1087426260,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=1561002382,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=1561002382,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=1968497646,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=1968497646,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=1885400500,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=1885400500,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=1431678320,3218042543,3643424744,839105230
+dimwishlist:item=1757177186&perks=1431678320,2869569095,3218042543,839105230
+dimwishlist:item=1757177186&perks=3218042543,3230963543,3643424744,839105230
+dimwishlist:item=1757177186&perks=2869569095,3218042543,3230963543,839105230
+dimwishlist:item=1757177186&perks=3218042543,3643424744,679225683,839105230
+dimwishlist:item=1757177186&perks=2869569095,3218042543,679225683,839105230
+dimwishlist:item=1757177186&perks=1840239774,2420895100,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1840239774,2420895100,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1087426260,1840239774,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1087426260,1840239774,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1561002382,1840239774,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1561002382,1840239774,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1840239774,1968497646,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1840239774,1968497646,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1431678320,1840239774,3218042543,3643424744
+dimwishlist:item=1757177186&perks=1431678320,1840239774,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1840239774,3218042543,3230963543,3643424744
+dimwishlist:item=1757177186&perks=1840239774,2869569095,3218042543,3230963543
+dimwishlist:item=1757177186&perks=1840239774,3218042543,3643424744,679225683
+dimwishlist:item=1757177186&perks=1840239774,2869569095,3218042543,679225683
+
+// Watchful Eye (Adept) - Endgame sustained damage god 1 (arc builds)
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), (Overload, Field Prep), Jolting Feedback
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content, particularly with arc builds. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. Alternatively, Enhanced Field Prep can get you to maximum ammo reserves with two reserves mods, and boosts reload speed and handling. To pair with all that ammo, Jolting Feedback synergises with arc builds to apply jolt to targets for additional damage. Recommended MW: Handling or Stability, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=737409399&perks=2420895100,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=2420895100,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=1087426260,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=1087426260,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=1561002382,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=1561002382,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=1968497646,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=1968497646,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=1885400500,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=1885400500,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=1431678320,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=1431678320,2869569095,3966416502,839105230
+dimwishlist:item=737409399&perks=3230963543,3643424744,3966416502,839105230
+dimwishlist:item=737409399&perks=2869569095,3230963543,3966416502,839105230
+dimwishlist:item=737409399&perks=3643424744,3966416502,679225683,839105230
+dimwishlist:item=737409399&perks=2869569095,3966416502,679225683,839105230
+dimwishlist:item=737409399&perks=1840239774,2420895100,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,2420895100,2869569095,3966416502
+dimwishlist:item=737409399&perks=1087426260,1840239774,3643424744,3966416502
+dimwishlist:item=737409399&perks=1087426260,1840239774,2869569095,3966416502
+dimwishlist:item=737409399&perks=1561002382,1840239774,3643424744,3966416502
+dimwishlist:item=737409399&perks=1561002382,1840239774,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,1968497646,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1968497646,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=737409399&perks=1431678320,1840239774,3643424744,3966416502
+dimwishlist:item=737409399&perks=1431678320,1840239774,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,3230963543,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,2869569095,3230963543,3966416502
+dimwishlist:item=737409399&perks=1840239774,3643424744,3966416502,679225683
+dimwishlist:item=737409399&perks=1840239774,2869569095,3966416502,679225683
+
+// Watchful Eye (Adept) - Endgame sustained damage god 2 ()
+//notes: (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), Overload, Killing Tally. Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. If you weren't around when 21% Delirium dropped, you can get a roll with Killing Tally, providing an untimed ×1.3 damage boost after three kills, until stowing or reloading (which you can avoid by collecting an ammo brick). Recommended MW: Handling or Stability, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=737409399&perks=2420895100,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=2420895100,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=1087426260,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=1087426260,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=1561002382,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=1561002382,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=1968497646,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=1968497646,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=1885400500,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=1885400500,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=1431678320,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=1431678320,2869569095,557221067,839105230
+dimwishlist:item=737409399&perks=3230963543,3643424744,557221067,839105230
+dimwishlist:item=737409399&perks=2869569095,3230963543,557221067,839105230
+dimwishlist:item=737409399&perks=3643424744,557221067,679225683,839105230
+dimwishlist:item=737409399&perks=2869569095,557221067,679225683,839105230
+dimwishlist:item=737409399&perks=1840239774,2420895100,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,2420895100,2869569095,557221067
+dimwishlist:item=737409399&perks=1087426260,1840239774,3643424744,557221067
+dimwishlist:item=737409399&perks=1087426260,1840239774,2869569095,557221067
+dimwishlist:item=737409399&perks=1561002382,1840239774,3643424744,557221067
+dimwishlist:item=737409399&perks=1561002382,1840239774,2869569095,557221067
+dimwishlist:item=737409399&perks=1840239774,1968497646,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,1968497646,2869569095,557221067
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,557221067
+dimwishlist:item=737409399&perks=1431678320,1840239774,3643424744,557221067
+dimwishlist:item=737409399&perks=1431678320,1840239774,2869569095,557221067
+dimwishlist:item=737409399&perks=1840239774,3230963543,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,2869569095,3230963543,557221067
+dimwishlist:item=737409399&perks=1840239774,3643424744,557221067,679225683
+dimwishlist:item=737409399&perks=1840239774,2869569095,557221067,679225683
+
+// Watchful Eye (Adept) - Endgame add clear god 1 (arc builds) ()
+//notes: (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag), (Overload, Field Prep), Rolling Thunder Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. Alternatively, Enhanced Field Prep can get you to maximum ammo reserves with two reserves mods, and boosts reload speed and handling. To pair with all that ammo, on an arc build Rolling Thunder makes it easy to generate Bolt Charge stacks on kills for AoE lightning strikes, even in end-game content. Recommended MW: Handling or Stability, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=737409399&perks=2420895100,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=2420895100,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=1087426260,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=1087426260,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=1561002382,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=1561002382,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=1968497646,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=1968497646,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=1885400500,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=1885400500,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=1431678320,3218042543,3643424744,839105230
+dimwishlist:item=737409399&perks=1431678320,2869569095,3218042543,839105230
+dimwishlist:item=737409399&perks=3218042543,3230963543,3643424744,839105230
+dimwishlist:item=737409399&perks=2869569095,3218042543,3230963543,839105230
+dimwishlist:item=737409399&perks=3218042543,3643424744,679225683,839105230
+dimwishlist:item=737409399&perks=2869569095,3218042543,679225683,839105230
+dimwishlist:item=737409399&perks=1840239774,2420895100,3218042543,3643424744
+dimwishlist:item=737409399&perks=1840239774,2420895100,2869569095,3218042543
+dimwishlist:item=737409399&perks=1087426260,1840239774,3218042543,3643424744
+dimwishlist:item=737409399&perks=1087426260,1840239774,2869569095,3218042543
+dimwishlist:item=737409399&perks=1561002382,1840239774,3218042543,3643424744
+dimwishlist:item=737409399&perks=1561002382,1840239774,2869569095,3218042543
+dimwishlist:item=737409399&perks=1840239774,1968497646,3218042543,3643424744
+dimwishlist:item=737409399&perks=1840239774,1968497646,2869569095,3218042543
+dimwishlist:item=737409399&perks=1840239774,1885400500,3218042543,3643424744
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,3218042543
+dimwishlist:item=737409399&perks=1431678320,1840239774,3218042543,3643424744
+dimwishlist:item=737409399&perks=1431678320,1840239774,2869569095,3218042543
+dimwishlist:item=737409399&perks=1840239774,3218042543,3230963543,3643424744
+dimwishlist:item=737409399&perks=1840239774,2869569095,3218042543,3230963543
+dimwishlist:item=737409399&perks=1840239774,3218042543,3643424744,679225683
+dimwishlist:item=737409399&perks=1840239774,2869569095,3218042543,679225683
+
+// Psychopomp - Endgame God AB build
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content, particularly wit arc builds. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, for arc build synergy, Rolling Thunder speeds up accumulation of Bolt Charge, adding a stack on a kill (2 when Amplified) for additional damage from lightning bolts. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4028298892&perks=2010801679,2822142346,3218042543,3525010810
+dimwishlist:item=4028298892&perks=2822142346,3218042543,3525010810,691659142
+
+// Psychopomp (Adept) - Endgame god AB roll
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content, particularly wit arc builds. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, for arc build synergy, Rolling Thunder speeds up accumulation of Bolt Charge, adding a stack on a kill (2 when Amplified) for additional damage from lightning bolts. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2553380021&perks=2010801679,2822142346,3218042543,3525010810
+dimwishlist:item=2553380021&perks=2822142346,3218042543,3525010810,691659142
+
+// Watchful Eye - Endgame sustained damage god 3 AB
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), Overload, Target Lock
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. With Target Lock in the second column, you should then easily be able to reach maximum stack for ×1.4 damage against a single target. Recommended MW: Handling or Stability, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1757177186&perks=2420895100,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=1087426260,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=1561002382,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=1968497646,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=1885400500,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=1431678320,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=3230963543,3643424744,365154968,839105230
+dimwishlist:item=1757177186&perks=3643424744,365154968,679225683,839105230
+dimwishlist:item=1757177186&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=1757177186&perks=1087426260,1840239774,3643424744,365154968
+dimwishlist:item=1757177186&perks=1561002382,1840239774,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=1757177186&perks=1431678320,1840239774,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,3643424744,365154968,679225683
+
+// Watchful Eye (Adept) - Endgame sustained damage god 3 AB
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), Overload, Target Lock
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. With Target Lock in the second column, you should then easily be able to reach maximum stack for ×1.4 damage against a single target. Recommended MW: Handling or Stability, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=737409399&perks=2420895100,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=2420895100,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=1087426260,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=1087426260,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=1561002382,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=1561002382,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=1968497646,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=1968497646,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=1885400500,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=1885400500,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=1431678320,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=1431678320,2869569095,365154968,839105230
+dimwishlist:item=737409399&perks=3230963543,3643424744,365154968,839105230
+dimwishlist:item=737409399&perks=2869569095,3230963543,365154968,839105230
+dimwishlist:item=737409399&perks=3643424744,365154968,679225683,839105230
+dimwishlist:item=737409399&perks=2869569095,365154968,679225683,839105230
+dimwishlist:item=737409399&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,2420895100,2869569095,365154968
+dimwishlist:item=737409399&perks=1087426260,1840239774,3643424744,365154968
+dimwishlist:item=737409399&perks=1087426260,1840239774,2869569095,365154968
+dimwishlist:item=737409399&perks=1561002382,1840239774,3643424744,365154968
+dimwishlist:item=737409399&perks=1561002382,1840239774,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1968497646,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,365154968
+dimwishlist:item=737409399&perks=1431678320,1840239774,3643424744,365154968
+dimwishlist:item=737409399&perks=1431678320,1840239774,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,2869569095,3230963543,365154968
+dimwishlist:item=737409399&perks=1840239774,3643424744,365154968,679225683
+dimwishlist:item=737409399&perks=1840239774,2869569095,365154968,679225683
+
 // Chroma Rush (first-choice PvE)
 // (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling, Smallbore), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag, Extended Mag), Subsistence, (Kinetic Tremors, Frenzy)
 //notes:Inspired by @PodvsEnemies episode 127 from 21 January 2025 (https://open.spotify.com/episode/27QaoJnY0M7c7Ikhz8CbUv?si=397188c406294fcf) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general, and end-game underleveled content. Chroma Rush has a more PvP-oriented trait perk pool, but the origin trait the boosts handling and reload makes it viable, if you're still looking for a kinetic slot rapid fire auto-rifle. At base, the stats are decent - 25 Range equates to 22.20m ADS and 13.88m hipfire, 56 stability, 35 Handling is 0.42s ready, 0.32s ADS and 0.39s stow speed, and 47 Reload Speed is a 1.86s reload (1.49s with the intrinsic rapid-fire frame boost if you reload from an empty mag). The recoil direction is mostly vertical, if loose - you can improve control with the barrel perk or, if you're comfortable maybe push out the range a little. In the magazine, on controller, a bit more Stability is nice, boost reload speed further or add some extra bullets. For the trait perk slots, Subsistence is the best for PvE in the first column, while in the second Kinetic Tremors (although the damage scaling isn't great for the AoE shockwave), or Frenzy for a ×1.15 damage boost and max Handling and Reload Speed both work. The Splicer Surge origin trait is nice for PvE - reload after dealing damage for up to three stacks, which boosts handling and reload speed by 10/20/45 and applies a reload animation multiplier of ×0.967/×0.934/×0.9. Recommended MW: Range or Stability, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
