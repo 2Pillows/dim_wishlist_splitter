@@ -1,6 +1,317 @@
 title:CTR PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Taraxippos
+//notes:pandapaxxy (PvP / Controller): "Taraxippos didn't make too much of a splash in PvP either, being able to use Cascade Point to blister down enemies. Now High Ground comes by and takes...well the high ground. Zen Moment will keep you on target, but I'd personally go with Kill Clip to keep things nice and easy." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=2595813005&perks=1015611457,2387244414,3142289711,839105230
+dimwishlist:item=2595813005&perks=2387244414,3038247973,3142289711,839105230
+dimwishlist:item=2595813005&perks=2319119708,2387244414,3142289711,839105230
+dimwishlist:item=2595813005&perks=1015611457,3142289711,3619207468,839105230
+dimwishlist:item=2595813005&perks=3038247973,3142289711,3619207468,839105230
+dimwishlist:item=2595813005&perks=2319119708,3142289711,3619207468,839105230
+dimwishlist:item=2595813005&perks=1015611457,2579169598,3142289711,839105230
+dimwishlist:item=2595813005&perks=2579169598,3038247973,3142289711,839105230
+dimwishlist:item=2595813005&perks=2319119708,2579169598,3142289711,839105230
+dimwishlist:item=2595813005&perks=1015611457,1840239774,2387244414,3142289711
+dimwishlist:item=2595813005&perks=1840239774,2387244414,3038247973,3142289711
+dimwishlist:item=2595813005&perks=1840239774,2319119708,2387244414,3142289711
+dimwishlist:item=2595813005&perks=1015611457,1840239774,3142289711,3619207468
+dimwishlist:item=2595813005&perks=1840239774,3038247973,3142289711,3619207468
+dimwishlist:item=2595813005&perks=1840239774,2319119708,3142289711,3619207468
+dimwishlist:item=2595813005&perks=1015611457,1840239774,2579169598,3142289711
+dimwishlist:item=2595813005&perks=1840239774,2579169598,3038247973,3142289711
+dimwishlist:item=2595813005&perks=1840239774,2319119708,2579169598,3142289711
+
+// Adamantite
+//notes:pandapaxxy (PvP / Controller): "Support frame auto rifles have not been the strongest in PvP but have small niche scenarios when in a full fireteam. Demolitionist or Pugilist will depend on your build but I generally find grenades stronger than powered melees. Kill Clip is really the only option in the final column as it provides enough of a boost after a kill to offset the slight hit registration delay and get you the second+ kill." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=2987244302&perks=1015611457,3142289711,3250034553,3523296417
+dimwishlist:item=2987244302&perks=1015611457,3142289711,3250034553,691659142
+
+// Adamantite
+//notes:pandapaxxy (PvP / Controller): "Support frame auto rifles have not been the strongest in PvP but have small niche scenarios when in a full fireteam. Demolitionist or Pugilist will depend on your build but I generally find grenades stronger than powered melees. Kill Clip is really the only option in the final column as it provides enough of a boost after a kill to offset the slight hit registration delay and get you the second+ kill." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=3229982889&perks=1015611457,3142289711,3250034553,3523296417
+dimwishlist:item=3229982889&perks=1015611457,3142289711,3250034553,691659142
+
+// Adamantite (Adept)
+//notes:pandapaxxy (PvP / Controller): "Support frame auto rifles have not been the strongest in PvP but have small niche scenarios when in a full fireteam. Demolitionist or Pugilist will depend on your build but I generally find grenades stronger than powered melees. Kill Clip is really the only option in the final column as it provides enough of a boost after a kill to offset the slight hit registration delay and get you the second+ kill." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=3485029080&perks=1015611457,3142289711,3250034553,3523296417
+dimwishlist:item=3485029080&perks=1015611457,3142289711,3250034553,691659142
+
+// Adamantite (Adept)
+//notes:pandapaxxy (PvP / Controller): "Support frame auto rifles have not been the strongest in PvP but have small niche scenarios when in a full fireteam. Demolitionist or Pugilist will depend on your build but I generally find grenades stronger than powered melees. Kill Clip is really the only option in the final column as it provides enough of a boost after a kill to offset the slight hit registration delay and get you the second+ kill." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=601574723&perks=1015611457,3142289711,3250034553,3523296417
+dimwishlist:item=601574723&perks=1015611457,3142289711,3250034553,691659142
+
+// Cold Denial
+//notes:pandapaxxy (PvP / Controller): "Cold Denial is a returning weapon and one of my favorites from before Origin Traits. The low zoom meant it felt more like a hand cannon, but could do more damage and two-burst if you were capable. Arrowhead Brake fixes the recoil enough to be manageable in close ranges and accurate in longer engagements. This won't top the records for range but will be sticky within its intended range. Zen Moment and Headseeker are great neutral perks that offer the best for accuracy assistance and some forgiveness in each burst." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=558794124&perks=1885400500,2387244414,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1885400500,2387244414,839105230
+dimwishlist:item=558794124&perks=1885400500,2387244414,699525795,839105230
+dimwishlist:item=558794124&perks=1885400500,3828510309,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1885400500,3828510309,839105230
+dimwishlist:item=558794124&perks=1885400500,3828510309,699525795,839105230
+dimwishlist:item=558794124&perks=1885400500,3436462433,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1885400500,3436462433,839105230
+dimwishlist:item=558794124&perks=1885400500,3436462433,699525795,839105230
+dimwishlist:item=558794124&perks=1561002382,2387244414,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1561002382,2387244414,839105230
+dimwishlist:item=558794124&perks=1561002382,2387244414,699525795,839105230
+dimwishlist:item=558794124&perks=1561002382,3828510309,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1561002382,3828510309,839105230
+dimwishlist:item=558794124&perks=1561002382,3828510309,699525795,839105230
+dimwishlist:item=558794124&perks=1561002382,3436462433,460017080,839105230
+dimwishlist:item=558794124&perks=1365187766,1561002382,3436462433,839105230
+dimwishlist:item=558794124&perks=1561002382,3436462433,699525795,839105230
+dimwishlist:item=558794124&perks=1482024992,1885400500,2387244414,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1885400500,2387244414
+dimwishlist:item=558794124&perks=1482024992,1885400500,2387244414,699525795
+dimwishlist:item=558794124&perks=1482024992,1885400500,3828510309,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1885400500,3828510309
+dimwishlist:item=558794124&perks=1482024992,1885400500,3828510309,699525795
+dimwishlist:item=558794124&perks=1482024992,1885400500,3436462433,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1885400500,3436462433
+dimwishlist:item=558794124&perks=1482024992,1885400500,3436462433,699525795
+dimwishlist:item=558794124&perks=1482024992,1561002382,2387244414,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1561002382,2387244414
+dimwishlist:item=558794124&perks=1482024992,1561002382,2387244414,699525795
+dimwishlist:item=558794124&perks=1482024992,1561002382,3828510309,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1561002382,3828510309
+dimwishlist:item=558794124&perks=1482024992,1561002382,3828510309,699525795
+dimwishlist:item=558794124&perks=1482024992,1561002382,3436462433,460017080
+dimwishlist:item=558794124&perks=1365187766,1482024992,1561002382,3436462433
+dimwishlist:item=558794124&perks=1482024992,1561002382,3436462433,699525795
+
+// False Promises
+//notes:pandapaxxy (PvP / Controller): "Over in PvP False Promises has a bit more of a leg up. High damage per shot paired with a high range stat will cover most maps outside of scout rifle ranges. Cascade Point shows up here again as the firing delay is a whopping 40% dropping the time to kill from 0.83s to 0.50s. The requirements for a kill don't change at 6c but being far faster will catch people by surprise." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1390080550&perks=1359896290,1885400500,3250034553,3751912585
+dimwishlist:item=1390080550&perks=124408337,1359896290,1885400500,3250034553
+dimwishlist:item=1390080550&perks=1359896290,1885400500,2387244414,3250034553
+dimwishlist:item=1390080550&perks=1885400500,3250034553,3751912585,3828510309
+dimwishlist:item=1390080550&perks=124408337,1885400500,3250034553,3828510309
+dimwishlist:item=1390080550&perks=1885400500,2387244414,3250034553,3828510309
+dimwishlist:item=1390080550&perks=1359896290,1561002382,3250034553,3751912585
+dimwishlist:item=1390080550&perks=124408337,1359896290,1561002382,3250034553
+dimwishlist:item=1390080550&perks=1359896290,1561002382,2387244414,3250034553
+dimwishlist:item=1390080550&perks=1561002382,3250034553,3751912585,3828510309
+dimwishlist:item=1390080550&perks=124408337,1561002382,3250034553,3828510309
+dimwishlist:item=1390080550&perks=1561002382,2387244414,3250034553,3828510309
+dimwishlist:item=1390080550&perks=1359896290,1885400500,3751912585,839105230
+dimwishlist:item=1390080550&perks=124408337,1359896290,1885400500,839105230
+dimwishlist:item=1390080550&perks=1359896290,1885400500,2387244414,839105230
+dimwishlist:item=1390080550&perks=1885400500,3751912585,3828510309,839105230
+dimwishlist:item=1390080550&perks=124408337,1885400500,3828510309,839105230
+dimwishlist:item=1390080550&perks=1885400500,2387244414,3828510309,839105230
+dimwishlist:item=1390080550&perks=1359896290,1561002382,3751912585,839105230
+dimwishlist:item=1390080550&perks=124408337,1359896290,1561002382,839105230
+dimwishlist:item=1390080550&perks=1359896290,1561002382,2387244414,839105230
+dimwishlist:item=1390080550&perks=1561002382,3751912585,3828510309,839105230
+dimwishlist:item=1390080550&perks=124408337,1561002382,3828510309,839105230
+dimwishlist:item=1390080550&perks=1561002382,2387244414,3828510309,839105230
+
+// Whispering Slab
+//notes:pandapaxxy (PvP / M+KB / Controller): "Lightweight Bows in PvP have not had a good footing starting from the health changes Bungie made. Opening Shot almost guarantees a crit and add in the bonuses from Lone Wolf and you might have a good solo weapon. It still doesn't feel incredible to miss a shot, so all these bonuses will hopefully make this bow feel adequate to use." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=690341468&perks=201365942,2319119708,2801223209,3429800428
+dimwishlist:item=690341468&perks=201365942,2319119708,2801223209,3827198035
+dimwishlist:item=690341468&perks=201365942,2319119708,2801223209,3311977193
+dimwishlist:item=690341468&perks=201365942,2319119708,3429800428,852209214
+dimwishlist:item=690341468&perks=201365942,2319119708,3827198035,852209214
+dimwishlist:item=690341468&perks=201365942,2319119708,3311977193,852209214
+dimwishlist:item=690341468&perks=201365942,2319119708,3429800428,4067834857
+dimwishlist:item=690341468&perks=201365942,2319119708,3827198035,4067834857
+dimwishlist:item=690341468&perks=201365942,2319119708,3311977193,4067834857
+
+// Temptation's Hook
+//notes:pandapaxxy (PvP / M+KB / Controller): "Caster frame swords feel like they should belong in the crucible. But it always feels like it's missing something. Either the animation is too long, the tracking is too slow, maybe the damage just isn't tuned right. Valiant Charge will help closing the distance if you use this and heavy attack a second person after lunging. Tireless Blade will give you some ammo back, but there's just something off." Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1587953057&perks=2590710093,269888150,3666208348,4274614370
+dimwishlist:item=1587953057&perks=2590710093,269888150,4274614370,938542991
+
+// Unsworn
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I normally would say something about low ammo or something. Tear fixes that. Being able to Sever nearby enemies on a precision kill is huge for following that up into a kill chain. It doesn't do anything for that first kill, but it sets up for the second and third." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=1303313141&perks=1840239774,2749775325,365154968,960997401
+dimwishlist:item=1303313141&perks=1840239774,2749775325,557221067,960997401
+dimwishlist:item=1303313141&perks=1482024992,2749775325,365154968,960997401
+dimwishlist:item=1303313141&perks=1482024992,2749775325,557221067,960997401
+
+// Unworthy
+//notes:pandapaxxy (PvP / Controller): "Rapid Fire Frame scout rifles in PvP really need one of two perks, arguably together in order to feel phenomenal. Firmly Planted or Kill Clip. Unworthy has neither. Rapid Hit and Precision Instrument are fine but pale in comparison. Firefly will be nice for some AoE and Zen Moment is in the wrong column unless paired with Firefly." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=2226158470&perks=1885400500,247725512,555281244,839105230
+dimwishlist:item=2226158470&perks=1885400500,2387244414,247725512,839105230
+dimwishlist:item=2226158470&perks=1885400500,3824105627,555281244,839105230
+dimwishlist:item=2226158470&perks=1885400500,2387244414,3824105627,839105230
+dimwishlist:item=2226158470&perks=1885400500,3619207468,555281244,839105230
+dimwishlist:item=2226158470&perks=1885400500,2387244414,3619207468,839105230
+dimwishlist:item=2226158470&perks=1561002382,247725512,555281244,839105230
+dimwishlist:item=2226158470&perks=1561002382,2387244414,247725512,839105230
+dimwishlist:item=2226158470&perks=1561002382,3824105627,555281244,839105230
+dimwishlist:item=2226158470&perks=1561002382,2387244414,3824105627,839105230
+dimwishlist:item=2226158470&perks=1561002382,3619207468,555281244,839105230
+dimwishlist:item=2226158470&perks=1561002382,2387244414,3619207468,839105230
+dimwishlist:item=2226158470&perks=1482024992,1885400500,247725512,555281244
+dimwishlist:item=2226158470&perks=1482024992,1885400500,2387244414,247725512
+dimwishlist:item=2226158470&perks=1482024992,1885400500,3824105627,555281244
+dimwishlist:item=2226158470&perks=1482024992,1885400500,2387244414,3824105627
+dimwishlist:item=2226158470&perks=1482024992,1885400500,3619207468,555281244
+dimwishlist:item=2226158470&perks=1482024992,1885400500,2387244414,3619207468
+dimwishlist:item=2226158470&perks=1482024992,1561002382,247725512,555281244
+dimwishlist:item=2226158470&perks=1482024992,1561002382,2387244414,247725512
+dimwishlist:item=2226158470&perks=1482024992,1561002382,3824105627,555281244
+dimwishlist:item=2226158470&perks=1482024992,1561002382,2387244414,3824105627
+dimwishlist:item=2226158470&perks=1482024992,1561002382,3619207468,555281244
+dimwishlist:item=2226158470&perks=1482024992,1561002382,2387244414,3619207468
+
+// Vision of Confluence
+//notes:pandapaxxy (PvP / Controller): "When talking or taking Vision of Confluence into PvP you really have limited options. You have a pretty slow 1.00s TtK with 3c1b on all but T0 resilience. Zen Moment will help you keep your bullets where they need to go and Explosive Payload will make it harder for your enemies to fight back. Kill Clip allows you to drop a shot and go for 3c on all resiliences except T5 and below instead going for 2c1b. Definitely easier for kill chaining." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3444688218&perks=3017780555,3038247973,3230963543,839105230
+dimwishlist:item=3444688218&perks=3038247973,3230963543,4293542123,839105230
+dimwishlist:item=3444688218&perks=1015611457,1840239774,2387244414,3177308360
+dimwishlist:item=3444688218&perks=1840239774,2387244414,3038247973,3177308360
+dimwishlist:item=3444688218&perks=1015611457,1840239774,3017780555,3177308360
+dimwishlist:item=3444688218&perks=1840239774,3017780555,3038247973,3177308360
+dimwishlist:item=3444688218&perks=1015611457,1840239774,3177308360,4293542123
+dimwishlist:item=3444688218&perks=1840239774,3038247973,3177308360,4293542123
+dimwishlist:item=3444688218&perks=1015611457,1840239774,2387244414,3230963543
+dimwishlist:item=3444688218&perks=1840239774,2387244414,3038247973,3230963543
+dimwishlist:item=3444688218&perks=1015611457,1840239774,3017780555,3230963543
+dimwishlist:item=3444688218&perks=1840239774,3017780555,3038247973,3230963543
+dimwishlist:item=3444688218&perks=1015611457,1840239774,3230963543,4293542123
+dimwishlist:item=3444688218&perks=1840239774,3038247973,3230963543,4293542123
+dimwishlist:item=3444688218&perks=1015611457,2387244414,3177308360,4090651448
+dimwishlist:item=3444688218&perks=2387244414,3038247973,3177308360,4090651448
+dimwishlist:item=3444688218&perks=1015611457,3017780555,3177308360,4090651448
+dimwishlist:item=3444688218&perks=3017780555,3038247973,3177308360,4090651448
+dimwishlist:item=3444688218&perks=1015611457,3177308360,4090651448,4293542123
+dimwishlist:item=3444688218&perks=3038247973,3177308360,4090651448,4293542123
+dimwishlist:item=3444688218&perks=1015611457,2387244414,3230963543,4090651448
+dimwishlist:item=3444688218&perks=2387244414,3038247973,3230963543,4090651448
+dimwishlist:item=3444688218&perks=1015611457,3017780555,3230963543,4090651448
+dimwishlist:item=3444688218&perks=3017780555,3038247973,3230963543,4090651448
+dimwishlist:item=3444688218&perks=1015611457,3230963543,4090651448,4293542123
+dimwishlist:item=3444688218&perks=3038247973,3230963543,4090651448,4293542123
+
+// Vision of Confluence (Timelost)
+//notes:pandapaxxy (PvP / Controller): "When talking or taking Vision of Confluence into PvP you really have limited options. You have a pretty slow 1.00s TtK with 3c1b on all but T0 resilience. Zen Moment will help you keep your bullets where they need to go and Explosive Payload will make it harder for your enemies to fight back. Kill Clip allows you to drop a shot and go for 3c on all resiliences except T5 and below instead going for 2c1b. Definitely easier for kill chaining." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=337578911&perks=3017780555,3038247973,3230963543,839105230
+dimwishlist:item=337578911&perks=3038247973,3230963543,4293542123,839105230
+dimwishlist:item=337578911&perks=1015611457,1840239774,2387244414,3177308360
+dimwishlist:item=337578911&perks=1840239774,2387244414,3038247973,3177308360
+dimwishlist:item=337578911&perks=1015611457,1840239774,3017780555,3177308360
+dimwishlist:item=337578911&perks=1840239774,3017780555,3038247973,3177308360
+dimwishlist:item=337578911&perks=1015611457,1840239774,3177308360,4293542123
+dimwishlist:item=337578911&perks=1840239774,3038247973,3177308360,4293542123
+dimwishlist:item=337578911&perks=1015611457,1840239774,2387244414,3230963543
+dimwishlist:item=337578911&perks=1840239774,2387244414,3038247973,3230963543
+dimwishlist:item=337578911&perks=1015611457,1840239774,3017780555,3230963543
+dimwishlist:item=337578911&perks=1840239774,3017780555,3038247973,3230963543
+dimwishlist:item=337578911&perks=1015611457,1840239774,3230963543,4293542123
+dimwishlist:item=337578911&perks=1840239774,3038247973,3230963543,4293542123
+dimwishlist:item=337578911&perks=1015611457,2387244414,3177308360,4090651448
+dimwishlist:item=337578911&perks=2387244414,3038247973,3177308360,4090651448
+dimwishlist:item=337578911&perks=1015611457,3017780555,3177308360,4090651448
+dimwishlist:item=337578911&perks=3017780555,3038247973,3177308360,4090651448
+dimwishlist:item=337578911&perks=1015611457,3177308360,4090651448,4293542123
+dimwishlist:item=337578911&perks=3038247973,3177308360,4090651448,4293542123
+dimwishlist:item=337578911&perks=1015611457,2387244414,3230963543,4090651448
+dimwishlist:item=337578911&perks=2387244414,3038247973,3230963543,4090651448
+dimwishlist:item=337578911&perks=1015611457,3017780555,3230963543,4090651448
+dimwishlist:item=337578911&perks=3017780555,3038247973,3230963543,4090651448
+dimwishlist:item=337578911&perks=1015611457,3230963543,4090651448,4293542123
+dimwishlist:item=337578911&perks=3038247973,3230963543,4090651448,4293542123
+
+// Corrective Measure
+//notes:pandapaxxy (PvP / Controller): "You do have some interesting options in PvP with Firefly and High-Impact Reserves allowing for some really quick kills and some AoE, machine guns are mostly fine right now but give them a slight nudge or knock something else down and you've got a powerhouse. ~~If only there weren't TWO OTHER MACHINE GUNS THAT ARE EQUALLY AS GOOD.~~ Aggressive Frame, so slightly better TtK but more headshot requirements." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=3654744298&perks=1359896290,1482024992,2213355989,3142289711
+dimwishlist:item=3654744298&perks=1359896290,1482024992,3142289711,557221067
+dimwishlist:item=3654744298&perks=1482024992,2213355989,3142289711,3824105627
+dimwishlist:item=3654744298&perks=1482024992,3142289711,3824105627,557221067
+dimwishlist:item=3654744298&perks=1482024992,2048641572,2213355989,3142289711
+dimwishlist:item=3654744298&perks=1482024992,2048641572,3142289711,557221067
+dimwishlist:item=3654744298&perks=1359896290,2213355989,3142289711,3250034553
+dimwishlist:item=3654744298&perks=1359896290,3142289711,3250034553,557221067
+dimwishlist:item=3654744298&perks=2213355989,3142289711,3250034553,3824105627
+dimwishlist:item=3654744298&perks=3142289711,3250034553,3824105627,557221067
+dimwishlist:item=3654744298&perks=2048641572,2213355989,3142289711,3250034553
+dimwishlist:item=3654744298&perks=2048641572,3142289711,3250034553,557221067
+
+// Corrective Measure (Timelost)
+//notes:pandapaxxy (PvP / Controller): "You do have some interesting options in PvP with Firefly and High-Impact Reserves allowing for some really quick kills and some AoE, machine guns are mostly fine right now but give them a slight nudge or knock something else down and you've got a powerhouse. ~~If only there weren't TWO OTHER MACHINE GUNS THAT ARE EQUALLY AS GOOD.~~ Aggressive Frame, so slightly better TtK but more headshot requirements." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=2334480463&perks=1359896290,1482024992,2213355989,3142289711
+dimwishlist:item=2334480463&perks=1359896290,1482024992,3142289711,557221067
+dimwishlist:item=2334480463&perks=1482024992,2213355989,3142289711,3824105627
+dimwishlist:item=2334480463&perks=1482024992,3142289711,3824105627,557221067
+dimwishlist:item=2334480463&perks=1482024992,2048641572,2213355989,3142289711
+dimwishlist:item=2334480463&perks=1482024992,2048641572,3142289711,557221067
+dimwishlist:item=2334480463&perks=1359896290,2213355989,3142289711,3250034553
+dimwishlist:item=2334480463&perks=1359896290,3142289711,3250034553,557221067
+dimwishlist:item=2334480463&perks=2213355989,3142289711,3250034553,3824105627
+dimwishlist:item=2334480463&perks=3142289711,3250034553,3824105627,557221067
+dimwishlist:item=2334480463&perks=2048641572,2213355989,3142289711,3250034553
+dimwishlist:item=2334480463&perks=2048641572,3142289711,3250034553,557221067
+
+// Redrix's Estoc
+//notes:pandapaxxy (PvP / Controller): "Where Redrix's Estoc really gets to shine is of course in PvP. Lone Wolf, Zen Moment, and Rapid Hit all bump up the already high feel and stats for this weapon. And you can even delete a guardian in 5c1b with Sword Logic after a kill. Without stocks the pulse is already in a league of its own." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=3218364298&perks=2387244414,31345821,3142289711,3250034553
+dimwishlist:item=3218364298&perks=2387244414,3142289711,3250034553,460017080
+dimwishlist:item=3218364298&perks=2579169598,31345821,3142289711,3250034553
+dimwishlist:item=3218364298&perks=2579169598,3142289711,3250034553,460017080
+dimwishlist:item=3218364298&perks=31345821,3142289711,3250034553,3523296417
+dimwishlist:item=3218364298&perks=3142289711,3250034553,3523296417,460017080
+
+// Resounding
+//notes:pandapaxxy (PvP / M+KB / Controller): "There's nothing too good for PvP in either column, which is super weird for Bungie’s ritual philosophy. Cornered puts you in a bad position and Hatchling only does significant damage with a fragment." Recommended MW: Reload Speed.|tags:pvp,mkb,controller
+dimwishlist:item=1824586582&perks=1482024992,1820235745,3868766766,831391274
+dimwishlist:item=1824586582&perks=1427256713,1482024992,1820235745,3868766766
+dimwishlist:item=1824586582&perks=1482024992,1799762209,3868766766,831391274
+dimwishlist:item=1824586582&perks=1427256713,1482024992,1799762209,3868766766
+
+// Backfang
+//notes:pandapaxxy (PvP / M+KB / Controller): "Glaives are not meta in PvP. Rapid-fire glaives even less so. Impulse Amplifier will help make sure your precious shots hit and Unstoppable Force will make those shots do more damage. If you fully invest into blocking you could go for Tilting at Windmills or Replenishing Aegis. Close to Melee also works phenomenally if you can secure the kill with the glaive. But as always with these weapons, they're not for the faint of heart." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=267672635&perks=1934171651,2109543898,3721627275,951095735
+dimwishlist:item=267672635&perks=1934171651,2109543898,679225683,951095735
+dimwishlist:item=267672635&perks=2109543898,3721627275,580685494,951095735
+dimwishlist:item=267672635&perks=2109543898,580685494,679225683,951095735
+
+// Joxer's Longsword
+//notes:pandapaxxy (PvP / Controller): "Heavy burst pulses haven't been ultra meta outside of a few specific player's hands. Lone Wolf is an easy pick for boosting stats passively and doubling when alone. Headseeker provides some forgiveness if you miss and Gutshot Straight boosts just the body shot damage, pushing total damage even further." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=157601190&perks=1482024992,1885400500,2387244414,2579169598
+dimwishlist:item=157601190&perks=1482024992,1885400500,2579169598,460017080
+dimwishlist:item=157601190&perks=1482024992,1885400500,2109543898,2579169598
+dimwishlist:item=157601190&perks=1365187766,1482024992,1885400500,2387244414
+dimwishlist:item=157601190&perks=1365187766,1482024992,1885400500,460017080
+dimwishlist:item=157601190&perks=1365187766,1482024992,1885400500,2109543898
+dimwishlist:item=157601190&perks=1482024992,1885400500,2387244414,3828510309
+dimwishlist:item=157601190&perks=1482024992,1885400500,3828510309,460017080
+dimwishlist:item=157601190&perks=1482024992,1885400500,2109543898,3828510309
+dimwishlist:item=157601190&perks=1482024992,1561002382,2387244414,2579169598
+dimwishlist:item=157601190&perks=1482024992,1561002382,2579169598,460017080
+dimwishlist:item=157601190&perks=1482024992,1561002382,2109543898,2579169598
+dimwishlist:item=157601190&perks=1365187766,1482024992,1561002382,2387244414
+dimwishlist:item=157601190&perks=1365187766,1482024992,1561002382,460017080
+dimwishlist:item=157601190&perks=1365187766,1482024992,1561002382,2109543898
+dimwishlist:item=157601190&perks=1482024992,1561002382,2387244414,3828510309
+dimwishlist:item=157601190&perks=1482024992,1561002382,3828510309,460017080
+dimwishlist:item=157601190&perks=1482024992,1561002382,2109543898,3828510309
+
+// Boondoggle Mk. 55
+//notes:pandapaxxy (PvP / Controller): "Aggressive frame submachine guns shine brighter in PvP where their lower stability stats can usually be bumped with perks that supplement instead of fighting for damage perks. To the Pain increases your aim assist while you're fighting, whereas Closing Time only assists as your magazine gets lower. Hip-Fire Grip is also another option if you run-and-gun a lot. Tap the Trigger is gonna be the best for keeping accuracy as the stability is already pretty low to begin with." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=32287609&perks=1482024992,1885400500,1890422124,3938834702
+dimwishlist:item=32287609&perks=1482024992,1885400500,3673922083,3938834702
+dimwishlist:item=32287609&perks=1482024992,1885400500,2416023159,3938834702
+dimwishlist:item=32287609&perks=1194056669,1482024992,1885400500,1890422124
+dimwishlist:item=32287609&perks=1194056669,1482024992,1885400500,3673922083
+dimwishlist:item=32287609&perks=1194056669,1482024992,1885400500,2416023159
+dimwishlist:item=32287609&perks=1482024992,1866048759,1885400500,1890422124
+dimwishlist:item=32287609&perks=1482024992,1866048759,1885400500,3673922083
+dimwishlist:item=32287609&perks=1482024992,1866048759,1885400500,2416023159
+dimwishlist:item=32287609&perks=1482024992,1561002382,1890422124,3938834702
+dimwishlist:item=32287609&perks=1482024992,1561002382,3673922083,3938834702
+dimwishlist:item=32287609&perks=1482024992,1561002382,2416023159,3938834702
+dimwishlist:item=32287609&perks=1194056669,1482024992,1561002382,1890422124
+dimwishlist:item=32287609&perks=1194056669,1482024992,1561002382,3673922083
+dimwishlist:item=32287609&perks=1194056669,1482024992,1561002382,2416023159
+dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,1890422124
+dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,3673922083
+dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,2416023159
+
 // Glacioclasm
 //notes: Panda (PvP / Controller): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1183116657&perks=1194056669,1482024992,2579169598,2969185026
