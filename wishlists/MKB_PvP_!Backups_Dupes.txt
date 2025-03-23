@@ -22,6 +22,11 @@ dimwishlist:item=2595813005&perks=1015611457,1840239774,2579169598,3142289711
 dimwishlist:item=2595813005&perks=1840239774,2579169598,3038247973,3142289711
 dimwishlist:item=2595813005&perks=1840239774,2319119708,2579169598,3142289711
 
+// Hullabaloo
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I don't think many people will use the wave frame over a traditional GL in PvP, those same few will almost always catch someone off guard. I can count on one hand how many times I've died to a heavy wave frame GL in PvP and all 5 of those times were during Guardian Games. Impulse Amplifier will help keep the trajectory linear instead of arcing, and Golden Tricorn will just give you extra damage for if you're not quite as accurate on the second shot." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=2666273249&perks=2610012052,2822142346,3523296417,3525010810
+dimwishlist:item=2666273249&perks=1441682018,2610012052,2822142346,3523296417
+
 // Adamantite
 //notes:pandapaxxy (PvP / M+KB): "Support frame auto rifles have not been the strongest in PvP but have small niche scenarios when in a full fireteam. Demolitionist or Pugilist will depend on your build but I generally find grenades stronger than powered melees. Kill Clip is really the only option in the final column as it provides enough of a boost after a kill to offset the slight hit registration delay and get you the second+ kill." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=2987244302&perks=1015611457,3142289711,3250034553,3523296417
@@ -261,10 +266,22 @@ dimwishlist:item=1824586582&perks=1427256713,1482024992,1799762209,3868766766
 
 // Backfang
 //notes:pandapaxxy (PvP / M+KB / Controller): "Glaives are not meta in PvP. Rapid-fire glaives even less so. Impulse Amplifier will help make sure your precious shots hit and Unstoppable Force will make those shots do more damage. If you fully invest into blocking you could go for Tilting at Windmills or Replenishing Aegis. Close to Melee also works phenomenally if you can secure the kill with the glaive. But as always with these weapons, they're not for the faint of heart." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=267672635&perks=1934171651,2224838837,3142289711,951095735
+dimwishlist:item=267672635&perks=1782407750,1934171651,3142289711,951095735
+dimwishlist:item=267672635&perks=1934171651,1966281507,2224838837,3142289711
 dimwishlist:item=267672635&perks=1934171651,2109543898,3721627275,951095735
+dimwishlist:item=267672635&perks=1934171651,2224838837,679225683,951095735
+dimwishlist:item=267672635&perks=1782407750,1934171651,679225683,951095735
 dimwishlist:item=267672635&perks=1934171651,2109543898,679225683,951095735
+dimwishlist:item=267672635&perks=1934171651,1966281507,2224838837,679225683
+dimwishlist:item=267672635&perks=2224838837,3142289711,580685494,951095735
+dimwishlist:item=267672635&perks=1782407750,3142289711,580685494,951095735
+dimwishlist:item=267672635&perks=1966281507,2224838837,3142289711,580685494
 dimwishlist:item=267672635&perks=2109543898,3721627275,580685494,951095735
+dimwishlist:item=267672635&perks=2224838837,580685494,679225683,951095735
+dimwishlist:item=267672635&perks=1782407750,580685494,679225683,951095735
 dimwishlist:item=267672635&perks=2109543898,580685494,679225683,951095735
+dimwishlist:item=267672635&perks=1966281507,2224838837,580685494,679225683
 
 // Joxer's Longsword
 //notes:pandapaxxy (PvP / M+KB): "Heavy burst pulses haven't been ultra meta outside of a few specific player's hands. Lone Wolf is an easy pick for boosting stats passively and doubling when alone. Headseeker provides some forgiveness if you miss and Gutshot Straight boosts just the body shot damage, pushing total damage even further." Recommended MW: Range.|tags:pvp,mkb
