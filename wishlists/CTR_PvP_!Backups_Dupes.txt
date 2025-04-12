@@ -329,6 +329,17 @@ dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,1890422124
 dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,3673922083
 dimwishlist:item=32287609&perks=1482024992,1561002382,1866048759,2416023159
 
+// Admetus-D
+//notes:pandapaxxy (PvP / M+KB / Controller): "When it comes to PvP these scouts need all the help they can get. And Withering Gaze is just that. An extra effect that anyone on your team can take advantage of. Outside of that, Lone Wolf and Keep Away both help boost your lower stats." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3776430252&perks=1134488199,1885400500,247725512,839105230
+dimwishlist:item=3776430252&perks=1134488199,1885400500,3619207468,839105230
+dimwishlist:item=3776430252&perks=1134488199,1561002382,247725512,839105230
+dimwishlist:item=3776430252&perks=1134488199,1561002382,3619207468,839105230
+dimwishlist:item=3776430252&perks=1134488199,1840239774,1885400500,247725512
+dimwishlist:item=3776430252&perks=1134488199,1840239774,1885400500,3619207468
+dimwishlist:item=3776430252&perks=1134488199,1561002382,1840239774,247725512
+dimwishlist:item=3776430252&perks=1134488199,1561002382,1840239774,3619207468
+
 // Glacioclasm
 //notes: Panda (PvP / Controller): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1183116657&perks=1194056669,1482024992,2579169598,2969185026
