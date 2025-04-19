@@ -1,6 +1,486 @@
 title:CTR !Backups Perks - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Afterlight
+//notes:pandapaxxy (PvE / M+KB / Controller): "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds *with* Reservoir Burst would have been fun. But they're in the same column." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=1834313033&perks=1427256713,1631667848
+dimwishlist:item=1834313033&perks=1631667848,2048641572
+dimwishlist:item=1834313033&perks=1631667848,1799762209
+dimwishlist:item=1834313033&perks=1427256713,1556840489
+dimwishlist:item=1834313033&perks=1556840489,2048641572
+dimwishlist:item=1834313033&perks=1556840489,1799762209
+dimwishlist:item=1834313033&perks=1427256713,3978468247
+dimwishlist:item=1834313033&perks=2048641572,3978468247
+dimwishlist:item=1834313033&perks=1799762209,3978468247
+
+// Afterlight
+//notes:pandapaxxy (PvE / M+KB / Controller): "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds *with* Reservoir Burst would have been fun. But they're in the same column." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=3228630258&perks=1427256713,1631667848
+dimwishlist:item=3228630258&perks=1631667848,2048641572
+dimwishlist:item=3228630258&perks=1631667848,1799762209
+dimwishlist:item=3228630258&perks=1427256713,1556840489
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+dimwishlist:item=3228630258&perks=1556840489,1799762209
+dimwishlist:item=3228630258&perks=1427256713,3978468247
+dimwishlist:item=3228630258&perks=2048641572,3978468247
+dimwishlist:item=3228630258&perks=1799762209,3978468247
+
+// Afterlight (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds *with* Reservoir Burst would have been fun. But they're in the same column." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=3953163559&perks=1427256713,1631667848
+dimwishlist:item=3953163559&perks=1631667848,2048641572
+dimwishlist:item=3953163559&perks=1631667848,1799762209
+dimwishlist:item=3953163559&perks=1427256713,1556840489
+dimwishlist:item=3953163559&perks=1556840489,2048641572
+dimwishlist:item=3953163559&perks=1556840489,1799762209
+dimwishlist:item=3953163559&perks=1427256713,3978468247
+dimwishlist:item=3953163559&perks=2048641572,3978468247
+dimwishlist:item=3953163559&perks=1799762209,3978468247
+
+// Afterlight (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds *with* Reservoir Burst would have been fun. But they're in the same column." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=861521336&perks=1427256713,1631667848
+dimwishlist:item=861521336&perks=1631667848,2048641572
+dimwishlist:item=861521336&perks=1631667848,1799762209
+dimwishlist:item=861521336&perks=1427256713,1556840489
+dimwishlist:item=861521336&perks=1556840489,2048641572
+dimwishlist:item=861521336&perks=1556840489,1799762209
+dimwishlist:item=861521336&perks=1427256713,3978468247
+dimwishlist:item=861521336&perks=2048641572,3978468247
+dimwishlist:item=861521336&perks=1799762209,3978468247
+
+// Afterlight
+//notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill." Recommended MW: Range or Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=1834313033&perks=1645158859,3673922083
+dimwishlist:item=1834313033&perks=1645158859,2652708987
+dimwishlist:item=1834313033&perks=1645158859,4082225868
+dimwishlist:item=1834313033&perks=2416023159,3673922083
+dimwishlist:item=1834313033&perks=2416023159,2652708987
+dimwishlist:item=1834313033&perks=2416023159,4082225868
+dimwishlist:item=1834313033&perks=3673922083,691659142
+dimwishlist:item=1834313033&perks=2652708987,691659142
+dimwishlist:item=1834313033&perks=4082225868,691659142
+
+// Afterlight
+//notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill." Recommended MW: Range or Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3228630258&perks=1645158859,3673922083
+dimwishlist:item=3228630258&perks=1645158859,2652708987
+dimwishlist:item=3228630258&perks=1645158859,4082225868
+dimwishlist:item=3228630258&perks=2416023159,3673922083
+dimwishlist:item=3228630258&perks=2416023159,2652708987
+dimwishlist:item=3228630258&perks=2416023159,4082225868
+dimwishlist:item=3228630258&perks=3673922083,691659142
+dimwishlist:item=3228630258&perks=2652708987,691659142
+dimwishlist:item=3228630258&perks=4082225868,691659142
+
+// Afterlight (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill." Recommended MW: Range or Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3953163559&perks=1645158859,3673922083
+dimwishlist:item=3953163559&perks=1645158859,2652708987
+dimwishlist:item=3953163559&perks=1645158859,4082225868
+dimwishlist:item=3953163559&perks=2416023159,3673922083
+dimwishlist:item=3953163559&perks=2416023159,2652708987
+dimwishlist:item=3953163559&perks=2416023159,4082225868
+dimwishlist:item=3953163559&perks=3673922083,691659142
+dimwishlist:item=3953163559&perks=2652708987,691659142
+dimwishlist:item=3953163559&perks=4082225868,691659142
+
+// Afterlight (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill." Recommended MW: Range or Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=861521336&perks=1645158859,3673922083
+dimwishlist:item=861521336&perks=1645158859,2652708987
+dimwishlist:item=861521336&perks=1645158859,4082225868
+dimwishlist:item=861521336&perks=2416023159,3673922083
+dimwishlist:item=861521336&perks=2416023159,2652708987
+dimwishlist:item=861521336&perks=2416023159,4082225868
+dimwishlist:item=861521336&perks=3673922083,691659142
+dimwishlist:item=861521336&perks=2652708987,691659142
+dimwishlist:item=861521336&perks=4082225868,691659142
+
+// Anamnesis
+//notes:pandapaxxy (PvE / M+KB / Controller): "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!" Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=3417731926&perks=201365942,2048641572
+dimwishlist:item=3417731926&perks=1464081238,201365942
+dimwishlist:item=3417731926&perks=201365942,31345821
+dimwishlist:item=3417731926&perks=2048641572,2848615171
+dimwishlist:item=3417731926&perks=1464081238,2848615171
+dimwishlist:item=3417731926&perks=2848615171,31345821
+dimwishlist:item=3417731926&perks=2048641572,776531651
+dimwishlist:item=3417731926&perks=1464081238,776531651
+dimwishlist:item=3417731926&perks=31345821,776531651
+
+// Anamnesis
+//notes:pandapaxxy (PvE / M+KB / Controller): "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!" Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=2291392465&perks=201365942,2048641572
+dimwishlist:item=2291392465&perks=1464081238,201365942
+dimwishlist:item=2291392465&perks=201365942,31345821
+dimwishlist:item=2291392465&perks=2048641572,2848615171
+dimwishlist:item=2291392465&perks=1464081238,2848615171
+dimwishlist:item=2291392465&perks=2848615171,31345821
+dimwishlist:item=2291392465&perks=2048641572,776531651
+dimwishlist:item=2291392465&perks=1464081238,776531651
+dimwishlist:item=2291392465&perks=31345821,776531651
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!" Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=3949253499&perks=201365942,2048641572
+dimwishlist:item=3949253499&perks=1464081238,201365942
+dimwishlist:item=3949253499&perks=201365942,31345821
+dimwishlist:item=3949253499&perks=2048641572,2848615171
+dimwishlist:item=3949253499&perks=1464081238,2848615171
+dimwishlist:item=3949253499&perks=2848615171,31345821
+dimwishlist:item=3949253499&perks=2048641572,776531651
+dimwishlist:item=3949253499&perks=1464081238,776531651
+dimwishlist:item=3949253499&perks=31345821,776531651
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!" Recommended MW: Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=1536325168&perks=201365942,2048641572
+dimwishlist:item=1536325168&perks=1464081238,201365942
+dimwishlist:item=1536325168&perks=201365942,31345821
+dimwishlist:item=1536325168&perks=2048641572,2848615171
+dimwishlist:item=1536325168&perks=1464081238,2848615171
+dimwishlist:item=1536325168&perks=2848615171,31345821
+dimwishlist:item=1536325168&perks=2048641572,776531651
+dimwishlist:item=1536325168&perks=1464081238,776531651
+dimwishlist:item=1536325168&perks=31345821,776531651
+
+// Anamnesis
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=3417731926&perks=201365942,951095735
+dimwishlist:item=3417731926&perks=201365942,31345821
+dimwishlist:item=3417731926&perks=201365942,3365897133
+dimwishlist:item=3417731926&perks=1866048759,951095735
+dimwishlist:item=3417731926&perks=1866048759,31345821
+dimwishlist:item=3417731926&perks=1866048759,3365897133
+dimwishlist:item=3417731926&perks=3938834702,951095735
+dimwishlist:item=3417731926&perks=31345821,3938834702
+dimwishlist:item=3417731926&perks=3365897133,3938834702
+
+// Anamnesis
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2291392465&perks=201365942,951095735
+dimwishlist:item=2291392465&perks=201365942,31345821
+dimwishlist:item=2291392465&perks=201365942,3365897133
+dimwishlist:item=2291392465&perks=1866048759,951095735
+dimwishlist:item=2291392465&perks=1866048759,31345821
+dimwishlist:item=2291392465&perks=1866048759,3365897133
+dimwishlist:item=2291392465&perks=3938834702,951095735
+dimwishlist:item=2291392465&perks=31345821,3938834702
+dimwishlist:item=2291392465&perks=3365897133,3938834702
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=3949253499&perks=201365942,951095735
+dimwishlist:item=3949253499&perks=201365942,31345821
+dimwishlist:item=3949253499&perks=201365942,3365897133
+dimwishlist:item=3949253499&perks=1866048759,951095735
+dimwishlist:item=3949253499&perks=1866048759,31345821
+dimwishlist:item=3949253499&perks=1866048759,3365897133
+dimwishlist:item=3949253499&perks=3938834702,951095735
+dimwishlist:item=3949253499&perks=31345821,3938834702
+dimwishlist:item=3949253499&perks=3365897133,3938834702
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=1536325168&perks=201365942,951095735
+dimwishlist:item=1536325168&perks=201365942,31345821
+dimwishlist:item=1536325168&perks=201365942,3365897133
+dimwishlist:item=1536325168&perks=1866048759,951095735
+dimwishlist:item=1536325168&perks=1866048759,31345821
+dimwishlist:item=1536325168&perks=1866048759,3365897133
+dimwishlist:item=1536325168&perks=3938834702,951095735
+dimwishlist:item=1536325168&perks=31345821,3938834702
+dimwishlist:item=1536325168&perks=3365897133,3938834702
+
+// Division
+//notes:pandapaxxy (PvE / M+KB / Controller): "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm." Recommended MW: Range.|tags:pve,mkb,controller
+dimwishlist:item=2992463569&perks=2173046394,684456054
+dimwishlist:item=2992463569&perks=31345821,684456054
+dimwishlist:item=2992463569&perks=3708227201,684456054
+dimwishlist:item=2992463569&perks=2173046394,691659142
+dimwishlist:item=2992463569&perks=31345821,691659142
+dimwishlist:item=2992463569&perks=3708227201,691659142
+dimwishlist:item=2992463569&perks=1631667848,2173046394
+dimwishlist:item=2992463569&perks=1631667848,31345821
+dimwishlist:item=2992463569&perks=1631667848,3708227201
+
+// Division
+//notes:pandapaxxy (PvE / M+KB / Controller): "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm." Recommended MW: Range.|tags:pve,mkb,controller
+dimwishlist:item=2903168058&perks=2173046394,684456054
+dimwishlist:item=2903168058&perks=31345821,684456054
+dimwishlist:item=2903168058&perks=3708227201,684456054
+dimwishlist:item=2903168058&perks=2173046394,691659142
+dimwishlist:item=2903168058&perks=31345821,691659142
+dimwishlist:item=2903168058&perks=3708227201,691659142
+dimwishlist:item=2903168058&perks=1631667848,2173046394
+dimwishlist:item=2903168058&perks=1631667848,31345821
+dimwishlist:item=2903168058&perks=1631667848,3708227201
+
+// Division (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm." Recommended MW: Range.|tags:pve,mkb,controller
+dimwishlist:item=2501377328&perks=2173046394,684456054
+dimwishlist:item=2501377328&perks=31345821,684456054
+dimwishlist:item=2501377328&perks=3708227201,684456054
+dimwishlist:item=2501377328&perks=2173046394,691659142
+dimwishlist:item=2501377328&perks=31345821,691659142
+dimwishlist:item=2501377328&perks=3708227201,691659142
+dimwishlist:item=2501377328&perks=1631667848,2173046394
+dimwishlist:item=2501377328&perks=1631667848,31345821
+dimwishlist:item=2501377328&perks=1631667848,3708227201
+
+// Division (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm." Recommended MW: Range.|tags:pve,mkb,controller
+dimwishlist:item=3734001727&perks=2173046394,684456054
+dimwishlist:item=3734001727&perks=31345821,684456054
+dimwishlist:item=3734001727&perks=3708227201,684456054
+dimwishlist:item=3734001727&perks=2173046394,691659142
+dimwishlist:item=3734001727&perks=31345821,691659142
+dimwishlist:item=3734001727&perks=3708227201,691659142
+dimwishlist:item=3734001727&perks=1631667848,2173046394
+dimwishlist:item=3734001727&perks=1631667848,31345821
+dimwishlist:item=3734001727&perks=1631667848,3708227201
+
+// Division
+//notes:pandapaxxy (PvP / M+KB / Controller): "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2992463569&perks=1015611457,3938834702
+dimwishlist:item=2992463569&perks=31345821,3938834702
+dimwishlist:item=2992463569&perks=2416023159,3938834702
+dimwishlist:item=2992463569&perks=1015611457,1866048759
+dimwishlist:item=2992463569&perks=1866048759,31345821
+dimwishlist:item=2992463569&perks=1866048759,2416023159
+dimwishlist:item=2992463569&perks=1015611457,1195158366
+dimwishlist:item=2992463569&perks=1195158366,31345821
+dimwishlist:item=2992463569&perks=1195158366,2416023159
+
+// Division
+//notes:pandapaxxy (PvP / M+KB / Controller): "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2903168058&perks=1015611457,3938834702
+dimwishlist:item=2903168058&perks=31345821,3938834702
+dimwishlist:item=2903168058&perks=2416023159,3938834702
+dimwishlist:item=2903168058&perks=1015611457,1866048759
+dimwishlist:item=2903168058&perks=1866048759,31345821
+dimwishlist:item=2903168058&perks=1866048759,2416023159
+dimwishlist:item=2903168058&perks=1015611457,1195158366
+dimwishlist:item=2903168058&perks=1195158366,31345821
+dimwishlist:item=2903168058&perks=1195158366,2416023159
+
+// Division (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2501377328&perks=1015611457,3938834702
+dimwishlist:item=2501377328&perks=31345821,3938834702
+dimwishlist:item=2501377328&perks=2416023159,3938834702
+dimwishlist:item=2501377328&perks=1015611457,1866048759
+dimwishlist:item=2501377328&perks=1866048759,31345821
+dimwishlist:item=2501377328&perks=1866048759,2416023159
+dimwishlist:item=2501377328&perks=1015611457,1195158366
+dimwishlist:item=2501377328&perks=1195158366,31345821
+dimwishlist:item=2501377328&perks=1195158366,2416023159
+
+// Division (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3734001727&perks=1015611457,3938834702
+dimwishlist:item=3734001727&perks=31345821,3938834702
+dimwishlist:item=3734001727&perks=2416023159,3938834702
+dimwishlist:item=3734001727&perks=1015611457,1866048759
+dimwishlist:item=3734001727&perks=1866048759,31345821
+dimwishlist:item=3734001727&perks=1866048759,2416023159
+dimwishlist:item=3734001727&perks=1015611457,1195158366
+dimwishlist:item=3734001727&perks=1195158366,31345821
+dimwishlist:item=3734001727&perks=1195158366,2416023159
+
+// Mirror Imago
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3877448149&perks=1820235745,831391274
+dimwishlist:item=3877448149&perks=1820235745,365154968
+dimwishlist:item=3877448149&perks=1820235745,31345821
+dimwishlist:item=3877448149&perks=1631667848,831391274
+dimwishlist:item=3877448149&perks=1631667848,365154968
+dimwishlist:item=3877448149&perks=1631667848,31345821
+dimwishlist:item=3877448149&perks=3643424744,831391274
+dimwishlist:item=3877448149&perks=3643424744,365154968
+dimwishlist:item=3877448149&perks=31345821,3643424744
+
+// Mirror Imago
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3234363830&perks=1820235745,831391274
+dimwishlist:item=3234363830&perks=1820235745,365154968
+dimwishlist:item=3234363830&perks=1820235745,31345821
+dimwishlist:item=3234363830&perks=1631667848,831391274
+dimwishlist:item=3234363830&perks=1631667848,365154968
+dimwishlist:item=3234363830&perks=1631667848,31345821
+dimwishlist:item=3234363830&perks=3643424744,831391274
+dimwishlist:item=3234363830&perks=3643424744,365154968
+dimwishlist:item=3234363830&perks=31345821,3643424744
+
+// Mirror Imago (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4116546788&perks=1820235745,831391274
+dimwishlist:item=4116546788&perks=1820235745,365154968
+dimwishlist:item=4116546788&perks=1820235745,31345821
+dimwishlist:item=4116546788&perks=1631667848,831391274
+dimwishlist:item=4116546788&perks=1631667848,365154968
+dimwishlist:item=4116546788&perks=1631667848,31345821
+dimwishlist:item=4116546788&perks=3643424744,831391274
+dimwishlist:item=4116546788&perks=3643424744,365154968
+dimwishlist:item=4116546788&perks=31345821,3643424744
+
+// Mirror Imago (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses." Recommended MW: Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=302039451&perks=1820235745,831391274
+dimwishlist:item=302039451&perks=1820235745,365154968
+dimwishlist:item=302039451&perks=1820235745,31345821
+dimwishlist:item=302039451&perks=1631667848,831391274
+dimwishlist:item=302039451&perks=1631667848,365154968
+dimwishlist:item=302039451&perks=1631667848,31345821
+dimwishlist:item=302039451&perks=3643424744,831391274
+dimwishlist:item=302039451&perks=3643424744,365154968
+dimwishlist:item=302039451&perks=31345821,3643424744
+
+// Mirror Imago
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3877448149&perks=31345821,3938834702
+dimwishlist:item=3877448149&perks=2416023159,3938834702
+dimwishlist:item=3877448149&perks=3108830275,3938834702
+dimwishlist:item=3877448149&perks=31345821,588594999
+dimwishlist:item=3877448149&perks=2416023159,588594999
+dimwishlist:item=3877448149&perks=3108830275,588594999
+dimwishlist:item=3877448149&perks=31345821,3643424744
+dimwishlist:item=3877448149&perks=2416023159,3643424744
+dimwishlist:item=3877448149&perks=3108830275,3643424744
+
+// Mirror Imago
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3234363830&perks=31345821,3938834702
+dimwishlist:item=3234363830&perks=2416023159,3938834702
+dimwishlist:item=3234363830&perks=3108830275,3938834702
+dimwishlist:item=3234363830&perks=31345821,588594999
+dimwishlist:item=3234363830&perks=2416023159,588594999
+dimwishlist:item=3234363830&perks=3108830275,588594999
+dimwishlist:item=3234363830&perks=31345821,3643424744
+dimwishlist:item=3234363830&perks=2416023159,3643424744
+dimwishlist:item=3234363830&perks=3108830275,3643424744
+
+// Mirror Imago (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=4116546788&perks=31345821,3938834702
+dimwishlist:item=4116546788&perks=2416023159,3938834702
+dimwishlist:item=4116546788&perks=3108830275,3938834702
+dimwishlist:item=4116546788&perks=31345821,588594999
+dimwishlist:item=4116546788&perks=2416023159,588594999
+dimwishlist:item=4116546788&perks=3108830275,588594999
+dimwishlist:item=4116546788&perks=31345821,3643424744
+dimwishlist:item=4116546788&perks=2416023159,3643424744
+dimwishlist:item=4116546788&perks=3108830275,3643424744
+
+// Mirror Imago (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=302039451&perks=31345821,3938834702
+dimwishlist:item=302039451&perks=2416023159,3938834702
+dimwishlist:item=302039451&perks=3108830275,3938834702
+dimwishlist:item=302039451&perks=31345821,588594999
+dimwishlist:item=302039451&perks=2416023159,588594999
+dimwishlist:item=302039451&perks=3108830275,588594999
+dimwishlist:item=302039451&perks=31345821,3643424744
+dimwishlist:item=302039451&perks=2416023159,3643424744
+dimwishlist:item=302039451&perks=3108830275,3643424744
+
+// Refusal of the Call
+//notes:pandapaxxy (PvE / M+KB / Controller): "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=2671849376&perks=31345821,951095735
+dimwishlist:item=2671849376&perks=1683379515,951095735
+dimwishlist:item=2671849376&perks=2224838837,951095735
+dimwishlist:item=2671849376&perks=31345821,923806249
+dimwishlist:item=2671849376&perks=1683379515,923806249
+dimwishlist:item=2671849376&perks=2224838837,923806249
+dimwishlist:item=2671849376&perks=31345821,3978468247
+dimwishlist:item=2671849376&perks=1683379515,3978468247
+dimwishlist:item=2671849376&perks=2224838837,3978468247
+
+// Refusal of the Call
+//notes:pandapaxxy (PvE / M+KB / Controller): "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=3269398063&perks=31345821,951095735
+dimwishlist:item=3269398063&perks=1683379515,951095735
+dimwishlist:item=3269398063&perks=2224838837,951095735
+dimwishlist:item=3269398063&perks=31345821,923806249
+dimwishlist:item=3269398063&perks=1683379515,923806249
+dimwishlist:item=3269398063&perks=2224838837,923806249
+dimwishlist:item=3269398063&perks=31345821,3978468247
+dimwishlist:item=3269398063&perks=1683379515,3978468247
+dimwishlist:item=3269398063&perks=2224838837,3978468247
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=2755584425&perks=31345821,951095735
+dimwishlist:item=2755584425&perks=1683379515,951095735
+dimwishlist:item=2755584425&perks=2224838837,951095735
+dimwishlist:item=2755584425&perks=31345821,923806249
+dimwishlist:item=2755584425&perks=1683379515,923806249
+dimwishlist:item=2755584425&perks=2224838837,923806249
+dimwishlist:item=2755584425&perks=31345821,3978468247
+dimwishlist:item=2755584425&perks=1683379515,3978468247
+dimwishlist:item=2755584425&perks=2224838837,3978468247
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvE / M+KB / Controller): "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=25228802&perks=31345821,951095735
+dimwishlist:item=25228802&perks=1683379515,951095735
+dimwishlist:item=25228802&perks=2224838837,951095735
+dimwishlist:item=25228802&perks=31345821,923806249
+dimwishlist:item=25228802&perks=1683379515,923806249
+dimwishlist:item=25228802&perks=2224838837,923806249
+dimwishlist:item=25228802&perks=31345821,3978468247
+dimwishlist:item=25228802&perks=1683379515,3978468247
+dimwishlist:item=25228802&perks=2224838837,3978468247
+
+// Refusal of the Call
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=2671849376&perks=31345821,951095735
+dimwishlist:item=2671849376&perks=2224838837,951095735
+dimwishlist:item=2671849376&perks=3773585912,951095735
+dimwishlist:item=2671849376&perks=31345821,923806249
+dimwishlist:item=2671849376&perks=2224838837,923806249
+dimwishlist:item=2671849376&perks=3773585912,923806249
+dimwishlist:item=2671849376&perks=31345821,3526486541
+dimwishlist:item=2671849376&perks=2224838837,3526486541
+dimwishlist:item=2671849376&perks=3526486541,3773585912
+
+// Refusal of the Call
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=3269398063&perks=31345821,951095735
+dimwishlist:item=3269398063&perks=2224838837,951095735
+dimwishlist:item=3269398063&perks=3773585912,951095735
+dimwishlist:item=3269398063&perks=31345821,923806249
+dimwishlist:item=3269398063&perks=2224838837,923806249
+dimwishlist:item=3269398063&perks=3773585912,923806249
+dimwishlist:item=3269398063&perks=31345821,3526486541
+dimwishlist:item=3269398063&perks=2224838837,3526486541
+dimwishlist:item=3269398063&perks=3526486541,3773585912
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=2755584425&perks=31345821,951095735
+dimwishlist:item=2755584425&perks=2224838837,951095735
+dimwishlist:item=2755584425&perks=3773585912,951095735
+dimwishlist:item=2755584425&perks=31345821,923806249
+dimwishlist:item=2755584425&perks=2224838837,923806249
+dimwishlist:item=2755584425&perks=3773585912,923806249
+dimwishlist:item=2755584425&perks=31345821,3526486541
+dimwishlist:item=2755584425&perks=2224838837,3526486541
+dimwishlist:item=2755584425&perks=3526486541,3773585912
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=25228802&perks=31345821,951095735
+dimwishlist:item=25228802&perks=2224838837,951095735
+dimwishlist:item=25228802&perks=3773585912,951095735
+dimwishlist:item=25228802&perks=31345821,923806249
+dimwishlist:item=25228802&perks=2224838837,923806249
+dimwishlist:item=25228802&perks=3773585912,923806249
+dimwishlist:item=25228802&perks=31345821,3526486541
+dimwishlist:item=25228802&perks=2224838837,3526486541
+dimwishlist:item=25228802&perks=3526486541,3773585912
+
 // Admetus-D - PvE Majors god 1
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling), (Armor-Piercing Rounds), (Repulsor Brace), (Withering Gaze) 
 //notes:Inspired by @PodvsEnemies episode 136 from 1 April 2025 (https://open.spotify.com/episode/6I828LxsIqdth4iIlSYRmG?si=8022df8ede664223) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-MajorSpec PvE-Champion PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for piercing Barrier Champions in both general at-level or better, and end-game underleveled content, particularly with void builds. Admetus-D is a rare energy Häkke weapon - a void scout rifle with the High-Impact frame intrinsic of ×0.8 accuracy cone size and ×0.83 accuracy cone growth when you're stationary or moving less than 2.8m/s, for easier crits and hits. At base, by comparison with its peers, the stats are good - 65 Range equates to 80.88m ADS and 40.44m hipfire before damage dropoff, 29 Stability is ×1.1202 flinch resist at 100 Resilience, 30 Handling is 0.45s ready, 0.36s ADS and 0.44s stow speed, 35 Reload Speed is a 2.27s reload, Recoil Direction is 76, Zoom is 21, and magazine size is 14 (max 20). Handling is the stat that needs the most TLC, so that's the top choice for the barrel perks. Then, for a stick-it-in-your-vault for when the artifact mod is around, the combination of Armor-Piercing Rounds for ×1.05 damage to shields and barriers, together with Repulsor Brace for a void overshield for killing void debuffed targets and Withering Gaze to apply 15% weaken for an effective ×1.176 damage boost for 6s for your whole fireteam should make short work of Barrier Champions. If you're interested, Admetus means "untamed" and was the king of Pherae in Thessaly, Ancient Greece, who was saved by Apollo from his fated death when his wife Alcestis offered to die in his place. The Häkke Breach Armaments origin trait is situationally useful, passively boosting damage against vehicles (×1.15), constructs (×1.3) and stasis crystals (×1.45). Recommended MW: Reload Speed or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-MajorSpec PvE-Champion PvE-God PvE-EndGame M+KB Controller

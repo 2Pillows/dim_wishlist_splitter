@@ -1,6 +1,140 @@
 title:MKB PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Anamnesis
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=3417731926&perks=201365942,2801223209,31345821,3429800428
+dimwishlist:item=3417731926&perks=201365942,2801223209,31345821,3827198035
+dimwishlist:item=3417731926&perks=201365942,2801223209,31345821,3311977193
+dimwishlist:item=3417731926&perks=201365942,31345821,3429800428,4067834857
+dimwishlist:item=3417731926&perks=201365942,31345821,3827198035,4067834857
+dimwishlist:item=3417731926&perks=201365942,31345821,3311977193,4067834857
+dimwishlist:item=3417731926&perks=201365942,31345821,3429800428,852209214
+dimwishlist:item=3417731926&perks=201365942,31345821,3827198035,852209214
+dimwishlist:item=3417731926&perks=201365942,31345821,3311977193,852209214
+
+// Anamnesis
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2291392465&perks=201365942,2801223209,31345821,3429800428
+dimwishlist:item=2291392465&perks=201365942,2801223209,3365897133,3429800428
+dimwishlist:item=2291392465&perks=201365942,2801223209,31345821,3827198035
+dimwishlist:item=2291392465&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=2291392465&perks=201365942,2801223209,31345821,3311977193
+dimwishlist:item=2291392465&perks=201365942,31345821,3429800428,4067834857
+dimwishlist:item=2291392465&perks=201365942,3365897133,3429800428,4067834857
+dimwishlist:item=2291392465&perks=201365942,31345821,3827198035,4067834857
+dimwishlist:item=2291392465&perks=201365942,3365897133,3827198035,4067834857
+dimwishlist:item=2291392465&perks=201365942,31345821,3311977193,4067834857
+dimwishlist:item=2291392465&perks=201365942,31345821,3429800428,852209214
+dimwishlist:item=2291392465&perks=201365942,3365897133,3429800428,852209214
+dimwishlist:item=2291392465&perks=201365942,31345821,3827198035,852209214
+dimwishlist:item=2291392465&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=2291392465&perks=201365942,31345821,3311977193,852209214
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=3949253499&perks=201365942,2801223209,31345821,3429800428
+dimwishlist:item=3949253499&perks=201365942,2801223209,31345821,3827198035
+dimwishlist:item=3949253499&perks=201365942,2801223209,31345821,3311977193
+dimwishlist:item=3949253499&perks=201365942,31345821,3429800428,4067834857
+dimwishlist:item=3949253499&perks=201365942,31345821,3827198035,4067834857
+dimwishlist:item=3949253499&perks=201365942,31345821,3311977193,4067834857
+dimwishlist:item=3949253499&perks=201365942,31345821,3429800428,852209214
+dimwishlist:item=3949253499&perks=201365942,31345821,3827198035,852209214
+dimwishlist:item=3949253499&perks=201365942,31345821,3311977193,852209214
+
+// Anamnesis (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon." Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=1536325168&perks=201365942,2801223209,31345821,3429800428
+dimwishlist:item=1536325168&perks=201365942,2801223209,3365897133,3429800428
+dimwishlist:item=1536325168&perks=201365942,2801223209,31345821,3827198035
+dimwishlist:item=1536325168&perks=201365942,2801223209,3365897133,3827198035
+dimwishlist:item=1536325168&perks=201365942,2801223209,31345821,3311977193
+dimwishlist:item=1536325168&perks=201365942,31345821,3429800428,4067834857
+dimwishlist:item=1536325168&perks=201365942,31345821,3827198035,4067834857
+dimwishlist:item=1536325168&perks=201365942,31345821,3311977193,4067834857
+dimwishlist:item=1536325168&perks=201365942,31345821,3429800428,852209214
+dimwishlist:item=1536325168&perks=201365942,3365897133,3429800428,852209214
+dimwishlist:item=1536325168&perks=201365942,31345821,3827198035,852209214
+dimwishlist:item=1536325168&perks=201365942,3365897133,3827198035,852209214
+dimwishlist:item=1536325168&perks=201365942,31345821,3311977193,852209214
+
+// Refusal of the Call
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=2671849376&perks=31345821,3721627275,580685494,951095735
+dimwishlist:item=2671849376&perks=2224838837,3721627275,580685494,951095735
+dimwishlist:item=2671849376&perks=31345821,3721627275,580685494,923806249
+dimwishlist:item=2671849376&perks=2224838837,3721627275,580685494,923806249
+dimwishlist:item=2671849376&perks=31345821,580685494,679225683,951095735
+dimwishlist:item=2671849376&perks=2224838837,580685494,679225683,951095735
+dimwishlist:item=2671849376&perks=31345821,580685494,679225683,923806249
+dimwishlist:item=2671849376&perks=2224838837,580685494,679225683,923806249
+dimwishlist:item=2671849376&perks=1934171651,31345821,3721627275,951095735
+dimwishlist:item=2671849376&perks=1934171651,2224838837,3721627275,951095735
+dimwishlist:item=2671849376&perks=1934171651,31345821,3721627275,923806249
+dimwishlist:item=2671849376&perks=1934171651,2224838837,3721627275,923806249
+dimwishlist:item=2671849376&perks=1934171651,31345821,679225683,951095735
+dimwishlist:item=2671849376&perks=1934171651,2224838837,679225683,951095735
+dimwishlist:item=2671849376&perks=1934171651,31345821,679225683,923806249
+dimwishlist:item=2671849376&perks=1934171651,2224838837,679225683,923806249
+
+// Refusal of the Call
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=3269398063&perks=31345821,3721627275,580685494,951095735
+dimwishlist:item=3269398063&perks=2224838837,3721627275,580685494,951095735
+dimwishlist:item=3269398063&perks=31345821,3721627275,580685494,923806249
+dimwishlist:item=3269398063&perks=2224838837,3721627275,580685494,923806249
+dimwishlist:item=3269398063&perks=31345821,580685494,679225683,951095735
+dimwishlist:item=3269398063&perks=2224838837,580685494,679225683,951095735
+dimwishlist:item=3269398063&perks=31345821,580685494,679225683,923806249
+dimwishlist:item=3269398063&perks=2224838837,580685494,679225683,923806249
+dimwishlist:item=3269398063&perks=1934171651,31345821,3721627275,951095735
+dimwishlist:item=3269398063&perks=1934171651,2224838837,3721627275,951095735
+dimwishlist:item=3269398063&perks=1934171651,31345821,3721627275,923806249
+dimwishlist:item=3269398063&perks=1934171651,2224838837,3721627275,923806249
+dimwishlist:item=3269398063&perks=1934171651,31345821,679225683,951095735
+dimwishlist:item=3269398063&perks=1934171651,2224838837,679225683,951095735
+dimwishlist:item=3269398063&perks=1934171651,31345821,679225683,923806249
+dimwishlist:item=3269398063&perks=1934171651,2224838837,679225683,923806249
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=2755584425&perks=31345821,3721627275,580685494,951095735
+dimwishlist:item=2755584425&perks=2224838837,3721627275,580685494,951095735
+dimwishlist:item=2755584425&perks=31345821,3721627275,580685494,923806249
+dimwishlist:item=2755584425&perks=2224838837,3721627275,580685494,923806249
+dimwishlist:item=2755584425&perks=31345821,580685494,679225683,951095735
+dimwishlist:item=2755584425&perks=2224838837,580685494,679225683,951095735
+dimwishlist:item=2755584425&perks=31345821,580685494,679225683,923806249
+dimwishlist:item=2755584425&perks=2224838837,580685494,679225683,923806249
+dimwishlist:item=2755584425&perks=1934171651,31345821,3721627275,951095735
+dimwishlist:item=2755584425&perks=1934171651,2224838837,3721627275,951095735
+dimwishlist:item=2755584425&perks=1934171651,31345821,3721627275,923806249
+dimwishlist:item=2755584425&perks=1934171651,2224838837,3721627275,923806249
+dimwishlist:item=2755584425&perks=1934171651,31345821,679225683,951095735
+dimwishlist:item=2755584425&perks=1934171651,2224838837,679225683,951095735
+dimwishlist:item=2755584425&perks=1934171651,31345821,679225683,923806249
+dimwishlist:item=2755584425&perks=1934171651,2224838837,679225683,923806249
+
+// Refusal of the Call (Adept)
+//notes:pandapaxxy (PvP / M+KB / Controller): "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as ~~f*ck~~ boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed)." Recommended MW: Range or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=25228802&perks=31345821,3721627275,580685494,951095735
+dimwishlist:item=25228802&perks=2224838837,3721627275,580685494,951095735
+dimwishlist:item=25228802&perks=31345821,3721627275,580685494,923806249
+dimwishlist:item=25228802&perks=2224838837,3721627275,580685494,923806249
+dimwishlist:item=25228802&perks=31345821,580685494,679225683,951095735
+dimwishlist:item=25228802&perks=2224838837,580685494,679225683,951095735
+dimwishlist:item=25228802&perks=31345821,580685494,679225683,923806249
+dimwishlist:item=25228802&perks=2224838837,580685494,679225683,923806249
+dimwishlist:item=25228802&perks=1934171651,31345821,3721627275,951095735
+dimwishlist:item=25228802&perks=1934171651,2224838837,3721627275,951095735
+dimwishlist:item=25228802&perks=1934171651,31345821,3721627275,923806249
+dimwishlist:item=25228802&perks=1934171651,2224838837,3721627275,923806249
+dimwishlist:item=25228802&perks=1934171651,31345821,679225683,951095735
+dimwishlist:item=25228802&perks=1934171651,2224838837,679225683,951095735
+dimwishlist:item=25228802&perks=1934171651,31345821,679225683,923806249
+dimwishlist:item=25228802&perks=1934171651,2224838837,679225683,923806249
+
 // Taraxippos
 //notes:pandapaxxy (PvP / M+KB): "Taraxippos didn't make too much of a splash in PvP either, being able to use Cascade Point to blister down enemies. Now High Ground comes by and takes...well the high ground. Zen Moment will keep you on target, but I'd personally go with Kill Clip to keep things nice and easy." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=2595813005&perks=1015611457,2387244414,3142289711,839105230
