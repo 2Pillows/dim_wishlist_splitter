@@ -1,6 +1,10 @@
 title:MKB PvE !Backups Perks Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// New Land Beyond
+//notes:warlockmaggie : "Beyond no land is found the New Land Beyond, the re-imagining of the D1 classic Exotic. While no longer a Primary ammo weapon, at 40+ in reserve it will feel like you have ammo to spare." 
+dimwishlist:item=2581676735&perks=1579100415,957782887
+
 // Afterlight
 //notes:pandapaxxy (PvE / M+KB / Controller): "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds *with* Reservoir Burst would have been fun. But they're in the same column." Recommended MW: Charge Time.|tags:pve,mkb,controller
 dimwishlist:item=3228630258&perks=1427256713,1631667848
