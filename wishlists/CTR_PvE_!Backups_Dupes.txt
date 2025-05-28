@@ -1,6 +1,70 @@
 title:CTR PvE !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Greasy Luck
+//notes:warlockmaggie (PvE / M+KB / Controller): "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you." Recommended MW: Shield Duration or Range.|tags:pve,mkb,controller
+dimwishlist:item=2934305134&perks=1782407750,1966281507,580685494,679225683
+dimwishlist:item=2934305134&perks=1782407750,1966281507,3721627275,580685494
+
+// Greasy Luck
+//notes:warlockmaggie (PvE / M+KB / Controller): "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you." Recommended MW: Shield Duration or Range.|tags:pve,mkb,controller
+dimwishlist:item=1685406703&perks=1782407750,1966281507,580685494,679225683
+dimwishlist:item=1685406703&perks=1782407750,1966281507,3721627275,580685494
+
+// Greasy Luck (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you." Recommended MW: Shield Duration or Range.|tags:pve,mkb,controller
+dimwishlist:item=3210739171&perks=1782407750,1966281507,580685494,679225683
+dimwishlist:item=3210739171&perks=1782407750,1966281507,3721627275,580685494
+
+// Greasy Luck (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you." Recommended MW: Shield Duration or Range.|tags:pve,mkb,controller
+dimwishlist:item=1050582210&perks=1782407750,1966281507,580685494,679225683
+dimwishlist:item=1050582210&perks=1782407750,1966281507,3721627275,580685494
+
+// No Survivors
+//notes:warlockmaggie (PvE / M+KB / Controller): "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly..." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4228149269&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=4228149269&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=4228149269&perks=11612903,3230963543,3523296417,4090651448
+dimwishlist:item=4228149269&perks=11612903,1885400500,3523296417,4090651448
+
+// No Survivors
+//notes:warlockmaggie (PvE / M+KB / Controller): "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly..." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=4193602194&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=4193602194&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=4193602194&perks=11612903,3230963543,3523296417,4090651448
+dimwishlist:item=4193602194&perks=11612903,1885400500,3523296417,4090651448
+
+// No Survivors (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly..." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=189194532&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=189194532&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=189194532&perks=11612903,3230963543,3523296417,4090651448
+dimwishlist:item=189194532&perks=11612903,1885400500,3523296417,4090651448
+
+// No Survivors (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly..." Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1157220231&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=1157220231&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=1157220231&perks=11612903,3230963543,3523296417,4090651448
+dimwishlist:item=1157220231&perks=11612903,1885400500,3523296417,4090651448
+
+// Cold Comfort
+//notes:warlockmaggie (PvE / M+KB / Controller): "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights)." Recommended MW: Velocity or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=291447487&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort
+//notes:warlockmaggie (PvE / M+KB / Controller): "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights)." Recommended MW: Velocity or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2760833884&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights)." Recommended MW: Velocity or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1817605554&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights)." Recommended MW: Velocity or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2126543269&perks=2822142346,3194351027,3525010810,951095735
+
 // Cruel Mercy - PvE Minors god 1 
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Alloy Mag), (Eddy Current, Dragonfly), (Rolling Storm) 
 //notes:Inspired by @PodvsEnemies episode 139 from 13 May 2025 (https://open.spotify.com/episode/0m6Sfdv88fNZmYm9A6PdVR?si=140d643338154357) with @ImpetusAlways @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with an arc build. Cruel Mercy is the new Heresy Act 3 Nightfall weapon - the Heavy Burst intrinsic gives you a bit of flinch reduction when ADSing, which is useful if unspectacular. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 76 Range equates to 39.06m ADS and 21.70m hipfire before damage dropoff, 35 Stability is ×1.1337 flinch resist at 100 Resilience, 35 Handling is 0.45s ready, 0.40s ADS and 0.44s stow speed, 42 Reload Speed is a 2.01s reload, Recoil Direction is 74, and Zoom is 18. Handling is the main weakness, so look to improve that from the barrel perk to make things snappier. For the magazine perk, either choose your preferred combat effect or look to speed up the reload a bit. For arc builds there's a combination of Eddy Current to speed up reload further, together with Rolling Storm to build up stacks of Bolt Charge for single target damage plus a bit of AoE. But, as an alternative first trait column perk, Dragonfly provides an AoE arc elemental explosion on a crit kill for double damage perks, which are always tough to pass on. For the origin trait you have Vanguard's Vindication for 3HP healing per kill, Stunning Recovery for 60HP and +40 recovery for 3s when stunning a champion, or Omolon Fluid Dynamics for better stability and reload speed in the top half of the magazine for compulsive reloaders. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller

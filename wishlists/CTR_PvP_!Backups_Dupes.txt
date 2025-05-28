@@ -1,6 +1,70 @@
 title:CTR PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Greasy Luck
+//notes:warlockmaggie (PvP / M+KB / Controller): "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts)." Recommended MW: Handling or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=2934305134&perks=1782407750,1966281507,3721627275,580685494
+dimwishlist:item=2934305134&perks=1782407750,1966281507,580685494,679225683
+
+// Greasy Luck
+//notes:warlockmaggie (PvP / M+KB / Controller): "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts)." Recommended MW: Handling or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=1685406703&perks=1782407750,1966281507,3721627275,580685494
+dimwishlist:item=1685406703&perks=1782407750,1966281507,580685494,679225683
+
+// Greasy Luck (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts)." Recommended MW: Handling or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=3210739171&perks=1782407750,1966281507,3721627275,580685494
+dimwishlist:item=3210739171&perks=1782407750,1966281507,580685494,679225683
+
+// Greasy Luck (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts)." Recommended MW: Handling or Shield Duration.|tags:pvp,mkb,controller
+dimwishlist:item=1050582210&perks=1782407750,1966281507,3721627275,580685494
+dimwishlist:item=1050582210&perks=1782407750,1966281507,580685494,679225683
+
+// No Survivors
+//notes:warlockmaggie (PvP / M+KB / Controller): "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=4228149269&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=4228149269&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=4228149269&perks=11612903,1885400500,3523296417,4090651448
+dimwishlist:item=4228149269&perks=11612903,3230963543,3523296417,4090651448
+
+// No Survivors
+//notes:warlockmaggie (PvP / M+KB / Controller): "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=4193602194&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=4193602194&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=4193602194&perks=11612903,1885400500,3523296417,4090651448
+dimwishlist:item=4193602194&perks=11612903,3230963543,3523296417,4090651448
+
+// No Survivors (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=189194532&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=189194532&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=189194532&perks=11612903,1885400500,3523296417,4090651448
+dimwishlist:item=189194532&perks=11612903,3230963543,3523296417,4090651448
+
+// No Survivors (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=1157220231&perks=11612903,1482024992,1885400500,3523296417
+dimwishlist:item=1157220231&perks=11612903,1482024992,3230963543,3523296417
+dimwishlist:item=1157220231&perks=11612903,1885400500,3523296417,4090651448
+dimwishlist:item=1157220231&perks=11612903,3230963543,3523296417,4090651448
+
+// Cold Comfort
+//notes:warlockmaggie (PvP / M+KB / Controller): "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind." Recommended MW: Blast Radius or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=291447487&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort
+//notes:warlockmaggie (PvP / M+KB / Controller): "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind." Recommended MW: Blast Radius or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2760833884&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind." Recommended MW: Blast Radius or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=1817605554&perks=2822142346,3194351027,3525010810,951095735
+
+// Cold Comfort (Adept)
+//notes:warlockmaggie (PvP / M+KB / Controller): "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind." Recommended MW: Blast Radius or Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2126543269&perks=2822142346,3194351027,3525010810,951095735
+
 // Long Arm
 //notes:warlockmaggie (PvP / M+KB / Controller): "I'll admit it, I love Aggressive Frames in PvP! That said, Long Arm did lose some perks for PvP in the reissue, so we'll make do. Other than Precision Instrument, Long Arm doesn't have much to offer for damage perks; instead, you can lean into the hip fire build of Hip-Fire Grip + Keep Away (or ADS with Lone Wolf, but who wants to do that with this renegade repeater?). Flinch is a real concern, so make sure you have some additional Stability, otherwise you'll not have a good time with this gun." Recommended MW: Stability or Handling|tags:pvp,mkb,controller
 dimwishlist:item=4249949938&perks=1840239774,247725512,3038247973,3230963543
