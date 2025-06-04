@@ -31,6 +31,12 @@ jobs:
           npm install
           cd ../../..
 
+      - name: Commit and Push Lockfile Update
+        run: |
+          git add .
+          git commit -m "Update lockfile" || echo "No changes to commit"
+          git push
+
       - name: Update Weapon Mods
         run: |
           node wishlist_splitter/data/weapon_mods/get_weapon_mods.js
@@ -38,11 +44,17 @@ jobs:
       - name: Commit and Push Weapon Mod Update
         run: |
           git add .
-          git commit -m "Update weapon mods alongside Destiny Data Explorer" || echo "No changes to commit"
+          git commit -m "Update weapon mods from Destiny Data Explorer" || echo "No changes to commit"
           git push
 
       - name: Update dim-wish-list-sources Submodule
         run: git submodule update --remote
+
+      - name: Commit and Push dim-wish-list-sources Update
+        run: |
+          git add .
+          git commit -m "Update dim-wish-list-sources submodule" || echo "No changes to commit"
+          git push
 
       - name: Update Wishlists
         run: |
@@ -51,5 +63,5 @@ jobs:
       - name: Commit and Push Wishlist Update
         run: |
           git add .
-          git commit -m "Update wishlists alongside dim-wish-list-sources" || echo "No changes to commit"
+          git commit -m "Update wishlists" || echo "No changes to commit"
           git push
