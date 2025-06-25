@@ -1,11 +1,875 @@
 title:CTR PvE !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Judgment
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=2226572694&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=2226572694&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090095,1955165503,3230963543
+dimwishlist:item=2226572694&perks=124408337,1926090095,3215448563,3230963543
+dimwishlist:item=2226572694&perks=11612903,1926090095,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090095,247725512,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=2226572694&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=2226572694&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090092,247725512,3215448563,3230963543
+
+// Judgment
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=1773934241&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=1773934241&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090095,1955165503,3230963543
+dimwishlist:item=1773934241&perks=124408337,1926090095,3215448563,3230963543
+dimwishlist:item=1773934241&perks=11612903,1926090095,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090095,247725512,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=1773934241&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=1773934241&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090092,247725512,3215448563,3230963543
+
+// Judgment (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=1987644603&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=1987644603&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090095,1955165503,3230963543
+dimwishlist:item=1987644603&perks=124408337,1926090095,3215448563,3230963543
+dimwishlist:item=1987644603&perks=11612903,1926090095,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090095,247725512,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=1987644603&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=1987644603&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090092,247725512,3215448563,3230963543
+
+// Judgment (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=3329218848&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=3329218848&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090095,1955165503,3230963543
+dimwishlist:item=3329218848&perks=124408337,1926090095,3215448563,3230963543
+dimwishlist:item=3329218848&perks=11612903,1926090095,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090095,247725512,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=3329218848&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=3329218848&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090092,247725512,3215448563,3230963543
+
+// A Sudden Death
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1976481399&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1976481399&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1976481399&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1976481399&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1976481399&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1976481399&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1976481399&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1976481399&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1976481399&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1976481399&perks=106909392,2360754333,2679249093,4090651448
+dimwishlist:item=1976481399&perks=106909392,3201496230,3978468247,4090651448
+dimwishlist:item=1976481399&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1904170910&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1904170910&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1904170910&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1904170910&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1904170910&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1904170910&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1904170910&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1904170910&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1904170910&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1904170910&perks=106909392,2360754333,2679249093,4090651448
+dimwishlist:item=1904170910&perks=106909392,3201496230,3978468247,4090651448
+dimwishlist:item=1904170910&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1626437786&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1626437786&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1626437786&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1626437786&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1626437786&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1626437786&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1626437786&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1626437786&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1626437786&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1626437786&perks=106909392,2360754333,2679249093,4090651448
+dimwishlist:item=1626437786&perks=106909392,3201496230,3978468247,4090651448
+dimwishlist:item=1626437786&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2764074355&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=2764074355&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=2764074355&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=2764074355&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=2764074355&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=2764074355&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=2764074355&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=2764074355&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=2764074355&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=2764074355&perks=106909392,2360754333,2679249093,4090651448
+dimwishlist:item=2764074355&perks=106909392,3201496230,3978468247,4090651448
+dimwishlist:item=2764074355&perks=106909392,2048641572,3978468247,4090651448
+
+// Prosecutor
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=880829467&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=880829467&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=880829467&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=880829467&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=880829467&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=880829467&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=880829467&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=880829467&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=880829467&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=880829467&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=880829467&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=880829467&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=880829467&perks=3230963543,4090651448,684456054,95528736
+dimwishlist:item=880829467&perks=3215448563,3230963543,4090651448,684456054
+dimwishlist:item=880829467&perks=2173046394,3230963543,4090651448,684456054
+dimwishlist:item=880829467&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=880829467&perks=2848615171,3218042543,3230963543,4090651448
+dimwishlist:item=880829467&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=880829467&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=880829467&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=880829467&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=880829467&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=880829467&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=880829467&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=880829467&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=880829467&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=880829467&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=880829467&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=880829467&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=880829467&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=880829467&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=880829467&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=880829467&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=880829467&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=880829467&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=880829467&perks=1482024992,2848615171,3215448563,3230963543
+
+// Prosecutor
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=2129814338&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=2129814338&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=2129814338&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=2129814338&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=2129814338&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=2129814338&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=2129814338&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=2129814338&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=2129814338&perks=3230963543,4090651448,684456054,95528736
+dimwishlist:item=2129814338&perks=3215448563,3230963543,4090651448,684456054
+dimwishlist:item=2129814338&perks=2173046394,3230963543,4090651448,684456054
+dimwishlist:item=2129814338&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=2129814338&perks=2848615171,3218042543,3230963543,4090651448
+dimwishlist:item=2129814338&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=2129814338&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=2129814338&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=2129814338&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=2129814338&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=2129814338&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=2129814338&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=2129814338&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=2129814338&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=2129814338&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=2129814338&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=2129814338&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=2129814338&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=2129814338&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=2129814338&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=2129814338&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=2129814338&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=2129814338&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=2129814338&perks=1482024992,2848615171,3215448563,3230963543
+
+// Prosecutor (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=4025177550&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=4025177550&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=4025177550&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=4025177550&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=4025177550&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=4025177550&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=4025177550&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=4025177550&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=4025177550&perks=3230963543,4090651448,684456054,95528736
+dimwishlist:item=4025177550&perks=3215448563,3230963543,4090651448,684456054
+dimwishlist:item=4025177550&perks=2173046394,3230963543,4090651448,684456054
+dimwishlist:item=4025177550&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=4025177550&perks=2848615171,3218042543,3230963543,4090651448
+dimwishlist:item=4025177550&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=4025177550&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=4025177550&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=4025177550&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=4025177550&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=4025177550&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=4025177550&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=4025177550&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=4025177550&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=4025177550&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=4025177550&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=4025177550&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=4025177550&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=4025177550&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=4025177550&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=4025177550&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=4025177550&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=4025177550&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=4025177550&perks=1482024992,2848615171,3215448563,3230963543
+
+// Prosecutor (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=749483159&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=749483159&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=749483159&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=749483159&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=749483159&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=749483159&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=749483159&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=749483159&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=749483159&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=749483159&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=749483159&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=749483159&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=749483159&perks=3230963543,4090651448,684456054,95528736
+dimwishlist:item=749483159&perks=3215448563,3230963543,4090651448,684456054
+dimwishlist:item=749483159&perks=2173046394,3230963543,4090651448,684456054
+dimwishlist:item=749483159&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=749483159&perks=2848615171,3218042543,3230963543,4090651448
+dimwishlist:item=749483159&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=749483159&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=749483159&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=749483159&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=749483159&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=749483159&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=749483159&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=749483159&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=749483159&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=749483159&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=749483159&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=749483159&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=749483159&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=749483159&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=749483159&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=749483159&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=749483159&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=749483159&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=749483159&perks=1482024992,2848615171,3215448563,3230963543
+
+// Prosecutor - PvE Minors god 1
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Attrition Orbs, Dragonfly, Eddy Current), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For an all-round general use roll, in the first trait perk column Attrition Orbs will generate a power orb to proc armor mods after hitting enemies with roughly 2/3 of your magazine, Dragonfly generates a 4.5m Arc AoE explosion on crit kills, or Eddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, for damage, Paracausal Affinity provides a ×1.2 boost for 6s following a light energy kill. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=880829467&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=880829467&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=880829467&perks=1482024992,2848615171,3215448563,3230963543
+dimwishlist:item=880829467&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=880829467&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=880829467&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=880829467&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=880829467&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=880829467&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=880829467&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=880829467&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=880829467&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=880829467&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=880829467&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=880829467&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=880829467&perks=3215448563,3230963543,4090651448,684456054
+
+// Prosecutor - PvE Minors god 1
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Attrition Orbs, Dragonfly, Eddy Current), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For an all-round general use roll, in the first trait perk column Attrition Orbs will generate a power orb to proc armor mods after hitting enemies with roughly 2/3 of your magazine, Dragonfly generates a 4.5m Arc AoE explosion on crit kills, or Eddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, for damage, Paracausal Affinity provides a ×1.2 boost for 6s following a light energy kill. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2129814338&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=2129814338&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=2129814338&perks=1482024992,2848615171,3215448563,3230963543
+dimwishlist:item=2129814338&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=2129814338&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=2129814338&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=2129814338&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=2129814338&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=2129814338&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=2129814338&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=2129814338&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=2129814338&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=2129814338&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=2129814338&perks=3215448563,3230963543,4090651448,684456054
+
+// Prosecutor - PvE Minors god 2
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Magazine), (Eddy Current), (Voltshot)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with Arc builds. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For Arc synergy, in the first column EEddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, Voltshot Jolts your next target following a reload within 5.3s after a kill for great single target and AoE damage. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=880829467&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=880829467&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=880829467&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=880829467&perks=2173046394,3230963543,4090651448,684456054
+
+// Prosecutor - PvE Minors god 2
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Magazine), (Eddy Current), (Voltshot)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with Arc builds. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For Arc synergy, in the first column EEddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, Voltshot Jolts your next target following a reload within 5.3s after a kill for great single target and AoE damage. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2129814338&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=2129814338&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=2129814338&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=2129814338&perks=2173046394,3230963543,4090651448,684456054
+
+// Prosecutor - PvE Minors god 3
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Dragonfly), (Rolling Storm)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For arc synergy with Bolt Charge, in the first trait perk column Dragonfly generates a 4.5m Arc AoE explosion on crit kills, to soften up groups of adds to make them easier to kill for Rolling Storm to generate stacks of Bolt Charge on kills. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=880829467&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=880829467&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=880829467&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=880829467&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=880829467&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=880829467&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=880829467&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=880829467&perks=2848615171,3218042543,3230963543,4090651448
+
+// Prosecutor - PvE Minors god 3
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Dragonfly), (Rolling Storm)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For arc synergy with Bolt Charge, in the first trait perk column Dragonfly generates a 4.5m Arc AoE explosion on crit kills, to soften up groups of adds to make them easier to kill for Rolling Storm to generate stacks of Bolt Charge on kills. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2129814338&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=2129814338&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=2129814338&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=2129814338&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=2129814338&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=2129814338&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=2129814338&perks=2848615171,3218042543,3230963543,4090651448
+
+// Prosecutor - PvE Minors god 4
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Magazine, Flared Magwell, Light Mag), (Subsistence, Eddy Current), (Onslaught)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general at-level or better content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For activities where you're not underlevelled, the trait perk combination of Subsistence to refill 10% of your magazine on a kill, or Eddy Current to boost Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation together with Onslaught, to effectively increase RPM, and therefore DPS, by up to ×1.6 at three stacks for 4.5s, as well as granting +35 Reload Speed, should make short work of add groups. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=880829467&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=880829467&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=880829467&perks=1482024992,679225683,684456054,95528736
+dimwishlist:item=880829467&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=880829467&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=880829467&perks=1840239774,679225683,684456054,95528736
+dimwishlist:item=880829467&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=880829467&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=880829467&perks=679225683,684456054,839105230,95528736
+dimwishlist:item=880829467&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=880829467&perks=3230963543,4090651448,684456054,95528736
+
+// Prosecutor - PvE Minors god 4
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Magazine, Flared Magwell, Light Mag), (Subsistence, Eddy Current), (Onslaught)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general at-level or better content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For activities where you're not underlevelled, the trait perk combination of Subsistence to refill 10% of your magazine on a kill, or Eddy Current to boost Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation together with Onslaught, to effectively increase RPM, and therefore DPS, by up to ×1.6 at three stacks for 4.5s, as well as granting +35 Reload Speed, should make short work of add groups. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2129814338&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=2129814338&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=2129814338&perks=1482024992,679225683,684456054,95528736
+dimwishlist:item=2129814338&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=2129814338&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=2129814338&perks=1840239774,679225683,684456054,95528736
+dimwishlist:item=2129814338&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=2129814338&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=2129814338&perks=679225683,684456054,839105230,95528736
+dimwishlist:item=2129814338&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=2129814338&perks=3230963543,4090651448,684456054,95528736
+
+// Prosecutor (Adept) - PvE Minors god 1
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Attrition Orbs, Dragonfly, Eddy Current), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For an all-round general use roll, in the first trait perk column Attrition Orbs will generate a power orb to proc armor mods after hitting enemies with roughly 2/3 of your magazine, Dragonfly generates a 4.5m Arc AoE explosion on crit kills, or Eddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, for damage, Paracausal Affinity provides a ×1.2 boost for 6s following a light energy kill. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4025177550&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=4025177550&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=4025177550&perks=1482024992,2848615171,3215448563,3230963543
+dimwishlist:item=4025177550&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=4025177550&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=4025177550&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=4025177550&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=4025177550&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=4025177550&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=4025177550&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=4025177550&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=4025177550&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=4025177550&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=4025177550&perks=3215448563,3230963543,4090651448,684456054
+
+// Prosecutor (Adept) - PvE Minors god 1
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Attrition Orbs, Dragonfly, Eddy Current), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For an all-round general use roll, in the first trait perk column Attrition Orbs will generate a power orb to proc armor mods after hitting enemies with roughly 2/3 of your magazine, Dragonfly generates a 4.5m Arc AoE explosion on crit kills, or Eddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, for damage, Paracausal Affinity provides a ×1.2 boost for 6s following a light energy kill. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=749483159&perks=1482024992,1968497646,2848615171,3215448563
+dimwishlist:item=749483159&perks=1482024992,1968497646,3215448563,684456054
+dimwishlist:item=749483159&perks=1482024992,2848615171,3215448563,3230963543
+dimwishlist:item=749483159&perks=1482024992,3215448563,3230963543,684456054
+dimwishlist:item=749483159&perks=1840239774,1968497646,2848615171,3215448563
+dimwishlist:item=749483159&perks=1840239774,1968497646,3215448563,684456054
+dimwishlist:item=749483159&perks=1840239774,2848615171,3215448563,3230963543
+dimwishlist:item=749483159&perks=1840239774,3215448563,3230963543,684456054
+dimwishlist:item=749483159&perks=1968497646,2848615171,3215448563,839105230
+dimwishlist:item=749483159&perks=1968497646,3215448563,684456054,839105230
+dimwishlist:item=749483159&perks=2848615171,3215448563,3230963543,839105230
+dimwishlist:item=749483159&perks=3215448563,3230963543,684456054,839105230
+dimwishlist:item=749483159&perks=1968497646,2848615171,3215448563,4090651448
+dimwishlist:item=749483159&perks=1968497646,3215448563,4090651448,684456054
+dimwishlist:item=749483159&perks=2848615171,3215448563,3230963543,4090651448
+dimwishlist:item=749483159&perks=3215448563,3230963543,4090651448,684456054
+
+// Prosecutor (Adept) - Pve Minors god 2
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Magazine), (Eddy Current), (Voltshot)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with Arc builds. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For Arc synergy, in the first column EEddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, Voltshot Jolts your next target following a reload within 5.3s after a kill for great single target and AoE damage. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4025177550&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=4025177550&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=4025177550&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=4025177550&perks=2173046394,3230963543,4090651448,684456054
+
+// Prosecutor (Adept) - Pve Minors god 2
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Magazine), (Eddy Current), (Voltshot)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with Arc builds. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For Arc synergy, in the first column EEddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, Voltshot Jolts your next target following a reload within 5.3s after a kill for great single target and AoE damage. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=749483159&perks=1482024992,2173046394,3230963543,684456054
+dimwishlist:item=749483159&perks=1840239774,2173046394,3230963543,684456054
+dimwishlist:item=749483159&perks=2173046394,3230963543,684456054,839105230
+dimwishlist:item=749483159&perks=2173046394,3230963543,4090651448,684456054
+
+// Prosecutor (Adept) - Pve Minors god 3
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Dragonfly), (Rolling Storm)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For arc synergy with Bolt Charge, in the first trait perk column Dragonfly generates a 4.5m Arc AoE explosion on crit kills, to soften up groups of adds to make them easier to kill for Rolling Storm to generate stacks of Bolt Charge on kills. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4025177550&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=4025177550&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=4025177550&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=4025177550&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=4025177550&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=4025177550&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=4025177550&perks=2848615171,3218042543,3230963543,4090651448
+
+// Prosecutor (Adept) - Pve Minors god 3
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Dragonfly), (Rolling Storm)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For arc synergy with Bolt Charge, in the first trait perk column Dragonfly generates a 4.5m Arc AoE explosion on crit kills, to soften up groups of adds to make them easier to kill for Rolling Storm to generate stacks of Bolt Charge on kills. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=749483159&perks=1482024992,1968497646,2848615171,3218042543
+dimwishlist:item=749483159&perks=1482024992,2848615171,3218042543,3230963543
+dimwishlist:item=749483159&perks=1840239774,1968497646,2848615171,3218042543
+dimwishlist:item=749483159&perks=1840239774,2848615171,3218042543,3230963543
+dimwishlist:item=749483159&perks=1968497646,2848615171,3218042543,839105230
+dimwishlist:item=749483159&perks=2848615171,3218042543,3230963543,839105230
+dimwishlist:item=749483159&perks=1968497646,2848615171,3218042543,4090651448
+dimwishlist:item=749483159&perks=2848615171,3218042543,3230963543,4090651448
+
+// Prosecutor (Adept) - Pve Minors god 4
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Magazine, Flared Magwell, Light Mag), (Subsistence, Eddy Current), (Onslaught)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general at-level or better content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For activities where you're not underlevelled, the trait perk combination of Subsistence to refill 10% of your magazine on a kill, or Eddy Current to boost Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation together with Onslaught, to effectively increase RPM, and therefore DPS, by up to ×1.6 at three stacks for 4.5s, as well as granting +35 Reload Speed, should make short work of add groups. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4025177550&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=4025177550&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=4025177550&perks=1482024992,679225683,684456054,95528736
+dimwishlist:item=4025177550&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=4025177550&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=4025177550&perks=1840239774,679225683,684456054,95528736
+dimwishlist:item=4025177550&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=4025177550&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=4025177550&perks=679225683,684456054,839105230,95528736
+dimwishlist:item=4025177550&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=4025177550&perks=3230963543,4090651448,684456054,95528736
+
+// Prosecutor (Adept) - Pve Minors god 4
+// (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Magazine, Flared Magwell, Light Mag), (Subsistence, Eddy Current), (Onslaught)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general at-level or better content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot choose something that helps Reload Speed. For activities where you're not underlevelled, the trait perk combination of Subsistence to refill 10% of your magazine on a kill, or Eddy Current to boost Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation together with Onslaught, to effectively increase RPM, and therefore DPS, by up to ×1.6 at three stacks for 4.5s, as well as granting +35 Reload Speed, should make short work of add groups. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=749483159&perks=1482024992,1820235745,3230963543,95528736
+dimwishlist:item=749483159&perks=1482024992,3230963543,684456054,95528736
+dimwishlist:item=749483159&perks=1482024992,679225683,684456054,95528736
+dimwishlist:item=749483159&perks=1820235745,1840239774,3230963543,95528736
+dimwishlist:item=749483159&perks=1840239774,3230963543,684456054,95528736
+dimwishlist:item=749483159&perks=1840239774,679225683,684456054,95528736
+dimwishlist:item=749483159&perks=1820235745,3230963543,839105230,95528736
+dimwishlist:item=749483159&perks=3230963543,684456054,839105230,95528736
+dimwishlist:item=749483159&perks=679225683,684456054,839105230,95528736
+dimwishlist:item=749483159&perks=1820235745,3230963543,4090651448,95528736
+dimwishlist:item=749483159&perks=3230963543,4090651448,684456054,95528736
+
+// Judgment - PvE Minors god 1
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects. Paracausal Affinity in the second provides a ×1.2 damage boost following a darkness energy kill, and if you shatter a Headstone crystal while active, the AoE damage inherits this boost. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=2226572694&perks=124408337,1926090095,3215448563,3230963543
+
+// Judgment - PvE Minors god 1
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects. Paracausal Affinity in the second provides a ×1.2 damage boost following a darkness energy kill, and if you shatter a Headstone crystal while active, the AoE damage inherits this boost. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=1773934241&perks=124408337,1926090095,3215448563,3230963543
+
+// Judgment - PvE Minors god 2
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Rimestealer)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects pairs with Rimestealer in the second to grant stacks of Frost Armor on shattering crystals or killing frozen enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=2226572694&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=2226572694&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=2226572694&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=2226572694&perks=124408337,1926090095,1955165503,3230963543
+
+// Judgment - PvE Minors god 2
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Rimestealer)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects pairs with Rimestealer in the second to grant stacks of Frost Armor on shattering crystals or killing frozen enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=1773934241&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=1773934241&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=1773934241&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=1773934241&perks=124408337,1926090095,1955165503,3230963543
+
+// Judgment - PvE Minors god 3
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a grenade build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For grenade builds, if you don't aleady have a decent hand cannon with the Demolitionist + Adrenaline Junkie trait perk combo, to generate grenade ability energy on a kill (and instantly reload on a grenade use) and provide an up to ×1.33 damage boost for 4.5s. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=2226572694&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=2226572694&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=2226572694&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=2226572694&perks=11612903,1926090095,3230963543,3523296417
+
+// Judgment - PvE Minors god 3
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a grenade build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For grenade builds, if you don't aleady have a decent hand cannon with the Demolitionist + Adrenaline Junkie trait perk combo, to generate grenade ability energy on a kill (and instantly reload on a grenade use) and provide an up to ×1.33 damage boost for 4.5s. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=1773934241&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=1773934241&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=1773934241&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=1773934241&perks=11612903,1926090095,3230963543,3523296417
+
+// Judgment - PvE Minors god 4
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist, Slideshot, Rapid Hit), (Paracausal Affinity, Timed Payload)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. In the first trait perk column, Demolitionist generate grenade ability energy on kills (and offers an instant reload on grenade use), Slideshot partially refills the mag by 15% of capacity (rounded up) and grants +20 to Range and Stability for 2.5s after a slide, or Rapid Hit at five stacks after five crit hits provides +25 to Stability, and +60 to Reload Speed with a ×0.92 reload animation modifier. For damage, in the second column, Paracausal Affinity boosts damage by ×1.2 for 6s after a darkness energy kill, or Timed Payload provides additional flinch from the delayed explosion, 0.8s after impact, as well a boosting crit damage by ×1.1 and bodyshot damage by ×1.15. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2226572694&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=2226572694&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090092,247725512,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090094,1954620775,3161816588
+dimwishlist:item=2226572694&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=2226572694&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090094,1954620775,3161816588,3230963543
+dimwishlist:item=2226572694&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=2226572694&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=2226572694&perks=106909392,1926090095,1954620775,3161816588
+dimwishlist:item=2226572694&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=2226572694&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=2226572694&perks=1926090095,1954620775,3161816588,3230963543
+dimwishlist:item=2226572694&perks=1926090095,247725512,3215448563,3230963543
+
+// Judgment - PvE Minors god 4
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist, Slideshot, Rapid Hit), (Paracausal Affinity, Timed Payload)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. In the first trait perk column, Demolitionist generate grenade ability energy on kills (and offers an instant reload on grenade use), Slideshot partially refills the mag by 15% of capacity (rounded up) and grants +20 to Range and Stability for 2.5s after a slide, or Rapid Hit at five stacks after five crit hits provides +25 to Stability, and +60 to Reload Speed with a ×0.92 reload animation modifier. For damage, in the second column, Paracausal Affinity boosts damage by ×1.2 for 6s after a darkness energy kill, or Timed Payload provides additional flinch from the delayed explosion, 0.8s after impact, as well a boosting crit damage by ×1.1 and bodyshot damage by ×1.15. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1773934241&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=1773934241&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090092,247725512,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090094,1954620775,3161816588
+dimwishlist:item=1773934241&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=1773934241&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090094,1954620775,3161816588,3230963543
+dimwishlist:item=1773934241&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=1773934241&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=1773934241&perks=106909392,1926090095,1954620775,3161816588
+dimwishlist:item=1773934241&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=1773934241&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=1773934241&perks=1926090095,1954620775,3161816588,3230963543
+dimwishlist:item=1773934241&perks=1926090095,247725512,3215448563,3230963543
+
+// Judgment (Adept) - PvE Minors god 1
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects. Paracausal Affinity in the second provides a ×1.2 damage boost following a darkness energy kill, and if you shatter a Headstone crystal while active, the AoE damage inherits this boost. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=1987644603&perks=124408337,1926090095,3215448563,3230963543
+
+// Judgment (Adept) - PvE Minors god 1
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Paracausal Affinity)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects. Paracausal Affinity in the second provides a ×1.2 damage boost following a darkness energy kill, and if you shatter a Headstone crystal while active, the AoE damage inherits this boost. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090092,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090092,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090094,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090094,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090095,3215448563
+dimwishlist:item=3329218848&perks=124408337,1926090095,3215448563,3230963543
+
+// Judgment (Adept) - PvE Minors god 2
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Rimestealer)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects pairs with Rimestealer in the second to grant stacks of Frost Armor on shattering crystals or killing frozen enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=1987644603&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=1987644603&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=1987644603&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=1987644603&perks=124408337,1926090095,1955165503,3230963543
+
+// Judgment (Adept) - PvE Minors god 2
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Headstone), (Rimestealer)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For Stasis builds, Headstone in the first trait perk column generates a stasis crystal on a crit kill, to proc fragment effects pairs with Rimestealer in the second to grant stacks of Frost Armor on shattering crystals or killing frozen enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090092,1955165503
+dimwishlist:item=3329218848&perks=124408337,1926090092,1955165503,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090094,1955165503
+dimwishlist:item=3329218848&perks=124408337,1926090094,1955165503,3230963543
+dimwishlist:item=3329218848&perks=106909392,124408337,1926090095,1955165503
+dimwishlist:item=3329218848&perks=124408337,1926090095,1955165503,3230963543
+
+// Judgment (Adept) - PvE Minors god 3
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a grenade build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For grenade builds, if you don't aleady have a decent hand cannon with the Demolitionist + Adrenaline Junkie trait perk combo, to generate grenade ability energy on a kill (and instantly reload on a grenade use) and provide an up to ×1.33 damage boost for 4.5s. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=1987644603&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=1987644603&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=1987644603&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=1987644603&perks=11612903,1926090095,3230963543,3523296417
+
+// Judgment (Adept) - PvE Minors god 3
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a grenade build. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. For grenade builds, if you don't aleady have a decent hand cannon with the Demolitionist + Adrenaline Junkie trait perk combo, to generate grenade ability energy on a kill (and instantly reload on a grenade use) and provide an up to ×1.33 damage boost for 4.5s. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090092,3523296417
+dimwishlist:item=3329218848&perks=11612903,1926090092,3230963543,3523296417
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090094,3523296417
+dimwishlist:item=3329218848&perks=11612903,1926090094,3230963543,3523296417
+dimwishlist:item=3329218848&perks=106909392,11612903,1926090095,3523296417
+dimwishlist:item=3329218848&perks=11612903,1926090095,3230963543,3523296417
+
+// Judgment (Adept) - PvE Minors god 4
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist, Slideshot, Rapid Hit), (Paracausal Affinity, Timed Payload)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. In the first trait perk column, Demolitionist generate grenade ability energy on kills (and offers an instant reload on grenade use), Slideshot partially refills the mag by 15% of capacity (rounded up) and grants +20 to Range and Stability for 2.5s after a slide, or Rapid Hit at five stacks after five crit hits provides +25 to Stability, and +60 to Reload Speed with a ×0.92 reload animation modifier. For damage, in the second column, Paracausal Affinity boosts damage by ×1.2 for 6s after a darkness energy kill, or Timed Payload provides additional flinch from the delayed explosion, 0.8s after impact, as well a boosting crit damage by ×1.1 and bodyshot damage by ×1.15. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1987644603&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=1987644603&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090092,247725512,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090094,1954620775,3161816588
+dimwishlist:item=1987644603&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=1987644603&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090094,1954620775,3161816588,3230963543
+dimwishlist:item=1987644603&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=1987644603&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=1987644603&perks=106909392,1926090095,1954620775,3161816588
+dimwishlist:item=1987644603&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=1987644603&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=1987644603&perks=1926090095,1954620775,3161816588,3230963543
+dimwishlist:item=1987644603&perks=1926090095,247725512,3215448563,3230963543
+
+// Judgment (Adept) - PvE Minors god 4
+// (Truesight HCS, Fastdraw HCS, Steadyhand HCS), (Alloy Magazine, Tactical Mag, Flared Magwell), (Demolitionist, Slideshot, Rapid Hit), (Paracausal Affinity, Timed Payload)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. While adaptives lose out to double burst and precision HCs for pure damage output, Judgment offers the rare choice of sights rather than barrels, if that's your preference. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 44 Range equates to 29.94m ADS and 19.96m hipfire before damage falloff, 42 Stability is ×1.1371 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, and 45 Reload Speed is a 2.65s reload. Recoil Direction is 95, and Zoom is 14, and Magazine size is 9 (max 14). You can use any of the sight perks that don't involve a malus to fill out the stats. In the magazine perk slot, we're looking for something that helps Reload Speed. In the first trait perk column, Demolitionist generate grenade ability energy on kills (and offers an instant reload on grenade use), Slideshot partially refills the mag by 15% of capacity (rounded up) and grants +20 to Range and Stability for 2.5s after a slide, or Rapid Hit at five stacks after five crit hits provides +25 to Stability, and +60 to Reload Speed with a ×0.92 reload animation modifier. For damage, in the second column, Paracausal Affinity boosts damage by ×1.2 for 6s after a darkness energy kill, or Timed Payload provides additional flinch from the delayed explosion, 0.8s after impact, as well a boosting crit damage by ×1.1 and bodyshot damage by ×1.15. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3329218848&perks=106909392,1926090092,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090092,247725512,3215448563
+dimwishlist:item=3329218848&perks=1926090092,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090092,247725512,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,1926090094,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090094,1954620775,3161816588
+dimwishlist:item=3329218848&perks=106909392,1926090094,247725512,3215448563
+dimwishlist:item=3329218848&perks=1926090094,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090094,1954620775,3161816588,3230963543
+dimwishlist:item=3329218848&perks=1926090094,247725512,3215448563,3230963543
+dimwishlist:item=3329218848&perks=106909392,1926090095,3215448563,3523296417
+dimwishlist:item=3329218848&perks=106909392,1926090095,1954620775,3161816588
+dimwishlist:item=3329218848&perks=106909392,1926090095,247725512,3215448563
+dimwishlist:item=3329218848&perks=1926090095,3215448563,3230963543,3523296417
+dimwishlist:item=3329218848&perks=1926090095,1954620775,3161816588,3230963543
+dimwishlist:item=3329218848&perks=1926090095,247725512,3215448563,3230963543
+
 // Nature Reclaimed - PvE Minors 1
 // (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Alloy Magazine, Flared Magwell, Light Mag), (Heal Clip, Rapid Hit), (Incandescent)
 //notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a solar build. Nature Reclaimed is a lightweight, so its frame intrinsic grants +20 Mobility and ×1.0625 movement speed. At base, by comparison with its peers, the stats are pretty decent - d2foundry.gg calculates that 29 Range equates to 69.59m ADS and 34.80m hipfire before damage falloff, 43 Stability is ×1.1517 flinch resist at 100 Resilience, 71 Handling is 0.34s ready, 0.29s ADS and 0.32s stow speed, and 57 Reload Speed is a 1.87s reload. Recoil Direction is 56 and Zoom is 19. You could probably do with recoil direction, so Arrowhead Brake is great, or even Chambered Compensator works as an alternate. In the magazine perk slot, choose something that helps Reload Speed. For a solar build, in the first trait perk column, you do have Heal Clip available for ×2 Cure (and ×1 Cure for allies in 15m) on a reload after a kill but, if you're taking damage at scout rifle ranges you might be doing it wrong so Rapid Hit is a nother possibility - at 5 stacks it provides +25 Stability and +60 Reload Speed with a ×0.92 reload animation multiplier. In the second, there's Incandescent for spreading scorch stacks to build towards ignitions to clear add crowds quickly. The Skulking Wolf origin trait can be useful in PvE to reduce enemy accuracy after you get a kill at low health. Recommended MW: Stability, Reload Speed or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Fire Sprites or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
 dimwishlist:item=2639921391&perks=3017780555,3230963543,4293542123,839105230
 dimwishlist:item=2639921391&perks=3017780555,3230963543,3661387068,4293542123
+
+// A Sudden Death - PvE Majors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (One-Two Punch), (Trench Barrel)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. The unique roll to chase for burst DPS is the double damage trait perk combination of One-Two Punch, for ×2 direct contact melee damage within 1.22s after landing all 12 pellets (10 when enhanced) on target and Trench Barrel for ×1.5 damage (and +30 Handling and Reload Speed) for 5s or three shots. So punch, land three shots, punch, empty the magazine, punch, reload should see the end of most bulky mid-tier enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1976481399&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1976481399&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1976481399&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1976481399&perks=106909392,2360754333,2679249093,4090651448
+
+// A Sudden Death - PvE Majors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (One-Two Punch), (Trench Barrel)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. The unique roll to chase for burst DPS is the double damage trait perk combination of One-Two Punch, for ×2 direct contact melee damage within 1.22s after landing all 12 pellets (10 when enhanced) on target and Trench Barrel for ×1.5 damage (and +30 Handling and Reload Speed) for 5s or three shots. So punch, land three shots, punch, empty the magazine, punch, reload should see the end of most bulky mid-tier enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1904170910&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1904170910&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1904170910&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1904170910&perks=106909392,2360754333,2679249093,4090651448
+
+// A Sudden Death - PvE Minors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Redirection)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Redirection in the second column In the second, to build stacks at two stacks per hit against Minors to a maximum of 30, which you can use at a rate of 3 stacks pers shot for ×1.33 damage against Elites and Bosses (×1.5 for 2 stacks per shot when enhanced!). The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1976481399&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1976481399&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1976481399&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1976481399&perks=106909392,3201496230,3978468247,4090651448
+
+// A Sudden Death - PvE Minors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Redirection)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Redirection in the second column In the second, to build stacks at two stacks per hit against Minors to a maximum of 30, which you can use at a rate of 3 stacks pers shot for ×1.33 damage against Elites and Bosses (×1.5 for 2 stacks per shot when enhanced!). The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1904170910&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1904170910&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1904170910&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1904170910&perks=106909392,3201496230,3978468247,4090651448
+
+// A Sudden Death - PvE Minors god 2
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Destabilizing Rounds)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with void builds. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Destabilizing Rounds, to spread volatility on a kill to quickly clear add crowds, and synergise with Void builds. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1976481399&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1976481399&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1976481399&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1976481399&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death - PvE Minors god 2
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Destabilizing Rounds)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with void builds. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Destabilizing Rounds, to spread volatility on a kill to quickly clear add crowds, and synergise with Void builds. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1904170910&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1904170910&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1904170910&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1904170910&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death (Adept) - PvE Majors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (One-Two Punch), (Trench Barrel)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. The unique roll to chase for burst DPS is the double damage trait perk combination of One-Two Punch, for ×2 direct contact melee damage within 1.22s after landing all 12 pellets (10 when enhanced) on target and Trench Barrel for ×1.5 damage (and +30 Handling and Reload Speed) for 5s or three shots. So punch, land three shots, punch, empty the magazine, punch, reload should see the end of most bulky mid-tier enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1626437786&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=1626437786&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=1626437786&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=1626437786&perks=106909392,2360754333,2679249093,4090651448
+
+// A Sudden Death (Adept) - PvE Majors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (One-Two Punch), (Trench Barrel)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. The unique roll to chase for burst DPS is the double damage trait perk combination of One-Two Punch, for ×2 direct contact melee damage within 1.22s after landing all 12 pellets (10 when enhanced) on target and Trench Barrel for ×1.5 damage (and +30 Handling and Reload Speed) for 5s or three shots. So punch, land three shots, punch, empty the magazine, punch, reload should see the end of most bulky mid-tier enemies. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2764074355&perks=1300023272,2360754333,2679249093,791862061
+dimwishlist:item=2764074355&perks=106909392,1300023272,2360754333,2679249093
+dimwishlist:item=2764074355&perks=2360754333,2679249093,4090651448,791862061
+dimwishlist:item=2764074355&perks=106909392,2360754333,2679249093,4090651448
+
+// A Sudden Death (Adept) - PvE Minors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Redirection)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Redirection in the second column In the second, to build stacks at two stacks per hit against Minors to a maximum of 30, which you can use at a rate of 3 stacks pers shot for ×1.33 damage against Elites and Bosses (×1.5 for 2 stacks per shot when enhanced!). The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1626437786&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=1626437786&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=1626437786&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=1626437786&perks=106909392,3201496230,3978468247,4090651448
+
+// A Sudden Death (Adept) - PvE Minors god 1
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Redirection)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Redirection in the second column In the second, to build stacks at two stacks per hit against Minors to a maximum of 30, which you can use at a rate of 3 stacks pers shot for ×1.33 damage against Elites and Bosses (×1.5 for 2 stacks per shot when enhanced!). The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2764074355&perks=1300023272,3201496230,3978468247,791862061
+dimwishlist:item=2764074355&perks=106909392,1300023272,3201496230,3978468247
+dimwishlist:item=2764074355&perks=3201496230,3978468247,4090651448,791862061
+dimwishlist:item=2764074355&perks=106909392,3201496230,3978468247,4090651448
+
+// A Sudden Death (Adept) - PvE Minors god 2
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Destabilizing Rounds)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with void builds. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Destabilizing Rounds, to spread volatility on a kill to quickly clear add crowds, and synergise with Void builds. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1626437786&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=1626437786&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=1626437786&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=1626437786&perks=106909392,2048641572,3978468247,4090651448
+
+// A Sudden Death (Adept) - PvE Minors god 2
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag, Light Mag), (Discord), (Destabilizing Rounds)
+//notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with void builds. Aggressive frame shotguns maybe aren't the optimum for damage, but A Sudden Death has a couple of trait perk combinations that make it worth considering. At base, by comparison with its peers, the stats aren't good - d2foundry.gg calculates that 24 Range equates to 4.48m before damage falloff, 26 Stability is ×1.1067 flinch resist at 100 Resilience, 24 Handling is 0.46s ready, 0.40s ADS and 0.49s stow speed, and 32 Reload Speed is a 0.86s per shell reload. Recoil Direction is 74, and Zoom is 12, and Magazine size is 4 (max 6). With 0/1/2/3 Reserves mods, total ammo is 21/23/25/26 (max 27). Use the barrel perk to improve Handling, or close up pellet spread a little. In the magazine perk slot, Assault Mag improves RPM to 60RPM, or Tactical Mag plus Backup Mag increases the mag size to maximum. For add clearing, and occasional burst damage against bulkier enemies, the trait perk combination of Discord in the first trait perk column for bypassing the small magazine, granting free ammo on a kill for 7s, after a kill with another weapon. Pair that with Destabilizing Rounds, to spread volatility on a kill to quickly clear add crowds, and synergise with Void builds. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2764074355&perks=1300023272,2048641572,3978468247,791862061
+dimwishlist:item=2764074355&perks=106909392,1300023272,2048641572,3978468247
+dimwishlist:item=2764074355&perks=2048641572,3978468247,4090651448,791862061
+dimwishlist:item=2764074355&perks=106909392,2048641572,3978468247,4090651448
 
 // Greasy Luck
 //notes:warlockmaggie (PvE / M+KB / Controller): "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you." Recommended MW: Shield Duration or Range.|tags:pve,mkb,controller

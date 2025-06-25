@@ -1,6 +1,210 @@
 title:MKB PvE !Backups Perks - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Judgment
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=2226572694&perks=124408337,1955165503
+dimwishlist:item=2226572694&perks=11612903,124408337
+dimwishlist:item=2226572694&perks=124408337,3215448563
+dimwishlist:item=2226572694&perks=1955165503,3523296417
+dimwishlist:item=2226572694&perks=11612903,3523296417
+dimwishlist:item=2226572694&perks=3215448563,3523296417
+dimwishlist:item=2226572694&perks=1955165503,247725512
+dimwishlist:item=2226572694&perks=11612903,247725512
+dimwishlist:item=2226572694&perks=247725512,3215448563
+
+// Judgment
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=1773934241&perks=124408337,1955165503
+dimwishlist:item=1773934241&perks=11612903,124408337
+dimwishlist:item=1773934241&perks=124408337,3215448563
+dimwishlist:item=1773934241&perks=1955165503,3523296417
+dimwishlist:item=1773934241&perks=11612903,3523296417
+dimwishlist:item=1773934241&perks=3215448563,3523296417
+dimwishlist:item=1773934241&perks=1955165503,247725512
+dimwishlist:item=1773934241&perks=11612903,247725512
+dimwishlist:item=1773934241&perks=247725512,3215448563
+
+// Judgment (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=1987644603&perks=124408337,1955165503
+dimwishlist:item=1987644603&perks=11612903,124408337
+dimwishlist:item=1987644603&perks=124408337,3215448563
+dimwishlist:item=1987644603&perks=1955165503,3523296417
+dimwishlist:item=1987644603&perks=11612903,3523296417
+dimwishlist:item=1987644603&perks=3215448563,3523296417
+dimwishlist:item=1987644603&perks=1955165503,247725512
+dimwishlist:item=1987644603&perks=11612903,247725512
+dimwishlist:item=1987644603&perks=247725512,3215448563
+
+// Judgment (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "It's no secret that I love Stasis; so naturally, this being the first on the list is exciting! RotN Judgment trades out a few perks in each column to make some notable combos. There's the self-sustaining Headstone/Rimestealer, the classic Demolitionist/Adrenaline Junkie, or Paracausal Affinity with an easy-to-proc 20% damage buff. Stats are still a little lacking compared to other 140s in this slot, especially Stability, so be sure to prioritize a little extra there." Recommended MW: Stability or Range.|tags:pve,mkb,controller
+dimwishlist:item=3329218848&perks=124408337,1955165503
+dimwishlist:item=3329218848&perks=11612903,124408337
+dimwishlist:item=3329218848&perks=124408337,3215448563
+dimwishlist:item=3329218848&perks=1955165503,3523296417
+dimwishlist:item=3329218848&perks=11612903,3523296417
+dimwishlist:item=3329218848&perks=3215448563,3523296417
+dimwishlist:item=3329218848&perks=1955165503,247725512
+dimwishlist:item=3329218848&perks=11612903,247725512
+dimwishlist:item=3329218848&perks=247725512,3215448563
+
+// Relentless
+//notes:warlockmaggie (PvE / M+KB / Controller): "High-Impact Pulse Rifles may be a little less common in PvE but don't pass up this workhorse of a gun! Firefly shows up as a 3rd column perk, granting additional reload and a Solar explosion on a precision kill. This pairs amazingly with Hatchling or Elemental Honing (you get 2 stacks if you get kill from the solar explosion). Tear and Slice are both options for applying Sever, but that's about it... seriously, just get Firefly in that 3rd column!" Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3733988413&perks=3824105627,831391274
+dimwishlist:item=3733988413&perks=1089671869,3824105627
+dimwishlist:item=3733988413&perks=3215448563,3824105627
+dimwishlist:item=3733988413&perks=831391274,960997401
+dimwishlist:item=3733988413&perks=1089671869,960997401
+dimwishlist:item=3733988413&perks=3215448563,960997401
+dimwishlist:item=3733988413&perks=831391274,923806249
+dimwishlist:item=3733988413&perks=1089671869,923806249
+dimwishlist:item=3733988413&perks=3215448563,923806249
+
+// Relentless
+//notes:warlockmaggie (PvE / M+KB / Controller): "High-Impact Pulse Rifles may be a little less common in PvE but don't pass up this workhorse of a gun! Firefly shows up as a 3rd column perk, granting additional reload and a Solar explosion on a precision kill. This pairs amazingly with Hatchling or Elemental Honing (you get 2 stacks if you get kill from the solar explosion). Tear and Slice are both options for applying Sever, but that's about it... seriously, just get Firefly in that 3rd column!" Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=3681280908&perks=3824105627,831391274
+dimwishlist:item=3681280908&perks=1089671869,3824105627
+dimwishlist:item=3681280908&perks=3215448563,3824105627
+dimwishlist:item=3681280908&perks=831391274,960997401
+dimwishlist:item=3681280908&perks=1089671869,960997401
+dimwishlist:item=3681280908&perks=3215448563,960997401
+dimwishlist:item=3681280908&perks=831391274,923806249
+dimwishlist:item=3681280908&perks=1089671869,923806249
+dimwishlist:item=3681280908&perks=3215448563,923806249
+
+// Relentless (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "High-Impact Pulse Rifles may be a little less common in PvE but don't pass up this workhorse of a gun! Firefly shows up as a 3rd column perk, granting additional reload and a Solar explosion on a precision kill. This pairs amazingly with Hatchling or Elemental Honing (you get 2 stacks if you get kill from the solar explosion). Tear and Slice are both options for applying Sever, but that's about it... seriously, just get Firefly in that 3rd column!" Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1827058652&perks=3824105627,831391274
+dimwishlist:item=1827058652&perks=1089671869,3824105627
+dimwishlist:item=1827058652&perks=3215448563,3824105627
+dimwishlist:item=1827058652&perks=831391274,960997401
+dimwishlist:item=1827058652&perks=1089671869,960997401
+dimwishlist:item=1827058652&perks=3215448563,960997401
+dimwishlist:item=1827058652&perks=831391274,923806249
+dimwishlist:item=1827058652&perks=1089671869,923806249
+dimwishlist:item=1827058652&perks=3215448563,923806249
+
+// Relentless (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "High-Impact Pulse Rifles may be a little less common in PvE but don't pass up this workhorse of a gun! Firefly shows up as a 3rd column perk, granting additional reload and a Solar explosion on a precision kill. This pairs amazingly with Hatchling or Elemental Honing (you get 2 stacks if you get kill from the solar explosion). Tear and Slice are both options for applying Sever, but that's about it... seriously, just get Firefly in that 3rd column!" Recommended MW: Stability or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1066598837&perks=3824105627,831391274
+dimwishlist:item=1066598837&perks=1089671869,3824105627
+dimwishlist:item=1066598837&perks=3215448563,3824105627
+dimwishlist:item=1066598837&perks=831391274,960997401
+dimwishlist:item=1066598837&perks=1089671869,960997401
+dimwishlist:item=1066598837&perks=3215448563,960997401
+dimwishlist:item=1066598837&perks=831391274,923806249
+dimwishlist:item=1066598837&perks=1089671869,923806249
+dimwishlist:item=1066598837&perks=3215448563,923806249
+
+// A Sudden Death
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1976481399&perks=2360754333,2679249093
+dimwishlist:item=1976481399&perks=2679249093,3201496230
+dimwishlist:item=1976481399&perks=2048641572,2679249093
+dimwishlist:item=1976481399&perks=2360754333,3978468247
+dimwishlist:item=1976481399&perks=3201496230,3978468247
+dimwishlist:item=1976481399&perks=2048641572,3978468247
+dimwishlist:item=1976481399&perks=2360754333,776531651
+dimwishlist:item=1976481399&perks=3201496230,776531651
+dimwishlist:item=1976481399&perks=2048641572,776531651
+
+// A Sudden Death
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1904170910&perks=2360754333,2679249093
+dimwishlist:item=1904170910&perks=2679249093,3201496230
+dimwishlist:item=1904170910&perks=2048641572,2679249093
+dimwishlist:item=1904170910&perks=2360754333,3978468247
+dimwishlist:item=1904170910&perks=3201496230,3978468247
+dimwishlist:item=1904170910&perks=2048641572,3978468247
+dimwishlist:item=1904170910&perks=2360754333,776531651
+dimwishlist:item=1904170910&perks=3201496230,776531651
+dimwishlist:item=1904170910&perks=2048641572,776531651
+
+// A Sudden Death (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=1626437786&perks=2360754333,2679249093
+dimwishlist:item=1626437786&perks=2679249093,3201496230
+dimwishlist:item=1626437786&perks=2048641572,2679249093
+dimwishlist:item=1626437786&perks=2360754333,3978468247
+dimwishlist:item=1626437786&perks=3201496230,3978468247
+dimwishlist:item=1626437786&perks=2048641572,3978468247
+dimwishlist:item=1626437786&perks=2360754333,776531651
+dimwishlist:item=1626437786&perks=3201496230,776531651
+dimwishlist:item=1626437786&perks=2048641572,776531651
+
+// A Sudden Death (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "A Sudden Death is what you'll be giving unfortunate enemies with this shotgun! As the ONLY gun with the combo of Trench Barrel and One-Two Punch, definitely try to pick one up as the two perks do synergize quite well! Otherwise, the extremely rare combo of Discord and Redirection can rip and tear through minor and major enemies with ease (Though I have enjoyed Discord and Destab Rounds for general add-clear too)!" Recommended MW: Handling or Reload Speed.|tags:pve,mkb,controller
+dimwishlist:item=2764074355&perks=2360754333,2679249093
+dimwishlist:item=2764074355&perks=2679249093,3201496230
+dimwishlist:item=2764074355&perks=2048641572,2679249093
+dimwishlist:item=2764074355&perks=2360754333,3978468247
+dimwishlist:item=2764074355&perks=3201496230,3978468247
+dimwishlist:item=2764074355&perks=2048641572,3978468247
+dimwishlist:item=2764074355&perks=2360754333,776531651
+dimwishlist:item=2764074355&perks=3201496230,776531651
+dimwishlist:item=2764074355&perks=2048641572,776531651
+
+// Prosecutor
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=880829467&perks=3218042543,684456054
+dimwishlist:item=880829467&perks=684456054,95528736
+dimwishlist:item=880829467&perks=3215448563,684456054
+dimwishlist:item=880829467&perks=2173046394,684456054
+dimwishlist:item=880829467&perks=1820235745,3218042543
+dimwishlist:item=880829467&perks=1820235745,95528736
+dimwishlist:item=880829467&perks=1820235745,3215448563
+dimwishlist:item=880829467&perks=1820235745,2173046394
+dimwishlist:item=880829467&perks=2848615171,3218042543
+dimwishlist:item=880829467&perks=2848615171,95528736
+dimwishlist:item=880829467&perks=2848615171,3215448563
+dimwishlist:item=880829467&perks=2173046394,2848615171
+
+// Prosecutor
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=2129814338&perks=3218042543,684456054
+dimwishlist:item=2129814338&perks=684456054,95528736
+dimwishlist:item=2129814338&perks=3215448563,684456054
+dimwishlist:item=2129814338&perks=2173046394,684456054
+dimwishlist:item=2129814338&perks=1820235745,3218042543
+dimwishlist:item=2129814338&perks=1820235745,95528736
+dimwishlist:item=2129814338&perks=1820235745,3215448563
+dimwishlist:item=2129814338&perks=1820235745,2173046394
+dimwishlist:item=2129814338&perks=2848615171,3218042543
+dimwishlist:item=2129814338&perks=2848615171,95528736
+dimwishlist:item=2129814338&perks=2848615171,3215448563
+dimwishlist:item=2129814338&perks=2173046394,2848615171
+
+// Prosecutor (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=4025177550&perks=3218042543,684456054
+dimwishlist:item=4025177550&perks=684456054,95528736
+dimwishlist:item=4025177550&perks=3215448563,684456054
+dimwishlist:item=4025177550&perks=2173046394,684456054
+dimwishlist:item=4025177550&perks=1820235745,3218042543
+dimwishlist:item=4025177550&perks=1820235745,95528736
+dimwishlist:item=4025177550&perks=1820235745,3215448563
+dimwishlist:item=4025177550&perks=1820235745,2173046394
+dimwishlist:item=4025177550&perks=2848615171,3218042543
+dimwishlist:item=4025177550&perks=2848615171,95528736
+dimwishlist:item=4025177550&perks=2848615171,3215448563
+dimwishlist:item=4025177550&perks=2173046394,2848615171
+
+// Prosecutor (Adept)
+//notes:warlockmaggie (PvE / M+KB / Controller): "Prosecutor is an Arc Precision auto rifle with a number of solid options for PvE, especially the tried and true combos of Eddy Current with Rolling Storm or Dragonfly with Voltshot (that second one is limited to Raid/Dungeon/Trials weapons). For more generic options, Subsistence and Onslaught very good pairing (though Paracausal Affinity works here too). Well-rounded stats means you can safely pick whatever Barrels and Magazines, but I'll be leaning towards Reload and Stability." Recommended MW: Reload Speed or Stability.|tags:pve,mkb,controller
+dimwishlist:item=749483159&perks=3218042543,684456054
+dimwishlist:item=749483159&perks=684456054,95528736
+dimwishlist:item=749483159&perks=3215448563,684456054
+dimwishlist:item=749483159&perks=2173046394,684456054
+dimwishlist:item=749483159&perks=1820235745,3218042543
+dimwishlist:item=749483159&perks=1820235745,95528736
+dimwishlist:item=749483159&perks=1820235745,3215448563
+dimwishlist:item=749483159&perks=1820235745,2173046394
+dimwishlist:item=749483159&perks=2848615171,3218042543
+dimwishlist:item=749483159&perks=2848615171,95528736
+dimwishlist:item=749483159&perks=2848615171,3215448563
+dimwishlist:item=749483159&perks=2173046394,2848615171
+
 // Prosecutor - PvE Minors god 1
 // (Hammer-Forged Rifling, Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Magazine, Flared Magwell, Light Mag), (Attrition Orbs, Dragonfly, Eddy Current), (Paracausal Affinity)
 //notes:Inspired by @PodvsEnemies episode 141 from 27 May 2025 (https://open.spotify.com/episode/51wAzrVIRJRsBHGTMCLZ0n?si=fade7bb615184d3e) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for clearing Minor adds in both general at-level or better, and end-game underleveled content. Prosecutor is a precision AR, with the frame intrinsic offering a more vertical recoil. At base, by comparison with its peers, the stats are pretty good - d2foundry.gg calculates that 60 Range equates to 29.20m ADS and 18.25m hipfire before damage falloff, 42 Stability is ×1.1619 flinch resist at 100 Resilience, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, and 45 Reload Speed is a 1.89s reload. Recoil Direction is 69 (but you can ignore that with the frame intrinsic), and Zoom is 16, and Magazine size is 32 (max 44). With it being relatively easy to control you can push out the Range, or improve Handling. In the magazine perk slot, any of the combat effect mags are great or choose something that helps Reload Speed. For an all-round general use roll, in the first trait perk column Attrition Orbs will generate a power orb to proc armor mods after hitting enemies with roughly 2/3 of your magazine, Dragonfly generates a 4.5m Arc AoE explosion on crit kills, or Eddy Current boosts Reload Speed by +20 after sprinting for 1.5s (or +60 instantly when amplified) with a ×0.95 reload and handling animation. In the second column, for damage, Paracausal Affinity provides a ×1.2 boost for 6s following a light energy kill. The Crossing Over origin trait is a little strange, providing extra range and handling in the top half of the mag, and a damage boost in the bottom starting at ×1.015 at 50% and ×1.03 with your penultimate and last shot, while Gravity Well can be very useful to pick up ammo bricks within 5m on a manual reload. Recommended MW: Range or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
