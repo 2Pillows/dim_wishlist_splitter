@@ -171,6 +171,18 @@ def get_wishlist_config(keys: "Keys") -> None:
             keys.INC_TAGS_KEY: {"ctr", "pvp"},
             keys.PATH_KEY: "PandaPaxxy_CTR_PvP.txt",
         },
+        # -------------------------------------------
+        # Author Rolls
+        # show rolls from Mercules904, PandaPaxxy, WarlockMaggie, and Legoleflash
+        {
+            keys.AUTHORS_KEY: {
+                "legoleflash",
+                "mercules904",
+                "pandapaxxy",
+                "warlockmaggie",
+            },
+            keys.PATH_KEY: "Legoleflash_Mercules904_PandaPaxxy_WarlockMaggie.txt",
+        },
     ]
 
     # Paths for all wishlist files, referenced by website
