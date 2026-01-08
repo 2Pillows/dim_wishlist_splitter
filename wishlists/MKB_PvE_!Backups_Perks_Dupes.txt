@@ -1,6 +1,486 @@
 title:MKB PvE !Backups Perks Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Permafrost (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is about two or three years too late. A great looking add clear and utility GL, held back by the fact that area denial frames exist and invalidate this thing's entire purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going for one in the hopes that the archetype can make a comeback." Recommended MW: Reload, Blast Radius.|tags:pve,god-pve
+dimwishlist:item=2316331767&perks=243981275,2922950962
+dimwishlist:item=2316331767&perks=1955165503,2922950962
+
+// Permafrost (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is about two or three years too late. A great looking add clear and utility GL, held back by the fact that area denial frames exist and invalidate this thing's entire purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going for one in the hopes that the archetype can make a comeback." Recommended MW: Reload, Blast Radius.|tags:pve,god-pve
+dimwishlist:item=2922964484&perks=243981275,2922950962
+dimwishlist:item=2922964484&perks=1955165503,2922950962
+
+// Permafrost (Season 28)
+//notes:SpaceMonkey (PvE): "This is about two or three years too late. A great looking add clear and utility GL, held back by the fact that area denial frames exist and invalidate this thing's entire purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going for one in the hopes that the archetype can make a comeback." Recommended MW: Reload, Blast Radius.|tags:pve
+dimwishlist:item=2316331767&perks=243981275,2922950962
+dimwishlist:item=2316331767&perks=1955165503,2922950962
+
+// Permafrost (Season 28)
+//notes:SpaceMonkey (PvE): "This is about two or three years too late. A great looking add clear and utility GL, held back by the fact that area denial frames exist and invalidate this thing's entire purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going for one in the hopes that the archetype can make a comeback." Recommended MW: Reload, Blast Radius.|tags:pve
+dimwishlist:item=2922964484&perks=243981275,2922950962
+dimwishlist:item=2922964484&perks=1955165503,2922950962
+
+// Fimbulwinter Stitch (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still a totally serviceable sidearm for arc enthusiasts." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=2645567209&perks=1511100135,3966416502
+dimwishlist:item=2645567209&perks=1511100135,2173046394
+
+// Fimbulwinter Stitch (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still a totally serviceable sidearm for arc enthusiasts." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3685829362&perks=1511100135,3966416502
+dimwishlist:item=3685829362&perks=1511100135,2173046394
+
+// Fimbulwinter Stitch (Season 28)
+//notes:SpaceMonkey (PvE): "Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still a totally serviceable sidearm for arc enthusiasts." Recommended MW: Reload, Range.|tags:pve
+dimwishlist:item=2645567209&perks=1511100135,3966416502
+dimwishlist:item=2645567209&perks=1511100135,2173046394
+
+// Fimbulwinter Stitch (Season 28)
+//notes:SpaceMonkey (PvE): "Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still a totally serviceable sidearm for arc enthusiasts." Recommended MW: Reload, Range.|tags:pve
+dimwishlist:item=3685829362&perks=1511100135,3966416502
+dimwishlist:item=3685829362&perks=1511100135,2173046394
+
+// Mistral Lift (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "LFRs are pretty terrible right now, but if they were to come back into meta this is a legitimate contender with Scintillation as the most viable option. The utility potential of having withering gaze in the first column paired with a damage perk is honestly pretty intriguing." Recommended MW: Charge Time.|tags:pve,god-pve
+dimwishlist:item=766122634&perks=3078487919,3987942396
+
+// Mistral Lift (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "LFRs are pretty terrible right now, but if they were to come back into meta this is a legitimate contender with Scintillation as the most viable option. The utility potential of having withering gaze in the first column paired with a damage perk is honestly pretty intriguing." Recommended MW: Charge Time.|tags:pve,god-pve
+dimwishlist:item=270610849&perks=3078487919,3987942396
+
+// Mistral Lift (Season 28)
+//notes:SpaceMonkey (PvE): "LFRs are pretty terrible right now, but if they were to come back into meta this is a legitimate contender with Scintillation as the most viable option. The utility potential of having withering gaze in the first column paired with a damage perk is honestly pretty intriguing." Recommended MW: Charge Time, Reload, Handling.|tags:pve
+dimwishlist:item=766122634&perks=3078487919,3987942396
+
+// Mistral Lift (Season 28)
+//notes:SpaceMonkey (PvE): "LFRs are pretty terrible right now, but if they were to come back into meta this is a legitimate contender with Scintillation as the most viable option. The utility potential of having withering gaze in the first column paired with a damage perk is honestly pretty intriguing." Recommended MW: Charge Time, Reload, Handling.|tags:pve
+dimwishlist:item=270610849&perks=3078487919,3987942396
+
+// Conspiracy Honed (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "At base this is a decent rapid-fire sniper with good dps perks. That alone would have made this a chase-worthy addition to any arsenal. But to top it off this is a dynamic heat weapon, so if you time your reload/second mag dump correctly you can double your magazine size for free, leading to excellent total damage and a DPS value that is truly noteworthy. This is one of the best weapons in the game." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=4062069077&perks=1546637391,3078487919
+
+// Conspiracy Honed (Season 28)
+//notes:SpaceMonkey (PvE): "At base this is a decent rapid-fire sniper with good dps perks. That alone would have made this a chase-worthy addition to any arsenal. But to top it off this is a dynamic heat weapon, so if you time your reload/second mag dump correctly you can double your magazine size for free, leading to excellent total damage and a DPS value that is truly noteworthy. This is one of the best weapons in the game." Recommended MW: Reload, Cooling Efficiency, Handling.|tags:pve
+dimwishlist:item=4062069077&perks=1546637391,3078487919
+
+// High Tyrant (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing wound up in the wrong column, so it can't get the classic combo that would have pushed it over the edge. As a blaster-type weapon this will of course feel great." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=2873508409&perks=2048641572,657025441
+
+// High Tyrant (Season 28)
+//notes:SpaceMonkey (PvE): "This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing wound up in the wrong column, so it can't get the classic combo that would have pushed it over the edge. As a blaster-type weapon this will of course feel great." Recommended MW: Reload, Cooling Efficiency, Handling, Range.|tags:pve
+dimwishlist:item=2873508409&perks=2048641572,657025441
+
+// Voltaic Shade (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Another very good weapon from this dungeon. Rapid-fire scouts are the only members of the weapon family that really get to shine right now, and this is a blaster on top of that. Some very good rolls for both PvE and PvP" Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=71057630&perks=2173046394,3966416502
+
+// Voltaic Shade (Season 28)
+//notes:SpaceMonkey (PvE): "Another very good weapon from this dungeon. Rapid-fire scouts are the only members of the weapon family that really get to shine right now, and this is a blaster on top of that. Some very good rolls for both PvE and PvP" Recommended MW: Reload, Cooling Efficiency, Handling.|tags:pve
+dimwishlist:item=71057630&perks=2173046394,3966416502
+
+// Zealous Ideal (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Precision autos are not very good right now, but this weapon is saved by being a blaster and just naturally being better than every other auto rifle basically. Overall this is a fine weapon. Burning Ambition is also decent for supporting a hellion warlock build, much like Ahab Char." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=1863583117&perks=3017780555,4293542123
+
+// Zealous Ideal (Season 28)
+//notes:SpaceMonkey (PvE): "Precision autos are not very good right now, but this weapon is saved by being a blaster and just naturally being better than every other auto rifle basically. Overall this is a fine weapon. Burning Ambition is also decent for supporting a hellion warlock build, much like Ahab Char." Recommended MW: Reload, Cooling Efficiency, Range, Handling.|tags:pve
+dimwishlist:item=1863583117&perks=3017780555,4293542123
+
+// Bitter End (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "The idea of a blaster machine gun with built in reconstruction (via cooling) is very cool. However column 1 misses so hard for this gun it's hard to reconcile. With trickle charge this gun is kind of a baby thunderlord when shooting from behind a storm's keep barricade, but that's a very specific use case. Overall this should be a good gun, just like all the weapons from the dungeon, but it could have been better." Recommended MW: Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=954563454&perks=1115162408,557221067
+
+// Bitter End (Season 28)
+//notes:SpaceMonkey (PvE): "The idea of a blaster machine gun with built in reconstruction (via cooling) is very cool. However column 1 misses so hard for this gun it's hard to reconcile. With trickle charge this gun is kind of a baby thunderlord when shooting from behind a storm's keep barricade, but that's a very specific use case. Overall this should be a good gun, just like all the weapons from the dungeon, but it could have been better." Recommended MW: Cooling Efficiency, Handling, Reload.|tags:pve
+dimwishlist:item=954563454&perks=1115162408,557221067
+
+// Sullen Claw (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Very cool sword, especially this season with all the support for swords in the artifact. The double damage perks here are great, and make this a good "no setup required" heavy sword DPS option. Eager Edge is probably the actual draw here though as the sword gets way more ammo at base than other frames and the light attack is both a faster animaton and more aggressive forward momentum." Recommended MW: Impact.|tags:pve,god-pve
+dimwishlist:item=1085743380&perks=1546637391,3913600130
+dimwishlist:item=1085743380&perks=1546637391,2048641572
+dimwishlist:item=1085743380&perks=2077819806,3913600130
+dimwishlist:item=1085743380&perks=2048641572,2077819806
+
+// Sullen Claw (Season 28)
+//notes:SpaceMonkey (PvE): "Very cool sword, especially this season with all the support for swords in the artifact. The double damage perks here are great, and make this a good "no setup required" heavy sword DPS option. Eager Edge is probably the actual draw here though as the sword gets way more ammo at base than other frames and the light attack is both a faster animaton and more aggressive forward momentum." Recommended MW: Impact.|tags:pve
+dimwishlist:item=1085743380&perks=1546637391,3913600130
+dimwishlist:item=1085743380&perks=1546637391,2048641572
+dimwishlist:item=1085743380&perks=2077819806,3913600130
+dimwishlist:item=1085743380&perks=2048641572,2077819806
+
+// M-17 "Fast Talker" (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is a really hard weapon to evaluate for both PvE and PvP as it is our only Balanced Heat weapon (at least until the dungeon comes out). Remember that Balanced weapons need to be manually reloaded/vented just before overheating to get the massive reload bonus. If you're good at that little minigame then this is the best Peacekeepers DPS roll in the kinetic slot (you really want Accelerated Assault for that purpose). This is probably just fine in roam content so if you enjoy it go ahead. For PvP this could be quite good or excessively mediocre. It has the rolls for it, just a question of how the frame performs. After doing some testing basically any target lock fast talker with accelerated assault is slightly superior to antedate for peacekeepers dps. With that in mind if you go attrition orbs then you'll be consistently getting some good utility while doing a solid rotation. That being said cooling baubles has the potential to go absolutely nuts if you can pick up some orbs or elemental pickups while strafing and shooting: we're talking like 2-5x longer single mag than either antedate or a non-baubles fast talker. So the way to look at it is that cooling baubles won't always work, but the gun at base will still be slightly better than an antedate and it has the potential to every once in awhile go nuts on dps. Conversely attrition orbs has a lower ceiling but will more consistently pump out utility. Both good options, just depends on your roll and your personal preference." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=2770035786&perks=365154968,3932949589
+dimwishlist:item=2770035786&perks=243981275,365154968
+
+// M-17 "Fast Talker" (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is a really hard weapon to evaluate for both PvE and PvP as it is our only Balanced Heat weapon (at least until the dungeon comes out). Remember that Balanced weapons need to be manually reloaded/vented just before overheating to get the massive reload bonus. If you're good at that little minigame then this is the best Peacekeepers DPS roll in the kinetic slot (you really want Accelerated Assault for that purpose). This is probably just fine in roam content so if you enjoy it go ahead. For PvP this could be quite good or excessively mediocre. It has the rolls for it, just a question of how the frame performs. After doing some testing basically any target lock fast talker with accelerated assault is slightly superior to antedate for peacekeepers dps. With that in mind if you go attrition orbs then you'll be consistently getting some good utility while doing a solid rotation. That being said cooling baubles has the potential to go absolutely nuts if you can pick up some orbs or elemental pickups while strafing and shooting: we're talking like 2-5x longer single mag than either antedate or a non-baubles fast talker. So the way to look at it is that cooling baubles won't always work, but the gun at base will still be slightly better than an antedate and it has the potential to every once in awhile go nuts on dps. Conversely attrition orbs has a lower ceiling but will more consistently pump out utility. Both good options, just depends on your roll and your personal preference." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=1419158093&perks=365154968,3932949589
+dimwishlist:item=1419158093&perks=243981275,365154968
+
+// M-17 "Fast Talker" (Season 28)
+//notes:SpaceMonkey (PvE): "This is a really hard weapon to evaluate for both PvE and PvP as it is our only Balanced Heat weapon (at least until the dungeon comes out). Remember that Balanced weapons need to be manually reloaded/vented just before overheating to get the massive reload bonus. If you're good at that little minigame then this is the best Peacekeepers DPS roll in the kinetic slot (you really want Accelerated Assault for that purpose). This is probably just fine in roam content so if you enjoy it go ahead. For PvP this could be quite good or excessively mediocre. It has the rolls for it, just a question of how the frame performs. After doing some testing basically any target lock fast talker with accelerated assault is slightly superior to antedate for peacekeepers dps. With that in mind if you go attrition orbs then you'll be consistently getting some good utility while doing a solid rotation. That being said cooling baubles has the potential to go absolutely nuts if you can pick up some orbs or elemental pickups while strafing and shooting: we're talking like 2-5x longer single mag than either antedate or a non-baubles fast talker. So the way to look at it is that cooling baubles won't always work, but the gun at base will still be slightly better than an antedate and it has the potential to every once in awhile go nuts on dps. Conversely attrition orbs has a lower ceiling but will more consistently pump out utility. Both good options, just depends on your roll and your personal preference." Recommended MW: Reload, Cooling Efficiency, Range, Handling.|tags:pve
+dimwishlist:item=2770035786&perks=365154968,3932949589
+dimwishlist:item=2770035786&perks=243981275,365154968
+
+// M-17 "Fast Talker" (Season 28)
+//notes:SpaceMonkey (PvE): "This is a really hard weapon to evaluate for both PvE and PvP as it is our only Balanced Heat weapon (at least until the dungeon comes out). Remember that Balanced weapons need to be manually reloaded/vented just before overheating to get the massive reload bonus. If you're good at that little minigame then this is the best Peacekeepers DPS roll in the kinetic slot (you really want Accelerated Assault for that purpose). This is probably just fine in roam content so if you enjoy it go ahead. For PvP this could be quite good or excessively mediocre. It has the rolls for it, just a question of how the frame performs. After doing some testing basically any target lock fast talker with accelerated assault is slightly superior to antedate for peacekeepers dps. With that in mind if you go attrition orbs then you'll be consistently getting some good utility while doing a solid rotation. That being said cooling baubles has the potential to go absolutely nuts if you can pick up some orbs or elemental pickups while strafing and shooting: we're talking like 2-5x longer single mag than either antedate or a non-baubles fast talker. So the way to look at it is that cooling baubles won't always work, but the gun at base will still be slightly better than an antedate and it has the potential to every once in awhile go nuts on dps. Conversely attrition orbs has a lower ceiling but will more consistently pump out utility. Both good options, just depends on your roll and your personal preference." Recommended MW: Reload, Cooling Efficiency, Range, Handling.|tags:pve
+dimwishlist:item=1419158093&perks=365154968,3932949589
+dimwishlist:item=1419158093&perks=243981275,365154968
+
+// Modified B-7 Pistol (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is ostensibly a better version of the best PvE hand cannon archetype. The only thing it is missing is a damage perk, but it has some decent utility and splash. With the inherent good damage profile of hand cannons, the bonus of being a heat weapon, and being the best archetype of hand cannons - this should be a very solid candidate for all PvE content." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=1872906663&perks=124408337,1955165503
+dimwishlist:item=1872906663&perks=1955165503,2922950962
+dimwishlist:item=1872906663&perks=124408337,3824105627
+dimwishlist:item=1872906663&perks=2922950962,3824105627
+
+// Modified B-7 Pistol (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is ostensibly a better version of the best PvE hand cannon archetype. The only thing it is missing is a damage perk, but it has some decent utility and splash. With the inherent good damage profile of hand cannons, the bonus of being a heat weapon, and being the best archetype of hand cannons - this should be a very solid candidate for all PvE content." Recommended MW: Reload, Cooling Efficiency.|tags:pve,god-pve
+dimwishlist:item=3146657388&perks=124408337,1955165503
+dimwishlist:item=3146657388&perks=1955165503,2922950962
+dimwishlist:item=3146657388&perks=124408337,3824105627
+dimwishlist:item=3146657388&perks=2922950962,3824105627
+
+// Modified B-7 Pistol (Season 28)
+//notes:SpaceMonkey (PvE): "This is ostensibly a better version of the best PvE hand cannon archetype. The only thing it is missing is a damage perk, but it has some decent utility and splash. With the inherent good damage profile of hand cannons, the bonus of being a heat weapon, and being the best archetype of hand cannons - this should be a very solid candidate for all PvE content." Recommended MW: Reload, Cooling Efficiency, Range, Handling.|tags:pve
+dimwishlist:item=1872906663&perks=124408337,1955165503
+dimwishlist:item=1872906663&perks=1955165503,2922950962
+dimwishlist:item=1872906663&perks=124408337,3824105627
+dimwishlist:item=1872906663&perks=2922950962,3824105627
+
+// Modified B-7 Pistol (Season 28)
+//notes:SpaceMonkey (PvE): "This is ostensibly a better version of the best PvE hand cannon archetype. The only thing it is missing is a damage perk, but it has some decent utility and splash. With the inherent good damage profile of hand cannons, the bonus of being a heat weapon, and being the best archetype of hand cannons - this should be a very solid candidate for all PvE content." Recommended MW: Reload, Cooling Efficiency, Range, Handling.|tags:pve
+dimwishlist:item=3146657388&perks=124408337,1955165503
+dimwishlist:item=3146657388&perks=1955165503,2922950962
+dimwishlist:item=3146657388&perks=124408337,3824105627
+dimwishlist:item=3146657388&perks=2922950962,3824105627
+
+// Compact Defender (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is now the best sidearm in the game. The archetype is not the strongest for either sidearms or the dynamic heat family, but the perk combination and the natural strength of the sidearms (highest damage primary weapons) can't be beat. This is a very impressive primary weapon. No other blaster from this season really rewards you as demonstrably as this one does for using the Dynamic Heat Limiter proc in just general play." Recommended MW: Reload, Range.|tags:pve,god-pve
+dimwishlist:item=2659286158&perks=2048641572,776531651
+
+// Compact Defender (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is now the best sidearm in the game. The archetype is not the strongest for either sidearms or the dynamic heat family, but the perk combination and the natural strength of the sidearms (highest damage primary weapons) can't be beat. This is a very impressive primary weapon. No other blaster from this season really rewards you as demonstrably as this one does for using the Dynamic Heat Limiter proc in just general play." Recommended MW: Reload, Range.|tags:pve,god-pve
+dimwishlist:item=2819552809&perks=2048641572,776531651
+
+// Compact Defender (Season 28)
+//notes:SpaceMonkey (PvE): "This is now the best sidearm in the game. The archetype is not the strongest for either sidearms or the dynamic heat family, but the perk combination and the natural strength of the sidearms (highest damage primary weapons) can't be beat. This is a very impressive primary weapon. No other blaster from this season really rewards you as demonstrably as this one does for using the Dynamic Heat Limiter proc in just general play." Recommended MW: Reload, Range, Cooling Efficiency.|tags:pve
+dimwishlist:item=2659286158&perks=2048641572,776531651
+
+// Compact Defender (Season 28)
+//notes:SpaceMonkey (PvE): "This is now the best sidearm in the game. The archetype is not the strongest for either sidearms or the dynamic heat family, but the perk combination and the natural strength of the sidearms (highest damage primary weapons) can't be beat. This is a very impressive primary weapon. No other blaster from this season really rewards you as demonstrably as this one does for using the Dynamic Heat Limiter proc in just general play." Recommended MW: Reload, Range, Cooling Efficiency.|tags:pve
+dimwishlist:item=2819552809&perks=2048641572,776531651
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Handling.|tags:pve,god-pve
+dimwishlist:item=2462965802&perks=307683764,555281244
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Handling.|tags:pve,god-pve
+dimwishlist:item=3146657389&perks=307683764,555281244
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvE): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Handling, Stability.|tags:pve
+dimwishlist:item=2462965802&perks=3619207468,555281244
+dimwishlist:item=2462965802&perks=307683764,555281244
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvE): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Handling, Stability.|tags:pve
+dimwishlist:item=3146657389&perks=3619207468,555281244
+dimwishlist:item=3146657389&perks=307683764,555281244
+
+// Refurbished A499 (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This gun is so cool. Hits like an absolute truck and is supported so nicely by the artifact this season - and all of that in addition to being a perfect pairing for the Praxic Blade which is also Kinetic and allows you to double dip your surges. You really want Accelerated Assault here - as is the case with any DPS focused weapon this season. Perk 1 slot is basically just a big whiff, so it's kinda whatever you personally want. I like Bewildering Burst because I like the availability of the extra crowd control if I want it, but in general a perk focused on landing your crits as fast as possible is probably the best option for most people. Overall you want to juice your reload stat as much as possible." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=593808239&perks=2289534249,3764420437
+dimwishlist:item=593808239&perks=3764420437,957782887
+
+// Refurbished A499 (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This gun is so cool. Hits like an absolute truck and is supported so nicely by the artifact this season - and all of that in addition to being a perfect pairing for the Praxic Blade which is also Kinetic and allows you to double dip your surges. You really want Accelerated Assault here - as is the case with any DPS focused weapon this season. Perk 1 slot is basically just a big whiff, so it's kinda whatever you personally want. I like Bewildering Burst because I like the availability of the extra crowd control if I want it, but in general a perk focused on landing your crits as fast as possible is probably the best option for most people. Overall you want to juice your reload stat as much as possible." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3661051060&perks=2289534249,3764420437
+dimwishlist:item=3661051060&perks=3764420437,957782887
+
+// Refurbished A499 (Season 28)
+//notes:SpaceMonkey (PvE): "This gun is so cool. Hits like an absolute truck and is supported so nicely by the artifact this season - and all of that in addition to being a perfect pairing for the Praxic Blade which is also Kinetic and allows you to double dip your surges. You really want Accelerated Assault here - as is the case with any DPS focused weapon this season. Perk 1 slot is basically just a big whiff, so it's kinda whatever you personally want. I like Bewildering Burst because I like the availability of the extra crowd control if I want it, but in general a perk focused on landing your crits as fast as possible is probably the best option for most people. Overall you want to juice your reload stat as much as possible." Recommended MW: Reload, Handling, Stability.|tags:pve
+dimwishlist:item=593808239&perks=2289534249,3764420437
+dimwishlist:item=593808239&perks=3764420437,957782887
+
+// Refurbished A499 (Season 28)
+//notes:SpaceMonkey (PvE): "This gun is so cool. Hits like an absolute truck and is supported so nicely by the artifact this season - and all of that in addition to being a perfect pairing for the Praxic Blade which is also Kinetic and allows you to double dip your surges. You really want Accelerated Assault here - as is the case with any DPS focused weapon this season. Perk 1 slot is basically just a big whiff, so it's kinda whatever you personally want. I like Bewildering Burst because I like the availability of the extra crowd control if I want it, but in general a perk focused on landing your crits as fast as possible is probably the best option for most people. Overall you want to juice your reload stat as much as possible." Recommended MW: Reload, Handling, Stability.|tags:pve
+dimwishlist:item=3661051060&perks=2289534249,3764420437
+dimwishlist:item=3661051060&perks=3764420437,957782887
+
+// Duty Bound (Season 28)
+//notes:SpaceMonkey (PvE): "This is mostly pretty underwhelming. This weapon is pretty well-supported by the artifact this season but I still just don't see it being better than many weapons it is competing against. Adhesive Ordnance is nifty at least." Recommended MW: Reload, Range, Handling.|tags:pve
+dimwishlist:item=260532765&perks=2289534249,3252937884
+dimwishlist:item=260532765&perks=2289534249,3425386926
+
+// Duty Bound (Season 28)
+//notes:SpaceMonkey (PvE): "This is mostly pretty underwhelming. This weapon is pretty well-supported by the artifact this season but I still just don't see it being better than many weapons it is competing against. Adhesive Ordnance is nifty at least." Recommended MW: Reload, Range, Handling.|tags:pve
+dimwishlist:item=89693562&perks=2289534249,3252937884
+dimwishlist:item=89693562&perks=2289534249,3425386926
+
+// Hawthorne's Field-Forged Shotgun (Season 28)
+//notes:SpaceMonkey (PvE): "This is an interesting Chill Clip vehicle, but otherwise is pretty uninteresting. The archetype is poor and the Perk 1 column is lacking. Especially with the nerf to Shatter effects Chill Clip is not what it once was." Recommended MW: Reload, Handling, Range.|tags:pve
+dimwishlist:item=1402874079&perks=2978966579,4071163871
+dimwishlist:item=1402874079&perks=1631667848,2978966579
+dimwishlist:item=1402874079&perks=1556840489,2978966579
+
+// Nox Sidereal IV (Season 28)
+//notes:SpaceMonkey (PvE): "Even though this is a good archetype this is a seriously outdated perk pool." Recommended MW: Reload.|tags:pve
+dimwishlist:item=74733286&perks=1427256713,2284787283
+dimwishlist:item=74733286&perks=2284787283,2922950962
+dimwishlist:item=74733286&perks=1427256713,3523296417
+dimwishlist:item=74733286&perks=2922950962,3523296417
+
+// Nox Sidereal IV (Season 28)
+//notes:SpaceMonkey (PvE): "Even though this is a good archetype this is a seriously outdated perk pool." Recommended MW: Reload.|tags:pve
+dimwishlist:item=2875763009&perks=1427256713,2284787283
+dimwishlist:item=2875763009&perks=2284787283,2922950962
+dimwishlist:item=2875763009&perks=1427256713,3523296417
+dimwishlist:item=2875763009&perks=2922950962,3523296417
+
+// Riptide (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "I'm pretty baffled as to why this was released not only alongside two stasis fusion from last season and another one this season - and one of those being Lionfish, which was just a Riptide replacement. As it stands this gun has BiS rolls for both PvE and PvP and is a major beneficiary of the Accelerated Assault origin trait - which makes this blow Lionfish out of the water." Recommended MW: Charge Time.|tags:pve,god-pve
+dimwishlist:item=1323862250&perks=2978966579,3300816228
+dimwishlist:item=1323862250&perks=2594592626,3300816228
+
+// Riptide (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "I'm pretty baffled as to why this was released not only alongside two stasis fusion from last season and another one this season - and one of those being Lionfish, which was just a Riptide replacement. As it stands this gun has BiS rolls for both PvE and PvP and is a major beneficiary of the Accelerated Assault origin trait - which makes this blow Lionfish out of the water." Recommended MW: Charge Time.|tags:pve,god-pve
+dimwishlist:item=2297554989&perks=2978966579,3300816228
+dimwishlist:item=2297554989&perks=2594592626,3300816228
+
+// Riptide (Season 28)
+//notes:SpaceMonkey (PvE): "I'm pretty baffled as to why this was released not only alongside two stasis fusion from last season and another one this season - and one of those being Lionfish, which was just a Riptide replacement. As it stands this gun has BiS rolls for both PvE and PvP and is a major beneficiary of the Accelerated Assault origin trait - which makes this blow Lionfish out of the water." Recommended MW: Charge Time, Handling.|tags:pve
+dimwishlist:item=1323862250&perks=2978966579,3300816228
+dimwishlist:item=1323862250&perks=2594592626,3300816228
+
+// Riptide (Season 28)
+//notes:SpaceMonkey (PvE): "I'm pretty baffled as to why this was released not only alongside two stasis fusion from last season and another one this season - and one of those being Lionfish, which was just a Riptide replacement. As it stands this gun has BiS rolls for both PvE and PvP and is a major beneficiary of the Accelerated Assault origin trait - which makes this blow Lionfish out of the water." Recommended MW: Charge Time, Handling.|tags:pve
+dimwishlist:item=2297554989&perks=2978966579,3300816228
+dimwishlist:item=2297554989&perks=2594592626,3300816228
+
+// Something Something (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "At first glance this looks pretty underwhelming, and tbh given its archetype it kind of is. However it isn't all doom and gloom. This can get a rather interesting DPS roll, which obviously you want to pair with the Accelerated Assault origin trait. This precise roll will be very rare, and niche in use case, so don't sweat it if you can't get this." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=690412397&perks=1089671869,3400784728
+
+// Something Something (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "At first glance this looks pretty underwhelming, and tbh given its archetype it kind of is. However it isn't all doom and gloom. This can get a rather interesting DPS roll, which obviously you want to pair with the Accelerated Assault origin trait. This precise roll will be very rare, and niche in use case, so don't sweat it if you can't get this." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3421075982&perks=1089671869,3400784728
+
+// Something Something (Season 28)
+//notes:SpaceMonkey (PvE): "At first glance this looks pretty underwhelming, and tbh given its archetype it kind of is. However it isn't all doom and gloom. This can get a rather interesting DPS roll, which obviously you want to pair with the Accelerated Assault origin trait. This precise roll will be very rare, and niche in use case, so don't sweat it if you can't get this." Recommended MW: Reload, Handling.|tags:pve
+dimwishlist:item=690412397&perks=1089671869,3400784728
+
+// Something Something (Season 28)
+//notes:SpaceMonkey (PvE): "At first glance this looks pretty underwhelming, and tbh given its archetype it kind of is. However it isn't all doom and gloom. This can get a rather interesting DPS roll, which obviously you want to pair with the Accelerated Assault origin trait. This precise roll will be very rare, and niche in use case, so don't sweat it if you can't get this." Recommended MW: Reload, Handling.|tags:pve
+dimwishlist:item=3421075982&perks=1089671869,3400784728
+
+// Evening SI4 (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "The best archetype of the best primary family. Right away this is an incredible option before we even get to the perks. And even then the perks do not disappoint for either PvP or PvE. The only thing holding this gun back is the lackluster ammo gen stat, but that doesn't seem to be an issue for this season really." Recommended MW: Reload, Range.|tags:pve,god-pve
+dimwishlist:item=3618823368&perks=3017780555,4293542123
+
+// Evening SI4 (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "The best archetype of the best primary family. Right away this is an incredible option before we even get to the perks. And even then the perks do not disappoint for either PvP or PvE. The only thing holding this gun back is the lackluster ammo gen stat, but that doesn't seem to be an issue for this season really." Recommended MW: Reload, Range.|tags:pve,god-pve
+dimwishlist:item=1763361847&perks=3017780555,4293542123
+
+// Evening SI4 (Season 28)
+//notes:SpaceMonkey (PvE): "The best archetype of the best primary family. Right away this is an incredible option before we even get to the perks. And even then the perks do not disappoint for either PvP or PvE. The only thing holding this gun back is the lackluster ammo gen stat, but that doesn't seem to be an issue for this season really." Recommended MW: Reload, Range, Handling.|tags:pve
+dimwishlist:item=3618823368&perks=3017780555,4293542123
+
+// Evening SI4 (Season 28)
+//notes:SpaceMonkey (PvE): "The best archetype of the best primary family. Right away this is an incredible option before we even get to the perks. And even then the perks do not disappoint for either PvP or PvE. The only thing holding this gun back is the lackluster ammo gen stat, but that doesn't seem to be an issue for this season really." Recommended MW: Reload, Range, Handling.|tags:pve
+dimwishlist:item=1763361847&perks=3017780555,4293542123
+
+// Horror's Least (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "One of my all-time favorite PvP guns and it can get the exact roll that it used to. For PvE it's a little less exciting, but it's a perfectly decent arc pulse workhorse, especially with overload pulse being in the artifact this season. With accelerated assault you don't really need anything from the perk 1 column, so it's just kinda whatever you want there." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=827835657&perks=1115162408,3966416502
+dimwishlist:item=827835657&perks=1511100135,3966416502
+
+// Horror's Least (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "One of my all-time favorite PvP guns and it can get the exact roll that it used to. For PvE it's a little less exciting, but it's a perfectly decent arc pulse workhorse, especially with overload pulse being in the artifact this season. With accelerated assault you don't really need anything from the perk 1 column, so it's just kinda whatever you want there." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=1018012078&perks=1115162408,3966416502
+dimwishlist:item=1018012078&perks=1511100135,3966416502
+
+// Horror's Least (Season 28)
+//notes:SpaceMonkey (PvE): "One of my all-time favorite PvP guns and it can get the exact roll that it used to. For PvE it's a little less exciting, but it's a perfectly decent arc pulse workhorse, especially with overload pulse being in the artifact this season. With accelerated assault you don't really need anything from the perk 1 column, so it's just kinda whatever you want there." Recommended MW: Reload, Handling, Range.|tags:pve
+dimwishlist:item=827835657&perks=1115162408,3966416502
+dimwishlist:item=827835657&perks=1511100135,3966416502
+
+// Horror's Least (Season 28)
+//notes:SpaceMonkey (PvE): "One of my all-time favorite PvP guns and it can get the exact roll that it used to. For PvE it's a little less exciting, but it's a perfectly decent arc pulse workhorse, especially with overload pulse being in the artifact this season. With accelerated assault you don't really need anything from the perk 1 column, so it's just kinda whatever you want there." Recommended MW: Reload, Handling, Range.|tags:pve
+dimwishlist:item=1018012078&perks=1115162408,3966416502
+dimwishlist:item=1018012078&perks=1511100135,3966416502
+
+// Sarpedon-D (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "It's a good weapon and it comes with the best primary archetype in the game right now. That being said, it is exclusive to arc subclasses since the only good perk 1 options are both heavily arc-buff based." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3318545829&perks=2360754333,684456054
+
+// Sarpedon-D (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "It's a good weapon and it comes with the best primary archetype in the game right now. That being said, it is exclusive to arc subclasses since the only good perk 1 options are both heavily arc-buff based." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=1242785638&perks=2360754333,684456054
+
+// Sarpedon-D (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "It's a good weapon and it comes with the best primary archetype in the game right now. That being said, it is exclusive to arc subclasses since the only good perk 1 options are both heavily arc-buff based." Recommended MW: Reload, Range, Handling.|tags:pve,god-pve
+dimwishlist:item=3318545829&perks=2360754333,684456054
+
+// Sarpedon-D (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "It's a good weapon and it comes with the best primary archetype in the game right now. That being said, it is exclusive to arc subclasses since the only good perk 1 options are both heavily arc-buff based." Recommended MW: Reload, Range, Handling.|tags:pve,god-pve
+dimwishlist:item=1242785638&perks=2360754333,684456054
+
+// Motif-41 (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "The best area denial we've gotten since Lost Signal. Each one released since that original GL haven't had access to Autoloader, which IMO is the top option for breech-loaded GLs." Recommended MW: Handling.|tags:pve,god-pve
+dimwishlist:item=1685533876&perks=243981275,3300816228
+dimwishlist:item=1685533876&perks=3300816228,4293542123
+
+// Motif-41 (Season 28)
+//notes:SpaceMonkey (PvE): "The best area denial we've gotten since Lost Signal. Each one released since that original GL haven't had access to Autoloader, which IMO is the top option for breech-loaded GLs." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=1685533876&perks=243981275,3300816228
+dimwishlist:item=1685533876&perks=3300816228,4293542123
+
+// Psi Aeterna IV (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is not Mint Retrograde. No Rewind Rounds and no Bait & Switch means that is pretty much fundamentally not a universally applicable and solitary DPS weapon - at least not until the shiny origin trait - Accelerated Assault - gets fixed on this. The only real situation where that could have been true is one Storm's Keep titan since trickle charge will automatically fill the mag behind the barricade, except the only real DPS perk is Elemental Honing… which hates being on a true subclass since the options to stack up different elements are so limited. That being said, as a supplemental DPS option in a rotation, especially on a prismatic subclass that can take advantage of multiple elements easily, this can definitely find a home. Overall it's a weapon that hits very hard and should be good for general content and even some higher end content where you just want any rocket pulse and this frees up the kinetic slot." Recommended MW: Handling, Blast Radius, Reload.|tags:pve,god-pve
+dimwishlist:item=135971347&perks=1089671869,1115162408
+dimwishlist:item=135971347&perks=1089671869,684456054
+
+// Psi Aeterna IV (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is not Mint Retrograde. No Rewind Rounds and no Bait & Switch means that is pretty much fundamentally not a universally applicable and solitary DPS weapon - at least not until the shiny origin trait - Accelerated Assault - gets fixed on this. The only real situation where that could have been true is one Storm's Keep titan since trickle charge will automatically fill the mag behind the barricade, except the only real DPS perk is Elemental Honing… which hates being on a true subclass since the options to stack up different elements are so limited. That being said, as a supplemental DPS option in a rotation, especially on a prismatic subclass that can take advantage of multiple elements easily, this can definitely find a home. Overall it's a weapon that hits very hard and should be good for general content and even some higher end content where you just want any rocket pulse and this frees up the kinetic slot." Recommended MW: Handling, Blast Radius, Reload.|tags:pve,god-pve
+dimwishlist:item=3556730800&perks=1089671869,1115162408
+dimwishlist:item=3556730800&perks=1089671869,684456054
+
+// Psi Aeterna IV (Season 28)
+//notes:SpaceMonkey (PvE): "This is not Mint Retrograde. No Rewind Rounds and no Bait & Switch means that is pretty much fundamentally not a universally applicable and solitary DPS weapon - at least not until the shiny origin trait - Accelerated Assault - gets fixed on this. The only real situation where that could have been true is one Storm's Keep titan since trickle charge will automatically fill the mag behind the barricade, except the only real DPS perk is Elemental Honing… which hates being on a true subclass since the options to stack up different elements are so limited. That being said, as a supplemental DPS option in a rotation, especially on a prismatic subclass that can take advantage of multiple elements easily, this can definitely find a home. Overall it's a weapon that hits very hard and should be good for general content and even some higher end content where you just want any rocket pulse and this frees up the kinetic slot." Recommended MW: Handling, Blast Radius, Reload, Velocity.|tags:pve
+dimwishlist:item=135971347&perks=1089671869,1115162408
+dimwishlist:item=135971347&perks=1089671869,684456054
+
+// Psi Aeterna IV (Season 28)
+//notes:SpaceMonkey (PvE): "This is not Mint Retrograde. No Rewind Rounds and no Bait & Switch means that is pretty much fundamentally not a universally applicable and solitary DPS weapon - at least not until the shiny origin trait - Accelerated Assault - gets fixed on this. The only real situation where that could have been true is one Storm's Keep titan since trickle charge will automatically fill the mag behind the barricade, except the only real DPS perk is Elemental Honing… which hates being on a true subclass since the options to stack up different elements are so limited. That being said, as a supplemental DPS option in a rotation, especially on a prismatic subclass that can take advantage of multiple elements easily, this can definitely find a home. Overall it's a weapon that hits very hard and should be good for general content and even some higher end content where you just want any rocket pulse and this frees up the kinetic slot." Recommended MW: Handling, Blast Radius, Reload, Velocity.|tags:pve
+dimwishlist:item=3556730800&perks=1089671869,1115162408
+dimwishlist:item=3556730800&perks=1089671869,684456054
+
+// A Good Shout (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Not in love with the perk combos for this crossbow tbh. Withering Gaze is cool, but is it worth the heavy slot? Repulsor + Destab combo from the heavy slot is interesting, but worth it? And the lack of Autoloader is pretty sad. As part of a DPS rotation it should be good, but I'd prefer something that had a bit more general usage." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3615748501&perks=2319119708,3987942396
+
+// A Good Shout (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Not in love with the perk combos for this crossbow tbh. Withering Gaze is cool, but is it worth the heavy slot? Repulsor + Destab combo from the heavy slot is interesting, but worth it? And the lack of Autoloader is pretty sad. As part of a DPS rotation it should be good, but I'd prefer something that had a bit more general usage." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=649691506&perks=2319119708,3987942396
+
+// A Good Shout (Season 28)
+//notes:SpaceMonkey (PvE): "Not in love with the perk combos for this crossbow tbh. Withering Gaze is cool, but is it worth the heavy slot? Repulsor + Destab combo from the heavy slot is interesting, but worth it? And the lack of Autoloader is pretty sad. As part of a DPS rotation it should be good, but I'd prefer something that had a bit more general usage." Recommended MW: Reload, Persistence, Velocity.|tags:pve
+dimwishlist:item=3615748501&perks=2319119708,3987942396
+
+// A Good Shout (Season 28)
+//notes:SpaceMonkey (PvE): "Not in love with the perk combos for this crossbow tbh. Withering Gaze is cool, but is it worth the heavy slot? Repulsor + Destab combo from the heavy slot is interesting, but worth it? And the lack of Autoloader is pretty sad. As part of a DPS rotation it should be good, but I'd prefer something that had a bit more general usage." Recommended MW: Reload, Persistence, Velocity.|tags:pve
+dimwishlist:item=649691506&perks=2319119708,3987942396
+
+// Eighty-Six (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Extremely forgettable - the name is very apropos. There is one usable roll for this and it's just the same Stronghold-style combo that we've already gotten before. Hey, at least it's New Gear. There's also a funny "primsatic bomb" build that's popped up for titans that uses the first roll above." Recommended MW: Impact.|tags:pve,god-pve
+dimwishlist:item=2344383760&perks=1089671869,1749209109
+dimwishlist:item=2344383760&perks=1749209109,3201496230
+dimwishlist:item=2344383760&perks=1089671869,2244851822
+dimwishlist:item=2344383760&perks=2244851822,3201496230
+
+// Eighty-Six (Season 28)
+//notes:SpaceMonkey (PvE): "Extremely forgettable - the name is very apropos. There is one usable roll for this and it's just the same Stronghold-style combo that we've already gotten before. Hey, at least it's New Gear. There's also a funny "primsatic bomb" build that's popped up for titans that uses the first roll above." Recommended MW: Impact.|tags:pve
+dimwishlist:item=2344383760&perks=1089671869,1749209109
+dimwishlist:item=2344383760&perks=1749209109,3201496230
+dimwishlist:item=2344383760&perks=1089671869,2244851822
+dimwishlist:item=2344383760&perks=2244851822,3201496230
+
+// Qua Vinctus IV (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is a really good machine gun and very unique. Definitely recommend picking this up. With accelerated assault this becomes probably the best general purpose MG in the game." Recommended MW: Handling.|tags:pve,god-pve
+dimwishlist:item=4176551594&perks=3523296417,557221067
+dimwishlist:item=4176551594&perks=3523296417,657025441
+
+// Qua Vinctus IV (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "This is a really good machine gun and very unique. Definitely recommend picking this up. With accelerated assault this becomes probably the best general purpose MG in the game." Recommended MW: Handling.|tags:pve,god-pve
+dimwishlist:item=337893613&perks=3523296417,557221067
+dimwishlist:item=337893613&perks=3523296417,657025441
+
+// Qua Vinctus IV (Season 28)
+//notes:SpaceMonkey (PvE): "This is a really good machine gun and very unique. Definitely recommend picking this up. With accelerated assault this becomes probably the best general purpose MG in the game." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=4176551594&perks=3523296417,557221067
+dimwishlist:item=4176551594&perks=3523296417,657025441
+
+// Qua Vinctus IV (Season 28)
+//notes:SpaceMonkey (PvE): "This is a really good machine gun and very unique. Definitely recommend picking this up. With accelerated assault this becomes probably the best general purpose MG in the game." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=337893613&perks=3523296417,557221067
+dimwishlist:item=337893613&perks=3523296417,657025441
+
+// Peculiar Charm (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Grip instead of origin trait hurts in PvE, but this gun is so unique and so cool that it's worth it even without one. The main reason that this gun isn't DOA for PvE is because bungie actually custom tuned the damage scalars for red bars and elites to be higher than the rest of the SMG family, so it actually winds up being one of the strongest weapons for the season. The obvious and most direct comparison is to THE Multimach roll - Attrition Orbs & Kinetic Tremors. While Multimach procs both effects faster, Peculiar Charm simply does more damage. In a vacuum I'd probably still take Multimach, but with the New Gear bonus active the draw of Peculiar Charm is too strong this season. PvP is a different story but a similar ending. This is actually pretty good there, having crazy range for an SMG and being pretty forgiving. Fitted Stock seems to be super important, along with as much range stat as possible." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=3620277039&perks=243981275,3891536761
+
+// Peculiar Charm (Season 28)
+//notes:SpaceMonkey (PvE): "Grip instead of origin trait hurts in PvE, but this gun is so unique and so cool that it's worth it even without one. The main reason that this gun isn't DOA for PvE is because bungie actually custom tuned the damage scalars for red bars and elites to be higher than the rest of the SMG family, so it actually winds up being one of the strongest weapons for the season. The obvious and most direct comparison is to THE Multimach roll - Attrition Orbs & Kinetic Tremors. While Multimach procs both effects faster, Peculiar Charm simply does more damage. In a vacuum I'd probably still take Multimach, but with the New Gear bonus active the draw of Peculiar Charm is too strong this season. PvP is a different story but a similar ending. This is actually pretty good there, having crazy range for an SMG and being pretty forgiving. Fitted Stock seems to be super important, along with as much range stat as possible." Recommended MW: Reload, Range, Handling.|tags:pve
+dimwishlist:item=3620277039&perks=243981275,3891536761
+dimwishlist:item=3620277039&perks=3700496672,3891536761
+
+// The Martlet (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Wow. This gun might be the best gun in the entire season. One of our best New Gear options for the classic void combo and in PvP this thing should be a super consistent snowball machine." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=877384&perks=2048641572,776531651
+
+// The Martlet (Season 28)
+//notes:SpaceMonkey (PvE): "Wow. This gun might be the best gun in the entire season. One of our best New Gear options for the classic void combo and in PvP this thing should be a super consistent snowball machine." Recommended MW: Reload, Handling, Range.|tags:pve
+dimwishlist:item=877384&perks=2048641572,776531651
+
+// Cataphract GL3 (Season 28)
+//notes:SpaceMonkey (PvE): "GLs aren't in meta right now, and this has the exact same roll as like 6 other grenade launchers. Keep the god roll so you have it in your vault in case it ever comes back around in the next year, but I wouldn't bet on it." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=3805679279&perks=3078487919,3987942396
+dimwishlist:item=3805679279&perks=3194351027,3987942396
+dimwishlist:item=3805679279&perks=3078487919,3300816228
+dimwishlist:item=3805679279&perks=3194351027,3300816228
+dimwishlist:item=3805679279&perks=3078487919,968510818
+dimwishlist:item=3805679279&perks=3194351027,968510818
+
+// Reghusk's Pledge (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "A very good void primary. The lack of an origin trait stings, but it's better than a lot of our other New Gear options." Recommended MW: Reload.|tags:pve,god-pve
+dimwishlist:item=2370525224&perks=2048641572,776531651
+
+// Reghusk's Pledge (Season 28)
+//notes:SpaceMonkey (PvE): "A very good void primary. The lack of an origin trait stings, but it's better than a lot of our other New Gear options." Recommended MW: Reload, Range.|tags:pve
+dimwishlist:item=2370525224&perks=2048641572,776531651
+
+// Gizmo Weft (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Micro-missile breech GLs are pretty much exclusive to movement tech these days, so I'm not going to get into any kind of add clear roll here until I see something that makes me think it'll be worth it. The recommendations are going to be for vertical movement tech. And then separately for DPS in case it winds up being worth it for swap." Recommended MW: Handling, Reload.|tags:pve,god-pve
+dimwishlist:item=1572604081&perks=1421772400,1439600632
+dimwishlist:item=1572604081&perks=1421772400,3764420437
+dimwishlist:item=1572604081&perks=1089671869,1421772400
+dimwishlist:item=1572604081&perks=1439600632,3987942396
+dimwishlist:item=1572604081&perks=3764420437,3987942396
+dimwishlist:item=1572604081&perks=1089671869,3987942396
+
+// Gizmo Weft (Season 28)
+//notes:SpaceMonkey (PvE / God-PvE): "Micro-missile breech GLs are pretty much exclusive to movement tech these days, so I'm not going to get into any kind of add clear roll here until I see something that makes me think it'll be worth it. The recommendations are going to be for vertical movement tech. And then separately for DPS in case it winds up being worth it for swap." Recommended MW: Handling, Reload.|tags:pve,god-pve
+dimwishlist:item=4069880346&perks=1421772400,1439600632
+dimwishlist:item=4069880346&perks=1421772400,3764420437
+dimwishlist:item=4069880346&perks=1089671869,1421772400
+dimwishlist:item=4069880346&perks=1439600632,3987942396
+dimwishlist:item=4069880346&perks=3764420437,3987942396
+dimwishlist:item=4069880346&perks=1089671869,3987942396
+
+// Gizmo Weft (Season 28)
+//notes:SpaceMonkey (PvE): "Micro-missile breech GLs are pretty much exclusive to movement tech these days, so I'm not going to get into any kind of add clear roll here until I see something that makes me think it'll be worth it. The recommendations are going to be for vertical movement tech. And then separately for DPS in case it winds up being worth it for swap." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=1572604081&perks=1421772400,1439600632
+dimwishlist:item=1572604081&perks=1421772400,3764420437
+dimwishlist:item=1572604081&perks=1089671869,1421772400
+dimwishlist:item=1572604081&perks=1439600632,3987942396
+dimwishlist:item=1572604081&perks=3764420437,3987942396
+dimwishlist:item=1572604081&perks=1089671869,3987942396
+
+// Gizmo Weft (Season 28)
+//notes:SpaceMonkey (PvE): "Micro-missile breech GLs are pretty much exclusive to movement tech these days, so I'm not going to get into any kind of add clear roll here until I see something that makes me think it'll be worth it. The recommendations are going to be for vertical movement tech. And then separately for DPS in case it winds up being worth it for swap." Recommended MW: Handling, Reload.|tags:pve
+dimwishlist:item=4069880346&perks=1421772400,1439600632
+dimwishlist:item=4069880346&perks=1421772400,3764420437
+dimwishlist:item=4069880346&perks=1089671869,1421772400
+dimwishlist:item=4069880346&perks=1439600632,3987942396
+dimwishlist:item=4069880346&perks=3764420437,3987942396
+dimwishlist:item=4069880346&perks=1089671869,3987942396
+
 // Gunburn - PvE Minor god 1
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Threat Detector), (Kinetic Tremors, Ancillary Ordinance, One For All)
 //notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content. Gunburn is a lightweight frame SMG - the first ever from the Veist foundry - which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides +20 to your hidden Mobility attribute and a ×1.0625 forward movement scalar. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine size is 37 (max 44). Range is compressed on SMGs, so look for a Handling boost from your barrel perk on M+KB, or Stability on Controller. In the magazine slot, a perk to bump Reload Speed is pretty much the only option. With an SMG, you'll pretty much always be engaging in CQC ranges, so Threat Detector is a natural first trait perk column choice - it procs per enemy within 15m up to ×2 stacks, with two stacks providing +40 Stability, +60 Reload Speed with a ×0.81 animation scalar and +100 Handling (+44, +64 and +100 respectively, when enhanced). For add group control, in the second column, Kinetic Tremors emits three 6m AoE kinetic shockwaves after 14 hits (13 enhanced) within 3s of each other, which are treated as weapon damage and inherit damage boosts. Requiring a bit more setup, Ancillary Ordinance builds up to ×5 stacks on elemental kills or kills of elementally-debuffed enemies with abilities or elemental weapons - then, on a kinetic weapon kill, a stack is used to spawn a micro-missile on the corpse to track to an enemy within 30m. With no stacks, kinetic kills on elementally-debuffed enemies instantly spawn a micro-missile. For the Origin Trait, there's either Veist Stinger which provides a 2% chance per hit to refill 25% of the magazine or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
