@@ -1,6 +1,34 @@
 title:MKB PvP !Backups Dupes - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvP / God-PvP): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Cooling Efficiency.|tags:pvp,god-pvp
+dimwishlist:item=2462965802&perks=1092016998,1421772400,1840239774,555281244
+dimwishlist:item=2462965802&perks=1421772400,1840239774,1946186791,555281244
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvP / God-PvP): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Cooling Efficiency.|tags:pvp,god-pvp
+dimwishlist:item=3146657389&perks=1092016998,1421772400,1840239774,555281244
+dimwishlist:item=3146657389&perks=1421772400,1840239774,1946186791,555281244
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvP): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Cooling Efficiency, Handling, Reload.|tags:pvp
+dimwishlist:item=2462965802&perks=1080094173,1421772400,1840239774,555281244
+dimwishlist:item=2462965802&perks=1080094173,1840239774,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1421772400,555281244,839105230
+dimwishlist:item=2462965802&perks=1421772400,1946186791,555281244,839105230
+dimwishlist:item=2462965802&perks=1080094173,1421772400,555281244,839105230
+dimwishlist:item=2462965802&perks=1080094173,3619207468,555281244,839105230
+
+// Uncivil Discourse (Season 28)
+//notes:SpaceMonkey (PvP): "A cool new weapon type but sadly pretty pigeonholed in usage. It is the best Lucky Pants hand cannon by a wiiiiide margin now, especially if you can pick up an Accelerated Assault roll. Outside of that in PvE it's basically just a worse sniper rifle, and special snipers have had a rough time in PvE for a while now. In PvP this thing melts - it's basically a better Forerunner." Recommended MW: Cooling Efficiency, Handling, Reload.|tags:pvp
+dimwishlist:item=3146657389&perks=1080094173,1421772400,1840239774,555281244
+dimwishlist:item=3146657389&perks=1080094173,1840239774,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1421772400,555281244,839105230
+dimwishlist:item=3146657389&perks=1421772400,1946186791,555281244,839105230
+dimwishlist:item=3146657389&perks=1080094173,1421772400,555281244,839105230
+dimwishlist:item=3146657389&perks=1080094173,3619207468,555281244,839105230
+
 // Peculiar Charm (Season 28)
 //notes:SpaceMonkey (PvP / God-PvP): "Grip instead of origin trait hurts in PvE, but this gun is so unique and so cool that it's worth it even without one. The main reason that this gun isn't DOA for PvE is because bungie actually custom tuned the damage scalars for red bars and elites to be higher than the rest of the SMG family, so it actually winds up being one of the strongest weapons for the season. The obvious and most direct comparison is to THE Multimach roll - Attrition Orbs & Kinetic Tremors. While Multimach procs both effects faster, Peculiar Charm simply does more damage. In a vacuum I'd probably still take Multimach, but with the New Gear bonus active the draw of Peculiar Charm is too strong this season. PvP is a different story but a similar ending. This is actually pretty good there, having crazy range for an SMG and being pretty forgiving. Fitted Stock seems to be super important, along with as much range stat as possible." Recommended MW: Range.|tags:pvp,god-pvp
 dimwishlist:item=3620277039&perks=2846385770,3081867624,3142289711,3250034553,4259401308
