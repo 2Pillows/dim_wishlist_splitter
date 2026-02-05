@@ -106,13 +106,19 @@ dimwishlist:item=2770035786&perks=1946186791,243981275,2922950962,4090651448
 //notes:Inspired by @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for burst damage against Banes, Majors, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Uncivil Discourse is the first of a new subfamily of special ammo Dynamic Heat hand cannons which are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, providing an intrinsic ×1.15 damage boost against red-bar enemies and ×1.325 against orange and yellow bars and vehicles, plus a ×0.5 heat generation if you manually cancel a vent animation at <12.5% of maximum heat, as per the https://www.destiny2.science/ Destiny Data Compendium. The there's nothing to really compare this against, but you can see https://d2foundry.gg/w/3146657389 for how the weapon stats impact in-game performance. You might find you need a little help with the recoil control from the barrel perk, although extra Handling is also nice. For the battery perk, Overclocked Heatsink provides free ×1.02 damage for a slightly slower vent speed - not a problem if you manually reload anyway - Particle Repeater helps Stability or Light Heatsink or Tactical Heatsink improve gunfeel. There plenty of good rolls available for burst damage, or backup boss damage - Air Trigger, mostly for the +20 Ammo Generation making double special weapon loadouts easier to maintain, but also for the ability to jump reload is probably the top first trait perk column park, but anything that improves manual vent speed is worth considering. In the second column, Jolting Feedback applies Jolt after 7 hits (6 when enhanced and 4 when amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage, but Frenzy's here, as is Precision Instrument and Desperate Measures for builds that spam melee or grenade abilities. Thermal Atomization is more of a "one for the Vault just in case they fix the explosion damage" choice. For the Origin Trait Air-Cooled Core improves handling and ADS speed when heat is <10%, and boosts Vent Speed for 6s after sprinting. If you're very lucky you'll drop a weapon with the much better option of Accelerated Assault which passively reduces heat by 10% and boosts damage by ×1.05 for getting 3 hits within 1.6s. If you're interested, it's modelled on the DL-44 blaster pistol used by Han Solo. Recommended MW: Handling or Stability, with your preferred choice of mod to boost heat generation, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3146657389&perks=1092016998,1421772400,555281244,839105230
 dimwishlist:item=3146657389&perks=1092016998,3619207468,555281244,839105230
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3619207468,839105230
 dimwishlist:item=3146657389&perks=1421772400,1946186791,555281244,839105230
 dimwishlist:item=3146657389&perks=1946186791,3619207468,555281244,839105230
 dimwishlist:item=3146657389&perks=3619207468,555281244,769709866,839105230
 dimwishlist:item=3146657389&perks=1080094173,1421772400,555281244,839105230
 dimwishlist:item=3146657389&perks=1080094173,3619207468,555281244,839105230
+dimwishlist:item=3146657389&perks=1092016998,1467527085,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,3619207468,3661387068,555281244
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3619207468,3661387068
 dimwishlist:item=3146657389&perks=1092016998,1421772400,1840239774,555281244
 dimwishlist:item=3146657389&perks=1092016998,1840239774,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2109543898,3619207468
 dimwishlist:item=3146657389&perks=1421772400,1840239774,1946186791,555281244
 dimwishlist:item=3146657389&perks=1840239774,1946186791,3619207468,555281244
 dimwishlist:item=3146657389&perks=1840239774,3619207468,555281244,769709866
@@ -124,13 +130,19 @@ dimwishlist:item=3146657389&perks=1080094173,1840239774,3619207468,555281244
 //notes:Inspired by @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for burst damage against Banes, Majors, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Uncivil Discourse is the first of a new subfamily of special ammo Dynamic Heat hand cannons which are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, providing an intrinsic ×1.15 damage boost against red-bar enemies and ×1.325 against orange and yellow bars and vehicles, plus a ×0.5 heat generation if you manually cancel a vent animation at <12.5% of maximum heat, as per the https://www.destiny2.science/ Destiny Data Compendium. The there's nothing to really compare this against, but you can see https://d2foundry.gg/w/2462965802 for how the weapon stats impact in-game performance. You might find you need a little help with the recoil control from the barrel perk, although extra Handling is also nice. For the battery perk, Overclocked Heatsink provides free ×1.02 damage for a slightly slower vent speed - not a problem if you manually reload anyway - Particle Repeater helps Stability or Light Heatsink or Tactical Heatsink improve gunfeel. There plenty of good rolls available for burst damage, or backup boss damage - Air Trigger, mostly for the +20 Ammo Generation making double special weapon loadouts easier to maintain, but also for the ability to jump reload is probably the top first trait perk column park, but anything that improves manual vent speed is worth considering. In the second column, Jolting Feedback applies Jolt after 7 hits (6 when enhanced and 4 when amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage, but Frenzy's here, as is Precision Instrument and Desperate Measures for builds that spam melee or grenade abilities. Thermal Atomization is more of a "one for the Vault just in case they fix the explosion damage" choice. For the Origin Trait Air-Cooled Core improves handling and ADS speed when heat is <10%, and boosts Vent Speed for 6s after sprinting. If you're very lucky you'll drop a weapon with the much better option of Accelerated Assault which passively reduces heat by 10% and boosts damage by ×1.05 for getting 3 hits within 1.6s. If you're interested, it's modelled on the DL-44 blaster pistol used by Han Solo. Recommended MW: Handling or Stability, with your preferred choice of mod to boost heat generation, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2462965802&perks=1092016998,1421772400,555281244,839105230
 dimwishlist:item=2462965802&perks=1092016998,3619207468,555281244,839105230
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3619207468,839105230
 dimwishlist:item=2462965802&perks=1421772400,1946186791,555281244,839105230
 dimwishlist:item=2462965802&perks=1946186791,3619207468,555281244,839105230
 dimwishlist:item=2462965802&perks=3619207468,555281244,769709866,839105230
 dimwishlist:item=2462965802&perks=1080094173,1421772400,555281244,839105230
 dimwishlist:item=2462965802&perks=1080094173,3619207468,555281244,839105230
+dimwishlist:item=2462965802&perks=1092016998,1467527085,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,3619207468,3661387068,555281244
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3619207468,3661387068
 dimwishlist:item=2462965802&perks=1092016998,1421772400,1840239774,555281244
 dimwishlist:item=2462965802&perks=1092016998,1840239774,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2109543898,3619207468
 dimwishlist:item=2462965802&perks=1421772400,1840239774,1946186791,555281244
 dimwishlist:item=2462965802&perks=1840239774,1946186791,3619207468,555281244
 dimwishlist:item=2462965802&perks=1840239774,3619207468,555281244,769709866
@@ -141,33 +153,57 @@ dimwishlist:item=2462965802&perks=1080094173,1840239774,3619207468,555281244
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), (Snapshot Sights), (Auto-Loading Holster)
 //notes:Inspired by @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for Boss DPS rotations in both general at-level or better, and end-game underleveled content. Uncivil Discourse is the first of a new subfamily of heavy ammo Disruption Weapon sniper rifles which are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, providing a high-damage single shot that disintegrates enemies on kills, as per the https://www.destiny2.science/ Destiny Data Compendium. The there's nothing to really compare this against, but you can see https://d2foundry.gg/w/593808239 for how the weapon stats impact in-game performance. With this being a sniper, and single shot, the only weapon stats that have an impact are Handling and Reload Speed, so look for barrel and mag perks that help. The trait perk pool for PvE is, frankly, a bit weird, but this is still worth considering for boss damage. In the first trait perk column there's nothing much that helps with boss damage phases - the most useful are probably Snapshot Sights for faster ADS speed, or No Distractions for ×0.65 reduction in flinch for ADSing for 1s (0.9s when enhanced). Then, in the second column, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by up to ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. Alternatively, Auto-Loading Holster could work as part of a special weapon Bait and Switch rotation, or Box Breathing provides a ×1.3 damage boost after ADSing for 1.5s (1.4s enhanced). For the Origin Trait Air-Cooled Core improves handling and ADS speed when heat is <10%, and boosts Vent Speed for 6s after sprinting. If you're very lucky you'll drop a weapon with the much better option of Accelerated Assault which passively reduces heat by 10% and boosts damage by ×1.05 for getting 3 hits within 1.6s. If you're interested, it's after the Amban Phase-Pulse Blaster used by the Mandalorian bounty hunter Din Djarin. Recommended MW: Handling or Reload Speed, with your preferred choice of mod to boost heat generation, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3661051060&perks=1840239774,3230963543,3764420437,957782887
+dimwishlist:item=3661051060&perks=1840239774,3230963543,3300816228,957782887
 dimwishlist:item=3661051060&perks=1840239774,2866798147,3230963543,3764420437
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3230963543,3300816228
 dimwishlist:item=3661051060&perks=1840239774,3764420437,679225683,957782887
+dimwishlist:item=3661051060&perks=1840239774,3300816228,679225683,957782887
 dimwishlist:item=3661051060&perks=1840239774,2866798147,3764420437,679225683
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3300816228,679225683
 dimwishlist:item=3661051060&perks=3230963543,3764420437,839105230,957782887
+dimwishlist:item=3661051060&perks=3230963543,3300816228,839105230,957782887
 dimwishlist:item=3661051060&perks=2866798147,3230963543,3764420437,839105230
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3300816228,839105230
 dimwishlist:item=3661051060&perks=3764420437,679225683,839105230,957782887
+dimwishlist:item=3661051060&perks=3300816228,679225683,839105230,957782887
 dimwishlist:item=3661051060&perks=2866798147,3764420437,679225683,839105230
+dimwishlist:item=3661051060&perks=2866798147,3300816228,679225683,839105230
 dimwishlist:item=3661051060&perks=3230963543,3764420437,4090651448,957782887
+dimwishlist:item=3661051060&perks=3230963543,3300816228,4090651448,957782887
 dimwishlist:item=3661051060&perks=2866798147,3230963543,3764420437,4090651448
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3300816228,4090651448
 dimwishlist:item=3661051060&perks=3764420437,4090651448,679225683,957782887
+dimwishlist:item=3661051060&perks=3300816228,4090651448,679225683,957782887
 dimwishlist:item=3661051060&perks=2866798147,3764420437,4090651448,679225683
+dimwishlist:item=3661051060&perks=2866798147,3300816228,4090651448,679225683
 
 // Refurbished A499 - PvE Boss god 1
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), (Snapshot Sights), (Auto-Loading Holster)
 //notes:Inspired by @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for Boss DPS rotations in both general at-level or better, and end-game underleveled content. Uncivil Discourse is the first of a new subfamily of heavy ammo Disruption Weapon sniper rifles which are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, providing a high-damage single shot that disintegrates enemies on kills, as per the https://www.destiny2.science/ Destiny Data Compendium. The there's nothing to really compare this against, but you can see https://d2foundry.gg/w/593808239 for how the weapon stats impact in-game performance. With this being a sniper, and single shot, the only weapon stats that have an impact are Handling and Reload Speed, so look for barrel and mag perks that help. The trait perk pool for PvE is, frankly, a bit weird, but this is still worth considering for boss damage. In the first trait perk column there's nothing much that helps with boss damage phases - the most useful are probably Snapshot Sights for faster ADS speed, or No Distractions for ×0.65 reduction in flinch for ADSing for 1s (0.9s when enhanced). Then, in the second column, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by up to ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. Alternatively, Auto-Loading Holster could work as part of a special weapon Bait and Switch rotation, or Box Breathing provides a ×1.3 damage boost after ADSing for 1.5s (1.4s enhanced). For the Origin Trait Air-Cooled Core improves handling and ADS speed when heat is <10%, and boosts Vent Speed for 6s after sprinting. If you're very lucky you'll drop a weapon with the much better option of Accelerated Assault which passively reduces heat by 10% and boosts damage by ×1.05 for getting 3 hits within 1.6s. If you're interested, it's after the Amban Phase-Pulse Blaster used by the Mandalorian bounty hunter Din Djarin. Recommended MW: Handling or Reload Speed, with your preferred choice of mod to boost heat generation, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=593808239&perks=1840239774,3230963543,3764420437,957782887
+dimwishlist:item=593808239&perks=1840239774,3230963543,3300816228,957782887
 dimwishlist:item=593808239&perks=1840239774,2866798147,3230963543,3764420437
+dimwishlist:item=593808239&perks=1840239774,2866798147,3230963543,3300816228
 dimwishlist:item=593808239&perks=1840239774,3764420437,679225683,957782887
+dimwishlist:item=593808239&perks=1840239774,3300816228,679225683,957782887
 dimwishlist:item=593808239&perks=1840239774,2866798147,3764420437,679225683
+dimwishlist:item=593808239&perks=1840239774,2866798147,3300816228,679225683
 dimwishlist:item=593808239&perks=3230963543,3764420437,839105230,957782887
+dimwishlist:item=593808239&perks=3230963543,3300816228,839105230,957782887
 dimwishlist:item=593808239&perks=2866798147,3230963543,3764420437,839105230
+dimwishlist:item=593808239&perks=2866798147,3230963543,3300816228,839105230
 dimwishlist:item=593808239&perks=3764420437,679225683,839105230,957782887
+dimwishlist:item=593808239&perks=3300816228,679225683,839105230,957782887
 dimwishlist:item=593808239&perks=2866798147,3764420437,679225683,839105230
+dimwishlist:item=593808239&perks=2866798147,3300816228,679225683,839105230
 dimwishlist:item=593808239&perks=3230963543,3764420437,4090651448,957782887
+dimwishlist:item=593808239&perks=3230963543,3300816228,4090651448,957782887
 dimwishlist:item=593808239&perks=2866798147,3230963543,3764420437,4090651448
+dimwishlist:item=593808239&perks=2866798147,3230963543,3300816228,4090651448
 dimwishlist:item=593808239&perks=3764420437,4090651448,679225683,957782887
+dimwishlist:item=593808239&perks=3300816228,4090651448,679225683,957782887
 dimwishlist:item=593808239&perks=2866798147,3764420437,4090651448,679225683
+dimwishlist:item=593808239&perks=2866798147,3300816228,4090651448,679225683
 
 // Lance Ephemeral - PvE Boss god 1
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Extended Mag), (Envious Arsenal, Rewind Rounds, Fourth Time's the Charm), (Bait and Switch, Elemental Honing)

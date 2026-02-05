@@ -1,6 +1,529 @@
 title:CTR PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Modified B-7 Pistol - PvP Kill-chaining god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Delicate Tuning), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Killchain PvP-God M+KB Controller): God-roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657388 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a kill-chaining 3-tap, in the first column to boost gunfeel, Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold, with the benefits reducing to half strength at 50% heat. In the second column, Adagio gives you an easy 0.800s (2c1b) TTK with no need to invest in the weapons stat (although if you do have 200 weapons stat, you'll only need 1c2b), but if you're a Bakris Hunter you can go on to potentially achieve a 0.400s (2c0b) TTK at three stacks of Light Shift. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=3146657388&perks=1092016998,1840239774,307683764,3673922083
+dimwishlist:item=3146657388&perks=1092016998,307683764,3673922083,839105230
+dimwishlist:item=3146657388&perks=1092016998,307683764,3673922083,4090651448
+
+// Modified B-7 Pistol - PvP Kill-chaining good 1
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Keep Away), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain M+KB Controller): Good roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657388 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a kill-chaining 3-tap, in the first column to boost gunfeel, Keep Away is a solid choice to boost Range, manual vent speed and Accuracy when no opponents are within 15m. In the second column, Adagio gives you an easy 0.800s (2c1b) TTK with no need to invest in the weapons stat (although if you do have 200 weapons stat, you'll only need 1c2b), but if you're a Bakris Hunter you can go on to potentially achieve a 0.400s (2c0b) TTK at three stacks of Light Shift. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain M+KB Controller
+dimwishlist:item=3146657388&perks=1092016998,1840239774,3619207468,3673922083
+dimwishlist:item=3146657388&perks=1092016998,3619207468,3673922083,839105230
+dimwishlist:item=3146657388&perks=1092016998,3619207468,3673922083,4090651448
+
+// Modified B-7 Pistol - PvP Duelling god 1
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Delicate Tuning), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657388 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a duelling roll, in the first column to boost gunfeel, Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold, with the benefits reducing to half strength at 50% heat. Almost perfectly pairing with this, Eye of the Storm in the second column should take over to boost Accuracy and Handling as you take damage in a gunfight by when the heat will be >50%. Otherwise, Opening Shot pairs with Delicate Tuning at the start of an engagement to make the first shot very easy to land, or Headstone's Stasis crystal on a crit kill is great to prevent revives. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=3146657388&perks=1092016998,1840239774,307683764,699525795
+dimwishlist:item=3146657388&perks=1092016998,1840239774,307683764,47981717
+dimwishlist:item=3146657388&perks=1092016998,124408337,1840239774,307683764
+dimwishlist:item=3146657388&perks=1092016998,307683764,699525795,839105230
+dimwishlist:item=3146657388&perks=1092016998,307683764,47981717,839105230
+dimwishlist:item=3146657388&perks=1092016998,124408337,307683764,839105230
+dimwishlist:item=3146657388&perks=1092016998,307683764,4090651448,699525795
+dimwishlist:item=3146657388&perks=1092016998,307683764,4090651448,47981717
+dimwishlist:item=3146657388&perks=1092016998,124408337,307683764,4090651448
+
+// Modified B-7 Pistol - PvP Duelling god 2
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Keep Away), (Eye of the Storm, Opening Shot, Headstone)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel M+KB Controller): Good PvP roll for 6s. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657388 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a duelling roll, in the first column to boost gunfeel, Keep Away is a solid choice to boost Range, manual vent speed and Accuracy when no opponents are within 15m. Pairing with this in the second column, Eye of the Storm boosts Accuracy and Handling when you're taking damage in a gunfight to land hits under pressure. Otherwise, Opening Shot pairs with Keep Away at the start of an engagement to make the first shot very easy to land, or Headstone's Stasis crystal on a crit kill is great to prevent revives. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel M+KB Controller
+dimwishlist:item=3146657388&perks=1092016998,1840239774,3619207468,699525795
+dimwishlist:item=3146657388&perks=1092016998,1840239774,3619207468,47981717
+dimwishlist:item=3146657388&perks=1092016998,124408337,1840239774,3619207468
+dimwishlist:item=3146657388&perks=1092016998,3619207468,699525795,839105230
+dimwishlist:item=3146657388&perks=1092016998,3619207468,47981717,839105230
+dimwishlist:item=3146657388&perks=1092016998,124408337,3619207468,839105230
+dimwishlist:item=3146657388&perks=1092016998,3619207468,4090651448,699525795
+dimwishlist:item=3146657388&perks=1092016998,3619207468,4090651448,47981717
+dimwishlist:item=3146657388&perks=1092016998,124408337,3619207468,4090651448
+
+// Modified B-7 Pistol - PvP Kill-chaining god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Delicate Tuning), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Killchain PvP-God M+KB Controller): God-roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/1872906663 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a kill-chaining 3-tap, in the first column to boost gunfeel, Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold, with the benefits reducing to half strength at 50% heat. In the second column, Adagio gives you an easy 0.800s (2c1b) TTK with no need to invest in the weapons stat (although if you do have 200 weapons stat, you'll only need 1c2b), but if you're a Bakris Hunter you can go on to potentially achieve a 0.400s (2c0b) TTK at three stacks of Light Shift. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=1872906663&perks=1092016998,1840239774,307683764,3673922083
+dimwishlist:item=1872906663&perks=1092016998,307683764,3673922083,839105230
+dimwishlist:item=1872906663&perks=1092016998,307683764,3673922083,4090651448
+
+// Modified B-7 Pistol - PvP Kill-chaining good 1
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Keep Away), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain M+KB Controller): Good roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/1872906663 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a kill-chaining 3-tap, in the first column to boost gunfeel, Keep Away is a solid choice to boost Range, manual vent speed and Accuracy when no opponents are within 15m. In the second column, Adagio gives you an easy 0.800s (2c1b) TTK with no need to invest in the weapons stat (although if you do have 200 weapons stat, you'll only need 1c2b), but if you're a Bakris Hunter you can go on to potentially achieve a 0.400s (2c0b) TTK at three stacks of Light Shift. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain M+KB Controller
+dimwishlist:item=1872906663&perks=1092016998,1840239774,3619207468,3673922083
+dimwishlist:item=1872906663&perks=1092016998,3619207468,3673922083,839105230
+dimwishlist:item=1872906663&perks=1092016998,3619207468,3673922083,4090651448
+
+// Modified B-7 Pistol - PvP Duelling god 1
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Delicate Tuning), (Adagio)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for kill-chaining. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/1872906663 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a duelling roll, in the first column to boost gunfeel, Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold, with the benefits reducing to half strength at 50% heat. Almost perfectly pairing with this, Eye of the Storm in the second column should take over to boost Accuracy and Handling as you take damage in a gunfight by when the heat will be >50%. Otherwise, Opening Shot pairs with Delicate Tuning at the start of an engagement to make the first shot very easy to land, or Headstone's Stasis crystal on a crit kill is great to prevent revives. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=1872906663&perks=1092016998,1840239774,307683764,699525795
+dimwishlist:item=1872906663&perks=1092016998,1840239774,307683764,47981717
+dimwishlist:item=1872906663&perks=1092016998,124408337,1840239774,307683764
+dimwishlist:item=1872906663&perks=1092016998,307683764,699525795,839105230
+dimwishlist:item=1872906663&perks=1092016998,307683764,47981717,839105230
+dimwishlist:item=1872906663&perks=1092016998,124408337,307683764,839105230
+dimwishlist:item=1872906663&perks=1092016998,307683764,4090651448,699525795
+dimwishlist:item=1872906663&perks=1092016998,307683764,4090651448,47981717
+dimwishlist:item=1872906663&perks=1092016998,124408337,307683764,4090651448
+
+// Modified B-7 Pistol - PvP Duelling god 2
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Overclocked Heatsink), (Keep Away), (Eye of the Storm, Opening Shot, Headstone)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel M+KB Controller): Good PvP roll for 6s. The Modified B-7 Pistol is a bit of a slept-on B-Tier 180RPM hand cannon. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, is 1.000s (2c2b), with a higher weapons stat also having no further effect, at base. Compared against its 180 Precision peers, but the stats are decent, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/1872906663 for yourself, once the formulas have been worked out. For the barrel perk, look to improve Handling, and if you want even more then the Shrewd Survivor armour two-piece Reflex Action perk boosts it further. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost - enough on it's own to work with a 178 weapons stat for a 0.667s (3c0b) TTK. For a duelling roll, in the first column to boost gunfeel, Keep Away is a solid choice to boost Range, manual vent speed and Accuracy when no opponents are within 15m. Pairing with this in the second column, Eye of the Storm boosts Accuracy and Handling when you're taking damage in a gunfight to land hits under pressure. Otherwise, Opening Shot pairs with Keep Away at the start of an engagement to make the first shot very easy to land, or Headstone's Stasis crystal on a crit kill is great to prevent revives. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel M+KB Controller
+dimwishlist:item=1872906663&perks=1092016998,1840239774,3619207468,699525795
+dimwishlist:item=1872906663&perks=1092016998,1840239774,3619207468,47981717
+dimwishlist:item=1872906663&perks=1092016998,124408337,1840239774,3619207468
+dimwishlist:item=1872906663&perks=1092016998,3619207468,699525795,839105230
+dimwishlist:item=1872906663&perks=1092016998,3619207468,47981717,839105230
+dimwishlist:item=1872906663&perks=1092016998,124408337,3619207468,839105230
+dimwishlist:item=1872906663&perks=1092016998,3619207468,4090651448,699525795
+dimwishlist:item=1872906663&perks=1092016998,3619207468,4090651448,47981717
+dimwishlist:item=1872906663&perks=1092016998,124408337,3619207468,4090651448
+
+// Voltaic Shade - PvP Duelling god 1
+//notes: // (Arrowhead Brake, Extended Barrel, Chambered Compensator), (Overclocked Heatsink), (Delicate Tuning, Jolting Feedback), (Precision Instrument, Meganeura)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for 6s. Voltaic Shade is, at time of writing, an A-Tier primary option for larger maps. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK at base as 0.933s (4c1b) - increasing the weapons stat to 193 reduces the crit% to 3c2b. The stats are good compared to other rapid fire scouts. You can see the in-game effect of stat changes at https://d2foundry.gg/w/71057630 for yourself, once the formulas have been worked out. For the barrel perk, Arrowhead Brake helps with both Handling and Recoil Direction - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the Battery Perk, the only real choice is Overclocked Heatsink which provides a ×1.02 damage boost which reduces the weapons stat you need for the 0.933s (3c2b) TTK to 152 and makes a 0.840s TTK (4c0b) possible at 165. In the first trait perk column, Delicate Tuning, works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half at 50% heat. In the second, with no investment in the weapons stat, Precision Instrument means you can hit the 0.840s TTK with 3 crits followed by either a body or crit shot, making this a rapid fire scout that can potentially challenge a Jade Rabbit at range. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=71057630&perks=1092016998,307683764,555281244,839105230
+dimwishlist:item=71057630&perks=1092016998,1467527085,307683764,555281244
+dimwishlist:item=71057630&perks=1092016998,307683764,3661387068,555281244
+
+// Voltaic Shade - PvP Kill-chaining god 1
+//notes: // (Arrowhead Brake, Extended Barrel, Chambered Compensator), (Overclocked Heatsink), (Delicate Tuning, Jolting Feedback), (Precision Instrument, Meganeura)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining with a weapons stat >165. Voltaic Shade is, at time of writing, an A-Tier primary option for larger maps. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK at base as 0.933s (4c1b) - increasing the weapons stat to 193 reduces the crit% to 3c2b. The stats are good compared to other rapid fire scouts. You can see the in-game effect of stat changes at https://d2foundry.gg/w/71057630 for yourself, once the formulas have been worked out. For the barrel perk, Arrowhead Brake helps with both Handling and Recoil Direction - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the Battery Perk, the only real choice is Overclocked Heatsink which provides a ×1.02 damage boost which reduces the weapons stat you need for the 0.933s (3c2b) TTK to 152 and makes a 0.840s TTK (4c0b) possible at 165. If you can hit that 165 weapons stat for the 4c kill option, you could instead choose a kill-chaining roll of Jolting Feedback, which procs on 7 hits (6 enhanced and 4 when Amplified), and Meganeura for chunky 7.5m AoE damage on a crit kill. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=71057630&perks=1092016998,3966416502,657025441,839105230
+dimwishlist:item=71057630&perks=1092016998,1467527085,3966416502,657025441
+dimwishlist:item=71057630&perks=1092016998,3661387068,3966416502,657025441
+
+// M-17 "Fast Talker" - PvP Duel god 1
+// (Extended Barrel, Chambered Compensator), (Projection Fuse, Overclocked Heatsink), (Delicate Tuning), (Tap the Trigger, Target Lock)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for 6s, particularly with Stasis builds. M-17 "Fast Talker" is, at time of writing, an S-Tier primary option for CQC. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the optimum TTK at base as 0.667s (10c1b) - increasing the weapons stat to 174 makes the TTK easier (9c2b), and at 186 the TTK is 0.600s (10c0b) - if you can hit your crits with an SMG! The 80% crit accuracy-adjusted TTK is 0.733s (9c3b), which at 162 weapons is easier (8c4b). The stats are good compared to other lightweight SMGs and make this one of the best SMGs in the game. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2770035786 for yourself, once the formulas have been worked out. For the barrel perk, Extended Barrel or Chambered Compensator take Recoil Direction to 95 - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the battery perk, the best option is Projection Fuse to increase Range. For a duelling roll, Delicate Tuning in the first trait perk column works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half at 50% heat. Put that with Tap the Trigger in the second column, and this almost feels like an aimbot. Bakris Hunters can make this really potent at 3 stacks of Light Shift, or Strand Titans can generate a Diamond Lance after 3 kills. Otherwise, Target Lock can also work on non-stasis builds to make the TTK a little more forgiving. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=1419158093&perks=1467527085,1890422124,2969185026,307683764
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,365154968
+dimwishlist:item=1419158093&perks=1890422124,2969185026,307683764,3661387068
+dimwishlist:item=1419158093&perks=2969185026,307683764,365154968,3661387068
+
+// M-17 "Fast Talker" - PvP Kill-chain god 1
+//notes: // (Extended Barrel, Chambered Compensator), (Projection Fuse, Overclocked Heatsink), (Delicate Tuning), (Sword Logic, Kill Clip, Master of Arms)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining. M-17 "Fast Talker" is, at time of writing, an S-Tier primary option for CQC. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the optimum TTK at base as 0.667s (10c1b) - increasing the weapons stat to 174 makes the TTK easier (9c2b), and at 186 the TTK is 0.600s (10c0b) - if you can hit your crits with an SMG! The 80% crit accuracy-adjusted TTK is 0.733s (9c3b), which at 162 weapons is easier (8c4b). The stats are good compared to other lightweight SMGs and make this one of the best SMGs in the game. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2770035786 for yourself, once the formulas have been worked out. For the barrel perk, Extended Barrel or Chambered Compensator take Recoil Direction to 95 - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the battery perk, the best option is Projection Fuse to increase Range. For a duelling roll, Delicate Tuning in the first trait perk column works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half at 50% heat. For kill-chaining, Sword Logic, Kill Clip and Master of Arms can all shave a bullet or two off your TTK. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,31345821
+dimwishlist:item=1419158093&perks=1015611457,1467527085,2969185026,307683764
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,3081867624
+dimwishlist:item=1419158093&perks=2969185026,307683764,31345821,3661387068
+dimwishlist:item=1419158093&perks=1015611457,2969185026,307683764,3661387068
+dimwishlist:item=1419158093&perks=2969185026,307683764,3081867624,3661387068
+
+// M-17 "Fast Talker" - PvP Duel god 1
+// (Extended Barrel, Chambered Compensator), (Projection Fuse, Overclocked Heatsink), (Delicate Tuning), (Tap the Trigger, Target Lock)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for 6s, particularly with Stasis builds. M-17 "Fast Talker" is, at time of writing, an S-Tier primary option for CQC. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the optimum TTK at base as 0.667s (10c1b) - increasing the weapons stat to 174 makes the TTK easier (9c2b), and at 186 the TTK is 0.600s (10c0b) - if you can hit your crits with an SMG! The 80% crit accuracy-adjusted TTK is 0.733s (9c3b), which at 162 weapons is easier (8c4b). The stats are good compared to other lightweight SMGs and make this one of the best SMGs in the game. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2770035786 for yourself, once the formulas have been worked out. For the barrel perk, Extended Barrel or Chambered Compensator take Recoil Direction to 95 - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the battery perk, the best option is Projection Fuse to increase Range. For a duelling roll, Delicate Tuning in the first trait perk column works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half at 50% heat. Put that with Tap the Trigger in the second column, and this almost feels like an aimbot. Bakris Hunters can make this really potent at 3 stacks of Light Shift, or Strand Titans can generate a Diamond Lance after 3 kills. Otherwise, Target Lock can also work on non-stasis builds to make the TTK a little more forgiving. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=2770035786&perks=1467527085,1890422124,2969185026,307683764
+dimwishlist:item=2770035786&perks=1467527085,2969185026,307683764,365154968
+dimwishlist:item=2770035786&perks=1890422124,2969185026,307683764,3661387068
+dimwishlist:item=2770035786&perks=2969185026,307683764,365154968,3661387068
+
+// M-17 "Fast Talker" - PvP Kill-chain god 1
+//notes: // (Extended Barrel, Chambered Compensator), (Projection Fuse, Overclocked Heatsink), (Delicate Tuning), (Sword Logic, Kill Clip, Master of Arms)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining. M-17 "Fast Talker" is, at time of writing, an S-Tier primary option for CQC. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the optimum TTK at base as 0.667s (10c1b) - increasing the weapons stat to 174 makes the TTK easier (9c2b), and at 186 the TTK is 0.600s (10c0b) - if you can hit your crits with an SMG! The 80% crit accuracy-adjusted TTK is 0.733s (9c3b), which at 162 weapons is easier (8c4b). The stats are good compared to other lightweight SMGs and make this one of the best SMGs in the game. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2770035786 for yourself, once the formulas have been worked out. For the barrel perk, Extended Barrel or Chambered Compensator take Recoil Direction to 95 - if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus this boosts Handling and Accuracy. For the battery perk, the best option is Projection Fuse to increase Range. For a duelling roll, Delicate Tuning in the first trait perk column works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half at 50% heat. For kill-chaining, Sword Logic, Kill Clip and Master of Arms can all shave a bullet or two off your TTK. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Range, Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=2770035786&perks=1467527085,2969185026,307683764,31345821
+dimwishlist:item=2770035786&perks=1015611457,1467527085,2969185026,307683764
+dimwishlist:item=2770035786&perks=1467527085,2969185026,307683764,3081867624
+dimwishlist:item=2770035786&perks=2969185026,307683764,31345821,3661387068
+dimwishlist:item=2770035786&perks=1015611457,2969185026,307683764,3661387068
+dimwishlist:item=2770035786&perks=2969185026,307683764,3081867624,3661387068
+
+// Uncivil Discourse - PvP Duelling god 1
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Extended Barrel, Full Bore, Hammer-Forged Rifling, Polygonal Rifling), (Overclocked Heatsink), (Delicate Tuning, Keep Away, Lone Wolf), (Precision Instrument Opening Shot)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for 6s. Uncivil Discourse is, right now, an S/A-Tier special ammo 180RPM hand cannon that's borderline oppressive in PvP - probably twice as good as Forerunner. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling, so you just have to run over ammo blocks to auto-reload. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, at base, is 0.667s (2c1b). There's nothing to compare against, but the stats are high across the board, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657389 for yourself, once the formulas have been worked out. For the barrel perk, with all the stats being so high, there's no wrong choice - if you're using Shrewd Survivor armour the two-piece Reflex Action perk boosts Handling so Range or Stability work. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost. For a duelling roll, in the first trait perk column Lone Wolf is the top choice to improve Aim Assist, Airborne Effectiveness and ADS speed. Alternatively Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half strength at 50% heat, or Keep Away boosts Reload, Range and Accuracy when there's no enemies within 15m. In the second column, Precision Instrument means you can 1c2b with a 160 weapons stat, or Opening Shot makes hitting your first crit easier. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=3146657389&perks=1092016998,2579169598,555281244,839105230
+dimwishlist:item=3146657389&perks=1092016998,2579169598,47981717,839105230
+dimwishlist:item=3146657389&perks=1092016998,307683764,555281244,839105230
+dimwishlist:item=3146657389&perks=1092016998,307683764,47981717,839105230
+dimwishlist:item=3146657389&perks=1092016998,3619207468,555281244,839105230
+dimwishlist:item=3146657389&perks=1092016998,3619207468,47981717,839105230
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2579169598,555281244
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2579169598,47981717
+dimwishlist:item=3146657389&perks=1092016998,1840239774,307683764,555281244
+dimwishlist:item=3146657389&perks=1092016998,1840239774,307683764,47981717
+dimwishlist:item=3146657389&perks=1092016998,1840239774,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1840239774,3619207468,47981717
+dimwishlist:item=3146657389&perks=1092016998,2579169598,4090651448,555281244
+dimwishlist:item=3146657389&perks=1092016998,2579169598,4090651448,47981717
+dimwishlist:item=3146657389&perks=1092016998,307683764,4090651448,555281244
+dimwishlist:item=3146657389&perks=1092016998,307683764,4090651448,47981717
+dimwishlist:item=3146657389&perks=1092016998,3619207468,4090651448,555281244
+dimwishlist:item=3146657389&perks=1092016998,3619207468,4090651448,47981717
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2579169598,555281244
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2579169598,47981717
+dimwishlist:item=3146657389&perks=1092016998,1482024992,307683764,555281244
+dimwishlist:item=3146657389&perks=1092016998,1482024992,307683764,47981717
+dimwishlist:item=3146657389&perks=1092016998,1482024992,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1482024992,3619207468,47981717
+dimwishlist:item=3146657389&perks=1092016998,2579169598,3661387068,555281244
+dimwishlist:item=3146657389&perks=1092016998,2579169598,3661387068,47981717
+dimwishlist:item=3146657389&perks=1092016998,307683764,3661387068,555281244
+dimwishlist:item=3146657389&perks=1092016998,307683764,3661387068,47981717
+dimwishlist:item=3146657389&perks=1092016998,3619207468,3661387068,555281244
+dimwishlist:item=3146657389&perks=1092016998,3619207468,3661387068,47981717
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2579169598,555281244
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2579169598,47981717
+dimwishlist:item=3146657389&perks=1092016998,1467527085,307683764,555281244
+dimwishlist:item=3146657389&perks=1092016998,1467527085,307683764,47981717
+dimwishlist:item=3146657389&perks=1092016998,1467527085,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1467527085,3619207468,47981717
+dimwishlist:item=3146657389&perks=1092016998,202670084,2579169598,555281244
+dimwishlist:item=3146657389&perks=1092016998,202670084,2579169598,47981717
+dimwishlist:item=3146657389&perks=1092016998,202670084,307683764,555281244
+dimwishlist:item=3146657389&perks=1092016998,202670084,307683764,47981717
+dimwishlist:item=3146657389&perks=1092016998,202670084,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,202670084,3619207468,47981717
+dimwishlist:item=3146657389&perks=1092016998,2579169598,3250034553,555281244
+dimwishlist:item=3146657389&perks=1092016998,2579169598,3250034553,47981717
+dimwishlist:item=3146657389&perks=1092016998,307683764,3250034553,555281244
+dimwishlist:item=3146657389&perks=1092016998,307683764,3250034553,47981717
+dimwishlist:item=3146657389&perks=1092016998,3250034553,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,3250034553,3619207468,47981717
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2579169598,555281244
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2579169598,47981717
+dimwishlist:item=3146657389&perks=1092016998,1392496348,307683764,555281244
+dimwishlist:item=3146657389&perks=1092016998,1392496348,307683764,47981717
+dimwishlist:item=3146657389&perks=1092016998,1392496348,3619207468,555281244
+dimwishlist:item=3146657389&perks=1092016998,1392496348,3619207468,47981717
+
+// Uncivil Discourse - PvP Kill-chaining god 1
+//notes: // (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Extended Barrel, Full Bore, Hammer-Forged Rifling, Polygonal Rifling), (Overclocked Heatsink), (Delicate Tuning, Keep Away, Lone Wolf), (Desperate Measures, Offhand Strike)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining. Uncivil Discourse is, right now, an S/A-Tier special ammo 180RPM hand cannon that's borderline oppressive in PvP - probably twice as good as Forerunner. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling, so you just have to run over ammo blocks to auto-reload. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK - at base, the TTK is 0.667s (2c1b). There's nothing to compare against, but the stats are high across the board, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3146657389 for yourself, once the formulas have been worked out. For the barrel perk, with all the stats being so high, there's no wrong choice - if you're using Shrewd Survivor armour the two-piece Reflex Action perk boosts Handling so Range or Stability work. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost. For a duelling roll, in the first trait perk column Lone Wolf is the top choice to improve Aim Assist, Airborne Effectiveness and ADS speed. Alternatively Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half strength at 50% heat, or Keep Away boosts Reload, Range and Accuracy when there's no enemies within 15m. In the second column, Desperate Measures ×1 plus Radiant (or any other ability damage boost) will allow a 0.333s (2c0b) kill with a 169 weapon stat. Less spectacular but also useful if you like hipfiring, there's Offhand Strike to make follow-up hits easier to land. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=3146657389&perks=1092016998,2109543898,2579169598,839105230
+dimwishlist:item=3146657389&perks=1092016998,2416023159,2579169598,839105230
+dimwishlist:item=3146657389&perks=1092016998,2109543898,307683764,839105230
+dimwishlist:item=3146657389&perks=1092016998,2416023159,307683764,839105230
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3619207468,839105230
+dimwishlist:item=3146657389&perks=1092016998,2416023159,3619207468,839105230
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2109543898,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2416023159,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2109543898,307683764
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2416023159,307683764
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,1840239774,2416023159,3619207468
+dimwishlist:item=3146657389&perks=1092016998,2109543898,2579169598,4090651448
+dimwishlist:item=3146657389&perks=1092016998,2416023159,2579169598,4090651448
+dimwishlist:item=3146657389&perks=1092016998,2109543898,307683764,4090651448
+dimwishlist:item=3146657389&perks=1092016998,2416023159,307683764,4090651448
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3619207468,4090651448
+dimwishlist:item=3146657389&perks=1092016998,2416023159,3619207468,4090651448
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2109543898,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2416023159,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2109543898,307683764
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2416023159,307683764
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,1482024992,2416023159,3619207468
+dimwishlist:item=3146657389&perks=1092016998,2109543898,2579169598,3661387068
+dimwishlist:item=3146657389&perks=1092016998,2416023159,2579169598,3661387068
+dimwishlist:item=3146657389&perks=1092016998,2109543898,307683764,3661387068
+dimwishlist:item=3146657389&perks=1092016998,2416023159,307683764,3661387068
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3619207468,3661387068
+dimwishlist:item=3146657389&perks=1092016998,2416023159,3619207468,3661387068
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2109543898,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2416023159,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2109543898,307683764
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2416023159,307683764
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,1467527085,2416023159,3619207468
+dimwishlist:item=3146657389&perks=1092016998,202670084,2109543898,2579169598
+dimwishlist:item=3146657389&perks=1092016998,202670084,2416023159,2579169598
+dimwishlist:item=3146657389&perks=1092016998,202670084,2109543898,307683764
+dimwishlist:item=3146657389&perks=1092016998,202670084,2416023159,307683764
+dimwishlist:item=3146657389&perks=1092016998,202670084,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,202670084,2416023159,3619207468
+dimwishlist:item=3146657389&perks=1092016998,2109543898,2579169598,3250034553
+dimwishlist:item=3146657389&perks=1092016998,2416023159,2579169598,3250034553
+dimwishlist:item=3146657389&perks=1092016998,2109543898,307683764,3250034553
+dimwishlist:item=3146657389&perks=1092016998,2416023159,307683764,3250034553
+dimwishlist:item=3146657389&perks=1092016998,2109543898,3250034553,3619207468
+dimwishlist:item=3146657389&perks=1092016998,2416023159,3250034553,3619207468
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2109543898,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2416023159,2579169598
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2109543898,307683764
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2416023159,307683764
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2109543898,3619207468
+dimwishlist:item=3146657389&perks=1092016998,1392496348,2416023159,3619207468
+
+// Uncivil Discourse - PvP Duelling god 1
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Extended Barrel, Full Bore, Hammer-Forged Rifling, Polygonal Rifling), (Overclocked Heatsink), (Delicate Tuning, Keep Away, Lone Wolf), (Precision Instrument Opening Shot)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for 6s. Uncivil Discourse is, right now, an S/A-Tier special ammo 180RPM hand cannon that's borderline oppressive in PvP - probably twice as good as Forerunner. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling, so you just have to run over ammo blocks to auto-reload. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK, at base, is 0.667s (2c1b). There's nothing to compare against, but the stats are high across the board, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2462965802 for yourself, once the formulas have been worked out. For the barrel perk, with all the stats being so high, there's no wrong choice - if you're using Shrewd Survivor armour the two-piece Reflex Action perk boosts Handling so Range or Stability work. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost. For a duelling roll, in the first trait perk column Lone Wolf is the top choice to improve Aim Assist, Airborne Effectiveness and ADS speed. Alternatively Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half strength at 50% heat, or Keep Away boosts Reload, Range and Accuracy when there's no enemies within 15m. In the second column, Precision Instrument means you can 1c2b with a 160 weapons stat, or Opening Shot makes hitting your first crit easier. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=2462965802&perks=1092016998,2579169598,555281244,839105230
+dimwishlist:item=2462965802&perks=1092016998,2579169598,47981717,839105230
+dimwishlist:item=2462965802&perks=1092016998,307683764,555281244,839105230
+dimwishlist:item=2462965802&perks=1092016998,307683764,47981717,839105230
+dimwishlist:item=2462965802&perks=1092016998,3619207468,555281244,839105230
+dimwishlist:item=2462965802&perks=1092016998,3619207468,47981717,839105230
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2579169598,555281244
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2579169598,47981717
+dimwishlist:item=2462965802&perks=1092016998,1840239774,307683764,555281244
+dimwishlist:item=2462965802&perks=1092016998,1840239774,307683764,47981717
+dimwishlist:item=2462965802&perks=1092016998,1840239774,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1840239774,3619207468,47981717
+dimwishlist:item=2462965802&perks=1092016998,2579169598,4090651448,555281244
+dimwishlist:item=2462965802&perks=1092016998,2579169598,4090651448,47981717
+dimwishlist:item=2462965802&perks=1092016998,307683764,4090651448,555281244
+dimwishlist:item=2462965802&perks=1092016998,307683764,4090651448,47981717
+dimwishlist:item=2462965802&perks=1092016998,3619207468,4090651448,555281244
+dimwishlist:item=2462965802&perks=1092016998,3619207468,4090651448,47981717
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2579169598,555281244
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2579169598,47981717
+dimwishlist:item=2462965802&perks=1092016998,1482024992,307683764,555281244
+dimwishlist:item=2462965802&perks=1092016998,1482024992,307683764,47981717
+dimwishlist:item=2462965802&perks=1092016998,1482024992,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1482024992,3619207468,47981717
+dimwishlist:item=2462965802&perks=1092016998,2579169598,3661387068,555281244
+dimwishlist:item=2462965802&perks=1092016998,2579169598,3661387068,47981717
+dimwishlist:item=2462965802&perks=1092016998,307683764,3661387068,555281244
+dimwishlist:item=2462965802&perks=1092016998,307683764,3661387068,47981717
+dimwishlist:item=2462965802&perks=1092016998,3619207468,3661387068,555281244
+dimwishlist:item=2462965802&perks=1092016998,3619207468,3661387068,47981717
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2579169598,555281244
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2579169598,47981717
+dimwishlist:item=2462965802&perks=1092016998,1467527085,307683764,555281244
+dimwishlist:item=2462965802&perks=1092016998,1467527085,307683764,47981717
+dimwishlist:item=2462965802&perks=1092016998,1467527085,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1467527085,3619207468,47981717
+dimwishlist:item=2462965802&perks=1092016998,202670084,2579169598,555281244
+dimwishlist:item=2462965802&perks=1092016998,202670084,2579169598,47981717
+dimwishlist:item=2462965802&perks=1092016998,202670084,307683764,555281244
+dimwishlist:item=2462965802&perks=1092016998,202670084,307683764,47981717
+dimwishlist:item=2462965802&perks=1092016998,202670084,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,202670084,3619207468,47981717
+dimwishlist:item=2462965802&perks=1092016998,2579169598,3250034553,555281244
+dimwishlist:item=2462965802&perks=1092016998,2579169598,3250034553,47981717
+dimwishlist:item=2462965802&perks=1092016998,307683764,3250034553,555281244
+dimwishlist:item=2462965802&perks=1092016998,307683764,3250034553,47981717
+dimwishlist:item=2462965802&perks=1092016998,3250034553,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,3250034553,3619207468,47981717
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2579169598,555281244
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2579169598,47981717
+dimwishlist:item=2462965802&perks=1092016998,1392496348,307683764,555281244
+dimwishlist:item=2462965802&perks=1092016998,1392496348,307683764,47981717
+dimwishlist:item=2462965802&perks=1092016998,1392496348,3619207468,555281244
+dimwishlist:item=2462965802&perks=1092016998,1392496348,3619207468,47981717
+
+// Uncivil Discourse - PvP Kill-chaining god 1
+//notes: // (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Extended Barrel, Full Bore, Hammer-Forged Rifling, Polygonal Rifling), (Overclocked Heatsink), (Delicate Tuning, Keep Away, Lone Wolf), (Desperate Measures, Offhand Strike)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining. Uncivil Discourse is, right now, an S/A-Tier special ammo 180RPM hand cannon that's borderline oppressive in PvP - probably twice as good as Forerunner. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling, so you just have to run over ammo blocks to auto-reload. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK - at base, the TTK is 0.667s (2c1b). There's nothing to compare against, but the stats are high across the board, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2462965802 for yourself, once the formulas have been worked out. For the barrel perk, with all the stats being so high, there's no wrong choice - if you're using Shrewd Survivor armour the two-piece Reflex Action perk boosts Handling so Range or Stability work. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost. For a duelling roll, in the first trait perk column Lone Wolf is the top choice to improve Aim Assist, Airborne Effectiveness and ADS speed. Alternatively Delicate Tuning works like a Heat weapon's mirror to Closing Time, boosting Range, Handling and Accuracy when a weapon's cold with the benefits reducing to half strength at 50% heat, or Keep Away boosts Reload, Range and Accuracy when there's no enemies within 15m. In the second column, Desperate Measures ×1 plus Radiant (or any other ability damage boost) will allow a 0.333s (2c0b) kill with a 169 weapon stat. Less spectacular but also useful if you like hipfiring, there's Offhand Strike to make follow-up hits easier to land. The Air-Cooled Core origin trait is only really relevant with manual vents (reloads) - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading, but unfortunately to proc Accelerated Assault you need to hit 3 times with 1.2-4s between each hit for the cooling and extra damage which isn't ideal if you're trying to hit an optimal TTK. Recommended MW: Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=2462965802&perks=1092016998,2109543898,2579169598,839105230
+dimwishlist:item=2462965802&perks=1092016998,2416023159,2579169598,839105230
+dimwishlist:item=2462965802&perks=1092016998,2109543898,307683764,839105230
+dimwishlist:item=2462965802&perks=1092016998,2416023159,307683764,839105230
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3619207468,839105230
+dimwishlist:item=2462965802&perks=1092016998,2416023159,3619207468,839105230
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2109543898,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2416023159,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2109543898,307683764
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2416023159,307683764
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,1840239774,2416023159,3619207468
+dimwishlist:item=2462965802&perks=1092016998,2109543898,2579169598,4090651448
+dimwishlist:item=2462965802&perks=1092016998,2416023159,2579169598,4090651448
+dimwishlist:item=2462965802&perks=1092016998,2109543898,307683764,4090651448
+dimwishlist:item=2462965802&perks=1092016998,2416023159,307683764,4090651448
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3619207468,4090651448
+dimwishlist:item=2462965802&perks=1092016998,2416023159,3619207468,4090651448
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2109543898,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2416023159,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2109543898,307683764
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2416023159,307683764
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,1482024992,2416023159,3619207468
+dimwishlist:item=2462965802&perks=1092016998,2109543898,2579169598,3661387068
+dimwishlist:item=2462965802&perks=1092016998,2416023159,2579169598,3661387068
+dimwishlist:item=2462965802&perks=1092016998,2109543898,307683764,3661387068
+dimwishlist:item=2462965802&perks=1092016998,2416023159,307683764,3661387068
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3619207468,3661387068
+dimwishlist:item=2462965802&perks=1092016998,2416023159,3619207468,3661387068
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2109543898,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2416023159,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2109543898,307683764
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2416023159,307683764
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,1467527085,2416023159,3619207468
+dimwishlist:item=2462965802&perks=1092016998,202670084,2109543898,2579169598
+dimwishlist:item=2462965802&perks=1092016998,202670084,2416023159,2579169598
+dimwishlist:item=2462965802&perks=1092016998,202670084,2109543898,307683764
+dimwishlist:item=2462965802&perks=1092016998,202670084,2416023159,307683764
+dimwishlist:item=2462965802&perks=1092016998,202670084,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,202670084,2416023159,3619207468
+dimwishlist:item=2462965802&perks=1092016998,2109543898,2579169598,3250034553
+dimwishlist:item=2462965802&perks=1092016998,2416023159,2579169598,3250034553
+dimwishlist:item=2462965802&perks=1092016998,2109543898,307683764,3250034553
+dimwishlist:item=2462965802&perks=1092016998,2416023159,307683764,3250034553
+dimwishlist:item=2462965802&perks=1092016998,2109543898,3250034553,3619207468
+dimwishlist:item=2462965802&perks=1092016998,2416023159,3250034553,3619207468
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2109543898,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2416023159,2579169598
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2109543898,307683764
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2416023159,307683764
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2109543898,3619207468
+dimwishlist:item=2462965802&perks=1092016998,1392496348,2416023159,3619207468
+
+// Conspiracy Honed - PvP Duelling god 1
+//notes: // (Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling), (Overclocked Heatsink), (Delicate Tuning), (Opening Shot)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for duelling. Welcome to the new Rapid-Fire Sniper meta, for as long as this goes unnerfed, anyway. Conspiracy Honed is, right now, an S-Tier sniper and objectively the best in the game. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Dynamic Heat frame means that when you cancel a manual vent at <12.5%, you get ×0.5 heat generation for 6s or until stowed. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK - at base, body damage is 113.11 and crits are 389.22. The stats are excellent compared to other rapid fire snipers, especially with enhanced perks. You can see the in-game effect of stat changes at https://d2foundry.gg/w/4062069077 for yourself, once the formulas have been worked out. For the barrel perk, push out the range, even at the cost of a little Handling - if you're using Shrewd Survivor armour the two-piece Reflex Action perk boosts Handling back up, as well as improving Accuracy. For the Battery Perk, the only real choice is Overclocked Heatsink - with this perk alone providing a ×1.02 damage boost, you can kill Guardians outside of Supers or damage resistance buffs with two body shots on 0.433s. The standout god-roll is a T4/T5 with enhanced trait perks, pairing Delicate Tuning, which works like a Heat weapon's mirror to Closing Time, and Opening Shot which together provide 100 Range, 100 Aim Assist and better Accuracy and Handling than any other rapid-fire. If you're lucky, you can also roll Vorpal Weapon and Box breathing on the same weapon - swap to these perks when supers start popping, you'll also be able to one-crit any Guardian in a roaming super. If you're really lucky, for Trials, Headstone in the first column provides another option, to block revives with a Stasis crystal on crit kills. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates, boosting cooling efficiency and damage when heat is >50%, but it's probably better than Accelerated Assault on a sniper - to proc the cooling and extra damage you need to hit 3 times with 1.2-4s between each hit, which is going to be tough. Recommended MW: Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=4062069077&perks=1092016998,202670084,307683764,47981717
+dimwishlist:item=4062069077&perks=1092016998,202670084,2551157718,307683764
+dimwishlist:item=4062069077&perks=1092016998,1546637391,202670084,47981717
+dimwishlist:item=4062069077&perks=1092016998,1546637391,202670084,2551157718
+dimwishlist:item=4062069077&perks=1092016998,124408337,202670084,47981717
+dimwishlist:item=4062069077&perks=1092016998,124408337,202670084,2551157718
+dimwishlist:item=4062069077&perks=1092016998,307683764,3250034553,47981717
+dimwishlist:item=4062069077&perks=1092016998,2551157718,307683764,3250034553
+dimwishlist:item=4062069077&perks=1092016998,1546637391,3250034553,47981717
+dimwishlist:item=4062069077&perks=1092016998,1546637391,2551157718,3250034553
+dimwishlist:item=4062069077&perks=1092016998,124408337,3250034553,47981717
+dimwishlist:item=4062069077&perks=1092016998,124408337,2551157718,3250034553
+dimwishlist:item=4062069077&perks=1092016998,1467527085,307683764,47981717
+dimwishlist:item=4062069077&perks=1092016998,1467527085,2551157718,307683764
+dimwishlist:item=4062069077&perks=1092016998,1467527085,1546637391,47981717
+dimwishlist:item=4062069077&perks=1092016998,1467527085,1546637391,2551157718
+dimwishlist:item=4062069077&perks=1092016998,124408337,1467527085,47981717
+dimwishlist:item=4062069077&perks=1092016998,124408337,1467527085,2551157718
+dimwishlist:item=4062069077&perks=1092016998,1482024992,307683764,47981717
+dimwishlist:item=4062069077&perks=1092016998,1482024992,2551157718,307683764
+dimwishlist:item=4062069077&perks=1092016998,1482024992,1546637391,47981717
+dimwishlist:item=4062069077&perks=1092016998,1482024992,1546637391,2551157718
+dimwishlist:item=4062069077&perks=1092016998,124408337,1482024992,47981717
+dimwishlist:item=4062069077&perks=1092016998,124408337,1482024992,2551157718
+dimwishlist:item=4062069077&perks=1092016998,307683764,4090651448,47981717
+dimwishlist:item=4062069077&perks=1092016998,2551157718,307683764,4090651448
+dimwishlist:item=4062069077&perks=1092016998,1546637391,4090651448,47981717
+dimwishlist:item=4062069077&perks=1092016998,1546637391,2551157718,4090651448
+dimwishlist:item=4062069077&perks=1092016998,124408337,4090651448,47981717
+dimwishlist:item=4062069077&perks=1092016998,124408337,2551157718,4090651448
+
+// Bitter End - PvP Kill-chaining god 1
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Ionized Heatsink), (Gutshot Straight), (Killing Tally)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining. Bitter End is, right now, an S-Tier heavy weapon option - at the time of writing you'll pick up 75 shots from a brick which is enough for 10 kills, which feels like a mistake so expect that to be nerfed. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK at base as 0.400s (7c0b) - increasing the weapons stat doesn't reduce this, but at 142 does mean you'll need less crits (6c1b). The 80% crit accuracy-adjusted TTK is 0.467s (4c4b), which becomes is easier at a 122 weapon stat (3c5b) and then 194 (2c6b). The stats are decent compared to other rapid fire LMGs - higher Range, Stability and Recoil Direction but lower Handling. You can see the in-game effect of stat changes at https://d2foundry.gg/w/954563454 for yourself, once the formulas have been worked out. For the barrel perk, you could go either Handling, or Range if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus to boost Handling and Accuracy. For the Battery Perk, Ionized Heatsink reduces heat generation, and the manual vent penalty isn't so much of problem with the passive cooling. For kill-chaining, the double damage trait perk pair of Gutshot Straight grants ×1.1 bodyshot damage when ADSed at the price of ×0.8 sized aim assist cone size - which means you can hit the 0.467s TTK with no crits needed (0c8b), and Killing Tally for an escalating boost to damage of up to ×1.3 damage after three kills - just one stack reduces the TTK to 0.400s (2c5b) and two or three stacks means you need no crits again (0c7b). The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=954563454&perks=1365187766,1840239774,557221067,807993149
+dimwishlist:item=954563454&perks=1365187766,557221067,807993149,839105230
+dimwishlist:item=954563454&perks=1365187766,4090651448,557221067,807993149
+dimwishlist:item=954563454&perks=1365187766,1467527085,557221067,807993149
+dimwishlist:item=954563454&perks=1365187766,3250034553,557221067,807993149
+
+// Bitter End - PvP Kill-chaining god 2
+//notes: // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Ionized Heatsink), (Dealicate Tuning, Hip-Fire Grip), (Offhand Strike)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining when hipfiring. Bitter End is, right now, an S-Tier heavy weapon option - at the time of writing you'll pick up 75 shots from a brick which is enough for 10 kills, which feels like a mistake so expect that to be nerfed. It's a Heat weapon - which means you get an ersatz Reconstruction for free from the passive cooling - with a rapid-fire fire rate. The Balanced Heat frame provides a ×2 vent rate if you manually vent when weapon heat is >87.5%. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the TTK at base as 0.400s (7c0b) - increasing the weapons stat doesn't reduce this, but at 142 does mean you'll need less crits (6c1b). The 80% crit accuracy-adjusted TTK is 0.467s (4c4b), which becomes is easier at a 122 weapon stat (3c5b) and then 194 (2c6b). The stats are decent compared to other rapid fire LMGs - higher Range, Stability and Recoil Direction but lower Handling. You can see the in-game effect of stat changes at https://d2foundry.gg/w/954563454 for yourself, once the formulas have been worked out. For the barrel perk, you could go either Handling, or Range if you're using Shrewd Survivor armour for the two-piece Reflex Action set bonus to boost Handling and Accuracy. For the Battery Perk, Ionized Heatsink reduces heat generation, and the manual vent penalty isn't so much of problem with the passive cooling. If you avoid ADSing, in the first trait perk column there's both Delicate Tuning, which works like a Heat weapon's mirror to Closing Time, improving Range and Handling, and reducing Accuracy Cone Growth from when the weapon's cold to 50% heat, or Hip-fire Grip to boost Aim Assist and damage falloff distance, Stability, and Aim Assist when hipfiring. In the second, Offhand Strike boosts Range, Stability and Accuracy for 7s after a kill. The Imperial Allegiance origin trait is situationally useful if you're near one, two or three teammates when heat is >50%, boosting both cooling efficiency and damage by up to ×1.105, but Accelerated Assault is probably better, proccing 10% cooling and ×1.05 damage when you hit 3 times with 1.2-4s between each hit. Recommended MW: Handling or Cooling Efficiency, with a Heat Generated mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
+dimwishlist:item=954563454&perks=1840239774,2416023159,307683764,807993149
+dimwishlist:item=954563454&perks=1840239774,1866048759,2416023159,807993149
+dimwishlist:item=954563454&perks=2416023159,307683764,807993149,839105230
+dimwishlist:item=954563454&perks=1866048759,2416023159,807993149,839105230
+dimwishlist:item=954563454&perks=2416023159,307683764,4090651448,807993149
+dimwishlist:item=954563454&perks=1866048759,2416023159,4090651448,807993149
+dimwishlist:item=954563454&perks=1467527085,2416023159,307683764,807993149
+dimwishlist:item=954563454&perks=1467527085,1866048759,2416023159,807993149
+dimwishlist:item=954563454&perks=2416023159,307683764,3250034553,807993149
+dimwishlist:item=954563454&perks=1866048759,2416023159,3250034553,807993149
+
+// Refurbished A499 - PvP Duelling god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell), (Lone Wolf, Snapshot Sights, No Distractions, Moving Target), (Mulligan, Auto-Loading Holster)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for duelling or 6s. Refurbished A499 is, right now, a competitive B-Tier heavy weapon which fills a similar PvP heavy weapon niche as LFRs. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the damage at base as 253.46 to the body or 698.26 for a crit, so this can one shot body kill. There's no real comparators, but looking at Aggressive Frames, this has higher impact, but every other stat is worse. With a single shot mag neither Stability or Recoil Direction will be a problem, but Handling, Reload Speed and Aim Assist are all low at base. You can see the in-game effect of stat changes at https://d2foundry.gg/w/954563454 for yourself, once the formulas have been worked out. For the barrel perk, look for a boost to Handling to improve snappiness, and for the magazine perk, Flared Magwell or Light Mag to help the Reload Speed. You can kill with one hit, so all you need are gunfeel or utility trait perks - Lone Wolf for flanking, Snapshot Sights for snappy ADS speed, No Distractions to help with flinch or Moving Target to improve Aim Assist and ADS speed in the first column, and in the second Mulligan which has a 20% (25% enhanced) chance of generating free ammo if you have the Anti-Barrier Sniper Rifle on the Seasonal Artifact or, when that stops working, Auto-Loading Holster so you can just ready and fire. The Air-Cooled Core origin trait looks very useful - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading your single shot in the mag. Recommended MW: Handling or Reload Speed, with your choice or weapon mod depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=3661051060&perks=1840239774,2579169598,3230963543,3513791699
+dimwishlist:item=3661051060&perks=1840239774,2579169598,3230963543,3300816228
+dimwishlist:item=3661051060&perks=1840239774,3230963543,3513791699,957782887
+dimwishlist:item=3661051060&perks=1840239774,3230963543,3300816228,957782887
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3230963543,3513791699
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3230963543,3300816228
+dimwishlist:item=3661051060&perks=1840239774,3230963543,3513791699,588594999
+dimwishlist:item=3661051060&perks=1840239774,3230963543,3300816228,588594999
+dimwishlist:item=3661051060&perks=1840239774,2579169598,3513791699,679225683
+dimwishlist:item=3661051060&perks=1840239774,2579169598,3300816228,679225683
+dimwishlist:item=3661051060&perks=1840239774,3513791699,679225683,957782887
+dimwishlist:item=3661051060&perks=1840239774,3300816228,679225683,957782887
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3513791699,679225683
+dimwishlist:item=3661051060&perks=1840239774,2866798147,3300816228,679225683
+dimwishlist:item=3661051060&perks=1840239774,3513791699,588594999,679225683
+dimwishlist:item=3661051060&perks=1840239774,3300816228,588594999,679225683
+dimwishlist:item=3661051060&perks=2579169598,3230963543,3513791699,839105230
+dimwishlist:item=3661051060&perks=2579169598,3230963543,3300816228,839105230
+dimwishlist:item=3661051060&perks=3230963543,3513791699,839105230,957782887
+dimwishlist:item=3661051060&perks=3230963543,3300816228,839105230,957782887
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3513791699,839105230
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3300816228,839105230
+dimwishlist:item=3661051060&perks=3230963543,3513791699,588594999,839105230
+dimwishlist:item=3661051060&perks=3230963543,3300816228,588594999,839105230
+dimwishlist:item=3661051060&perks=2579169598,3513791699,679225683,839105230
+dimwishlist:item=3661051060&perks=2579169598,3300816228,679225683,839105230
+dimwishlist:item=3661051060&perks=3513791699,679225683,839105230,957782887
+dimwishlist:item=3661051060&perks=3300816228,679225683,839105230,957782887
+dimwishlist:item=3661051060&perks=2866798147,3513791699,679225683,839105230
+dimwishlist:item=3661051060&perks=2866798147,3300816228,679225683,839105230
+dimwishlist:item=3661051060&perks=3513791699,588594999,679225683,839105230
+dimwishlist:item=3661051060&perks=3300816228,588594999,679225683,839105230
+dimwishlist:item=3661051060&perks=2579169598,3230963543,3513791699,4090651448
+dimwishlist:item=3661051060&perks=2579169598,3230963543,3300816228,4090651448
+dimwishlist:item=3661051060&perks=3230963543,3513791699,4090651448,957782887
+dimwishlist:item=3661051060&perks=3230963543,3300816228,4090651448,957782887
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3513791699,4090651448
+dimwishlist:item=3661051060&perks=2866798147,3230963543,3300816228,4090651448
+dimwishlist:item=3661051060&perks=3230963543,3513791699,4090651448,588594999
+dimwishlist:item=3661051060&perks=3230963543,3300816228,4090651448,588594999
+dimwishlist:item=3661051060&perks=2579169598,3513791699,4090651448,679225683
+dimwishlist:item=3661051060&perks=2579169598,3300816228,4090651448,679225683
+dimwishlist:item=3661051060&perks=3513791699,4090651448,679225683,957782887
+dimwishlist:item=3661051060&perks=3300816228,4090651448,679225683,957782887
+dimwishlist:item=3661051060&perks=2866798147,3513791699,4090651448,679225683
+dimwishlist:item=3661051060&perks=2866798147,3300816228,4090651448,679225683
+dimwishlist:item=3661051060&perks=3513791699,4090651448,588594999,679225683
+dimwishlist:item=3661051060&perks=3300816228,4090651448,588594999,679225683
+
+// Refurbished A499 - PvP Duelling god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell), (Lone Wolf, Snapshot Sights, No Distractions, Moving Target), (Mulligan, Auto-Loading Holster)
+//notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for duelling or 6s. Refurbished A499 is, right now, a competitive B-Tier heavy weapon which fills a similar PvP heavy weapon niche as LFRs. The @hugowo_ spreadsheet at https://www.destiny2.science/, shows the damage at base as 253.46 to the body or 698.26 for a crit, so this can one shot body kill. There's no real comparators, but looking at Aggressive Frames, this has higher impact, but every other stat is worse. With a single shot mag neither Stability or Recoil Direction will be a problem, but Handling, Reload Speed and Aim Assist are all low at base. You can see the in-game effect of stat changes at https://d2foundry.gg/w/954563454 for yourself, once the formulas have been worked out. For the barrel perk, look for a boost to Handling to improve snappiness, and for the magazine perk, Flared Magwell or Light Mag to help the Reload Speed. You can kill with one hit, so all you need are gunfeel or utility trait perks - Lone Wolf for flanking, Snapshot Sights for snappy ADS speed, No Distractions to help with flinch or Moving Target to improve Aim Assist and ADS speed in the first column, and in the second Mulligan which has a 20% (25% enhanced) chance of generating free ammo if you have the Anti-Barrier Sniper Rifle on the Seasonal Artifact or, when that stops working, Auto-Loading Holster so you can just ready and fire. The Air-Cooled Core origin trait looks very useful - you'll have boosted Reload Speed after sprinting which procs the better Handling and ADS movement speed after reloading your single shot in the mag. Recommended MW: Handling or Reload Speed, with your choice or weapon mod depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
+dimwishlist:item=593808239&perks=1840239774,2579169598,3230963543,3513791699
+dimwishlist:item=593808239&perks=1840239774,2579169598,3230963543,3300816228
+dimwishlist:item=593808239&perks=1840239774,3230963543,3513791699,957782887
+dimwishlist:item=593808239&perks=1840239774,3230963543,3300816228,957782887
+dimwishlist:item=593808239&perks=1840239774,2866798147,3230963543,3513791699
+dimwishlist:item=593808239&perks=1840239774,2866798147,3230963543,3300816228
+dimwishlist:item=593808239&perks=1840239774,3230963543,3513791699,588594999
+dimwishlist:item=593808239&perks=1840239774,3230963543,3300816228,588594999
+dimwishlist:item=593808239&perks=1840239774,2579169598,3513791699,679225683
+dimwishlist:item=593808239&perks=1840239774,2579169598,3300816228,679225683
+dimwishlist:item=593808239&perks=1840239774,3513791699,679225683,957782887
+dimwishlist:item=593808239&perks=1840239774,3300816228,679225683,957782887
+dimwishlist:item=593808239&perks=1840239774,2866798147,3513791699,679225683
+dimwishlist:item=593808239&perks=1840239774,2866798147,3300816228,679225683
+dimwishlist:item=593808239&perks=1840239774,3513791699,588594999,679225683
+dimwishlist:item=593808239&perks=1840239774,3300816228,588594999,679225683
+dimwishlist:item=593808239&perks=2579169598,3230963543,3513791699,839105230
+dimwishlist:item=593808239&perks=2579169598,3230963543,3300816228,839105230
+dimwishlist:item=593808239&perks=3230963543,3513791699,839105230,957782887
+dimwishlist:item=593808239&perks=3230963543,3300816228,839105230,957782887
+dimwishlist:item=593808239&perks=2866798147,3230963543,3513791699,839105230
+dimwishlist:item=593808239&perks=2866798147,3230963543,3300816228,839105230
+dimwishlist:item=593808239&perks=3230963543,3513791699,588594999,839105230
+dimwishlist:item=593808239&perks=3230963543,3300816228,588594999,839105230
+dimwishlist:item=593808239&perks=2579169598,3513791699,679225683,839105230
+dimwishlist:item=593808239&perks=2579169598,3300816228,679225683,839105230
+dimwishlist:item=593808239&perks=3513791699,679225683,839105230,957782887
+dimwishlist:item=593808239&perks=3300816228,679225683,839105230,957782887
+dimwishlist:item=593808239&perks=2866798147,3513791699,679225683,839105230
+dimwishlist:item=593808239&perks=2866798147,3300816228,679225683,839105230
+dimwishlist:item=593808239&perks=3513791699,588594999,679225683,839105230
+dimwishlist:item=593808239&perks=3300816228,588594999,679225683,839105230
+dimwishlist:item=593808239&perks=2579169598,3230963543,3513791699,4090651448
+dimwishlist:item=593808239&perks=2579169598,3230963543,3300816228,4090651448
+dimwishlist:item=593808239&perks=3230963543,3513791699,4090651448,957782887
+dimwishlist:item=593808239&perks=3230963543,3300816228,4090651448,957782887
+dimwishlist:item=593808239&perks=2866798147,3230963543,3513791699,4090651448
+dimwishlist:item=593808239&perks=2866798147,3230963543,3300816228,4090651448
+dimwishlist:item=593808239&perks=3230963543,3513791699,4090651448,588594999
+dimwishlist:item=593808239&perks=3230963543,3300816228,4090651448,588594999
+dimwishlist:item=593808239&perks=2579169598,3513791699,4090651448,679225683
+dimwishlist:item=593808239&perks=2579169598,3300816228,4090651448,679225683
+dimwishlist:item=593808239&perks=3513791699,4090651448,679225683,957782887
+dimwishlist:item=593808239&perks=3300816228,4090651448,679225683,957782887
+dimwishlist:item=593808239&perks=2866798147,3513791699,4090651448,679225683
+dimwishlist:item=593808239&perks=2866798147,3300816228,4090651448,679225683
+dimwishlist:item=593808239&perks=3513791699,4090651448,588594999,679225683
+dimwishlist:item=593808239&perks=3300816228,4090651448,588594999,679225683
+
 // Peculiar Charm - PvP Kill-chaining god 1
 // (Hammer-Forged Rifling, Mallbore, Extended Barrel, Full Bore, Corkscrew Rifling), (Accurized Rounds), (Rangefinder), (Master of Arms)
 //notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain PvP-God M+KB Controller): God-roll PvP for kill-chaining in 6s. Peculiar Charm is the first of a new Aggressive Burst SMG subfamily that shoots four rounds before a short pause - early days, but could be very competitive in PvP, particularly if you're used to Antiope or Shayura's Wrath. The only downside is that the pause makes it difficult to use against snipers, who might well be able to shoot through the flinch. There's no data yet at the @hugowo_ spreadsheet at https://www.destiny2.science/, but Cammy's testing looks like it's a similar TTK to precision SMGs ~0.8s (8c 1b). The stats aren't really comparable with any existing weapons, but notable are the magazine size of 56 at base, and the range - a max range roll reaches out to ~26m, before damage falloff compared to Shayura's ~23.5m. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3620277039 for yourself. For the barrel and magazine perks, push out the range, even at the cost of a little handling - if you're using Peacekeepers, Dragon's Shadow or St0mp-EE5, you'll still be covered, and Fitted Stock can straighten out Recoil Direction to a perfect 100 and recover any lost stability. For kill-chaining, the trait perk combination of Rangefinder boosts Range by +10, and grants ×1.1 Effective Zoom for Aim Assist, which also constrains recoil by ×0.9, together with Master of Arms which grants ×1.15 damage for 7s (8s when enhanced) after a kill with any weapon - that's a ~0.7s TTk (7c 1b), with a second stack of ×1.25 for 4s (5s enhanced) on any kills with the first stack active - which is a ~0.6s TTK (7c). Pair that with a Master of Arms, Harmony or Binary Orbit energy weapon for a kill-chaining feedback loop! Recommended MW: Range, with a Range mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain PvP-God M+KB Controller
