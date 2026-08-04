@@ -1,6 +1,174 @@
 title:CTR PvP - This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to @AdamsdownBoy, u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, WarlockMaggie, 2bithacker, and whyayala for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// Cataclysmic - PvE Boss god 1
+// (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm), (Elemental Honing, Aggregate Charge)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Cataclysmic is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are good by comparison with its peers - you can see them at https://destiny.report/w/999767358/cataclysmic and hopefully https://d2foundry.gg/w/999767358will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Ionized Battery in the battery perk slot gets you the maximum of 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. In the second column, for damage on a Prismatic build, Elemental Honing grants an escalating stack of damage up to an max ×1.35 for 20s (23s when enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by a max ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. The Souldrinker origin trait restores up to +50HP on reload, depending on the proportion of the magazine landed as hits. If you're interested, community consensus is that the Vow of the Disciple raid's weapon shapes such as "Fatal", referenced in the flavour text, represent stages in the Witness's and Rhulk's philosophy regarding the universe. Recommended MW: Charge Time, with a Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=999767358&perks=1089671869,1354429876,1840239774,689005463
+dimwishlist:item=999767358&perks=1354429876,1840239774,3764420437,689005463
+dimwishlist:item=999767358&perks=1089671869,1354429876,1483536627,1840239774
+dimwishlist:item=999767358&perks=1354429876,1483536627,1840239774,3764420437
+dimwishlist:item=999767358&perks=1089671869,1354429876,689005463,839105230
+dimwishlist:item=999767358&perks=1354429876,3764420437,689005463,839105230
+dimwishlist:item=999767358&perks=1089671869,1354429876,1483536627,839105230
+dimwishlist:item=999767358&perks=1354429876,1483536627,3764420437,839105230
+dimwishlist:item=999767358&perks=1089671869,1354429876,4090651448,689005463
+dimwishlist:item=999767358&perks=1354429876,3764420437,4090651448,689005463
+dimwishlist:item=999767358&perks=1089671869,1354429876,1483536627,4090651448
+dimwishlist:item=999767358&perks=1354429876,1483536627,3764420437,4090651448
+dimwishlist:item=999767358&perks=1089671869,1354429876,1392496348,689005463
+dimwishlist:item=999767358&perks=1354429876,1392496348,3764420437,689005463
+dimwishlist:item=999767358&perks=1089671869,1354429876,1392496348,1483536627
+dimwishlist:item=999767358&perks=1354429876,1392496348,1483536627,3764420437
+dimwishlist:item=999767358&perks=1089671869,1354429876,1482024992,689005463
+dimwishlist:item=999767358&perks=1354429876,1482024992,3764420437,689005463
+dimwishlist:item=999767358&perks=1089671869,1354429876,1482024992,1483536627
+dimwishlist:item=999767358&perks=1354429876,1482024992,1483536627,3764420437
+dimwishlist:item=999767358&perks=1089671869,1354429876,3250034553,689005463
+dimwishlist:item=999767358&perks=1354429876,3250034553,3764420437,689005463
+dimwishlist:item=999767358&perks=1089671869,1354429876,1483536627,3250034553
+dimwishlist:item=999767358&perks=1354429876,1483536627,3250034553,3764420437
+
+// Cataclysmic - PvE Boss god 2
+// (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm), (Bait and Switch, Focused Fury)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Cataclysmic is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are good by comparison with its peers - you can see them at https://destiny.report/w/999767358/cataclysmic and hopefully https://d2foundry.gg/w/999767358will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Ionized Battery in the battery perk slot gets you the maximum of 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. In the second column for damage, Bait and Switch boosts damage by ×1.3 for 10s (11s when enhanced) for doing damage with your other two weapons, or Focused Fury boosts damage by ×1.25 for a refreshable 11s (12s enhanced) or until reload or stow, after hitting 35% of base capacity as precision hits - that's 3. The Souldrinker origin trait restores up to +50HP on reload, depending on the proportion of the magazine landed as hits. If you're interested, community consensus is that the Vow of the Disciple raid's weapon shapes such as "Fatal", referenced in the flavour text, represent stages in the Witness's and Rhulk's philosophy regarding the universe. Recommended MW: Charge Time, with a Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=999767358&perks=1354429876,1840239774,3078487919,689005463
+dimwishlist:item=999767358&perks=1354429876,1840239774,2896038713,689005463
+dimwishlist:item=999767358&perks=1354429876,1483536627,1840239774,3078487919
+dimwishlist:item=999767358&perks=1354429876,1483536627,1840239774,2896038713
+dimwishlist:item=999767358&perks=1354429876,3078487919,689005463,839105230
+dimwishlist:item=999767358&perks=1354429876,2896038713,689005463,839105230
+dimwishlist:item=999767358&perks=1354429876,1483536627,3078487919,839105230
+dimwishlist:item=999767358&perks=1354429876,1483536627,2896038713,839105230
+dimwishlist:item=999767358&perks=1354429876,3078487919,4090651448,689005463
+dimwishlist:item=999767358&perks=1354429876,2896038713,4090651448,689005463
+dimwishlist:item=999767358&perks=1354429876,1483536627,3078487919,4090651448
+dimwishlist:item=999767358&perks=1354429876,1483536627,2896038713,4090651448
+dimwishlist:item=999767358&perks=1354429876,1392496348,3078487919,689005463
+dimwishlist:item=999767358&perks=1354429876,1392496348,2896038713,689005463
+dimwishlist:item=999767358&perks=1354429876,1392496348,1483536627,3078487919
+dimwishlist:item=999767358&perks=1354429876,1392496348,1483536627,2896038713
+dimwishlist:item=999767358&perks=1354429876,1482024992,3078487919,689005463
+dimwishlist:item=999767358&perks=1354429876,1482024992,2896038713,689005463
+dimwishlist:item=999767358&perks=1354429876,1482024992,1483536627,3078487919
+dimwishlist:item=999767358&perks=1354429876,1482024992,1483536627,2896038713
+dimwishlist:item=999767358&perks=1354429876,3078487919,3250034553,689005463
+dimwishlist:item=999767358&perks=1354429876,2896038713,3250034553,689005463
+dimwishlist:item=999767358&perks=1354429876,1483536627,3078487919,3250034553
+dimwishlist:item=999767358&perks=1354429876,1483536627,2896038713,3250034553
+
+// Cataclysmic (Adept) - PvE Boss god 1
+// (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm), (Elemental Honing, Aggregate Charge)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Cataclysmic is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are good by comparison with its peers - you can see them at https://destiny.report/w/2886339027/cataclysmic and hopefully https://d2foundry.gg/w/2886339027 will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Ionized Battery in the battery perk slot gets you the maximum of 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. In the second column, for damage on a Prismatic build, Elemental Honing grants an escalating stack of damage up to an max ×1.35 for 20s (23s when enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by a max ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. The Souldrinker origin trait restores up to +50HP on reload, depending on the proportion of the magazine landed as hits. If you're interested, community consensus is that the Vow of the Disciple raid's weapon shapes such as "Fatal", referenced in the flavour text, represent stages in the Witness's and Rhulk's philosophy regarding the universe. Recommended MW: Charge Time, with a Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1840239774,689005463
+dimwishlist:item=2886339027&perks=1354429876,1840239774,3764420437,689005463
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1483536627,1840239774
+dimwishlist:item=2886339027&perks=1354429876,1483536627,1840239774,3764420437
+dimwishlist:item=2886339027&perks=1089671869,1354429876,689005463,839105230
+dimwishlist:item=2886339027&perks=1354429876,3764420437,689005463,839105230
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1483536627,839105230
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3764420437,839105230
+dimwishlist:item=2886339027&perks=1089671869,1354429876,4090651448,689005463
+dimwishlist:item=2886339027&perks=1354429876,3764420437,4090651448,689005463
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1483536627,4090651448
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3764420437,4090651448
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1392496348,689005463
+dimwishlist:item=2886339027&perks=1354429876,1392496348,3764420437,689005463
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1392496348,1483536627
+dimwishlist:item=2886339027&perks=1354429876,1392496348,1483536627,3764420437
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1482024992,689005463
+dimwishlist:item=2886339027&perks=1354429876,1482024992,3764420437,689005463
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1482024992,1483536627
+dimwishlist:item=2886339027&perks=1354429876,1482024992,1483536627,3764420437
+dimwishlist:item=2886339027&perks=1089671869,1354429876,3250034553,689005463
+dimwishlist:item=2886339027&perks=1354429876,3250034553,3764420437,689005463
+dimwishlist:item=2886339027&perks=1089671869,1354429876,1483536627,3250034553
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3250034553,3764420437
+
+// Cataclysmic (Adept) - PvE Boss god 2
+// (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm), (Bait and Switch, Focused Fury)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Cataclysmic is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are good by comparison with its peers - you can see them at https://destiny.report/w/2886339027/cataclysmic and hopefully https://d2foundry.gg/w/2886339027 will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Ionized Battery in the battery perk slot gets you the maximum of 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. In the second column for damage, Bait and Switch boosts damage by ×1.3 for 10s (11s when enhanced) for doing damage with your other two weapons, or Focused Fury boosts damage by ×1.25 for a refreshable 11s (12s enhanced) or until reload or stow, after hitting 35% of base capacity as precision hits - that's 3. The Souldrinker origin trait restores up to +50HP on reload, depending on the proportion of the magazine landed as hits. If you're interested, community consensus is that the Vow of the Disciple raid's weapon shapes such as "Fatal", referenced in the flavour text, represent stages in the Witness's and Rhulk's philosophy regarding the universe. Recommended MW: Charge Time, with a Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=2886339027&perks=1354429876,1840239774,3078487919,689005463
+dimwishlist:item=2886339027&perks=1354429876,1840239774,2896038713,689005463
+dimwishlist:item=2886339027&perks=1354429876,1483536627,1840239774,3078487919
+dimwishlist:item=2886339027&perks=1354429876,1483536627,1840239774,2896038713
+dimwishlist:item=2886339027&perks=1354429876,3078487919,689005463,839105230
+dimwishlist:item=2886339027&perks=1354429876,2896038713,689005463,839105230
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3078487919,839105230
+dimwishlist:item=2886339027&perks=1354429876,1483536627,2896038713,839105230
+dimwishlist:item=2886339027&perks=1354429876,3078487919,4090651448,689005463
+dimwishlist:item=2886339027&perks=1354429876,2896038713,4090651448,689005463
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3078487919,4090651448
+dimwishlist:item=2886339027&perks=1354429876,1483536627,2896038713,4090651448
+dimwishlist:item=2886339027&perks=1354429876,1392496348,3078487919,689005463
+dimwishlist:item=2886339027&perks=1354429876,1392496348,2896038713,689005463
+dimwishlist:item=2886339027&perks=1354429876,1392496348,1483536627,3078487919
+dimwishlist:item=2886339027&perks=1354429876,1392496348,1483536627,2896038713
+dimwishlist:item=2886339027&perks=1354429876,1482024992,3078487919,689005463
+dimwishlist:item=2886339027&perks=1354429876,1482024992,2896038713,689005463
+dimwishlist:item=2886339027&perks=1354429876,1482024992,1483536627,3078487919
+dimwishlist:item=2886339027&perks=1354429876,1482024992,1483536627,2896038713
+dimwishlist:item=2886339027&perks=1354429876,3078487919,3250034553,689005463
+dimwishlist:item=2886339027&perks=1354429876,2896038713,3250034553,689005463
+dimwishlist:item=2886339027&perks=1354429876,1483536627,3078487919,3250034553
+dimwishlist:item=2886339027&perks=1354429876,1483536627,2896038713,3250034553
+
+// Eyes Unveiled - PvE Boss god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm, Overflow), (Elemental Honing)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Eyes Unveiled is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see them at https://destiny.report/w/4147428506/eyes-unveiled and hopefully https://d2foundry.gg/w/4147428506 will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Enhanced Battery gets you to the max 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. Less ammo efficient, but also good is Overflow which refills the battery and boosts its capacity to ×2 of base (×2.2 when enhanced), rounded up, on picking up an ammo brick. In the second column, for damage on a Prismatic build, Elemental Honing grants an escalating stack of damage up to an max ×1.35 for 20s (23s when enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. The Heretical Behaviour origin trait is excellent for boss damage, proccing for a refreshable 8s after 4 hits within 3s or for for 21s after being revived (10s and 23s enhanced) to boost damage by ×1.08, and Handling and Reload Speed by +50 with a ×0.8 reload animation scalar. Alternatively The Willing Vessel origin trait generates up to 5 stacks of a slowly decaying buff on dealing damage and kills, to boost Stability, Handling and Reload Speed. If you're interested, the name connects to the theatrical framing and truth-revealing motifs of Episode: Heresy. Recommended MW: Charge Time, with a Backup Mag or Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1840239774,689005463
+dimwishlist:item=4147428506&perks=1089671869,1840239774,3643424744,689005463
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1840239774,2680121939
+dimwishlist:item=4147428506&perks=1089671869,1840239774,2680121939,3643424744
+dimwishlist:item=4147428506&perks=1089671869,1354429876,689005463,839105230
+dimwishlist:item=4147428506&perks=1089671869,3643424744,689005463,839105230
+dimwishlist:item=4147428506&perks=1089671869,1354429876,2680121939,839105230
+dimwishlist:item=4147428506&perks=1089671869,2680121939,3643424744,839105230
+dimwishlist:item=4147428506&perks=1089671869,1354429876,4090651448,689005463
+dimwishlist:item=4147428506&perks=1089671869,3643424744,4090651448,689005463
+dimwishlist:item=4147428506&perks=1089671869,1354429876,2680121939,4090651448
+dimwishlist:item=4147428506&perks=1089671869,2680121939,3643424744,4090651448
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1392496348,689005463
+dimwishlist:item=4147428506&perks=1089671869,1392496348,3643424744,689005463
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1392496348,2680121939
+dimwishlist:item=4147428506&perks=1089671869,1392496348,2680121939,3643424744
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1482024992,689005463
+dimwishlist:item=4147428506&perks=1089671869,1482024992,3643424744,689005463
+dimwishlist:item=4147428506&perks=1089671869,1354429876,1482024992,2680121939
+dimwishlist:item=4147428506&perks=1089671869,1482024992,2680121939,3643424744
+dimwishlist:item=4147428506&perks=1089671869,1354429876,3250034553,689005463
+dimwishlist:item=4147428506&perks=1089671869,3250034553,3643424744,689005463
+dimwishlist:item=4147428506&perks=1089671869,1354429876,2680121939,3250034553
+dimwishlist:item=4147428506&perks=1089671869,2680121939,3250034553,3643424744
+
+// Eyes Unveiled - PvE Boss god 2
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Accelerated Coils, Enhanced Battery), (Fourth Time's the Charm, Overflow), (Precision Instrument)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Eyes Unveiled is a precision linear fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic for "total damage standout, notable for solo due to less reliance on reload/Div vs. A499 and Particle access". The frame intrinsic offers built in Anti-Barrier, and a ×0.9 reduction in horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see them at https://destiny.report/w/4147428506/eyes-unveiled and hopefully https://d2foundry.gg/w/4147428506 will show how weapon stats impact in-game performance when the site is back up and running. With precision frames, you need to worry less about recoil control so look to improve Handling or maybe Stability. As the battery perk, Accelerated Coils improves charge time by 40ms at the cost of ×0.98 base damage, or Enhanced Battery gets you to the max 7 shots. For sustained boss damage, in the first trait perk column, Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other - that's 10 shots from a battery of 6, or 11 from a battery of 7, with 4 of them free. Less ammo efficient, but also good is Overflow which refills the battery and boosts its capacity to ×2 of base (×2.2 when enhanced), rounded up, on picking up an ammo brick. In the second column, for damage, Precision Instrument grants up to ×6 stacks of escalating damage on repeated crit hits up to a max ×1.25 (×1.3 enhanced) for 1.25s or until you miss a crit. The Heretical Behaviour origin trait is excellent for boss damage, proccing for a refreshable 8s after 4 hits within 3s or for for 21s after being revived (10s and 23s enhanced) to boost damage by ×1.08, and Handling and Reload Speed by +50 with a ×0.8 reload animation scalar. Alternatively The Willing Vessel origin trait generates up to 5 stacks of a slowly decaying buff on dealing damage and kills, to boost Stability, Handling and Reload Speed. If you're interested, the name connects to the theatrical framing and truth-revealing motifs of Episode: Heresy. Recommended MW: Charge Time, with a Backup Mag or Charge Time mod or your preferred choice to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvP-God M+KB Controller
+dimwishlist:item=4147428506&perks=1354429876,1840239774,555281244,689005463
+dimwishlist:item=4147428506&perks=1840239774,3643424744,555281244,689005463
+dimwishlist:item=4147428506&perks=1354429876,1840239774,2680121939,555281244
+dimwishlist:item=4147428506&perks=1840239774,2680121939,3643424744,555281244
+dimwishlist:item=4147428506&perks=1354429876,555281244,689005463,839105230
+dimwishlist:item=4147428506&perks=3643424744,555281244,689005463,839105230
+dimwishlist:item=4147428506&perks=1354429876,2680121939,555281244,839105230
+dimwishlist:item=4147428506&perks=2680121939,3643424744,555281244,839105230
+dimwishlist:item=4147428506&perks=1354429876,4090651448,555281244,689005463
+dimwishlist:item=4147428506&perks=3643424744,4090651448,555281244,689005463
+dimwishlist:item=4147428506&perks=1354429876,2680121939,4090651448,555281244
+dimwishlist:item=4147428506&perks=2680121939,3643424744,4090651448,555281244
+dimwishlist:item=4147428506&perks=1354429876,1392496348,555281244,689005463
+dimwishlist:item=4147428506&perks=1392496348,3643424744,555281244,689005463
+dimwishlist:item=4147428506&perks=1354429876,1392496348,2680121939,555281244
+dimwishlist:item=4147428506&perks=1392496348,2680121939,3643424744,555281244
+dimwishlist:item=4147428506&perks=1354429876,1482024992,555281244,689005463
+dimwishlist:item=4147428506&perks=1482024992,3643424744,555281244,689005463
+dimwishlist:item=4147428506&perks=1354429876,1482024992,2680121939,555281244
+dimwishlist:item=4147428506&perks=1482024992,2680121939,3643424744,555281244
+dimwishlist:item=4147428506&perks=1354429876,3250034553,555281244,689005463
+dimwishlist:item=4147428506&perks=3250034553,3643424744,555281244,689005463
+dimwishlist:item=4147428506&perks=1354429876,2680121939,3250034553,555281244
+dimwishlist:item=4147428506&perks=2680121939,3250034553,3643424744,555281244
+
 // Riptide - PvP Duelling god 1
 // (Hammer-Forged Rifling), (Projection Fuse), (Overflow, Under Pressure, Built to Blast), (Closing Time)
 //notes:Inspired by https://www.youtube.com/@Legoleflash (PvP PvP-Duel PvP-God M+KB Controller): God-roll PvP for duelling in 3s and 6s. The reprised Riptide is, at time of writing, an S-Tier special option - the fastest long-range fusion rifle and one Lego describes as "the only fusion rifle I want to take into Crucible". The @hugowo_ spreadsheet at https://www.destiny2.science/, shows a base charge time for rapid-fire fusions of 533ms - nerfed from 500ms in the v9.5.0 patch and a 7-bolt kill, out of 9 bolts fired. In practice, it's difficult to detect any charge time nerf in-game, though. The stats aren't great compared to other rapid fire fusions, but as the only one that offers tiered rolls, you can get enhanced barrel, mag, weapon mods and origin traits to fill all of the stat gaps at Tiers 4 and 5 - that means a Range that's potentially 17 more than the previous version's max. You can see the in-game effect of stat changes at https://d2foundry.gg/w/2297554989 for yourself. Range with the barrel and battery perks is key to controlling the recoil - ideally without any stat penalties. In the first trait perk column, Under Pressure seem like the obvious pick, for the improved stability and accuracy at the bottom of the battery - and it is really good, but if you can put together two Ferropotent and two Twofold Crown armour pieces together, you open up the option of Overflow for instant ammo refills on ammo pickup. Ferropotent ×2 gains both flinch and damage resistance while your shields regenerate, while Twofold Crown ×2 restores 70HP on ammo pickup, which all combine for a go-faster play loop demonstrated in Lego's video. A third option is Built to Blast - given how easy Woven Mail, Frost Armor or Void Overshields are to generate, the additional stability and Aim Assist are very noticable. In the second column Closing Time is the best choice, adding +10 Range, +25 Handling and a ×0.90 handling animation scalar at max effect. Both Origin Traits are useful - Roar of Battle procs after dealing or receiving damage consistently every 0.65s for 2s boosts handling and stability by +10 each for 6s (7s when enhanced), or Wild Card generates 3 Telesto-like bolts on a Guardian kill which persist for 10.5s or until detonated to soften or finish opponents, with a 6s cooldown between procs. Recommended MW: Charge Time, with a Range enhanced mod, or your choice depending on your play style.|tags:PvP PvP-Duel PvP-God M+KB Controller
