@@ -2264,6 +2264,10 @@ dimwishlist:item=4207120603&perks=2396489472,269888150,3108830275,938542991
 
 // Pro Memoria
 //notes:pandapaxxy (PvP / Controller): "Pro Memoria having an incredibly quick 0.40s TtK at 5 crits ties Rapid-Fire frames for the fastest neutral TtK while also being easier to control. Hatchling allows for some chip damage on the next target and Strand synergy. Tap the Trigger giving you full bonuses for the entirety of your TtK." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=3605603507&perks=1885400500,2848615171,831391274,839105230
+dimwishlist:item=3605603507&perks=1885400500,2848615171,3523296417,839105230
+dimwishlist:item=3605603507&perks=1561002382,2848615171,831391274,839105230
+dimwishlist:item=3605603507&perks=1561002382,2848615171,3523296417,839105230
 dimwishlist:item=3605603507&perks=1885400500,1890422124,3250034553,831391274
 dimwishlist:item=3605603507&perks=1885400500,2848615171,3250034553,831391274
 dimwishlist:item=3605603507&perks=1885400500,1890422124,3250034553,3523296417
@@ -2453,12 +2457,18 @@ dimwishlist:item=412251536&perks=280464955,3142289711,557221067,839105230
 dimwishlist:item=412251536&perks=2039302152,3142289711,365154968,839105230
 dimwishlist:item=412251536&perks=2039302152,3142289711,4293542123,839105230
 dimwishlist:item=412251536&perks=2039302152,3142289711,557221067,839105230
+dimwishlist:item=412251536&perks=2039302152,3230963543,4293542123,839105230
+dimwishlist:item=412251536&perks=2039302152,3230963543,557221067,839105230
+dimwishlist:item=412251536&perks=1392496348,2039302152,3230963543,4293542123
+dimwishlist:item=412251536&perks=1392496348,2039302152,3230963543,557221067
 dimwishlist:item=412251536&perks=1482024992,280464955,3142289711,365154968
 dimwishlist:item=412251536&perks=1482024992,280464955,3142289711,4293542123
 dimwishlist:item=412251536&perks=1482024992,280464955,3142289711,557221067
 dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,365154968
 dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,4293542123
 dimwishlist:item=412251536&perks=1482024992,2039302152,3142289711,557221067
+dimwishlist:item=412251536&perks=1482024992,2039302152,3230963543,4293542123
+dimwishlist:item=412251536&perks=1482024992,2039302152,3230963543,557221067
 
 // Ded Gramarye IV
 //notes:pandapaxxy (PvP / M+KB / Controller): "Over in PvP this shotgun finds itself in a very similar situation to Xenoclast IV. Good perks, Disruption Break for easier swap clean ups but falls victim to its own archetype. If this were an aggressive frame shotgun it would immediately be on my radar and others as a top competitive option, but lightweights just lack the stopping power and the pellet spread to be as competitive." Recommended MW: Range or Handling.|tags:pvp,mkb,controller
