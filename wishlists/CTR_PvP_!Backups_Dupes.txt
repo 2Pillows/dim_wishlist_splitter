@@ -2256,6 +2256,7 @@ dimwishlist:item=3947966653&perks=1441682018,2822142346,2859149211,831391274
 // No Hesitation
 //notes:pandapaxxy (PvP / M+KB / Controller): "No Hesitations is not going to be strong in PvP. Investing entirely into range puts you at a respectable 32m at 75 range. The third column perks let us down. No Zen Moment, Dynamic Sway Reduction, Tap the Trigger, or even Kill Clip leaves other autos high and mighty over No Hesitations." Recommended MW: Range.|tags:pvp,mkb,controller
 dimwishlist:item=1801007332&perks=2109543898,3142289711,3250034553,3523296417
+dimwishlist:item=1801007332&perks=1482024992,2109543898,3142289711,3523296417
 
 // False Idols
 //notes:pandapaxxy (PvP / M+KB / Controller): "In the crucible you don't have a lot of great options. Unrelenting giving you health on double kills. Double kills being slightly easier with Chain Reaction. Aside from memes in 6v6 I don't see this weapon being used." Recommended MW: Impact.|tags:pvp,mkb,controller
