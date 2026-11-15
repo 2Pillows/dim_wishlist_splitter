@@ -3665,12 +3665,22 @@ dimwishlist:item=355922321&perks=1482024992,247725512,3038247973,3230963543
 
 // Appentence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Taking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn’t advise it." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=4153087276&perks=124408337,3250034553,3828510309,732557052
+dimwishlist:item=4153087276&perks=124408337,1482024992,3828510309,732557052
+dimwishlist:item=4153087276&perks=124408337,3828510309,4090651448,732557052
+dimwishlist:item=4153087276&perks=124408337,3250034553,3523296417,732557052
 dimwishlist:item=4153087276&perks=124408337,1482024992,3523296417,732557052
 dimwishlist:item=4153087276&perks=124408337,3523296417,4090651448,732557052
+dimwishlist:item=4153087276&perks=124408337,3250034553,3643424744,732557052
 dimwishlist:item=4153087276&perks=124408337,1482024992,3643424744,732557052
 dimwishlist:item=4153087276&perks=124408337,3643424744,4090651448,732557052
+dimwishlist:item=4153087276&perks=3250034553,3828510309,557221067,732557052
+dimwishlist:item=4153087276&perks=1482024992,3828510309,557221067,732557052
+dimwishlist:item=4153087276&perks=3828510309,4090651448,557221067,732557052
+dimwishlist:item=4153087276&perks=3250034553,3523296417,557221067,732557052
 dimwishlist:item=4153087276&perks=1482024992,3523296417,557221067,732557052
 dimwishlist:item=4153087276&perks=3523296417,4090651448,557221067,732557052
+dimwishlist:item=4153087276&perks=3250034553,3643424744,557221067,732557052
 dimwishlist:item=4153087276&perks=1482024992,3643424744,557221067,732557052
 dimwishlist:item=4153087276&perks=3643424744,4090651448,557221067,732557052
 
